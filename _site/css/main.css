@@ -1,0 +1,256 @@
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2015 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      Fontfabric
+ * License URL: http://www.fontspring.com/licenses/fontfabric/webfont
+ *
+ *
+ */
+@font-face {
+  font-family: 'nexa_boldregular';
+  src: url("../fonts/Nexa_Free_Bold-webfont.eot");
+  src: url("../fonts/Nexa_Free_Bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Nexa_Free_Bold-webfont.woff2") format("woff2"), url("../fonts/Nexa_Free_Bold-webfont.woff") format("woff"), url("../fonts/Nexa_Free_Bold-webfont.ttf") format("truetype"), url("../fonts/Nexa_Free_Bold-webfont.svg#nexa_boldregular") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'nexa_lightregular';
+  src: url("../fonts/Nexa_Free_Light-webfont.eot");
+  src: url("../fonts/Nexa_Free_Light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Nexa_Free_Light-webfont.woff2") format("woff2"), url("../fonts/Nexa_Free_Light-webfont.woff") format("woff"), url("../fonts/Nexa_Free_Light-webfont.ttf") format("truetype"), url("../fonts/Nexa_Free_Light-webfont.svg#nexa_lightregular") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box; }
+
+body, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure {
+  margin: 0;
+  padding: 0; }
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: normal;
+  color: #222;
+  background-color: #fff;
+  -webkit-text-size-adjust: 100%; }
+
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre,
+ul, ol, dl, figure {
+  margin-bottom: 15px; }
+
+img {
+  max-width: 100%;
+  vertical-align: middle; }
+
+figure > img {
+  display: block; }
+
+figcaption {
+  font-size: 14px; }
+
+ul, ol {
+  margin-left: 30px; }
+
+li > ul,
+li > ol {
+  margin-bottom: 0; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+  font-family: "nexa_boldregular", Helvetica, Arial, sans-serif; }
+
+h1 {
+  font-size: 2em; }
+
+h2 {
+  font-size: 1.5em; }
+
+h3 {
+  font-size: 1.125em;
+  margin-top: 30px; }
+
+a {
+  color: #2a7ae2;
+  text-decoration: none;
+  -webkit-transition: all 0.15s ease-in-out;
+  transition: all 0.15s ease-in-out; }
+  a:hover {
+    color: #144b92;
+    text-decoration: underline; }
+
+blockquote {
+  color: #828282;
+  border-left: 4px solid #e8e8e8;
+  padding-left: 15px;
+  font-size: 18px;
+  letter-spacing: -1px;
+  font-style: italic; }
+  blockquote > :last-child {
+    margin-bottom: 0; }
+
+pre,
+code {
+  color: #828282;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 16px; }
+
+code {
+  padding: 0; }
+
+pre {
+  padding: 8px 12px;
+  overflow-x: scroll;
+  background-color: #eee; }
+  pre > code {
+    color: #4f4f4f;
+    border: 0;
+    padding-right: 0;
+    padding-left: 0; }
+
+.wrapper {
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 0 30px; }
+  @media screen and (max-width: 800px) {
+    .wrapper {
+      max-width: 765px;
+      padding: 0 20px; } }
+
+.wrapper:after {
+  content: "";
+  display: table;
+  clear: both; }
+
+.btn {
+  background-color: #2a7ae2;
+  color: white;
+  font-family: "nexa_boldregular", Helvetica, Arial, sans-serif;
+  line-height: 1;
+  padding: 12px 20px;
+  text-decoration: none;
+  display: inline-block;
+  border: 0; }
+  .btn:hover, .btn:focus {
+    color: white;
+    text-decoration: none;
+    background-color: #1b66c8;
+    outline: none; }
+
+.btn-light {
+  background-color: white;
+  color: #2a7ae2; }
+  .btn-light:hover, .btn-light:focus {
+    background-color: rgba(255, 255, 255, 0.9);
+    color: #2a7ae2; }
+
+hr {
+  background-color: #e8e8e8;
+  height: 1px;
+  border: none;
+  outline: none;
+  margin: 45px 0; }
+  @media screen and (max-width: 600px) {
+    hr {
+      margin: 30px 0; } }
+
+.top-bar .site-title {
+  line-height: 100px;
+  margin-bottom: 0;
+  float: left; }
+  @media screen and (max-width: 600px) {
+    .top-bar .site-title {
+      display: block;
+      float: none;
+      line-height: 1;
+      padding-top: 30px; } }
+.top-bar .site-nav {
+  float: right;
+  line-height: 100px; }
+  .top-bar .site-nav a {
+    color: #828282;
+    line-height: 1.5;
+    position: relative;
+    top: 4px; }
+    .top-bar .site-nav a:hover, .top-bar .site-nav a:focus {
+      color: #222;
+      text-decoration: none; }
+    .top-bar .site-nav a:not(:first-child) {
+      margin-left: 30px; }
+      @media screen and (max-width: 800px) {
+        .top-bar .site-nav a:not(:first-child) {
+          margin-left: 15px; } }
+  .top-bar .site-nav a.active {
+    color: #2a7ae2; }
+  @media screen and (max-width: 600px) {
+    .top-bar .site-nav {
+      float: none;
+      line-height: 1;
+      padding-top: 15px;
+      padding-bottom: 30px; } }
+
+.description {
+  background-color: #2a7ae2;
+  color: white;
+  padding: 60px 0; }
+  .description h1 {
+    font-family: "nexa_lightregular", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 1.5em;
+    line-height: 1.4;
+    margin-bottom: 45px; }
+    @media screen and (max-width: 600px) {
+      .description h1 {
+        margin-bottom: 30px; } }
+  @media screen and (max-width: 600px) {
+    .description {
+      padding: 45px 0; } }
+
+.site-footer {
+  background-color: #e8e8e8;
+  color: #828282;
+  padding: 30px 0;
+  font-size: 14px; }
+  .site-footer a {
+    color: #828282; }
+  .site-footer .divider {
+    opacity: 0.5;
+    padding: 0 10px; }
+
+.page-content {
+  margin: 60px 0; }
+  @media screen and (max-width: 600px) {
+    .page-content {
+      margin: 45px 0; } }
+
+.user-photo {
+  width: 72px;
+  height: auto;
+  float: left;
+  margin-right: 20px; }
+
+.header {
+  margin-top: -30px; }
+
+.content p img {
+  margin: 5px 0; }
