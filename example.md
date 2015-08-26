@@ -5,7 +5,7 @@ permalink: /example/
 weight: 1
 ---
 
-![Test](https://unsplash.it/1280/850?random)
+![Test](http://funktum.fi/img/opengraph_share.png)
 
  Concustodita terras quamquam manus
 
