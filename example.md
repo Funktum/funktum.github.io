@@ -5,7 +5,7 @@ permalink: /example/
 weight: 1
 ---
 
-![Test](http://funktum.fi/img/opengraph_share.png)
+![Test](/img/opengraph_share.png)
 
  Concustodita terras quamquam manus
 
