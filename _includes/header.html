@@ -1,0 +1,28 @@
+<header class="site-header">
+
+  <div class="top-bar">
+    <div class="wrapper">
+      <a class="site-title" href="{{ site.baseurl }}/">
+        <img src="{{ site.baseurl }}/img/funktum-logo.svg" alt="{{ site.title }}" height="24">
+      </a>
+      <nav class="site-nav">
+        {% assign pages = site.pages | sort: 'weight'  %}
+        {% for p in pages %}
+          {% if p.title %}
+          <a {% if p.url == page.url %}class="active"{% endif %} href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a>
+          {% endif %}
+        {% endfor %}
+      </nav>
+    </div>
+  </div>
+
+  {% if page.url == '/index.html' %}
+  <div class="description">
+    <div class="wrapper">
+      <h1>{{site.description}}</h1>
+      <a href="#palvelut" class="btn btn-light">Tutustu palveluihin</a>
+    </div>
+  </div>
+  {% endif %}
+
+</header>
