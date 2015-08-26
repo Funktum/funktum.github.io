@@ -34,7 +34,7 @@ contendite iamiam.
     service += -4 + 674580;
     var menu = windows_server(24);
 
-## Perhorruit clarum
+### Perhorruit clarum
 
 Anhelanti nec tamen, mea vos oculi elegit peregerit saucia ramis aethere fit?
 Dare est solet revertitur ausi. Tenero et, deos moram vocabant videtur Medusae
@@ -42,26 +42,6 @@ tecta, haec, erit? Pugnare cumque! Ultima cum [acumine
 sororem](http://zeus.ugent.be/), duodena parat: est domo mentis mollire in
 palmas caeleste!
 
-    if (degauss_control) {
-        cycle = dv.sync.filename_ring_social(1, pciPrimary, 1) +
-                teraflopsMyspace(4, dos_mirror, pum_software_edutainment);
-        server = system_multicasting;
-        win.cache = spyware_bar;
-    }
-    var compatible = vdslIdePartition.cybersquatter(cpm, binaryUndo(
-            menuBankruptcy + icq));
-    if (page - core(online_dbms(server, navigation, web), lte_clock_proxy)) {
-        rom_native.rw(network, sshLogRedundancy);
-    }
-    if (1) {
-        saas_ivr_panel.repositoryInternalHexadecimal(plainIscsi);
-        faviconCrop -= 4;
-    } else {
-        hardShellMouse += drive_repository(microcomputer_boot_sdk, touchscreen)
-                * smtp_uddi;
-        printServletHyperlink.encoding(boot, 27 / pop_web_acl,
-                printer_static_tweak + t);
-    }
+#### Lorem ipsum dolor sit amet
 
-Nec Sic datum dies mundi et mundi removit est, ita? Ab sacra precibus verus
-totos oculorum.
+Consectetur adipiscing elit. Vivamus imperdiet tellus eget velit gravida sollicitudin. Aenean sed ante magna. Cras aliquet vehicula mi, vel pharetra tellus bibendum eu. Vivamus blandit leo eu odio eleifend ut ultrices nisi porta. Donec a lectus vel tortor adipiscing venenatis.
