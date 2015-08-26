@@ -16,7 +16,7 @@ Toiminnallinen harjoittelu on käytännöllistä harjoittelua joka tukee henkil�
  
 Olen erikoistunut toiminnalliseen henkilökohtaiseen valmennukseen. Räätälöityjen palveluiden takia hinnat vaihtelevat laidasta laitaan henkilön tarpeiden mukaan. 
 
-`Esimerkki: treeniohjelma + 4 tapaamista 300€ (sis. alv)`
+	Esimerkki: treeniohjelma + 4 tapaamista 300€ (sis. alv)
 
 [Pyydä tarjous](mailto:{{ site.email }})
 
