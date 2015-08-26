@@ -6,8 +6,6 @@ weight: 1
 ---
 
 ![Test](/img/opengraph_share.png)
-![Test](/img/opengraph_share.png)
-![Test](/img/opengraph_share.png)
 
  Concustodita terras quamquam manus
 
