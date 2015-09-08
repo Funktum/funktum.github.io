@@ -14,17 +14,17 @@ Toiminnallinen harjoittelu on käytännöllistä harjoittelua joka tukee henkil�
 
 ### Functional personal training
 
-Toiminnallista henkilökohtaista valmennusta tavoitteesi saavuttamiseksi
+Toiminnallista henkilökohtaista valmennusta tavoitteesi saavuttamiseksi.
 
 ### Liikunnanohjaus
 
-Ryhmäliikuntaa yrityksille, seuroille, kouluille tai muille ryhmille
+Ryhmäliikuntaa yrityksille, seuroille, kouluille tai muille ryhmille.
 
 ### Luennointi
 
-Hyvinvointiluento esimerkiksi yrityksen henkilökunnalle
+Hyvinvointiluento esimerkiksi yrityksen henkilökunnalle.
 
-`Tutustu palveluihin tarkemmin klikkaamalla palvelut linkkiä`
+[Lue lisää Palvelut -sivulta](/palvelut/)
 
 ---
 
