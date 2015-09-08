@@ -9,7 +9,7 @@ weight: 1
 
 ## Personal training 
 
-Personal training eli henkilökohtainen valmennus on tarkoitettu sinulle, joka haluat päästä harjoittelussa seuraavalle tasolle. Laadimme tavoitteenmukaiset treeniohjelmat, tarkastamme ruokatottumuksesi ja seuraamme palautumistasi. Olipa tavoitteesi sitten painonpudotus, terveenä pysyminen tai kuntosalitekniikoiden oppiminen, me autamme mielellämme!
+Personal training eli henkilökohtainen valmennus on tarkoitettu sinulle, joka haluat päästä harjoittelussa seuraavalle tasolle. Laadimme tavoitteenmukaiset treeniohjelmat, tarkistamme ruokatottumuksesi ja seuraamme palautumistasi. Olipa tavoitteesi sitten painonpudotus, terveenä pysyminen tai kuntosalitekniikoiden oppiminen, me autamme mielellämme!
 
 Hinnasto:
 
