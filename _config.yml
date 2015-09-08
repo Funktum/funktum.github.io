@@ -5,7 +5,10 @@ description: Funktum on erikoistunut toiminnalliseen henkilökohtaiseen valmennu
 url: http://funktum.fi
 ga: UA-66809541-1
 baseurl: ""
+
+# Header button
 buttonurl: "/palvelut/"
+buttontext: "Tutustu palveluihin"
 
 # Build settings
 markdown: kramdown
