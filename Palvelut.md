@@ -38,6 +38,7 @@ Hinnasto:
 Tarjoamme liikunnanohjusta yrityksille, seuroille, kouluille ja muille ryhmille.
 
 Osaamisalueeseemme kuuluu:
+
 * Toiminnallinen ryhmäliikunta
 * Parkour
 * Käsilläseisonta
