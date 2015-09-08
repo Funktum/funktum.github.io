@@ -39,7 +39,7 @@ Tarjoamme liikunnanohjusta yrityksille, seuroille, kouluille ja muille ryhmille.
 
 Osaamisalueeseemme kuuluu:
 
-* Toiminnallinen ryhmäliikunta
+* Kehonhallinta
 * Parkour
 * Käsilläseisonta
 * Kehonhuolto
