@@ -209,7 +209,7 @@ pre {
 // Dividers
 
 hr {
-  background-color: darken($grey-color-light, 7%);
+  background-color: darken($grey-color-light, 6%);
   height: 1px;
   border: none;
   outline: none;
@@ -230,12 +230,12 @@ table {
   border-spacing: 0;
 
   thead {
-    border-bottom: 1px solid $grey-color-light;
+    border-bottom: 1px solid darken($grey-color-light, 3%);
   }
 
   tbody {
     tr {
-      border-bottom: 1px solid $grey-color-light;
+      border-bottom: 1px solid darken($grey-color-light, 3%);
 
       &:hover {
         background-color: #fafafa;
