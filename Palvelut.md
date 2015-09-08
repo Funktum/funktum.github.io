@@ -26,6 +26,7 @@ Hinnasto:
     15 tapaamista Á 55min, 930€
     
     Hintoihin sisältyy alv
+    
 `kaikkiin 5-15 tapaamisen paketteihin sisältyy treeniohjelma(t), jaksotus, ravintoneuvonta ja treenin seuranta!`
 
 [Ota yhteyttä](mailto:{{ site.email }}) niin sovitaan ilmainen alkukartoitus!
