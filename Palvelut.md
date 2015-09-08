@@ -13,17 +13,17 @@ Personal training eli henkilökohtainen valmennus on tarkoitettu sinulle, joka h
 
 Hinnasto:
 
-    1 tapaaminen Á 55min, 86,8€
+    1 tapaaminen, á 55min, 86,8€
 
-    5 tapaamista Á 55min, 372€
+    5 tapaamista, á 55min, 372€
 
-    8 tapaamista Á 55min, 570,4€
+    8 tapaamista, á 55min, 570,4€
 
-    10 tapaamista Á 55min, 682€
+    10 tapaamista, á 55min, 682€
 
-    12 tapaamista Á 55min, 781,2€
+    12 tapaamista, á 55min, 781,2€
 
-    15 tapaamista Á 55min, 930€
+    15 tapaamista, á 55min, 930€
     
     Hintoihin sisältyy alv
     
@@ -49,4 +49,7 @@ Osaamisalueeseemme kuuluu:
 [Pyydä tarjous](mailto:{{ site.email }}) niin räätälöidään juuri teille sopiva ryhmäliikuntatunti tai kurssi!
 
 ---
+
+## Luennointi
+
 
