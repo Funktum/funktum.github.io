@@ -10,30 +10,6 @@ Toiminnallinen harjoittelu on käytännöllistä harjoittelua joka tukee henkil�
 
 ---
 
-## Palvelut
-
-### Functional Personal Training
- 
-Olen erikoistunut toiminnalliseen henkilökohtaiseen valmennukseen. Räätälöityjen palveluiden takia hinnat vaihtelevat laidasta laitaan henkilön tarpeiden mukaan. 
-
-`Esimerkiksi treeniohjelma + 4 tapaamista 350€ (sisältää alv:n)`
-
-[Pyydä tarjous](mailto:{{ site.email }})
-
-### Liikunnanohjaus
-
-Ryhmäliikuntatunti esimerkiksi yrityksen henkilökunnalle tai seuralle. 
-
-[Pyydä tarjous](mailto:{{ site.email }})
- 
-### Luennointi
- 
-Hyvinvointiluentoja esimerkiksi yritysten henkilökunnalle tai muille ryhmille.
-
-[Pyydä tarjous](mailto:{{ site.email }})
-
----
-
 ## Yhteystiedot
 
 Olen Sampsa Visuri, Funktumin perustaja. Toimin liikuntaneuvojana ja [FISAF](http://www.fisafinternational.com/en/) & [Europe Active](http://www.europeactive.eu/) lisensoimana personal trainerina. Olen pitkään ollut kiinnostunut kehonhallinnasta ja omalla kehon painolla harjoittelemisesta. Kokemusta löytyy myös kuntosalin puolelta.
