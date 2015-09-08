@@ -5,6 +5,7 @@ permalink: /palvelut/
 weight: 1
 ---
 
+---
 
 ## Personal training 
 
@@ -25,7 +26,6 @@ Hinnasto:
     15 tapaamista Á 55min, 930€
     
     Hintoihin sisältyy alv
-
 `kaikkiin 5-15 tapaamisen paketteihin sisältyy treeniohjelma(t), jaksotus, ravintoneuvonta ja treenin seuranta!`
 
 [Ota yhteyttä](mailto:{{ site.email }}) niin sovitaan ilmainen alkukartoitus!
@@ -33,4 +33,18 @@ Hinnasto:
 ---
 
 ## Liikunnanohjaus
+
+Tarjoamme liikunnanohjusta yrityksille, seuroille, kouluille ja muille ryhmille.
+
+Osaamisalueeseemme kuuluu:
+* Toiminnallinen ryhmäliikunta
+* Parkour
+* Käsilläseisonta
+* Kehonhuolto
+* Kahvakuula
+* Päivävaellukset/kävelyt
+
+[Pyydä tarjous](mailto:{{ site.email }}) niin räätälöidään juuri teille sopiva ryhmäliikunta tunti tai kurssi!
+
+---
 
