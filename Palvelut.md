@@ -11,25 +11,20 @@ weight: 1
 
 Functional personal training eli toiminnallinen henkilökohtainen valmennus on tarkoitettu sinulle, joka haluat päästä harjoittelussa seuraavalle tasolle. Laadimme tavoitteenmukaiset treeniohjelmat, tarkistamme ruokatottumuksesi ja seuraamme palautumistasi. Olipa tavoitteesi sitten painonpudotus, terveenä pysyminen tai tekniikoiden oppiminen, me autamme mielellämme!
 
-Hinnasto:
+### Hinnasto
 
-    1 tapaaminen, á 55min................................................86,8€
+| Tuote                     | Hinta (sis. alv)    |
+| ------------------------- | ------------------- |
+| 1 tapaaminen, á 55min     | 86,80 €             |
+| 5 tapaamista, á 55min     | 372,00 €            |
+| 8 tapaamista, á 55min     | 570,40 €            |
+| 10 tapaamista, á 55min    | 682,00 €            |
+| 12 tapaamista, á 55min    | 781,20 €            |
+| 15 tapaamista, á 55min    | 930,00 €            |
 
-    5 tapaamista, á 55min.................................................372€
+_Hintoihin sisältyy alv. Kaikkiin 5-15 tapaamisen paketteihin sisältyy treeniohjelma(t), jaksotus, ravintoneuvonta ja treenin seuranta._
 
-    8 tapaamista, á 55min.................................................570,4€
-
-    10 tapaamista, á 55min...............................................682€
-
-    12 tapaamista, á 55min...............................................781,2€
-
-    15 tapaamista, á 55min...............................................930€
-    
-    Hintoihin sisältyy alv
-    
-`kaikkiin 5-15 tapaamisen paketteihin sisältyy treeniohjelma(t), jaksotus, ravintoneuvonta ja treenin seuranta!`
-
-[Ota yhteyttä](mailto:{{ site.email }}) niin sovitaan ilmainen alkukartoitus!
+[Ota yhteyttä](mailto:{{ site.email }}) niin sovitaan ilmainen alkukartoitus.
 
 ---
 
@@ -46,7 +41,7 @@ Osaamisalueeseemme kuuluu:
 * Kahvakuula
 * Päivävaellukset/kävelyt
 
-[Pyydä tarjous](mailto:{{ site.email }}) niin räätälöidään juuri teille sopiva ryhmäliikuntatunti tai kurssi!
+[Pyydä tarjous](mailto:{{ site.email }}) niin räätälöidään juuri teille sopiva ryhmäliikuntatunti tai kurssi.
 
 ---
 

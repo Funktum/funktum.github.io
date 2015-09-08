@@ -6,6 +6,10 @@
   <title>{{ site.name }}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
+  {% if page.noindex %}
+  <meta name="robots" content="noindex,nofollow"/>
+  {% endif %}
+
   <meta property="og:title" content="{{ site.name }}">
   <meta property="og:site_name" content="funktum.fi">
   <meta property="og:url" content="{{ site.url }}">

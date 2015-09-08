@@ -19,8 +19,10 @@
   {% if page.url == '/index.html' %}
   <div class="description">
     <div class="wrapper">
-      <h1>{{site.description}}</h1>
-      <a href="#palvelut" class="btn btn-light">Tutustu palveluihin</a>
+      <h1>{{ site.description }}</h1>
+      {% if site.buttonurl %}
+      <a href="{{ site.buttonurl | prepend: site.baseurl }}" class="btn btn-light">Tutustu palveluihin</a>
+      {% endif %}
     </div>
   </div>
   {% endif %}
