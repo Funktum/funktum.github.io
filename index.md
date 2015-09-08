@@ -10,6 +10,24 @@ Toiminnallinen harjoittelu on käytännöllistä harjoittelua joka tukee henkil�
 
 ---
 
+## Palvelut
+
+### Functional personal training
+
+Toiminnallista henkilökohtaista valmennusta tavoitteesi saavuttamiseksi
+
+### Liikunnanohjaus
+
+Ryhmäliikuntaa yrityksille, seuroille, kouluille tai muille ryhmille
+
+### Luennointi
+
+Hyvinvointiluento esimerkiksi yrityksen henkilökunnalle
+
+`Tutustu palveluihin tarkemmin klikkaamalla palvelut linkkiä`
+
+---
+
 ## Yhteystiedot
 
 Olen Sampsa Visuri, Funktumin perustaja. Toimin liikuntaneuvojana ja [FISAF](http://www.fisafinternational.com/en/) & [Europe Active](http://www.europeactive.eu/) lisensoimana personal trainerina. Olen pitkään ollut kiinnostunut kehonhallinnasta ja omalla kehon painolla harjoittelemisesta. Kokemusta löytyy myös kuntosalin puolelta.
