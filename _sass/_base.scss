@@ -229,8 +229,18 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 
-  thead, tbody > tr {
+  thead {
     border-bottom: 1px solid $grey-color-light;
+  }
+
+  tbody {
+    tr {
+      border-bottom: 1px solid $grey-color-light;
+
+      &:hover {
+        background-color: #fafafa;
+      }
+    }
   }
 
   td, th {
