@@ -46,7 +46,7 @@ Osaamisalueeseemme kuuluu:
 * Kahvakuula
 * Päivävaellukset/kävelyt
 
-[Pyydä tarjous](mailto:{{ site.email }}) niin räätälöidään juuri teille sopiva ryhmäliikunta tunti tai kurssi!
+[Pyydä tarjous](mailto:{{ site.email }}) niin räätälöidään juuri teille sopiva ryhmäliikuntatunti tai kurssi!
 
 ---
 
