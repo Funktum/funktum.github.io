@@ -16,9 +16,19 @@
   <meta property="og:image" content="{{ site.url }}/img/opengraph_share.png">
   <meta property="og:description" content="{{ site.description }}">
   <meta property="og:type" content="website">
+  <meta property="article:publisher" content="https://www.facebook.com/Funktum" />
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
   <script src="{{ site.baseurl }}/js/vendor/modernizr-2.8.3.min.js"></script>
+
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/fi_FI/sdk.js#xfbml=1&version=v2.4&appId=875066682546378";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
 </head>
