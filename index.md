@@ -27,7 +27,7 @@ Hyvinvointiluento esimerkiksi yrityksen henkilökunnalle.
 
 ## Yhteystiedot
 
-Olen Sampsa Visuri, Funktumin perustaja. Toimin liikuntaneuvojana ja [FISAF](http://www.fisafinternational.com/en/) & [Europe Active](http://www.europeactive.eu/) lisensoimana personal trainerina. Olen pitkään ollut kiinnostunut kehonhallinnasta ja omalla kehon painolla harjoittelemisesta. Kokemusta löytyy myös kuntosalin puolelta.
+Olen Sampsa Visuri, Funktumin perustaja. Toimin pääkaupunkiseudulla liikuntaneuvojana ja [FISAF](http://www.fisafinternational.com/en/) & [Europe Active](http://www.europeactive.eu/) lisensoimana personal trainerina. Olen pitkään ollut kiinnostunut kehonhallinnasta ja omalla kehon painolla harjoittelemisesta. Kokemusta löytyy myös kuntosalin puolelta.
 
 <img src="https://scontent-arn2-1.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/11040178_10206200072948913_3072540282849392702_n.jpg?oh=cb559f3f798ee36e225048690311c830&oe=563FD40E" alt="Sampsa Visuri" class="user-photo"/>
 
