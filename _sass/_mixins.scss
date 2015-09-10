@@ -15,3 +15,11 @@
   -webkit-transition: $setting 0.15s ease-in-out;
   transition: $setting 0.15s ease-in-out;
 }
+
+@mixin clearfix {
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
