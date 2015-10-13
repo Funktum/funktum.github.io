@@ -55,9 +55,13 @@
 }
 
 .description {
+  background-image: url(../img/hero.jpg);
+  background-position: 50% 40%;
+  background-size: cover;
   background-color: $brand-color;
   color: white;
   padding: ($spacing-unit * 2) 0;
+  min-height: 400px;
 
   h1 {
     font-family: 'nexa_lightregular', $base-font-family;
