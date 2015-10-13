@@ -32,5 +32,5 @@ Olen Sampsa Visuri, Funktumin perustaja. Toimin pääkaupunkiseudulla liikuntane
 <img src="img/sampsa.jpg" alt="Sampsa Visuri" class="user-photo"/>
 
 **Sampsa Visuri **  
-+358 40 3513174   
+[+358 40 351 3174 ](tel:+358403513174)  
 [{{ site.email }}](mailto:{{ site.email }})
