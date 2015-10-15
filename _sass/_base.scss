@@ -1,9 +1,6 @@
 // Box-sizing
 
 * {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  -ms-box-sizing: border-box;
   box-sizing: border-box;
 }
 
@@ -337,8 +334,6 @@ p {
 
   img {
     box-shadow:0 0 8px rgba(0,0,0,0.3);
-    -webkit-box-shadow: 0 0 8px rgba(0,0,0,0.3);
-    -moz-box-shadow: 0 0 8px rgba(0,0,0,0.3);
     max-height: 560px;
   }
 }
