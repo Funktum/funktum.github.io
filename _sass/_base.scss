@@ -141,8 +141,9 @@ pre {
   padding: $spacing-unit / 2;
   overflow-x: scroll;
   background-color: $grey-color-light;
+  word-wrap: break-word;
 
-  > code {
+  code {
     color: $grey-color-dark;
     border: 0;
     padding-right: 0;
