@@ -103,11 +103,17 @@ Combined emphasis with **asterisks and _underscores_**.
 
 ## Links
 
-[I'm an inline-style link](https://www.google.com)
+[Inline-style link](https://www.google.com)
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[Inline-style link with title](https://www.google.com "Google's Homepage")
 
-[I'm a relative reference to a file](../img/funktum-logo.svg)
+[Relative reference to a file](/img/funktum-logo.svg)
+
+[+358 00 123 456](tel:+35800123456)
+
+[Mailto link](mailto:mail@example.com)
+
+[Mailto link with a subject](mailto:mail@example.com?subject=Example subject)
 
 ---
 
