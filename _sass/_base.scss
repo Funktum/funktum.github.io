@@ -318,6 +318,7 @@ p {
   text-align: center;
   cursor: pointer;
   background-color: rgba(0,0,0,0.2);
+  z-index: 9999;
 
   .close {
     font-size: 1.5em;
