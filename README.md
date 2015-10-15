@@ -28,3 +28,15 @@ Lägg koden nedan i början av sidan, sidan kommer inte att synnas i navigatione
     layout: page
     permalink: /example/
     ---
+
+## Bild i början av sidan
+
+Lägg koden nedan i början av sidan
+
+    ---
+    layout: page
+    title: Example Page
+    permalink: /example/
+    weight: 1
+    image: /img/gallery/forelasning-1.jpg
+    ---
