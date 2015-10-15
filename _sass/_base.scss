@@ -252,6 +252,11 @@ p {
     max-width: 49%;
     margin-right: 2%;
     @include inline-block-fix();
+
+    @include media-query($on-palm) {
+      max-width: 100%;
+      margin: 0 0 ($spacing-unit / 2) 0;
+    }
   }
 
   img:nth-child(1):nth-last-child(3),
@@ -260,6 +265,11 @@ p {
     max-width: 32%;
     margin-right: 2%;
     @include inline-block-fix();
+
+    @include media-query($on-palm) {
+      max-width: 100%;
+      margin: 0 0 ($spacing-unit / 2) 0;
+    }
   }
 
   img:nth-child(1):nth-last-child(4),
@@ -269,6 +279,11 @@ p {
     max-width: 23.5%;
     margin-right: 2%;
     @include inline-block-fix();
+
+    @include media-query($on-palm) {
+      max-width: 100%;
+      margin: 0 0 ($spacing-unit / 2) 0;
+    }
   }
 
   img:first-child {
