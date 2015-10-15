@@ -294,6 +294,10 @@ p {
 
   img:last-child {
     margin-right: 0 !important;
+
+    @include media-query($on-palm) {
+      margin-bottom: 0 !important;
+    }
   }
 }
 
