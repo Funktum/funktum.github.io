@@ -2,16 +2,15 @@
 jQuery('a[href^="http:"], a[href^="https:"]').not('[href*="funktum.fi"]').attr('target','_blank');
 jQuery('a[href$=".pdf"]').attr('target','_blank');
 
-$('.page-content img:not([class])').attr('class', 'image-popup');
+// Add lightbox only on bigger screens
+if ($(window).width() > 600) {
+  $('.page-content img:not([class])').attr('class', 'image-popup');
+}
 
+// Lightbox
 jQuery(document).ready(function($) {
-
   $('img.image-popup').click(function(e) {
-
-    //prevent default action (hyperlink)
     e.preventDefault();
-
-    //Get clicked link href
     var image_href = $(this).attr("src");
 
     /*
@@ -20,11 +19,7 @@ jQuery(document).ready(function($) {
     */
 
     if ($('#lightbox').length > 0) { // #lightbox exists
-
-      //place href as img src value
       $('#content').html('<img src="' + image_href + '" />');
-
-      //show lightbox window - you could use .show('fast') for a transition
       $('#lightbox').fadeIn(200);
     }
 
