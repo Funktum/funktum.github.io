@@ -24,19 +24,15 @@
       line-height: $base-line-height;
       position: relative;
       top: 4px;
+      margin-left: $spacing-unit / 1.5;
+
+      &:first-child {
+        margin-left: 0;
+      }
 
       &:hover, &:focus {
         color: $grey-color-dark;
         text-decoration: none;
-      }
-
-      // Gaps between nav items, but not on the first one
-      &:not(:first-child) {
-        margin-left: $spacing-unit;
-
-        @include media-query($on-laptop) {
-          margin-left: $spacing-unit / 2;
-        }
       }
     }
 
