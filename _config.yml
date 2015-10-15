@@ -1,7 +1,7 @@
 # Site settings
 name: Funktum
 email: sampsa@funktum.fi
-description: Funktum on erikoistunut toiminnalliseen henkilökohtaiseen valmennukseen ja ryhmäliikuntaan. Tarjoamme myös luentoja esimerkiksi yrityksille.
+description: Funktum on erikoistunut toiminnalliseen henkilökohtaiseen valmennukseen ja ryhmäliikuntaan. Tarjoamme myös luentoja esimerkiksi yrityksille. Toimialueemme on pääkaupunkiseutu.
 url: http://www.funktum.fi
 ga: UA-66809541-1
 baseurl: ""
