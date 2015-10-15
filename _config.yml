@@ -25,3 +25,7 @@ exclude:
     - LICENSE
     - README.md
     - TODO
+
+# Gems to use
+gems:
+  - octopress-autoprefixer
