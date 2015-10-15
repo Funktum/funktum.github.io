@@ -115,9 +115,30 @@ Combined emphasis with **asterisks and _underscores_**.
 
 ## Images
 
-Here's our logo (hover to see the title text):
+Images on content pages have lightbox feature by default and it's disabled on small screens.
 
-![alt text](/img/funktum-logo.svg "Logo Title Text 1")
+**One image**
+
+![alt text](/img/gallery/pt-2.jpg "Optional title text")
+
+**Two images**
+
+![alt text](/img/gallery/pt-2.jpg "Optional title text")
+![alt text](/img/gallery/pt-2.jpg "Optional title text")
+
+**Three images**
+
+![alt text](/img/gallery/pt-2.jpg "Optional title text")
+![alt text](/img/gallery/pt-2.jpg "Optional title text")
+![alt text](/img/gallery/pt-2.jpg "Optional title text")
+
+**Four images images**
+
+![alt text](/img/gallery/pt-2.jpg "Optional title text")
+![alt text](/img/gallery/pt-2.jpg "Optional title text")
+![alt text](/img/gallery/pt-2.jpg "Optional title text")
+![alt text](/img/gallery/pt-2.jpg "Optional title text")
+
 
 ---
 
