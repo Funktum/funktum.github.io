@@ -10,6 +10,7 @@ weight: 1
 
 ![Kuva](/img/gallery/pt-2.jpg)
 ![Kuva](/img/gallery/pt-6.jpg)
+&nbsp;
 
 ## Functional personal training 
 
