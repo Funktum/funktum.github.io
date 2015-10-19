@@ -1,0 +1,19 @@
+{% capture html %}
+
+  {% if include.context == "/" %}
+    <a class="{% if page.url == "/" %}active{% endif %}" href="{{ site.baseurl }}/">Etusivu</a>
+  {% endif %}
+
+  {% assign entries = site.pages | sort: "weight" %}
+  {% for entry in entries %}
+
+    {% capture slug    %}{{ entry.url | split: "/"   | last                       }}{% endcapture %}
+    {% capture current %}{{ entry.url | remove: slug | remove: "//" | append: "/" }}{% endcapture %}
+
+    {% if current == include.context and entry.title %}
+      <a class="{% if page.url contains entry.url %}active{% endif %}" href="{{ entry.url | prepend: site.baseurl }}">{{ entry.title }}</a>
+      {% include navigation.html context=entry.url %}
+    {% endif %}
+
+  {% endfor %}
+{% endcapture %}{{ html | strip_newlines | replace:'    ','' | replace:'    ','' | replace:'  ',' ' }}

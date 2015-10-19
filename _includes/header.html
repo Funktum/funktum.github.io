@@ -6,17 +6,12 @@
         <img src="{{ site.baseurl }}/img/funktum-logo.svg" alt="{{ site.name }}" height="24">
       </a>
       <nav class="site-nav">
-        {% assign pages = site.pages | sort: 'weight'  %}
-        {% for p in pages %}
-          {% if p.title %}
-          <a {% if p.url == page.url %}class="active"{% endif %} href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a>
-          {% endif %}
-        {% endfor %}
+        {% include navigation.html context="/" %}
       </nav>
     </div>
   </div>
 
-  {% if page.url == '/index.html' %}
+  {% if page.url == '/' %}
   <div class="hero">
     <div class="wrapper">
       <h1>{{ site.description }}</h1>

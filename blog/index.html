@@ -1,0 +1,35 @@
+---
+title: Blog
+layout: default
+weight: 3
+---
+
+{% if page.image %}
+  <h1>{{ page.title }}</h1>
+{% else %}
+  <h1 class="negative-margin">{{ page.title }}</h1>
+{% endif %}
+
+<!-- This loops through the paginated posts -->
+<div class="post-list">
+  {% for post in paginator.posts %}
+  <div class="post" id="{{ post.id }}">
+    <h2>
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </h2>
+    <p class="post-meta">Julkaistu: {{ post.date | date: "%-m.%-d.%Y" }}</p>
+    <p>{{ post.excerpt | strip_html}}</p>
+    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Lue lisää</a>
+  </div>
+  {% endfor %}
+</div>
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="btn next">‹ Vanhemmat</a>
+  {% endif %}
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="btn previous">Uudemmat ›</a>
+  {% endif %}
+</div>

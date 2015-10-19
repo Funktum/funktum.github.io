@@ -118,3 +118,33 @@
 .negative-margin {
   margin-top: -$spacing-unit;
 }
+
+
+// Blog list
+
+.post-list {
+  .post {
+    padding-bottom: $spacing-unit;
+    margin-bottom: $spacing-unit;
+    border-bottom: 1px solid $grey-color-light;
+
+    h2 {
+      margin-bottom: 0;
+    }
+  }
+}
+
+.post {
+  .post-title {
+    margin-bottom: $spacing-unit / 2;
+  }
+
+  .post-meta {
+    color: $grey-color;
+  }
+}
+
+.pagination {
+  margin-top: $spacing-unit;
+  margin-bottom: $spacing-unit;
+}
