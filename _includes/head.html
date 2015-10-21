@@ -3,8 +3,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{{ site.name }}{% if page.title %}{{ page.title | prepend: ' | ' }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <title>{{ site.name }}{% if page.title %}{{ page.title | prepend: ' - ' }}{% endif %}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.content | markdownify | remove: '<img>' | strip_html | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
   {% if page.noindex %}
   <meta name="robots" content="noindex,nofollow">
@@ -13,7 +13,7 @@
   {% if page.is_post %}
     <meta property="og:title" content="{{ page.title }}">
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-    <meta property="og:description" content="{{ page.content | truncatewords: 20 | markdownify | remove: 'img' | strip_html }}">
+    <meta property="og:description" content="{{ page.content | markdownify | remove: '<img>' | strip_html | truncate: 160 }}">
     {% if page.image %}
       <meta property="og:image" content="{{ page.image | prepend: site.url }}">
     {% else %}
