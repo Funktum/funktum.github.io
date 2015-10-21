@@ -12,19 +12,19 @@
   </div>
 
   {% if page.url == '/' %}
-  <div class="hero">
-    <div class="wrapper">
-      <h1>{{ site.description }}</h1>
-      {% if site.buttonurl %}
-      <a href="{{ site.buttonurl | prepend: site.baseurl }}" class="btn btn-light">{{ site.buttontext }}</a>
-      <a href="#yhteystiedot" class="btn btn-light">Ota yhteyttä</a>
-      {% endif %}
+    <div class="hero">
+      <div class="wrapper">
+        <h1>{{ site.description }}</h1>
+        {% if site.buttonurl %}
+          <a href="{{ site.buttonurl | prepend: site.baseurl }}" class="btn btn-light">{{ site.buttontext }}</a>
+          <a href="#yhteystiedot" class="btn btn-light">Ota yhteyttä</a>
+        {% endif %}
+      </div>
     </div>
-  </div>
   {% endif %}
 
   {% if page.hero_image %}
-  <div class="hero" style="background-image: url({{ page.image }})"></div>
+    <div class="hero" style="background-image: url({{ page.image }})"></div>
   {% endif %}
 
 </header>
