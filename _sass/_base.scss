@@ -181,13 +181,15 @@ pre {
 
 .btn {
   background-color: $brand-color;
+  border: 0;
+  border-radius: 1px;
   color: white;
   font-family: 'nexa_boldregular', $base-font-family;
+  font-size: $base-font-size;
   line-height: 1;
   padding: 12px 20px;
   text-decoration: none;
   display: inline-block;
-  border: 0;
   margin-right: 4px;
   margin-bottom: 4px;
 
@@ -207,6 +209,22 @@ pre {
     background-color: rgba(white, 0.9);
     color: $brand-color;
   }
+}
+
+.btn-outline {
+  background-color: white;
+  border: 1px solid $border-color;
+  color: $brand-color;
+
+  &:hover, &:focus {
+    background-color: $grey-color-light;
+    color: $brand-color;
+  }
+}
+
+.btn-small {
+  padding: 8px 12px;
+  font-size: $small-font-size;
 }
 
 
