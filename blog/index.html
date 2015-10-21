@@ -15,7 +15,7 @@ weight: 3
     </h2>
     <p class="post-meta">Julkaistu: {{ post.date | date: "%-m.%-d.%Y" }}</p>
     <p>{{ post.excerpt | strip_html}}</p>
-    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Lue lisää</a>
+    <small><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Lue lisää</a></small>
   </div>
   {% endfor %}
 </div>
