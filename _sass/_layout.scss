@@ -79,7 +79,19 @@
 
 // Facebook like
 .fb-like {
-  margin-top: $spacing-unit;
+  float: right;
+
+  @include media-query($on-palm) {
+    float: none;
+    margin-top: $spacing-unit / 2;
+  }
+}
+
+.post {
+  .fb-like {
+    float: left;
+    margin-top: $spacing-unit;
+  }
 }
 
 
