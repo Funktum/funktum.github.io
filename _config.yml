@@ -17,6 +17,7 @@ defaults:
       type: "posts"
     values:
       permalink: /blog/:title/
+      is_post: true
 
 # Header button
 buttonurl: "/palvelut/"
