@@ -129,6 +129,11 @@
 }
 
 .post {
+
+  .post-header {
+    margin-bottom: $spacing-unit;
+  }
+
   .post-title {
     margin-bottom: $spacing-unit / 2;
   }
