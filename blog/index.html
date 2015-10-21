@@ -13,11 +13,12 @@ weight: 3
     <h2>
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </h2>
-    <p class="post-meta">Julkaistu: {{ post.date | date: "%-m.%-d.%Y" }}</p>
-    <p>{{ post.excerpt | strip_html}}</p>
-    <small><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Lue lisää</a></small>
+    <p class="post-meta">{% include month_locales.html %}</p>
+    <p>{{ post.content | remove: '<img>' | strip_html | truncatewords: 50 }}</p>
+    <a class="btn btn-small btn-outline post-link" href="{{ post.url | prepend: site.baseurl }}">Lue lisää</a>
   </div>
   {% endfor %}
+
 </div>
 
 <!-- Pagination links -->
