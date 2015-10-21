@@ -38,5 +38,5 @@ Lägg koden nedan i början av sidan
     title: Example Page
     permalink: /example/
     weight: 1
-    image: /img/gallery/forelasning-1.jpg
+    hero_image: /img/gallery/forelasning-1.jpg
     ---
