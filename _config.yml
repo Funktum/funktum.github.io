@@ -29,14 +29,15 @@ prose:
     - /_site
     - /_layouts
     - /_includes
-    - /_blog
-    - /_js
-    - /_fonts
+    - /blog
+    - /js
+    - /fonts
+    - /css
     - _config.yml
-    - _CNAME
-    - _Gem*
-    - _.git*
-    - _links.jsonp
+    - CNAME
+    - Gemfile*
+    - .gitignore
+    - links.jsonp
   metadata:
     _posts:
       - name: "layout"
