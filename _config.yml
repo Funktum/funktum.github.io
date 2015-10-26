@@ -19,10 +19,6 @@ defaults:
       permalink: /blog/:title/
       is_post: true
 
-# Header button
-buttonurl: "/palvelut/"
-buttontext: "Tutustu palveluihin"
-
 # Build settings
 markdown: kramdown
 
