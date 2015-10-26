@@ -1,8 +1,9 @@
 ---
 layout: posts
-published: false
+published: true
 title: Trying out prose
 ---
+
 
 ## A New Post
 
