@@ -8,9 +8,9 @@ weight: 0
 
 Toiminnallinen harjoittelu on käytännöllistä harjoittelua joka tukee henkilön arkipäiväisiä toimia, harrastuksia ja ennaltaehkäisee loukkaantumisia. Toiminnallinen harjoittelu sisältää usein liikkeitä joita tehdään omalla kehonpainolla tai vapailla painoilla ja vältetään kuntosalilaitteen penkkiin eristäytymistä. Kuin harjoitellaan vapailla painoilla tai omalla kehonpainolla, kehittyy kehon tukevat ja avustavat lihakset paljon tehokkaammin koska kroppa joutuu tekemään työtä hyvän ryhdin ja tasapainon säilyttämiseksi.
 
-![Kuva](/img/gallery/pt-3.jpg)
-![kuva](/img/gallery/parmbild-1.jpg)
-![Kuva](/img/gallery/gruppmotion-4.jpg)
+![Kuva](/meida/pt-3.jpg)
+![kuva](/meida/parmbild-1.jpg)
+![Kuva](/meida/gruppmotion-4.jpg)
 
 ---
 

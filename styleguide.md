@@ -125,25 +125,25 @@ Images on content pages have lightbox feature by default and it's disabled on sm
 
 **One image**
 
-![alt text](/img/gallery/pt-2.jpg "Optional title text")
+![alt text](/meida/pt-2.jpg "Optional title text")
 
 **Two images**
 
-![alt text](/img/gallery/pt-2.jpg "Optional title text")
-![alt text](/img/gallery/pt-2.jpg "Optional title text")
+![alt text](/meida/pt-2.jpg "Optional title text")
+![alt text](/meida/pt-2.jpg "Optional title text")
 
 **Three images**
 
-![alt text](/img/gallery/pt-2.jpg "Optional title text")
-![alt text](/img/gallery/pt-2.jpg "Optional title text")
-![alt text](/img/gallery/pt-2.jpg "Optional title text")
+![alt text](/meida/pt-2.jpg "Optional title text")
+![alt text](/meida/pt-2.jpg "Optional title text")
+![alt text](/meida/pt-2.jpg "Optional title text")
 
 **Four images images**
 
-![alt text](/img/gallery/pt-2.jpg "Optional title text")
-![alt text](/img/gallery/pt-2.jpg "Optional title text")
-![alt text](/img/gallery/pt-2.jpg "Optional title text")
-![alt text](/img/gallery/pt-2.jpg "Optional title text")
+![alt text](/meida/pt-2.jpg "Optional title text")
+![alt text](/meida/pt-2.jpg "Optional title text")
+![alt text](/meida/pt-2.jpg "Optional title text")
+![alt text](/meida/pt-2.jpg "Optional title text")
 
 
 ---

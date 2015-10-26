@@ -5,9 +5,9 @@ permalink: /palvelut/
 weight: 1
 ---
 
-![Kuva](/img/gallery/gruppmotion-4.jpg)
-![Kuva](/img/gallery/pt-2.jpg)
-![Kuva](/img/gallery/pt-6.jpg)
+![Kuva](/media/gallery/gruppmotion-4.jpg)
+![Kuva](/media/gallery/pt-2.jpg)
+![Kuva](/media/gallery/pt-6.jpg)
 &nbsp;
 
 ## Functional personal training 
