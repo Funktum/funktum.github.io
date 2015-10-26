@@ -40,15 +40,16 @@ prose:
     - links.jsonp
     - favicon.ico
   metadata:
-    - name: "layout"
-      field:
-        element: "hidden"
-        value: "page"
-    - name: "title"
-      field:
-        element: "text"
-        label: "Page title"
-        placeholder: "Page title goes here"
+    _site:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Page title"
+          placeholder: "Page title goes here"
     _posts:
       - name: "layout"
         field:
