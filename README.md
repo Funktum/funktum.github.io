@@ -45,5 +45,5 @@ Lägg till `hero_image` i början av filen.
     title: Example Page
     permalink: /example/
     weight: 1
-    hero_image: /meida/forelasning-1.jpg
+    hero_image: /media/forelasning-1.jpg
     ---
