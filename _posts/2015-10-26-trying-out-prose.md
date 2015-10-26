@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 published: true
 title: Trying out prose
 ---
