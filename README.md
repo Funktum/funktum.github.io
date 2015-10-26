@@ -1,5 +1,3 @@
-http://funktum.fi
-
 ## Editera
 - För att editera välj fil och tryck edit (pennan)
 - Filerna är Markdown filer, dokumentation finns här: http://daringfireball.net/projects/markdown/syntax
@@ -9,9 +7,18 @@ http://funktum.fi
 
 Alla stiler som används på sajten kan hittas i `styleguide.md` filen och på http://funktum.fi/styleguide
 
-## Skapa ny sida
+## Nytt bloginlägg
 
-Lägg koden nedan i början av sidan, weight betyder var i navigationen sidan syns (mindre = längre till vänster).
+Skapa en ny fil i `_posts` mappen enligt formatet `YYYY-MM-DD-post-title.md` och lägg koden nedan i början av filen.
+
+    ---
+    layout: post
+    title: Welcome to Jekyll!
+    ---
+
+## Ny sida
+
+Lägg koden nedan i början av filen, `weight` betyder var i navigationen sidan syns, mindre = längre till vänster.
 
     ---
     layout: page
@@ -20,9 +27,9 @@ Lägg koden nedan i början av sidan, weight betyder var i navigationen sidan sy
     weight: 1
     ---
 
-## Skapa en gömd sida
+## Gömd sida
 
-Lägg koden nedan i början av sidan, sidan kommer inte att synnas i navigationen.
+Skapa en sida utan `title` så synns sidan inte i navigationen.
 
     ---
     layout: page
@@ -31,7 +38,7 @@ Lägg koden nedan i början av sidan, sidan kommer inte att synnas i navigatione
 
 ## Bild i början av sidan
 
-Lägg koden nedan i början av sidan
+Lägg till `hero_image` i början av filen.
 
     ---
     layout: page
