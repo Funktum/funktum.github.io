@@ -19,6 +19,36 @@ defaults:
       permalink: /blog/:title/
       is_post: true
 
+# Prose.io settings
+prose:
+  siteurl: 'http://www.funktum.fi/'
+  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  media: 'media'
+  ignore:
+    - /_sass
+    - /_site
+    - /_layouts
+    - /_includes
+    - /_blog
+    - /_js
+    - /_fonts
+    - _config.yml
+    - _CNAME
+    - _Gem*
+    - _.git*
+    - _links.jsonp
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "posts"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Post title"
+          placeholder: "Title goes here"
+
 # Build settings
 markdown: kramdown
 
