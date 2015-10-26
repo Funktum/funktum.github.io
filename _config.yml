@@ -38,6 +38,7 @@ prose:
     - Gemfile*
     - .gitignore
     - links.jsonp
+    - favicon.ico
   metadata:
     _posts:
       - name: "layout"
