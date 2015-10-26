@@ -40,6 +40,15 @@ prose:
     - links.jsonp
     - favicon.ico
   metadata:
+    - name: "layout"
+      field:
+        element: "hidden"
+        value: "page"
+    - name: "title"
+      field:
+        element: "text"
+        label: "Page title"
+        placeholder: "Page title goes here"
     _posts:
       - name: "layout"
         field:
@@ -49,7 +58,7 @@ prose:
         field:
           element: "text"
           label: "Post title"
-          placeholder: "Title goes here"
+          placeholder: "Post title goes here"
 
 # Build settings
 markdown: kramdown
