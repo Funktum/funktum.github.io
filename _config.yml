@@ -36,8 +36,9 @@ prose:
     - _*
     - .*
     - CNAME
-    - Gemfile*
+    - Gem*
     - links.jsonp
+    - favicon*
   metadata:
     _posts:
       - name: "layout"
