@@ -48,7 +48,7 @@ prose:
         field:
           element: "number"
           label: "Position in menu"
-          help: "Pages with small numbers are shown first in the navigation"
+          placeholder: "0-99"
           type: "number"
       - name: "layout"
         field:
@@ -72,7 +72,7 @@ prose:
       - name: "published"
         field:
           element: "checkbox"
-          label: "Publish page"
+          label: "Publish post"
           value: "true"
       - name: "title"
         field:
