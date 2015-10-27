@@ -46,13 +46,8 @@ prose:
           value: "post"
       - name: "published"
         field:
-          element: "select"
-          label: "Published"
-          options:
-            - name: 'Yes'
-              value: 'true'
-            - name: 'No'
-              value: 'false'
+          element: "hidden"
+          value: "true"
       - name: "title"
         field:
           element: "text"
