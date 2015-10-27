@@ -21,7 +21,7 @@ defaults:
 # Prose.io settings
 prose:
   siteurl: 'http://www.funktum.fi/'
-  # relativeLinks: 'http://www.funktum.fi/links.jsonp'
+  relativeLinks: 'http://www.funktum.fi/links.jsonp'
   media: 'media'
   ignore:
     - /_sass
@@ -39,22 +39,37 @@ prose:
     - links.jsonp
     - favicon.ico
   metadata:
-    _posts:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "post"
+    "":
       - name: "title"
         field:
           element: "text"
           label: "Title"
-          value: ""
+      - name: "weight"
+        field:
+          element: "number"
+          label: "Position in menu"
+          help: "Pages with small numbers are shown first in the navigation"
+          type: "number"
       - name: "hero_img"
         field:
           element: "text"
           label: "Splash image"
           placeholder: "/media/your-image.jpg"
-          value: ""
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "published"
+        field:
+          element: "button"
+          label: "Published"
+          on: "true"
+          on: "false"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
 
 # Build settings
 markdown: kramdown
