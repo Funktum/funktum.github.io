@@ -64,6 +64,11 @@ prose:
           element: "text"
           label: "Header image"
           placeholder: "/media/your-image.jpg"
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Page URL"
+          placeholder: "/page-url/"
     _posts:
       - name: "layout"
         field:
