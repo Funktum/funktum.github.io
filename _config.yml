@@ -44,12 +44,6 @@ prose:
         field:
           element: "text"
           label: "Title"
-      - name: "permalink"
-        field:
-          element: "text"
-          label: "Page URL"
-          placeholder: "/url-to-page/"
-          type: "text"
       - name: "weight"
         field:
           element: "number"
