@@ -48,10 +48,6 @@ prose:
         field:
           element: "text"
           label: "Post title"
-      - name: "published"
-        field:
-          element: "hidden"
-          value: "true"
 
 # Build settings
 markdown: kramdown
