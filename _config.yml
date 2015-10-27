@@ -20,6 +20,7 @@ defaults:
 
 # Prose.io settings
 prose:
+  rooturl: '_posts'
   siteurl: 'http://www.funktum.fi/'
   relativeLinks: 'http://www.funktum.fi/links.jsonp'
   media: 'media'
@@ -47,7 +48,14 @@ prose:
       - name: "title"
         field:
           element: "text"
-          label: "Post title"
+          label: "Title"
+          value: ""
+      - name: "hero_img"
+        field:
+          element: "text"
+          label: "Splash image"
+          placeholder: "/media/your-image.jpg"
+          value: ""
 
 # Build settings
 markdown: kramdown
