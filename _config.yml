@@ -33,12 +33,12 @@ prose:
     - /js
     - /fonts
     - /css
-    - _*
-    - .*
-    - CNAME
+    - _config*
+    - .git*
     - Gem*
+    - CNAME
     - links.jsonp
-    - favicon*
+    - favicon.ico
   metadata:
     _posts:
       - name: "layout"
