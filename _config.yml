@@ -62,7 +62,7 @@ prose:
       - name: "hero_img"
         field:
           element: "text"
-          label: "Splash image"
+          label: "Header image"
           placeholder: "/media/your-image.jpg"
     _posts:
       - name: "layout"
