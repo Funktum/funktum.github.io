@@ -63,11 +63,11 @@ prose:
               value: "page"
             - name: "Default"
               value: "default"
-      - name: "hero_img"
+      - name: "hero_image"
         field:
           element: "text"
-          label: "Header image"
-          placeholder: "/media/your-image.jpg"
+          label: "Hero image"
+          placeholder: "your-image.jpg"
       - name: "permalink"
         field:
           element: "text"
