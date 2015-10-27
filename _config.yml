@@ -47,7 +47,7 @@ prose:
       - name: "published"
         field:
           element: "checkbox"
-          label: "Publish post"
+          label: "Publish page"
           value: "true"
       - name: "weight"
         field:
