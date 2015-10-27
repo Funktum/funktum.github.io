@@ -39,31 +39,6 @@ prose:
     - links.jsonp
     - favicon.ico
   metadata:
-    "":
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-      - name: "weight"
-        field:
-          element: "number"
-          label: "Position in menu"
-          placeholder: "0-99"
-          type: "number"
-      - name: "layout"
-        field:
-          element: "select"
-          label: "Layout"
-          options:
-            - name: "Page"
-              value: "page"
-            - name: "Default"
-              value: "default"
-      - name: "hero_img"
-        field:
-          element: "text"
-          label: "Header image"
-          placeholder: "your-image.jpg"
     _posts:
       - name: "layout"
         field:
