@@ -55,10 +55,10 @@ prose:
           element: "select"
           label: "Layout"
           options:
-            - name: "Default"
-              value: "default"
             - name: "Page"
               value: "page"
+            - name: "Default"
+              value: "default"
       - name: "hero_img"
         field:
           element: "text"
@@ -71,10 +71,9 @@ prose:
           value: "post"
       - name: "published"
         field:
-          element: "button"
-          label: "Published"
-          on: "true"
-          off: "false"
+          element: "checkbox"
+          label: "Publish page"
+          value: "true"
       - name: "title"
         field:
           element: "text"
