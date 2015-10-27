@@ -44,6 +44,11 @@ prose:
         field:
           element: "text"
           label: "Title"
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Publish post"
+          value: "true"
       - name: "weight"
         field:
           element: "number"
@@ -58,6 +63,16 @@ prose:
               value: "page"
             - name: "Default"
               value: "default"
+      - name: "hero_img"
+        field:
+          element: "text"
+          label: "Header image"
+          placeholder: "/media/your-image.jpg"
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Page URL"
+          placeholder: "/page-url/"
     _posts:
       - name: "layout"
         field:
