@@ -3,6 +3,8 @@ layout: page
 title: Palvelut
 permalink: /palvelut/
 weight: 1
+published: true
+hero_img: "/media/forelasning-1.jpg"
 ---
 
 ![Kuva](/img/gallery/gruppmotion-4.jpg)
@@ -47,7 +49,3 @@ Osaamisalueeseemme kuuluu:
 [Pyydä tarjous](mailto:{{ site.email }}) niin räätälöidään juuri teille sopiva ryhmäliikuntatunti tai kurssi.
 
 ---
-
-
-
-
