@@ -47,7 +47,7 @@ prose:
       - name: "published"
         field:
           element: "hidden"
-          value: "true"
+          value: 'true'
       - name: "title"
         field:
           element: "text"
