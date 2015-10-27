@@ -56,14 +56,14 @@
   background-size: cover;
   background-color: $brand-color;
   color: white;
-  padding: ($spacing-unit * 2) 0;
-  min-height: 400px;
+  padding: ($spacing-unit * 4) 0;
+  min-height: 480px;
 
   h1 {
     font-family: 'nexa_lightregular', $base-font-family;
     font-weight: 400;
     font-size: 1.5em;
-    line-height: 1.4;
+    line-height: 1.5;
     margin-bottom: $spacing-unit * 1.5;
 
     @include media-query($on-palm) {
