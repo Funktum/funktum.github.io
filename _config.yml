@@ -65,6 +65,12 @@ prose:
               value: "page"
             - name: "Default"
               value: "default"
+      - name: "hero_image"
+        field:
+          element: "text"
+          label: "Hero image"
+          placeholder: "your-image.jpg"
+          help: "File has to exist in media folder"
     _posts:
       - name: "layout"
         field:
