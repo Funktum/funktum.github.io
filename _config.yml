@@ -39,6 +39,7 @@ prose:
     - links.jsonp
     - favicon.ico
   metadata:
+    "":
     _posts:
       - name: "layout"
         field:
