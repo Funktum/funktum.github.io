@@ -40,6 +40,10 @@ prose:
     - favicon.ico
   metadata:
     "":
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
     _posts:
       - name: "layout"
         field:
