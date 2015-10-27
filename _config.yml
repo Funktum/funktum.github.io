@@ -55,6 +55,7 @@ prose:
           element: "number"
           label: "Position in menu"
           placeholder: "0-99"
+          value: "10"
       - name: "layout"
         field:
           element: "select"
