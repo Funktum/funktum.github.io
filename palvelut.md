@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Palvelut
-permalink: /palvelut/
+permalink: /palveluita/
 weight: 1
 published: true
 hero_img: "/media/forelasning-1.jpg"
