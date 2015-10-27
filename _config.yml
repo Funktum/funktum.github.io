@@ -54,8 +54,7 @@ prose:
         field:
           element: "number"
           label: "Position in menu"
-          placeholder: "0-99"
-          value: 10
+          help: "Pages with a lower number appear first in the menu"
       - name: "layout"
         field:
           element: "select"
