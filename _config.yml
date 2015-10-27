@@ -44,12 +44,6 @@ prose:
         field:
           element: "text"
           label: "Title"
-      - name: "published"
-        field:
-          element: "checkbox"
-          label: "Publish"
-          help: "Uncheck if you don't want to publish the page right now"
-          value: "true"
       - name: "weight"
         field:
           element: "number"
@@ -81,12 +75,6 @@ prose:
         field:
           element: "hidden"
           value: "post"
-      - name: "published"
-        field:
-          element: "checkbox"
-          label: "Publish"
-          help: "Uncheck if you don't want to publish the post right now"
-          value: "true"
       - name: "title"
         field:
           element: "text"
