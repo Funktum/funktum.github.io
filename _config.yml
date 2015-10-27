@@ -20,9 +20,9 @@ defaults:
 
 # Prose.io settings
 prose:
-  siteurl: 'http://www.funktum.fi/'
-  relativeLinks: 'http://www.funktum.fi/links.jsonp'
-  media: 'media'
+  siteurl: "http://www.funktum.fi/"
+  relativeLinks: "http://www.funktum.fi/links.jsonp"
+  media: "media"
   ignore:
     - /_sass
     - /_site
@@ -44,6 +44,38 @@ prose:
         field:
           element: "text"
           label: "Title"
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Publish"
+          help: "Uncheck if you don't want to publish the page right now"
+          value: "true"
+      - name: "weight"
+        field:
+          element: "number"
+          label: "Position in menu"
+          placeholder: "0-99"
+          help: "Pages with a lower number appear first in the menu"
+      - name: "layout"
+        field:
+          element: "select"
+          label: "Layout"
+          options:
+            - name: "Page"
+              value: "page"
+            - name: "Default"
+              value: "default"
+      - name: "hero_image"
+        field:
+          element: "text"
+          label: "Hero image"
+          placeholder: "your-image.jpg"
+          help: "File has to exist in media folder"
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Page URL"
+          placeholder: "/page-url/"
     _posts:
       - name: "layout"
         field:
