@@ -1,9 +1,10 @@
 ---
 layout: post
 hero_img: ""
-published: false
+published: true
 title: "How does this work?"
 ---
+
 
 ## A New Post
 
