@@ -11,13 +11,13 @@ permalink: pretty
 paginate: 5
 paginate_path: "/blog/page/:num/"
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
-      type: "posts"
+      type: posts
     values:
       permalink: /blog/:title/
       is_post: true
+      published: true
 
 # Prose.io settings
 prose:
@@ -33,33 +33,25 @@ prose:
     - /js
     - /fonts
     - /css
-    - _config.yml
+    - _*
+    - .*
     - CNAME
     - Gemfile*
-    - .gitignore
     - links.jsonp
-    - favicon.ico
   metadata:
-    funktum.github.io:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "page"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Page title"
-          placeholder: "Page title goes here"
     _posts:
       - name: "layout"
         field:
           element: "hidden"
           value: "post"
+      - name: "published"
+        field:
+          element: "hidden"
+          value: true
       - name: "title"
         field:
           element: "text"
           label: "Post title"
-          placeholder: "Post title goes here"
 
 # Build settings
 markdown: kramdown
@@ -67,7 +59,6 @@ markdown: kramdown
 # Set the Sass partials directory, as we're using @imports
 sass:
     style: :compressed
-
 
 # Exclude these files from your production _site
 exclude:
