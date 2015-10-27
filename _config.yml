@@ -17,7 +17,6 @@ defaults:
     values:
       permalink: /blog/:title/
       is_post: true
-      published: true
 
 # Prose.io settings
 prose:
