@@ -46,9 +46,13 @@ prose:
           value: "post"
       - name: "published"
         field:
-          element: "checkbox"
+          element: "select"
           label: "Published"
-          value: "true"
+          options:
+            - name: "Yes"
+              value: "true"
+            - name: "No"
+              value: "false"
       - name: "title"
         field:
           element: "text"
