@@ -63,7 +63,7 @@ prose:
         field:
           element: "text"
           label: "Header image"
-          placeholder: "/media/your-image.jpg"
+          placeholder: "your-image.jpg"
     _posts:
       - name: "layout"
         field:
