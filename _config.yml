@@ -21,7 +21,7 @@ defaults:
 # Prose.io settings
 prose:
   siteurl: 'http://www.funktum.fi/'
-  relativeLinks: 'http://www.funktum.fi/links.jsonp'
+  # relativeLinks: 'http://www.funktum.fi/links.jsonp'
   media: 'media'
   ignore:
     - /_sass
