@@ -50,6 +50,15 @@ prose:
           label: "Position in menu"
           help: "Pages with small numbers are shown first in the navigation"
           type: "number"
+      - name: "layout"
+        field:
+          element: "select"
+          label: "Layout"
+          options:
+            - name: "Default"
+              value: "default"
+            - name: "Page"
+              value: "page"
       - name: "hero_img"
         field:
           element: "text"
@@ -65,7 +74,7 @@ prose:
           element: "button"
           label: "Published"
           on: "true"
-          on: "false"
+          off: "false"
       - name: "title"
         field:
           element: "text"
