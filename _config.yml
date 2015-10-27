@@ -39,17 +39,6 @@ prose:
     - links.jsonp
     - favicon.ico
   metadata:
-    "":
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-      - name: "published"
-        field:
-          element: "checkbox"
-          label: "Publish"
-          help: "Uncheck if you don't want to publish the page right now"
-          value: "true"
     _posts:
       - name: "layout"
         field:
