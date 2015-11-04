@@ -335,11 +335,6 @@ p {
 
 .image-popup {
   cursor: pointer;
-  @include transition(all);
-
-  &:hover {
-    box-shadow: 0 0 0 3px rgba(0,0,0,0.1);
-  }
 }
 
 #lightbox {
