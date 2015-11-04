@@ -8,12 +8,19 @@ weight: 3
 
   {% for post in paginator.posts %}
   <div class="post" id="{{ post.id }}">
-    <h2>
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    <h2 class="post-title">
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </h2>
     <p class="post-meta">{% include month_locales.html %}</p>
+    {% if post.image %}
+      <p>
+        <img src="{{ post.image | prepend: site.baseurl }}" alt="">
+      </p>
+    {% endif %}
     <p>{{ post.content | remove: '<img>' | strip_html | truncatewords: 50 }}</p>
-    <a class="btn btn-small btn-outline post-link" href="{{ post.url | prepend: site.baseurl }}">Lue lisää</a>
+    <p class="post-link">
+      <a href="{{ post.url | prepend: site.baseurl }}">Lue lisää &rarr;</a>
+    </p>
   </div>
   {% endfor %}
 
