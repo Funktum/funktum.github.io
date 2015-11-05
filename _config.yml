@@ -5,7 +5,6 @@ description: Funktum on erikoistunut toiminnalliseen henkilökohtaiseen valmennu
 url: http://www.funktum.fi
 ga: UA-66809541-1
 baseurl: ""
-permalink: pretty
 
 # Blog settings
 paginate: 5
@@ -94,6 +93,7 @@ prose:
 
 # Build settings
 markdown: kramdown
+permalink: pretty
 
 # Set the Sass partials directory, as we're using @imports
 sass:
@@ -101,13 +101,14 @@ sass:
 
 # Exclude these files from your production _site
 exclude:
-    - Gemfile
-    - Gemfile.lock
-    - LICENSE
-    - README.md
-    - TODO
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - TODO
 
 # Gems to use
 gems:
   - octopress-autoprefixer
   - jekyll-auto-image
+  - jekyll-paginate
