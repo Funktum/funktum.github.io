@@ -32,10 +32,22 @@
         display: block;
       }
     }
+
+  @include media-query($on-small) {
+    .mobile, .desktop {
+      display: none;
+    }
+  }
+
   }
 
   .site-nav {
     float: right;
+
+    @include media-query($on-small) {
+      float: none;
+      margin-left: $spacing-unit / 4;
+    }
 
     a {
       display: inline-block;
@@ -45,6 +57,12 @@
       padding-right: $spacing-unit / 4;
       color: $grey-color;
       margin-left: $spacing-unit / 4;
+
+      @include media-query($on-palm) {
+        line-height: 78px;
+        height: 72px;
+        margin-left: 0;
+      }
 
       &:first-child {
         margin-left: 0;
@@ -59,15 +77,6 @@
     a.active {
       color: $brand-color;
       border-bottom: 2px solid $brand-color;
-    }
-
-    @include media-query($on-palm) {
-
-      a {
-        line-height: 78px;
-        height: 72px;
-        margin-left: 0;
-      }
     }
   }
 }
