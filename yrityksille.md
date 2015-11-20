@@ -40,4 +40,7 @@ Liikuntatunnin jälkeen rentouttava ohjattu hieronta. Ohjaajana toimii koulutett
 
 > Maksimi osallistujamäärä: 20 henkilöä
 
+[Tilaa palvelu sähköpostitse tästä](mailto:{{ site.email }})
+tai soita numeroon: 040 351 3174
+
 ---
