@@ -5,9 +5,9 @@ permalink: /yrityksille/
 
 ## Yrityksille
 
-Funktum tarjoaa nyt kolmen tunnin hyvinvointipaketteja yritysten henkilökunnalle. Virkistä työntekijöitäsi team building tehtävillä, liikunnalla ja hieronnalla vakkapa työpäivän päätteeksi.
+Funktum tarjoaa nyt kolmen tunnin hyvinvointipaketteja yritysten henkilökunnalle. Virkistä työntekijöitäsi team building tehtävillä, liikunnalla ja hieronnalla vakkapa työpäivän päätteeksi. Toimimme mielellämme yrityksen omissa tiloissa. Jos sopivia tiloja ei ole, voimme myös järjestää hyvinvointipalvelun lähimmässä vapaassa vuokratilassa. 
 
-![Kuva](/media/forelasning-1.jpg)
+
 
 ### Pakettiin kuuluu:
 
@@ -32,6 +32,6 @@ Rentoutuminen liikuntatunnin jälkeen ohjatulla niska-hartiahieronnalla. Ohjaaja
 
 `Kesto 60 min`
 
-#### Hinta:   á 3h    500€ + alv
+#### paketin hinta:   á 3h    500€ + alv
 
 ---
