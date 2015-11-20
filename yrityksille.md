@@ -40,7 +40,7 @@ Liikuntatunnin jälkeen rentouttava ohjattu hieronta. Ohjaajana toimii koulutett
 
 > Maksimi osallistujamäärä: 20 henkilöä
 
-
+---
 
 [Tilaa palvelu sähköpostitse](mailto:{{ site.email }})
 
