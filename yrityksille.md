@@ -13,17 +13,20 @@ Funktum tarjoaa nyt kolmen tunnin hyvinvointipaketteja yritysten henkilökunnall
 
 #### Team building
 Team building osiossa kehitämme tiimin tai ryhmän yhteishenkeä, yhteistyökykyä ja luottamusta erilaisten tehtävien/harjoitusten kautta. 
+
 `Kesto 60 min`
 
 
 
 #### Ohjattu ryhmäliikuntatunti
 Haemme päivään lisää vauhtia ryhmäliikunnan avulla. Liikuntamuotona toimii esimerkiksi toiminnallinen jumppa.
+
 `Kesto 60 min`
 
 
 
 #### Ohjattu niska-hartia hieronta
 Rentoutuminen liikuntatunnin jälkeen ohjatulla niska-hartia hieronnalla. Ohjaajana toimii koulutettu hieroja Hanna Kanerva. Osallistujat hierovat toisiaan pareittain, jonka jälkeen pidetään loppurentoutus. 
+
 `Kesto 60 min`
 
