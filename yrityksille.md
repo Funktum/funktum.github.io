@@ -32,6 +32,6 @@ Rentoutuminen liikuntatunnin jälkeen ohjatulla niska-hartiahieronnalla. Ohjaaja
 
 `Kesto 60 min`
 
-##### Hinta:   á 3h    500€ + alv
+#### Hinta:   á 3h    500€ + alv
 
 ---
