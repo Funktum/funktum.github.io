@@ -9,7 +9,7 @@ Funktum tarjoaa nyt kolmen tunnin hyvinvointipaketteja yritysten henkilökunnall
 
 ### Pakettiin kuuluu:
 
----
+
 
 #### Team building
 Team building osiossa kehitämme tiimin tai ryhmän yhteishenkeä, yhteistyökykyä ja luottamusta erilaisten tehtävien/harjoitusten kautta. 
