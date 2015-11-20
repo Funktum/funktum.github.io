@@ -5,7 +5,7 @@ permalink: /yrityksille/
 
 ## Yrityksille
 
-Funktum tarjoaa nyt kolmen tunnin hyvinvointipaketteja yritysten henkilökunnalle. Virkistä työntekijöitäsi team building tehtävillä, liikunnalla ja hieronnalla vakkapa työpäivän päätteeksi. Toimimme mielellämme yrityksenne omissa tiloissa. Jos sopivia tiloja ei ole, voimme myös järjestää hyvinvointipalvelun lähimmässä vapaassa vuokratilassa. 
+Funktum tarjoaa nyt kolmen tunnin hyvinvointipaketteja yritysten henkilökunnalle. Virkistä työntekijöitäsi team building tehtävillä, liikunnalla ja hieronnalla vaikkapa työpäivän päätteeksi. Toimimme mielellämme yrityksenne omissa tiloissa. Jos sopivia tiloja ei ole, voimme myös järjestää hyvinvointipalvelut lähimmässä vapaassa vuokratilassa. 
 
 
 
@@ -28,7 +28,7 @@ Haemme päivään lisää vauhtia ryhmäliikunnan avulla. Liikuntamuotona toimii
 
 
 #### Ohjattu niska-hartiahieronta
-Rentoutuminen liikuntatunnin jälkeen ohjatulla niska-hartiahieronnalla. Ohjaajana toimii koulutettu hieroja Hanna Kanerva. Osallistujat hierovat toisiaan pareittain, jonka jälkeen pidetään loppurentoutus. 
+Liikuntatunnin jälkeen rentouttava ohjattu hieronta. Ohjaajana toimii koulutettu hieroja Hanna Kanerva. Osallistujat hierovat toisiaan pareittain, jonka jälkeen pidetään loppurentoutus. 
 
 `Kesto 60 min`
 
