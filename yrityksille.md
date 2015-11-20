@@ -25,8 +25,10 @@ Haemme päivään lisää vauhtia ryhmäliikunnan avulla. Liikuntamuotona toimii
 
 
 
-#### Ohjattu niska-hartia hieronta
-Rentoutuminen liikuntatunnin jälkeen ohjatulla niska-hartia hieronnalla. Ohjaajana toimii koulutettu hieroja Hanna Kanerva. Osallistujat hierovat toisiaan pareittain, jonka jälkeen pidetään loppurentoutus. 
+#### Ohjattu niska-hartiahieronta
+Rentoutuminen liikuntatunnin jälkeen ohjatulla niska-hartiahieronnalla. Ohjaajana toimii koulutettu hieroja Hanna Kanerva. Osallistujat hierovat toisiaan pareittain, jonka jälkeen pidetään loppurentoutus. 
 
 `Kesto 60 min`
 
+`Hinta: á 3h 500€+alv`
+---
