@@ -21,7 +21,7 @@ Team building osiossa kehitämme ryhmän yhteishenkeä, yhteistyökykyä ja luot
 
 
 #### Ohjattu ryhmäliikuntatunti
-Haemme päivään lisää vauhtia ryhmäliikunnan avulla. Liikuntamuotona toimii esimerkiksi toiminnallinen jumppa.
+Haemme päivään lisää vauhtia ryhmäliikunnalla. Liikuntamuotona toimii esimerkiksi toiminnallinen jumppa.
 
 `Kesto 60 min`
 
