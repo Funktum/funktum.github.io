@@ -33,8 +33,7 @@ Liikuntatunnin jälkeen rentouttava ohjattu hieronta. Ohjaajana toimii koulutett
 `Kesto 60 min`
 
 #### Paketin hinta: á 3h, 50€ + alv/hlö
-`Minimi osallistujamäärä on 8 henkilöä`
-
-`Maksimi osallistujamäärä 20 henkilöä`
+    Minimi osallistujamäärä: 8 henkilöä
+    Maksimi osallistujamäärä: 20 henkilöä
 
 ---
