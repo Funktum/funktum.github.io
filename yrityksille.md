@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /yrityksille/
+hero_image: forelasning-1.jpg
 ---
 
 ## Yrityksille
