@@ -5,7 +5,7 @@ permalink: /yrityksille/
 
 ## Yrityksille
 
-Funktum tarjoaa nyt kolmen tunnin hyvinvointipaketteja yritysten henkilökunnalle. Virkistä työntekijöitäsi team building tehtävillä, liikunnalla ja hieronnalla vakkapa työpäivän päätteeksi. Toimimme mielellämme yrityksen omissa tiloissa. Jos sopivia tiloja ei ole, voimme myös järjestää hyvinvointipalvelun lähimmässä vapaassa vuokratilassa. 
+Funktum tarjoaa nyt kolmen tunnin hyvinvointipaketteja yritysten henkilökunnalle. Virkistä työntekijöitäsi team building tehtävillä, liikunnalla ja hieronnalla vakkapa työpäivän päätteeksi. Toimimme mielellämme yrityksenne omissa tiloissa. Jos sopivia tiloja ei ole, voimme myös järjestää hyvinvointipalvelun lähimmässä vapaassa vuokratilassa. 
 
 
 
