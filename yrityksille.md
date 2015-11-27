@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Example Page
+title: Yrityksille
 permalink: /example/
 weight: 3
 image: /img/gallery/forelasning-1.jpg
