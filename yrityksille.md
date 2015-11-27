@@ -1,6 +1,8 @@
 ---
 layout: page
-permalink: /yrityksille/
+title: Example Page
+permalink: /example/
+weight: 3
 image: /img/gallery/forelasning-1.jpg
 ---
 
