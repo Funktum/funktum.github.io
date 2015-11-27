@@ -50,10 +50,6 @@ Osaamisalueeseemme kuuluu:
 
 ---
 
-## Luennointi
 
-Tie terveelliseen arkeen luento yrityksille.
-
-[Pyydä tarjous](mailto:{{ site.email }})
 
 
