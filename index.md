@@ -22,9 +22,6 @@ Toiminnallista henkilökohtaista valmennusta tavoitteesi saavuttamiseksi.
 **Liikunnanohjaus**  
 Ryhmäliikuntaa yrityksille, seuroille, kouluille tai muille ryhmille.
 
-**Luennointi**  
-Hyvinvointiluento esimerkiksi yrityksen henkilökunnalle.
-
 [Lue lisää palvelut -sivulta](/palvelut/)
 
 ---
