@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yrityksille
-permalink: /example/
+permalink: /yrityksille/
 weight: 3
 image: /img/gallery/forelasning-1.jpg
 ---
