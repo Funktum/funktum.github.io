@@ -7,7 +7,7 @@ image: /img/gallery/forelasning-1.jpg
 ---
 
 
-Funktum tarjoaa nyt kolmen tunnin hyvinvointipaketteja yritysten henkilökunnalle. Virkistä työntekijöitäsi team building tehtävillä, liikunnalla ja hieronnalla vaikkapa työpäivän päätteeksi. Toimimme mielellämme yrityksenne omissa tiloissa. Jos sopivia tiloja ei ole, voimme myös järjestää hyvinvointipalvelut lähimmässä vapaassa vuokratilassa. 
+Funktum tarjoaa nyt kolmen tunnin hyvinvointipaketteja yritysten henkilökunnalle. Virkistä työntekijöitäsi team building tehtävillä, liikunnalla ja hieronnalla vaikkapa työpäivän päätteeksi. Toimimme mielellämme yrityksenne omissa tiloissa. Jos sopivia tiloja ei ole, voimme myös järjestää hyvinvointipalvelut lähimmässä vapaassa vuokratilassa. Tällöin vuokratilan kustannukset lisätään paketin hintaan. 
 
 
 
