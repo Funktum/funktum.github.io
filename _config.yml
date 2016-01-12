@@ -110,5 +110,4 @@ exclude:
 # Gems to use
 gems:
   - octopress-autoprefixer
-  - jekyll-auto-image
   - jekyll-paginate
