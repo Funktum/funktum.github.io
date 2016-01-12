@@ -6,9 +6,9 @@ weight: 1
 published: true
 ---
 
-![Kuva](/img/gallery/gruppmotion-4.jpg)
-![Kuva](/img/gallery/pt-2.jpg)
-![Kuva](/img/gallery/pt-6.jpg)
+![Kuva](/media/gruppmotion-4.jpg)
+![Kuva](/media/pt-2.jpg)
+![Kuva](/media/pt-6.jpg)
 &nbsp;
 
 ## Functional personal training 
