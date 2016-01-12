@@ -4,32 +4,20 @@
   {% assign type = post %}
 {% endif %}
 
-{% assign currentDate = site.time | date: '%j' %}
-{% assign postDate = type.date | date: '%j' %}
-{% assign dateDiff = currentDate | minus: postDate %}
-
-{% if dateDiff > 2 %}
-  {% assign m = type.date | date: "%m" %}
-  {{ type.date | date: "%-d." }}
-    {% case m %}
-      {% when '1' %}tammikuuta
-      {% when '2' %}helmikuuta
-      {% when '3' %}maaliskuuta
-      {% when '4' %}huhtikuuta
-      {% when '5' %}toukokuuta
-      {% when '6' %}kesäkuuta
-      {% when '7' %}heinäkuuta
-      {% when '8' %}elokuuta
-      {% when '9' %}syyskuuta
-      {% when '10' %}lokakuuta
-      {% when '11' %}marraskuuta
-      {% when '12' %}joulukuuta
-    {% endcase %}
-  {{ type.date | date: "%Y" }}
-{% elsif dateDiff == 2 %}
-  2 päivää sitten
-{% elsif dateDiff == 1 %}
-  Eilen
-{% else %}
-  Tänään
-{% endif %}
+{% assign m = type.date | date: "%-m" %}
+{{ type.date | date: "%-d." }}
+  {% case m %}
+    {% when '1' %}tammikuuta
+    {% when '2' %}helmikuuta
+    {% when '3' %}maaliskuuta
+    {% when '4' %}huhtikuuta
+    {% when '5' %}toukokuuta
+    {% when '6' %}kesäkuuta
+    {% when '7' %}heinäkuuta
+    {% when '8' %}elokuuta
+    {% when '9' %}syyskuuta
+    {% when '10' %}lokakuuta
+    {% when '11' %}marraskuuta
+    {% when '12' %}joulukuuta
+  {% endcase %}
+{{ type.date | date: "%Y" }}
