@@ -3,28 +3,24 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{{ site.name }}{% if page.title %}{{ page.title | prepend: ' | ' }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.content | markdownify | remove: '<img>' | strip_html | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-
   {% if page.noindex %}
     <meta name="robots" content="noindex,nofollow">
   {% endif %}
 
-  {% if page.is_post %}
-    <meta property="og:title" content="{{ page.title }}">
-    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-    <meta property="og:description" content="{{ page.content | markdownify | remove: '<img>' | strip_html | truncate: 160 }}">
-    {% if page.image %}
-      <meta property="og:image" content="{{ page.image | prepend: site.url }}">
-    {% else %}
-      <meta property="og:image" content="{{ site.url | append: '/img/opengraph_share.png'}}">
-    {% endif %}
-  {% else %}
+  {% if page.url == '/' %}
+    <title>{{ site.name }}</title>
+    <meta name="description" content="{{ site.description }}">
     <meta property="og:title" content="Henkilökohtaista valmennusta, liikunnanohjausta ja luennointia">
     <meta property="og:url" content="{{ site.url }}">
     <meta property="og:description" content="{{ site.description }}">
-    <meta property="og:image" content="{{ site.url | append: '/img/opengraph_share.png'}}">
+  {% else %}
+    <title>{{ page.title | append: ' - ' | append: site.name }}</title>
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.content | markdownify | remove: '<img>' | strip_html | truncate: 160 }}{% endif %}">
+    <meta property="og:title" content="{{ page.title}}">
+    <meta property="og:url" content="{{ site.url | append: page.url }}">
+    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.content | markdownify | remove: '<img>' | strip_html | truncate: 160 }}{% endif %}">
   {% endif %}
+  <meta property="og:image" content="{{ site.url }}{% if page.hero_image %}{{ page.hero_image | prepend: '/media/' }}{% else %}/img/opengraph_share.png{% endif %}">
   <meta property="og:site_name" content="Funktum">
   <meta property="og:type" content="website">
   <meta property="article:publisher" content="https://www.facebook.com/Funktum" />
