@@ -7,30 +7,25 @@
     <meta name="robots" content="noindex,nofollow">
   {% endif %}
 
+  <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.name }}</title>
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+
   {% if page.url == '/' %}
-    <title>{{ site.name }}</title>
-    <meta name="description" content="{{ site.description }}">
     <meta property="og:title" content="Henkilökohtaista valmennusta, liikunnanohjausta ja luennointia">
-    <meta property="og:url" content="{{ site.url }}">
     <meta property="og:description" content="{{ site.description }}">
   {% else %}
-    <title>{{ page.title | append: ' - ' | append: site.name }}</title>
-    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.content | markdownify | remove: '<img>' | strip_html | truncate: 160 }}{% endif %}">
-    <meta property="og:title" content="{{ page.title}}">
-    <meta property="og:url" content="{{ site.url | append: page.url }}">
+    <meta property="og:title" content="{{ page.title }}">
     <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.content | markdownify | remove: '<img>' | strip_html | truncate: 160 }}{% endif %}">
   {% endif %}
-  <meta property="og:image" content="{{ site.url }}{% if page.hero_image %}{{ page.hero_image | prepend: '/media/' }}{% else %}/img/opengraph_share.png{% endif %}">
+  <meta property="og:image" content="{% if page.hero_image %}{{ page.hero_image | prepend: site.url }}{% else %}{{ '/img/opengraph_share.png' | prepend: site.url }}{% endif %}">
   <meta property="og:site_name" content="Funktum">
+  <meta property="og:url" content="{{ site.url | append: page.url }}">
   <meta property="og:type" content="website">
   <meta property="article:publisher" content="https://www.facebook.com/Funktum" />
 
   <link rel="shortcut icon" href="/favicon.ico"/>
-
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
-  <script src="{{ site.baseurl }}/js/vendor/modernizr-2.8.3.min.js"></script>
+  <link rel="stylesheet" href="{{ '/css/main.css' | prepend: site.baseurl }}">
+  <script src="{{ '/js/vendor/modernizr-2.8.3.min.js' | prepend: site.baseurl }}"></script>
 
   <div id="fb-root"></div>
   <script>(function(d, s, id) {
