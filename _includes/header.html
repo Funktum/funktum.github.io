@@ -23,7 +23,7 @@
   {% endif %}
 
   {% if page.hero_image %}
-    <div class="hero" style="background-image: url({{ page.hero_image | prepend: '/media/' | prepend: site.baseurl }})"></div>
+    <div class="hero" style="background-image: url({{ page.hero_image | prepend: site.baseurl }})"></div>
   {% endif %}
 
 </header>
