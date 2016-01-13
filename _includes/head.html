@@ -1,3 +1,5 @@
+{% include page_image_meta.html %}
+
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -17,7 +19,7 @@
     <meta property="og:title" content="{{ page.title }}">
     <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.content | markdownify | remove: '<img>' | strip_html | truncate: 160 }}{% endif %}">
   {% endif %}
-  <meta property="og:image" content="{% if page.hero_image %}{{ page.hero_image | prepend: site.url }}{% else %}{{ '/img/opengraph_share.png' | prepend: site.url }}{% endif %}">
+  <meta property="og:image" content="{{ site.url }}{% if page.hero_image %}{{ page.hero_image }}{% elsif page_image_src %}{{ page_image_src }}{% else %}{{ site.share_image }}{% endif %}">
   <meta property="og:site_name" content="Funktum">
   <meta property="og:url" content="{{ site.url | append: page.url }}">
   <meta property="og:type" content="website">

@@ -5,6 +5,7 @@ description: Funktum on erikoistunut toiminnalliseen henkilökohtaiseen valmennu
 url: http://www.funktum.fi
 ga: UA-66809541-1
 baseurl: ""
+share_image: /img/opengraph_share.png
 
 # Blog settings
 paginate: 5
