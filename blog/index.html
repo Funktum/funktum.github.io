@@ -25,10 +25,10 @@ weight: 4
 
 <!-- Pagination links -->
 <div class="pagination">
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="btn next">‹ Vanhemmat</a>
-  {% endif %}
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="btn previous">Uudemmat ›</a>
+    <a href="{{ paginator.previous_page_path }}" class="btn">&lsaquo; Uudemmat</a>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="btn">Vanhemmat &rsaquo;</a>
   {% endif %}
 </div>
