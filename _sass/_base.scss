@@ -76,28 +76,25 @@ li {
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
   font-family: 'nexa_boldregular', $base-font-family;
+  margin-top: $spacing-unit;
 }
 
 h1 {
   font-size: 2em;
   line-height: 1;
-  margin-top: $spacing-unit;
   margin-bottom: $spacing-unit;
 }
 
 h2 {
   font-size: 1.5em;
-  margin-top: $spacing-unit;
 }
 
 h3 {
   font-size: 1.25em;
-  margin-top: $spacing-unit;
 }
 
 h4 {
   font-size: 1.125em;
-  margin-top: $spacing-unit;
 }
 
 small {
