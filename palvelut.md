@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Palvelut
-description: Funktum on erikoistunut toiminnalliseen henkilökohtaiseen valmennukseen ja ryhmäliikuntaan. Tarjoamme myös luentoja esimerkiksi yrityksille. Toimialueemme on pääkaupunkiseutu.
 permalink: /palvelut/
 weight: 1
 published: true
@@ -10,7 +9,6 @@ published: true
 ![Kuva](/media/gruppmotion-4.jpg)
 ![Kuva](/media/pt-2.jpg)
 ![Kuva](/media/pt-6.jpg)
-&nbsp;
 
 ## Functional personal training 
 
