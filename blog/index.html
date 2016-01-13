@@ -23,6 +23,18 @@ weight: 4
   </div>
   {% endfor %}
 
+  {% comment %}
+  {% for post in paginator.posts %}
+  <div class="post" id="{{ post.id | remove: '/blog/' }}">
+    <h2 class="post-title">
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </h2>
+    <p class="post-meta">{% include month_locales.html %}</p>
+    <p>{{ post.content }}</p>
+  </div>
+  {% endfor %}
+  {% endcomment %}
+
 </div>
 
 <!-- Pagination links -->
