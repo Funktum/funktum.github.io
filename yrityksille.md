@@ -1,10 +1,13 @@
 ---
 layout: page
 title: Yrityksille
-permalink: /yrityksille/
+permalink: /yrityksilletest/
 weight: 3
-hero_image: /media/forelasning-1.jpg
+hero_image: "/media/forelasning-2.jpg"
+published: true
+description: null
 ---
+
 
 
 Funktum tarjoaa nyt kolmen tunnin hyvinvointipaketteja yritysten henkilökunnalle. Virkistä työntekijöitäsi team building tehtävillä, liikunnalla ja hieronnalla vaikkapa työpäivän päätteeksi. Toimimme mielellämme yrityksenne omissa tiloissa. Jos sopivia tiloja ei ole, voimme myös järjestää hyvinvointipalvelut lähimmässä vapaassa vuokratilassa. Tällöin vuokratilan kustannukset lisätään paketin hintaan. 
