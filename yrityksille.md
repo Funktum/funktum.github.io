@@ -5,7 +5,6 @@ permalink: /yrityksille/
 weight: 3
 hero_image: "/media/forelasning-2.jpg"
 published: true
-description: asdasdsad
 ---
 
 
