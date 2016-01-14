@@ -165,16 +165,47 @@
 }
 
 
-// Blog list
+// Blog
 
-.post-list {
+.post-featured {
+
   .post {
-    padding-bottom: $spacing-unit * 1.5;
-    margin-bottom: $spacing-unit * 1.5;
+    padding-bottom: $spacing-unit;
     border-bottom: 1px solid $border-color;
 
     .post-title {
       margin-bottom: $spacing-unit / 4;
+    }
+  }
+}
+
+.post-list {
+
+  .post {
+    border-bottom: 1px solid $border-color;
+
+    a {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      padding-top: $spacing-unit / 2;
+      padding-bottom: $spacing-unit / 2;
+
+      @include media-query($on-palm) {
+        display: block;
+      }
+
+      &:hover {
+        text-decoration: none;
+      }
+    }
+
+    .post-title {
+      margin: 0;
+    }
+
+    .post-meta {
+      font-size: $small-font-size;
     }
   }
 }

@@ -4,37 +4,40 @@ layout: default
 description: Blogautuksia tominallisen harjoittelun ja henkilökohtaisen valmennuksen kiinnostavasta maailmasta.
 weight: 4
 ---
+{% if paginator.page == 1 %}
+  <div class="post-featured">
+    {% for post in paginator.posts | limit: 1 %}
+    <div class="post" id="{{ post.id | remove: '/blog/' }}">
+      <h2 class="post-title">
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+      <p class="post-meta">{% include month_locales.html %}</p>
+      <p>{{ post.content }}</p>
+    </div>
+    {% endfor %}
+  </div>
+{% endif %}
 
 <div class="post-list">
-
-  {% for post in paginator.posts %}
-  <div class="post" id="{{ post.id | remove: '/blog/' }}">
-    <h2 class="post-title">
-      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    </h2>
-    <p class="post-meta">{% include month_locales.html %}</p>
-    <p>
-      <a href="{{ post.url | prepend: site.baseurl }}">{% include post_image.html %}</a>
-    </p>
-    <p>{{ post.content | remove: '<img>' | strip_html | truncatewords: 50 }}</p>
-    <p class="post-link">
-      <a href="{{ post.url | prepend: site.baseurl }}">Lue lisää &rarr;</a>
-    </p>
-  </div>
-  {% endfor %}
-
-  {% comment %}
-  {% for post in paginator.posts %}
-  <div class="post" id="{{ post.id | remove: '/blog/' }}">
-    <h2 class="post-title">
-      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    </h2>
-    <p class="post-meta">{% include month_locales.html %}</p>
-    <p>{{ post.content }}</p>
-  </div>
-  {% endfor %}
-  {% endcomment %}
-
+  {% if paginator.page == 1 %}
+    {% for post in paginator.posts | offset: 1 %}
+    <div class="post" id="{{ post.id | remove: '/blog/' }}">
+      <a href="{{ post.url | prepend: site.baseurl }}">
+        <h4 class="post-title">{{ post.title }}</h4>
+        <span class="post-meta">{% include month_locales.html %}</span>
+      </a>
+    </div>
+    {% endfor %}
+  {% else %}
+    {% for post in paginator.posts %}
+    <div class="post" id="{{ post.id | remove: '/blog/' }}">
+      <a href="{{ post.url | prepend: site.baseurl }}">
+        <h4 class="post-title">{{ post.title }}</h4>
+        <span class="post-meta">{% include month_locales.html %}</span>
+      </a>
+    </div>
+    {% endfor %}
+  {% endif %}
 </div>
 
 <!-- Pagination links -->
