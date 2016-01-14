@@ -13,6 +13,7 @@ This is a guick style reference for the elements used on the site.
 [Emphasis](#emphasis)  
 [Lists](#lists)  
 [Links](#links)  
+[Buttons](#buttons)  
 [Images](#images)  
 [Code](#code)  
 [Tables](#tables)  
@@ -114,6 +115,18 @@ Combined emphasis with **asterisks and _underscores_**.
 [Mailto link](mailto:mail@example.com)
 
 [Mailto link with a subject](mailto:mail@example.com?subject=Example subject)
+
+---
+
+<a name="buttons"/>
+
+## Buttons
+
+<a href="" class="btn">Blue button</a>
+
+<a href="" class="btn btn-outline">Outline button</a>
+
+<a href="" class="btn btn-light">Light button</a>
 
 ---
 
