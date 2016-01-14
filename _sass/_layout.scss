@@ -4,7 +4,6 @@
   box-shadow: 0 1px 0 $border-color;
 
   @include media-query($on-palm) {
-
     .wrapper {
       padding-left: 0;
       padding-right: 0;
@@ -168,7 +167,6 @@
 // Blog
 
 .post-featured {
-
   .post {
     padding-bottom: $spacing-unit;
     border-bottom: 1px solid $border-color;
@@ -180,7 +178,6 @@
 }
 
 .post-list {
-
   .post {
     border-bottom: 1px solid $border-color;
 
@@ -211,7 +208,6 @@
 }
 
 .post {
-
   .post-header {
     margin-bottom: $spacing-unit;
   }
