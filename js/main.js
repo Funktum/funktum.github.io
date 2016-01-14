@@ -7,6 +7,9 @@ if ($(window).width() > 600) {
   $('.page-content img:not([class])').attr('class', 'image-popup');
 }
 
+// Add class to paragraphs containing images
+$('p > img').parent('p').attr('class', 'has-image');
+
 // Lightbox
 jQuery(document).ready(function($) {
   $('img.image-popup').click(function(e) {
