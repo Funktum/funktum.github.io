@@ -40,16 +40,20 @@ prose:
     - favicon.ico
   metadata:
     "":
-      - name: title
+      - name: layout
         field:
-          element: text
-          label: Title
+          element: hidden
+          value: page
       - name: published
         field:
           element: checkbox
           label: Publish
           help: Uncheck if you don't want to publish the page right now
           value: true
+      - name: title
+        field:
+          element: text
+          label: Title
     _posts:
       - name: layout
         field:
