@@ -69,13 +69,18 @@ prose:
         field:
           element: text
           label: Hero image
-          placeholder: your-image.jpg
-          help: File has to exist in media folder
+          placeholder: /media/your-image.jpg
+          help: Full path to image
       - name: permalink
         field:
           element: text
           label: Page URL
           placeholder: /page-url/
+      - name: description
+        field:
+          element: textarea
+          label: Description
+          help: Search engine and social media description
     _posts:
       - name: layout
         field:
