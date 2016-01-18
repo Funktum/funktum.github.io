@@ -9,10 +9,11 @@ Alla stiler som används på sajten kan hittas i `styleguide.md` filen och på h
 
 ## Nytt bloginlägg
 
-Skapa en ny fil i `_posts` mappen enligt formatet `YYYY-MM-DD-post-title.md` och lägg koden nedan i början av filen.
+Skapa en ny fil i `_posts` mappen enligt formatet `YYYY-MM-DD-post-title.md` och lägg koden nedan i början av filen. Om du inte vill publicera inlägget sätt `published` till `false`, när du vill publicera ändra den till `true`.
 
     ---
     layout: post
+    published: true | false
     title: Welcome to Jekyll!
     ---
 
