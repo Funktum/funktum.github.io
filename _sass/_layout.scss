@@ -3,7 +3,7 @@
 .top-bar {
   box-shadow: 0 1px 0 $border-color;
 
-  @include media-query($on-palm) {
+  @include media-query($on-tablet) {
     .wrapper {
       padding-left: 0;
       padding-right: 0;
@@ -19,7 +19,7 @@
       display: none;
     }
 
-    @include media-query($on-palm) {
+    @include media-query($on-tablet) {
       line-height: 72px;
       border-right: 1px solid $border-color;
 
@@ -32,7 +32,7 @@
       }
     }
 
-  @include media-query($on-small) {
+  @include media-query($on-phone) {
     .mobile, .desktop {
       display: none;
     }
@@ -43,7 +43,7 @@
   .site-nav {
     float: right;
 
-    @include media-query($on-small) {
+    @include media-query($on-phone) {
       float: none;
       margin: 0;
       text-align: center;
@@ -56,13 +56,13 @@
       padding: 0 $spacing-unit / 2;
       color: $grey-color;
 
-      @include media-query($on-palm) {
+      @include media-query($on-tablet) {
         line-height: 78px;
         height: 72px;
         padding: 0 $spacing-unit / 3;
       }
 
-      @include media-query($on-small) {
+      @include media-query($on-phone) {
         font-size: 14px;
         line-height: 68px;
         height: 64px;
@@ -102,7 +102,7 @@
     line-height: 1.5;
     margin-bottom: $spacing-unit * 1.5;
 
-    @include media-query($on-palm) {
+    @include media-query($on-tablet) {
       margin-bottom: $spacing-unit;
     }
   }
@@ -112,7 +112,7 @@
     padding: 12px 20px;
   }
 
-  @include media-query($on-palm) {
+  @include media-query($on-tablet) {
     padding: ($spacing-unit * 1.5) 0;
   }
 }
@@ -121,7 +121,7 @@
 .fb-like {
   float: right;
 
-  @include media-query($on-palm) {
+  @include media-query($on-tablet) {
     float: none;
     margin-top: $spacing-unit / 2;
   }
@@ -159,7 +159,7 @@
 .page-content {
   margin: ($spacing-unit * 2) 0;
 
-  @include media-query($on-palm) {
+  @include media-query($on-tablet) {
     margin: ($spacing-unit * 1.5) 0;
   }
 }
@@ -196,7 +196,7 @@
       padding-top: $spacing-unit / 2;
       padding-bottom: $spacing-unit / 2;
 
-      @include media-query($on-palm) {
+      @include media-query($on-tablet) {
         display: block;
       }
 
