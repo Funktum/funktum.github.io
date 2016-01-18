@@ -9,7 +9,7 @@ share_image: /img/opengraph_share.png
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: /blog/:title/
 
 # Blog settings
 paginate: 20
