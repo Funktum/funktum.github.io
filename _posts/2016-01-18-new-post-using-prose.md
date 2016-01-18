@@ -4,6 +4,7 @@ published: false
 title: New post using prose
 ---
 
+
 Lorem markdownum post ora et, profugi amplexans Hercule conantur. Satus gelidus
 et Calydonis procul ad Sicyonius nux saepe tinxit, ab est. Iuvatis
 [petens](http://seenly.com/) iuvenes postquam pulsis Maeonias obliquaque pater
@@ -12,7 +13,7 @@ dilexit [ostendit](http://news.ycombinator.com/) minari mihi peteret *per*.
 Vultus cupiens maesta qui ut aquarum, tu cum si mediis tendens tremescere
 rigidumve in tauri.
 
-![A cat]({{site.baseurl}}/media/kissa.jpg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lINPGKAQPwg" frameborder="0" allowfullscreen></iframe>
 
 - Nunc Delphi anas cur perpessi latis semianimem
 - Veluti gramina et nolim
