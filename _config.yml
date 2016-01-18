@@ -19,7 +19,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      permalink: "/test/:title/"
+      permalink: "/blog/:title"
       is_post: true
 
 # Prose.io settings
