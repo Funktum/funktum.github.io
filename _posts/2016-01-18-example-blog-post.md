@@ -2,7 +2,6 @@
 layout: post
 published: true
 title: Example blog post
-permalink: "test-permalink"
 ---
 
 
