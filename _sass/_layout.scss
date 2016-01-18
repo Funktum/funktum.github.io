@@ -118,12 +118,17 @@
 }
 
 // Facebook like
-.fb-like {
-  float: right;
+.fb-like-wrapper {
+  max-width: 100%;
+  overflow: hidden;
 
-  @include media-query($on-tablet) {
-    float: none;
-    margin-top: $spacing-unit / 2;
+  .fb-like {
+    float: right;
+
+    @include media-query($on-tablet) {
+      float: none;
+      margin-top: $spacing-unit / 2;
+    }
   }
 }
 
