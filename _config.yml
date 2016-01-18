@@ -19,7 +19,6 @@ defaults:
       path: ""
       type: "posts"
     values:
-      permalink: /blog/:title/
       is_post: true
 
 # Prose.io settings
