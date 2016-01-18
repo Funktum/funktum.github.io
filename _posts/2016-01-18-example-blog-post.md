@@ -2,7 +2,9 @@
 layout: post
 published: true
 title: Example blog post
+permalink: "test-permalink"
 ---
+
 
 Terris ceciderat portans iusto sequentem **saepe mansit** strepitum teretem, nec
 viri per incubuit namque est sidera caelatus mihi locuturo! Omni via proximitas
