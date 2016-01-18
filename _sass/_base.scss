@@ -166,6 +166,16 @@ pre {
 }
 
 
+// Iframe embeds
+
+article {
+  iframe {
+    width: 100%;
+    margin-bottom: $spacing-unit / 1.5;
+  }
+}
+
+
 // Wrapper
 
 .wrapper {
