@@ -7,6 +7,10 @@ ga: UA-66809541-1
 baseurl: ""
 share_image: /img/opengraph_share.png
 
+# Build settings
+markdown: kramdown
+permalink: pretty
+
 # Blog settings
 paginate: 20
 paginate_path: "/blog/page/:num/"
@@ -69,10 +73,6 @@ prose:
         field:
           element: text
           label: Title
-
-# Build settings
-markdown: kramdown
-permalink: pretty
 
 # Set the Sass partials directory, as we're using @imports
 sass:
