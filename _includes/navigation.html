@@ -1,7 +1,7 @@
 {% capture html %}
 
   {% if include.context == "/" %}
-    <a class="{% if page.url == "/" %}active{% endif %}" href="{{ site.baseurl }}/">Etusivu</a>
+    <a class="{% if page.is_index %}active{% endif %}" href="{{ site.baseurl }}/">Etusivu</a>
   {% endif %}
 
   {% assign entries = site.pages | sort: "weight" %}

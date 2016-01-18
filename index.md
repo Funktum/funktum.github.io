@@ -1,4 +1,5 @@
 ---
+is_index: true
 layout: default
 title: Etusivu
 weight: 0
