@@ -3,7 +3,7 @@ layout: page
 title: Yrityksille
 permalink: /yrityksille/
 weight: 3
-image: /img/gallery/forelasning-1.jpg
+hero_image: /media/forelasning-1.jpg
 ---
 
 
