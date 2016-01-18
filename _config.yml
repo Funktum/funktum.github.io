@@ -9,7 +9,7 @@ share_image: /img/opengraph_share.png
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: /:categories/:title/
 
 # Blog settings
 paginate: 20
@@ -19,6 +19,7 @@ defaults:
       path: ""
       type: "posts"
     values:
+      category: blog
       is_post: true
 
 # Prose.io settings
