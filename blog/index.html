@@ -12,7 +12,9 @@ weight: 10
         <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </h2>
       <p class="post-meta">{% include month_locales.html %}</p>
-      <p>{{ post.content }}</p>
+      <article class="post-content">
+          {{ post.content }}
+        </article>
     </div>
     {% endfor %}
   </div>
