@@ -1,8 +1,11 @@
-{% assign images = page.content | split: '<img' %}
+{% assign images = page.content | markdownify | split: '<img' %}
 {% for image in images %}
   {% if image contains 'src=' %}
     {% assign page_image_src = image | split: 'src="' %}
     {% assign page_image_src = page_image_src[1] | split: '"' | first %}
+    {% if page_image_src contains '{{site.baseurl}}' %}
+      {% assign page_image_src = page_image_src | remove: '{{site.baseurl}}' %}
+    {% endif %}
     {% break %}
   {% endif %}
 {% endfor %}
