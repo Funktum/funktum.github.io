@@ -2,6 +2,7 @@
 layout: page
 permalink: /parkourkurssi/
 ---
+# Parkour alkeiskurssi
 
 Funktum järjestää Solvallan urheiluopistolla 12 kerran parkourkurssin 7-10 vuotiaille. Kurssin aikana opettelemme erilaisia 
 parkour-tekniikoita ja leikimme parkour aiheisia leikkejä. Mukaan mahtuu myös akrobaattisia temppuja kuten päällä ja käslläseisontaa
