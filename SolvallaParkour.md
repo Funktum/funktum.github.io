@@ -1,8 +1,6 @@
 ---
 layout: page
 permalink: /parkourkurssi/
-published: true
-title: ""
 ---
 
 
