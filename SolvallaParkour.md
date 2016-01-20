@@ -18,6 +18,8 @@ Parkour on moderni urbaanilaji jossa ideana on päästä mahdollisimman nopeasti
 Itse lajissa ei ole sääntöjä eli kyseessä on vapaa liikkuminen. Erilaisia tapoja on kuitenkin kehitetty jotka olosuhteista
 riippuen voi toimia paremmin kuin toiset. 
 
+![Lazy vault]({{site.baseurl}}/media/Parkour.jpg)
+
 ### Ilmoittautuminen
 
 Lähetä ilmoittautumisviesti osoitteeseen [sampsa@funktum.fi](mailto:{{ site.email }})
@@ -29,6 +31,7 @@ Viestissä tulee olla:
 - Laskutusosoite
 - Huoltajan nimi ja puhelinnumero
 - Osallistujan mahdolliset erityistarpeet
+
 
 
 **Kurssin hinta _150€_ / osallistuja (sisältää alv:n)**
