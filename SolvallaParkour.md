@@ -20,11 +20,11 @@ riippuen voi toimia paremmin kuin toiset.
 Lähetä ilmoittautumisviesti osoitteeseen [sampsa@funktum.fi](mailto:{{ site.email }})
 
 Viestissä tulee olla:
--  Kyseisen kurssin nimi (Parkour kurssi Solvalla)
--  Osallistujan nimi
--  Laskutusosoite
--  Huoltajan nimi ja puhelinnumero
--  Osallistujan mahdolliset erityistarpeet
+* Kyseisen kurssin nimi (Parkour kurssi Solvalla)
+* Osallistujan nimi
+* Laskutusosoite
+* Huoltajan nimi ja puhelinnumero
+* Osallistujan mahdolliset erityistarpeet
 
 **Kurssin hinta _150€_ / osallistuja (sisältää alv:n)**
 
