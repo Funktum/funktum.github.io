@@ -7,8 +7,7 @@ permalink: /parkourkurssi/
 
 Funktum järjestää Solvallan urheiluopistolla 12 kerran parkourkurssin 7-10 vuotiaille. Kurssin aikana opettelemme erilaisia 
 parkour-tekniikoita ja leikimme parkour aiheisia leikkejä. Mukaan mahtuu myös akrobaattisia temppuja kuten päällä ja käslläseisontaa
-sekä erilaisia kuperkeikkoja ja hyppyjä. Parkour on erittäin monipuolinen laji joka kehittää mm. ketteryyttä, koordinaatiota, jäntevyyttä, kehonhallintaa ja tasapainoa.
-Täten parkour soveltuu mainiosti muiden lajien oheisharjoitteluksi.
+sekä erilaisia kuperkeikkoja ja hyppyjä. Parkour on erittäin monipuolinen laji joka kehittää mm. ketteryyttä, koordinaatiota, jäntevyyttä, kehonhallintaa ja tasapainoa. Täten parkour soveltuu mainiosti muiden lajien oheisharjoitteluksi.
 
 ### Mitä on parkour?
 
@@ -21,11 +20,11 @@ riippuen voi toimia paremmin kuin toiset.
 Lähetä ilmoittautumisviesti osoitteeseen [sampsa@funktum.fi](mailto:{{ site.email }})
 
 Viestissä tulee olla:
-- Kyseisen kurssin nimi (Parkour kurssi Solvalla)
-- Osallistujan nimi
-- Laskutusosoite
-- Huoltajan nimi ja puhelinnumero
-- Osallistujan mahdolliset erityistarpeet
+-  Kyseisen kurssin nimi (Parkour kurssi Solvalla)
+-  Osallistujan nimi
+-  Laskutusosoite
+-  Huoltajan nimi ja puhelinnumero
+-  Osallistujan mahdolliset erityistarpeet
 
 **Kurssin hinta _150€_ / osallistuja (sisältää alv:n)**
 
