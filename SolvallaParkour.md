@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: /parkourkurssi/
-published: true
 title: Parkour alkeiskurssi
 ---
 
