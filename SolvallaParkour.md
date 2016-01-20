@@ -1,7 +1,10 @@
 ---
 layout: page
 permalink: /parkourkurssi/
+published: true
+title: Untitled
 ---
+
 
 ## Parkourin alkeiskurssi
 
@@ -20,11 +23,13 @@ riippuen voi toimia paremmin kuin toiset.
 Lähetä ilmoittautumisviesti osoitteeseen [sampsa@funktum.fi](mailto:{{ site.email }})
 
 Viestissä tulee olla:
-* Kyseisen kurssin nimi (Parkour kurssi Solvalla)
-* Osallistujan nimi
-* Laskutusosoite
-* Huoltajan nimi ja puhelinnumero
-* Osallistujan mahdolliset erityistarpeet
+
+- Kyseisen kurssin nimi (parkour kurssi Solvalla)
+- Osallistujan nimi ja ikä
+- Laskutusosoite
+- Huoltajan nimi ja puhelinnumero
+- Osallistujan mahdolliset erityistarpeet
+
 
 **Kurssin hinta _150€_ / osallistuja (sisältää alv:n)**
 
