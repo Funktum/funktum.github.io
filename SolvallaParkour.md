@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /parkourkurssi/
-published: false
+published: true
 title: Untitled
 ---
 
