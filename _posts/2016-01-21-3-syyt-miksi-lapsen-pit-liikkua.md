@@ -17,6 +17,6 @@ Lapsen luusto vahvistuu tietynlaisen rasituksen myötä. Liikunnan/rasituksen tu
  
 ### 3. Parantaa itsetuntoa ja oppimista
  
-Liikunta tukee lapsen itsetuntoa ja oppimista. Lapsen itsetunto paranee onnistumisien myötä. Tämän ajattelumaailmakin kehittyy liikkumalla. Liikunta edistää muistamista, käsitteiden oppimista ja rytmitajua. Ryhmässä lapsi oppii olemaan osa ryhmää ja miten ryhmässä toimitaan. Liikunta kehittää myös sosiaalista vuorovaikutusta sekä antaa lapselle mahdollisuuden ylittää omia rajoja ja kokeilla uusia juttuja.
+Liikunta tukee lapsen itsetuntoa ja oppimista. Lapsen itsetunto paranee onnistumisien myötä. Liikunta edistää muistamista, käsitteiden oppimista ja rytmitajua. Ryhmässä lapsi oppii olemaan osa ryhmää ja miten ryhmässä toimitaan. Liikunta kehittää myös sosiaalista vuorovaikutusta sekä antaa lapselle mahdollisuuden ylittää omia rajoja ja kokeilla uusia juttuja.
 
 
