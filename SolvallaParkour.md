@@ -16,9 +16,19 @@ riippuen voi toimia paremmin kuin toiset.
 
 ![Lazy vault]({{site.baseurl}}/media/Parkour.jpg)
 
+### Kurssi
+
+**Kurssin hinta _150€_ / osallistuja** (sisältää alv:n)
+
+Kurssi alkaa 9.2.2016 ja siitä eteenpäin joka tiistai klo. 18.00-19.00
+
+Kurssi järjestetään 12 kertaa
+
+Sijainti on Solvallan urheiluopisto, Nuuksiontie 82, Espoo. Iso valkoinen rakennus luontokeskus Haltian vieressä.
+
 ### Ilmoittautuminen
 
-Lähetä ilmoittautumisviesti osoitteeseen [sampsa@funktum.fi](mailto:{{ site.email }})
+Lähetä ilmoittautumisviesti osoitteeseen [sampsa@funktum.fi](mailto:{{ site.email }}?subject=Parkour kurssi Solvall&body=Kyseisen%20kurssin%20nimi%20%28parkour%20kurssi%20Solvalla%29%0AOsallistujan%20nimi%20ja%20ik%C3%A4%0ALaskutusosoite%0AHuoltajan%20nimi%20ja%20puhelinnumero%0AOsallistujan%20mahdolliset%20erityistarpeet)
 
 Viestissä tulee olla:
 
@@ -27,16 +37,6 @@ Viestissä tulee olla:
 - Laskutusosoite
 - Huoltajan nimi ja puhelinnumero
 - Osallistujan mahdolliset erityistarpeet
-
-
-
-**Kurssin hinta _150€_ / osallistuja (sisältää alv:n)**
-
-**Kurssi alkaa 9.2.2016 ja siitä eteenpäin joka tiistai klo. 18.00-19.00**
-
-**Kurssi järjestetään 12 kertaa**
-
-**Sijainti on Solvallan urheiluopisto, Nuuksiontie 82, Espoo. Iso valkoinen rakennus luontokeskus Haltian vieressä.**
 
 
 #### Tervetuloa!
