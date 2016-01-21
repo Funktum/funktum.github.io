@@ -38,5 +38,6 @@ Viestissä tulee olla:
 - Huoltajan nimi ja puhelinnumero
 - Osallistujan mahdolliset erityistarpeet
 
+**Ilmoittaudu viimeistään 2.2.2016 mennessä!**
 
 #### Tervetuloa!
