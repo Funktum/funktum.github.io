@@ -37,3 +37,6 @@ Viestissä tulee olla:
 **Kurssi järjestetään 12 kertaa**
 
 **Sijainti on Solvallan urheiluopisto, Nuuksiontie 82, Espoo. Iso valkoinen rakennus luontokeskus Haltian vieressä.**
+
+
+#### Tervetuloa!
