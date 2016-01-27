@@ -26,7 +26,7 @@ Se ei kuitenkaan maailmaa kaada jos vaikka viikon aikana treenaa liikaa ja kehit
 
 Palautumista seurataan harrastelijatasolla usein fiiliksellä. Jos treenaaminen tuntuu suossa polkemiselta jo kolmatta viikkoa putkeen, kannattaa suosiolla pitää vähän taukoa tai jos on kokoajan kipeänä ja väsyneenä voi lepoviikon pistää harkintaan. Pitää myös muistaa että stressi ja fyysinen työ rasittaa kroppaa ja hermostoa. Treenaaminen kohottaa parhaimmillaan fiilistä ja henkistä hyvinvointia.
 
-Jos leposyke on tiedossa, voi palautumista seurata sykkeen perusteella. Jos aamulla mittaamasi leposyke on korkeammalla kuin tavallisesti, voi epäillä ettei keho vielä ole palautunut rasituksesta. Jätä silloin rääkkitreeni väliin ja mene vaikka kävelylle tai palauttavalle kepposalle lenkille. 
+Jos leposyke on tiedossa, voi palautumista seurata sykkeen perusteella. Jos aamulla mittaamasi leposyke on korkeammalla kuin tavallisesti, voi epäillä ettei keho vielä ole palautunut rasituksesta. Jätä silloin rääkkitreeni väliin ja mene vaikka kävelylle tai palauttavalle lenkille. 
 
 ### Muut tekiät
 
