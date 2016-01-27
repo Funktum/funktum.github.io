@@ -20,7 +20,7 @@ Pahimmassa tapauksessa lepää ja palautuu aivan liian vähän, jolloin saadaan 
 
 ![aivan liian lyhyt.png]({{site.baseurl}}/media/aivan liian lyhyt.png)
 
-Se ei kuitenkaan maailmaa kaada jos vaikka viikon aikana treenaa liikaa ja kehitys laskee, Silloin pitää vain muistaa pitää hieman pidempi palautumisjakso. Jos treenaa ja rasittaa kroppaa liikaa kuukausia tai jopa vuosia, voi tätä kutsua ylikunnoksi / krooniseksi ylikunnoksi. 
+Se ei kuitenkaan maailmaa kaada jos vaikka viikon aikana treenaa liikaa ja kehitys laskee. Silloin pitää vain muistaa pitää hieman pidempi palautumisjakso. Jos treenaa ja rasittaa kroppaa liikaa kuukausia tai jopa vuosia, voi tätä kutsua ylikunnoksi / krooniseksi ylikunnoksi. 
 
 ### Palautumisen seuranta
 
