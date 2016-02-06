@@ -3,7 +3,7 @@ jQuery('a[href^="http:"], a[href^="https:"]').not('[href*="funktum.fi"]').attr('
 jQuery('a[href$=".pdf"]').attr('target','_blank');
 
 // Add class to paragraphs containing images
-$('p > img').parent('p').attr('class', 'has-image');
+$('p > img:not([class]').parent('p').attr('class', 'has-image');
 
 // Add lightbox only on bigger screens that are not touch screens
 if ($(window).width() > 600 && !Modernizr.touch) {
