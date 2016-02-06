@@ -85,6 +85,7 @@ exclude:
   - LICENSE
   - README.md
   - TODO
+  - vendor
 
 # Gems to use
 gems:
