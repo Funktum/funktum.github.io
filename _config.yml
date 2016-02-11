@@ -89,5 +89,4 @@ exclude:
 
 # Gems to use
 gems:
-  - octopress-autoprefixer
   - jekyll-paginate
