@@ -25,3 +25,5 @@ Tee näin:
 On suotavaa tehdä liike ilman kenkiä.
 Jos aluksi ei pääse syväkyykkyyn, laita kantapäiden alle pieni korko. Tämän pitäisi helpottaa suoritusta. Madalla korkoa pikkuhiljaa kunnes kykenet suorittamaan liikkeen tasaisella lattialla. 
 
+Kiitos ja kyykky!
+
