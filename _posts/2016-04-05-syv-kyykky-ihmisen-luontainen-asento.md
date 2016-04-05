@@ -21,10 +21,10 @@ Syväkyykyssä voi olla pitkiäkin aikoja mutta aluksi kuin lähtee harjoittelem
 
 Tee näin:
 
--   Ota hartian levyinen asento
--   Jalkaterät voivat osoittaa hieman ulospäin
--   Mene hallitusti syväkyykkyyn, polvet laskeutuen jalkateriä kohti 
--   Pidä selkä & hartiat mahdollisimman hyvässä, ryhdikkäässä asennossa
+*   Ota hartian levyinen asento
+*   Jalkaterät voivat osoittaa hieman ulospäin
+*   Mene hallitusti syväkyykkyyn, polvet laskeutuen jalkateriä kohti 
+*   Pidä selkä & hartiat mahdollisimman hyvässä, ryhdikkäässä asennossa
 
 On suotavaa tehdä liike ilman kenkiä.
 Jos aluksi ei pääse syväkyykkyyn, laita kantapäiden alle pieni korko. Tämän pitäisi helpottaa suoritusta. Madalla korkoa pikkuhiljaa kunnes kykenet suorittamaan liikkeen tasaisella lattialla. 
