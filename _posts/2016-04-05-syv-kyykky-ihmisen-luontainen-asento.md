@@ -17,7 +17,7 @@ Tuolilla istuminen ja syväkyykyssä oleminen on täysin eri asia. Tuolilla istu
 
 ### Kuinka usein ja miten?
 
-Syväkyykyssä voi olla pitkiäkin aikoja mutta aluksi kuin lähtee harjoittelemaan, olisi hyvä kököttää kyykyssä päivittäin ainakin viisi minuuttia, mielellään enemmän. Kyykyssä ei tietenkään tarvitse olla yhtäjaksoisesti, aluksi 30 sekuntia saattaa tehdä tiukkaa. Kunhan jaksaa säännöllisesti harjoitella vaikka telkkarin ääressä, tulokset paranevat varmasti. 
+Syväkyykyssä voi olla pitkiäkin aikoja mutta aluksi kun lähtee harjoittelemaan, kyykyssä olisi hyvä olla päivittäin ainakin viisi minuuttia, mielellään enemmän. Kyykyssä ei tietenkään tarvitse olla yhtäjaksoisesti, aluksi 30 sekuntia saattaa tehdä tiukkaa. Kunhan jaksaa säännöllisesti harjoitella vaikka telkkarin ääressä, tulokset paranevat varmasti. 
 
 ### Tee näin:
 
