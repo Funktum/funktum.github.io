@@ -10,7 +10,7 @@ Tuolit olivat suomessa harvinaisia ennen 1700-lukua. Ennen tuolien ilmaantumista
 
 ### Miksi syväkyykky kun on tuolikin?
 
-Tuolilla istuminen ja syväkyykyssä oleminen on täysin eri asia. Tuolilla istuminen ei hyödynnä terveyttäsi juuri millään tavalla kuin taas syväkyykyssä olemisella on monta hyvää terveysvaikutusta. Syväkyykky edistää nilkkojen, polvien, lantion ja yläselän liikkuvuutta, vahvistaa mm pakaralihaksia sekä etu-ja takareisiä, aktivoi myös keskivartalon lihaksia. Syväkyykky korjaa ryhtiä lisääntyvän liikkuvuuden myötä ja vahvistaa polvia (ennaltaehkäisee polvivaivoja). Moni on myös saanut apua selkävaivoihin harjoittelemalla syväkyykyssä olemista. 
+Tuolilla istuminen ja syväkyykyssä oleminen on täysin eri asia. Tuolilla istuminen ei hyödynnä terveyttäsi juuri millään tavalla kuin taas syväkyykyssä olemisella on monta hyvää terveysvaikutusta. Syväkyykky edistää nilkkojen, polvien, lantion ja yläselän liikkuvuutta.Syväkyykky vahvistaa mm. pakaralihaksia sekä etu-ja takareisiä ja se aktivoi myös keskivartalon lihaksia. Syväkyykky korjaa ryhtiä lisääntyvän liikkuvuuden myötä ja vahvistaa polvia (ennaltaehkäisee polvivaivoja). Moni on myös saanut apua selkävaivoihin harjoittelemalla syväkyykyssä olemista. 
 
 ![]({{site.baseurl}}/media/syv%C3%A4kyykky.jpg)
 ![]({{site.baseurl}}/media/syv%C3%A4kyykky2.jpg)
