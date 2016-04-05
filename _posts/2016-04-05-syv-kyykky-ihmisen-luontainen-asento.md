@@ -10,8 +10,8 @@ Tuolit olivat suomessa harvinaisia ennen 1700-lukua. Ennen tuolien ilmaantumista
 
 Miksi minun pitäisi harkita syväkyykyssä olemista kuin kerran tuolit on keksitty? Tuolilla istuminen ja syväkyykyssä oleminen on täysin eri asia. Tuolilla istuminen ei hyödynnä terveyttäsi juuri millään tavalla kuin taas syväkyykyssä olemisella on monta hyvää terveysvaikutusta. Syväkyykky edistää nilkkojen, polvien, lantion ja yläselän liikkuvuutta, vahvistaa mm pakaralihaksia sekä etu-ja takareisiä, aktivoi myös keskivartalon lihaksia. Syväkyykky korjaa ryhtiä lisääntyvän liikkuvuuden myötä ja vahvistaa polvia (ennaltaehkäisee polvivaivoja). Moni on myös saanut apua selkävaivoihin harjoittelemalla syväkyykyssä olemista. 
 
-![syväkyykkypieni.jpg]({{site.baseurl}}/media/syväkyykkypieni.jpg)
 ![]({{site.baseurl}}/media/syv%C3%A4kyykky.jpg)
+![]({{site.baseurl}}/media/syv%C3%A4kyykky2.jpg)
 
 Kuinka usein ja miten?
 Syväkyykyssä voi olla pitkiäkin aikoja mutta aluksi kuin lähtee harjoittelemaan, olisi hyvä kököttää kyykyssä päivittäin ainakin viisi minuuttia, mielellään enemmän. Kyykyssä ei tietenkään tarvitse olla yhtäjaksoisesti, aluksi 30 sekuntia saattaa tehdä tiukkaa. Kunhan jaksaa säännöllisesti harjoitella vaikka telkkarin ääressä, tulokset paranevat varmasti. 
