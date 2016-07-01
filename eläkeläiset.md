@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /styleguide/
+permalink: /seniorit/
 noindex: true
 ---
 
