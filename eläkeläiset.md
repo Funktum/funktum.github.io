@@ -14,4 +14,4 @@ Tervetuloa!
 
 `Hinta yli  10 hlö ryhmä 435€ sis alv`
 
-Tilaa tuote [sähköpostitse](mailto:{{ site.email }}) tai soita numeroon +358 40 351 3174
+Tilaa palvelu [sähköpostitse](mailto:{{ site.email }}) tai soita numeroon +358 40 351 3174
