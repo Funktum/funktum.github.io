@@ -1,12 +1,9 @@
 ---
 layout: page
 permalink: /seniorit/
-noindex: true
-published: true
-title: Seniori reippailu Nuuksion kansallispuistossa
-hero_image: /media/noux view.JPG/
 ---
 
+## Seniori reippailu Nuuksion kansallispuistossa
 
 ![noux view.JPG]({{site.baseurl}}/media/noux%20view.JPG)
 
