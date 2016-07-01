@@ -2,13 +2,18 @@
 layout: page
 permalink: /seniorit/
 noindex: true
+published: true
+title: Untitled
 ---
 
 ## Seniori reippailu Nuuksion kansallispuistossa
 
-Tarjoamme eläkeläisryhmille reippailua Nuuksion kansallispuistossa. Ohjelmaan kuuluu sauvakävely, kahvituokio ja pienimuotoinen kilpailu. Reitit ovat helppokulkuisia ja alusta on tasainen hiekkapolku. Kävelemme reippaasti mutta kuitenkin niin että kaikki pysyvät vauhdissa mukana. Kahvia tarjoillaan näköaloja ihaillen metsän helmassa.  Mukaan tarvitset sauvat, ulkoiluun sopivat varusteet, juomapullon ja hyvän mielen. Mukaan pääsee myös ilman sauvoja. Retki kestää noin kaksi tuntia. 
+![noux view.JPG]({{site.baseurl}}/media/noux%20view.JPG)
+
+Tarjoamme senioriryhmille reippailua Nuuksion kansallispuistossa. Ohjelmaan kuuluu sauvakävely, kahvituokio ja pienimuotoinen kilpailu. Reitit ovat helppokulkuisia ja alusta on tasainen hiekkapolku. Kävelemme reippaasti mutta kuitenkin niin että kaikki pysyvät vauhdissa mukana. Kahvia tarjoillaan näköaloja ihaillen metsän helmassa.  Mukaan tarvitset sauvat, ulkoiluun sopivat varusteet, juomapullon ja hyvän mielen. Mukaan pääsee myös ilman sauvoja. Retki kestää noin kaksi tuntia. Tarvittaessa järjestämme bussikuljetuksen paikanpäälle. 
 
 Tervetuloa!
+
 
 `Hinta alle 10 hlö ryhmä 225€ sis alv`
 
