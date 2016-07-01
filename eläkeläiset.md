@@ -4,7 +4,7 @@ permalink: /seniorit/
 noindex: true
 published: true
 title: Seniori reippailu Nuuksion kansallispuistossa
-hero_image: /media/noux view.JPG
+hero_image: /media/noux view.JPG/
 ---
 
 
