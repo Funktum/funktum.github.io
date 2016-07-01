@@ -1,6 +1,8 @@
-    ---
-    layout: Sauvakävely eläkelläisille
-    permalink: /seniorit/
-    ---
-    
-    ## Seniori reippailu Nuuksion kansallispuistossa
+---
+layout: page
+permalink: /styleguide/
+noindex: true
+---
+
+## Seniori reippailu Nuuksion kansallispuistossa
+
