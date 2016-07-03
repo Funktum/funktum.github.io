@@ -18,5 +18,5 @@ ulkotiloissa. Ohjelman suhteen otamme huomioon omia ehdotuksianne tai voitte val
 
 Jos avulle on lisätarpeita, voimme kustomisoida ohjelman juuri teidän tarpeiden mukaan. Tässä tapauksessa lähetä tarjouspyyntö.
 
-Tilaukset ja yhteydenotot sähköpostitse
+Tilaukset ja yhteydenotot [sähköpostitse](mailto:{{ site.email }})
 
