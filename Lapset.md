@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Synttärit/
+permalink: /synttärit/
 ---
 
 ## Lasten synttärit
