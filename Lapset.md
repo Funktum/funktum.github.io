@@ -14,9 +14,9 @@ ulkotiloissa. Ohjelman suhteen otamme huomioon omia ehdotuksianne tai voitte val
 * Teamwork ala kids
 * Leikki mix
 
-`Hinta á 60 min, 149€ sis alv`
 
 Jos avulle on lisätarpeita, voimme kustomisoida ohjelman juuri teidän tarpeiden mukaan. Tässä tapauksessa lähetä tarjouspyyntö.
 
 Tilaukset ja yhteydenotot [sähköpostitse](mailto:{{ site.email }})
 
+`Hinta á 60 min, 149€ sis alv`
