@@ -16,6 +16,6 @@ Käytettävät kuntosalit ovat esim:
 * Kisakeskus, Helsingin keskusta
 * Muut yleiset tai kaupunkien (Helsinki, Vantaa, Espoo) kuntosalit
 
-Ota yhteyttä sähköpostitse tai soittamalla numeroon +358 (0) 40 351 3174
+Ota yhteyttä [sähköpostitse](mailto:{{ site.email }}) tai soittamalla numeroon +358 (0) 40 351 3174
 
 `Hinta, á 55min 70€ sis alv`
