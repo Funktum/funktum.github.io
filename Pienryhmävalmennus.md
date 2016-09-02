@@ -11,11 +11,11 @@ pururata tai vaikka oma koti. Halutessa hoidamme kuntotestit, kehonkoostumusmitt
 
 Käytettävät kuntosalit ovat esim:
 
-* Solvallan urheiluopiston kuntosali, Nuuksiontie 82
-* Pt-studio Tip Top kuntoon (melko pienet tilat), Oravannahkatori
+* Solvallan urheiluopiston kuntosali
+* Pt-studio Tip Top kuntoon (melko pienet tilat), Tapiola
 * Kisakeskus, Helsingin keskusta
 * Muut yleiset tai kaupunkien (Helsinki, Vantaa, Espoo) kuntosalit
 
 Ota yhteyttä [sähköpostitse](mailto:{{ site.email }}) tai soittamalla numeroon +358 (0) 40 351 3174
 
-`Hinta, á 55min 70€ sis alv`
+`Hinta, á 55min 65€ sis alv`
