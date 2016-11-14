@@ -3,7 +3,7 @@ layout: page
 permalink: /seniorijumppa/
 ---
 
-## Seniori jumppa 
+## Seniorijumppa 
 
 Tervetuloa mukaan jumppaamaan Matinkylän pirttiin tammikuun alussa! Luvassa monipuolista liikuntaa hyvässä ilmapiirissä.
 Treenaamme tiistaisin 10.1.2017 alkaen aina 10.3.2017 asti. Kahdentoista kerran jumpassa keskitymme toimintakyvyn ylläpitämiseen jotta
