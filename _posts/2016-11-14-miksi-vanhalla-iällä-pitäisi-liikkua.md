@@ -34,4 +34,4 @@ Kiteytetään vielä tärkeimmät pointit:
 * Liikunnan avulla voit tutustua uusiin ystäviin 
 * Liikunta on yksi oleellinen osa holistista elämää ja vaikuttaa lähes kaikkiin osa-alueisiin
 
-Joka päivä tehdään valintoja. Joko teet tai et tee. Valta on sinulla. Kiitos ja hyvää talven alkua!
+Joka päivä teet valintoja. Joko teet tai et tee. Valta on sinulla. Kiitos ja hyvää talven alkua!
