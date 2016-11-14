@@ -31,6 +31,6 @@ Ilmoittautuessa sähköpostitse kirjoita viestiin:
 * Syntymävuosi
 * Laskutusosoite
 
-`Hinta 100€ sis. alv`
+`Hinta 99€ sis. alv`
 
 Tervetuloa!
