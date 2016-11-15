@@ -13,7 +13,7 @@ Liikunnan tuomia hyötyjä on valtavasti. Hyödyt eivät ainoastaan ole fyysisi�
 nousee ja mielihyvä lisääntyy liikunnan myötä. Olen myös kuullut että jos aamuisin käyt esimerkiksi lenkillä, vaikuttaa tämä positiivisesti päivän
 aikana tekemääsi valintoihin. Allekirjoitan väitteen. 
 
-Noniin, perehdytään tarkemmin aiheeseen. Otsikossa mainittiin vanha ikä. No mikä se vanha ikä on? Minusta ikä on vain numero eikä määrittele
+Noniin, perehdytään tarkemmin aiheeseen. Otsikossa mainittiin vanha ikä. No mikä se vanha ikä on? Minusta ikä on vain numero eikä määritä
 fyysistä kuntoasi. Aktiivinen 60 vuotias voi olla paremmassa kunnossa kun passiivinen 40 vuotias. Olen tavannut henkilön joka tänä päivänä on 96 
 vuotias ja harrastaa liikuntaa aktiivisesti. Talvisin käy laskettelemassa ja pelaa pari kertaa viikossa tennistä "poikien" kanssa, eli 65+ vuotiaiden kanssa.
 90 syntymäpäivänä hän matkusti Alpeille ja siellä suoritti paraglide liidon. Paraglide on siis sitä kun huipulta lähdetään laskemaan rinnettä
