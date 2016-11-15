@@ -8,7 +8,7 @@ title: Miksi vanhalla iällä pitäisi liikkua?
 
 Lasten liikunta on tärkeää kuten myös senioriliikunta. Näissä ikäryhmissä liikunnan hyödyt kuitenkin eroavat. Lapsena liikutaan jotta opitaan 
 uusia liikeitä ja opetellaan kehonhallintaa ja koordinaatiota. Vanhemmalla iällä voi toki myös oppia uutta mutta pääpaino on pikemminkin aiemmin
-elämässä opittujen taitojen ylläpitämistä. Rautakin ruostuu ellei sitä rasvaa, tällä periaatteella ihmiskehokin toimii. 
+elämässä opittujen taitojen ylläpitämisessä. Rautakin ruostuu ellei sitä rasvaa, tällä periaatteella ihmiskehokin toimii. 
 Liikunnan tuomia hyötyjä on valtavasti. Hyödyt eivät ainoastaan ole fyysisiä vaan myös psyykkinen puoli virkistyy kummasti. Käytännössä vireystaso
 nousee ja mielihyvä lisääntyy liikunnan myötä. Olen myös kuullut että jos aamuisin käyt esimerkiksi lenkillä, vaikuttaa tämä positiivisesti päivän
 aikana tekemääsi valintoihin. Allekirjoitan väitteen. 
