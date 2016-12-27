@@ -1,8 +1,7 @@
 ---
 layout: page
 permalink: /seniorijumppa/
-published: false
-title: ''
+published: true
 ---
 
 ## Seniorijumppa 
