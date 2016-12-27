@@ -1,3 +1,8 @@
+---
+layout: page
+permalink: /Kerhot/
+---
+
 ## Kouluille kerhotoimintaa
 
 Järjestämme pääkaupunkiseudulla koulujen liikuntatiloissa kyseisen koulun oppilaille suunnattuja kerhoja. Teemana meillä on
