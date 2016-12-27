@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /seniorit/
+noindex: false
 ---
 
 ## Seniori reippailu Nuuksion kansallispuistossa
