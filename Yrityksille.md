@@ -1,3 +1,5 @@
+---
+layout: page
 title: yrityksille
 permalink: /yrityksille/
 weight: 2
