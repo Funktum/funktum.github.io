@@ -20,4 +20,4 @@ täten erilaista harjoittelua tai ruokavaliota. Parhaaseen lopputulokseen pääs
 | 20 tapaamista, á 55min    | 781,20 € / hlö      |
 | 30 tapaamista, á 55min    | 930,00 € / hlö      |
 
-![apple-19309_1920.png]({{site.baseurl}}/media/apple-19309_1920.png)
+
