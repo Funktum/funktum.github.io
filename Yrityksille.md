@@ -5,7 +5,7 @@ permalink: /yrityksille/
 weight: 2
 published: true
 ---
-![Pt 3.jpg]({{site.baseurl}}/media/Pt%203.jpg)![forelasning-3.jpg]({{site.baseurl}}/media/forelasning-3.jpg)
+![Pt 3.jpg]({{site.baseurl}}/media/Pt%203.jpg)![5D3_7238.jpg]({{site.baseurl}}/media/5D3_7238.jpg)
 
 ### Työhyvinvointi PT- palvelu
 
