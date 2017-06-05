@@ -5,6 +5,7 @@ permalink: /yrityksille/
 weight: 2
 published: true
 ---
+![]({{site.baseurl}}/media/apple-19309_1920.png)![apple-19309_1920.png]({{site.baseurl}}/media/apple-19309_1920.png)
 ![Pt 3.jpg]({{site.baseurl}}/media/Pt%203.jpg)![5D3_7238.jpg]({{site.baseurl}}/media/5D3_7238.jpg)
 
 ### Työhyvinvointi PT- palvelu
