@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "Palautuminen, ainoa tie tuloksiin"
+title: "Tapojen muuttaminen"
 ---
 
 ### Tapojen muuttaminen
