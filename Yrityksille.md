@@ -1,6 +1,6 @@
 ---
 layout: page
-title: yrityksille
+title: Yrityksille
 permalink: /yrityksille/
 weight: 2
 published: true
