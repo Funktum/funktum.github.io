@@ -11,13 +11,13 @@ published: true
 ### Työhyvinvointi PT- palvelu
 
 Paras tapa parantaa työntekiöiden hyvinvointia on auttaa heitä yksilötasolla. Kaikki ovat erilaisia ja kaipaavat
-täten erilaista harjoittelua tai ruokavaliota. Parhaaseen lopputulokseen päästään pitkäjänteisellä yhteistyöllä.
+täten erilaista harjoittelua tai ruokavaliota. Pysyviä muutoksia ja uusia tapoja syntyy pitkäjänteisellä yhteistyöllä.
 
 
-| Tuote                     | Hinta (sis. alv)    | 
-| ------------------------- | ------------------- | 
-| 10 tapaamista, á 55min    | 682,00 € / hlö      | 
-| 20 tapaamista, á 55min    | 781,20 € / hlö      |
-| 30 tapaamista, á 55min    | 930,00 € / hlö      |
+| Tuote                     | Hinta                | 
+| ------------------------- | -------------------- | 
+| 10 tapaamista, á 55min    | 600,00 € + alv / hlö | 
+| 20 tapaamista, á 55min    | 1160,00 € + alv / hlö|
+| 30 tapaamista, á 55min    | 1650,00 € + alv / hlö|
 
 
