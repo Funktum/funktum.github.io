@@ -4,7 +4,6 @@ published: true
 title: "Tapojen muuttaminen"
 ---
 
-### Tapojen muuttaminen
 
 
 Oletko kyllästynyt johonkin elämässäsi ja haluaisit muuttaa tapojasi? Tapojen muuttaminen on pitkäjänteistä hommaa ja vaatii pitkäaikaista sitoutumista. Usein sitä lähtee hyvin innokkaana muuttamaan asioita kertaheitolla. Valitettavasti tämä onnistuu hyvin harvoin. 
