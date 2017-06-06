@@ -10,7 +10,7 @@ published: true
 
 ### Työhyvinvointi PT- palvelu
 
-Paras tapa parantaa työntekiöiden hyvinvointia on auttaa heitä yksilötasolla. Kaikki ovat erilaisia ja kaipaavat
+Paras tapa parantaa työntekijöiden hyvinvointia on auttaa heitä yksilötasolla. Kaikki ovat erilaisia ja kaipaavat
 täten erilaista harjoittelua tai ruokavaliota. Pysyviä muutoksia ja uusia tapoja syntyy pitkäjänteisellä yhteistyöllä.
 
 
