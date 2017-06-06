@@ -1,10 +1,11 @@
 ---
 layout: post
 published: true
-title: "Tapojen muuttaminen"
+title: Tapojen muuttaminen
 ---
 
 
+![update-1672351_1920.png]({{site.baseurl}}/media/update-1672351_1920.png)
 
 Oletko kyllästynyt johonkin elämässäsi ja haluaisit muuttaa tapojasi? Tapojen muuttaminen on pitkäjänteistä hommaa ja vaatii pitkäaikaista sitoutumista. Usein sitä lähtee hyvin innokkaana muuttamaan asioita kertaheitolla. Valitettavasti tämä onnistuu hyvin harvoin. 
 
@@ -29,4 +30,4 @@ Ympäröi itsesi ihmisillä joilla on samankaltaisia tavoitteita tapojen muuttam
 
 #### Jatka haastamalla itseäsi
 
-Kun uusi tapa on hallussa ja muuttunut rutiiniksi, kannattaa jatkaa itsensä haastamista. Haasteilla saa lisättyä mielenkiintoa tekemiseen.  Se joka tänään on valmis, on huomenna pilalla. Jatka, haasta, jatka, haasta! 
+Kun uusi tapa on hallussa ja muuttunut rutiiniksi, kannattaa jatkaa itsensä haastamista. Haasteilla saa lisättyä mielenkiintoa tekemiseen.  Se joka tänään on valmis, on huomenna pilalla. Jatka, haasta, jatka, haasta!
