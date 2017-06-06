@@ -12,7 +12,7 @@ published: true
 
 Paras tapa parantaa työntekijöiden hyvinvointia on auttaa heitä yksilötasolla. Kaikki ovat erilaisia ja kaipaavat
 täten erilaista harjoittelua tai ruokavaliota. Pysyviä muutoksia ja uusia tapoja syntyy pitkäjänteisellä yhteistyöllä.
-[Lue lisää Blogista](/blog/)
+[Tutustu aiheisiin blogissa](/blog/)
 
 
 | Tuote                     | Hinta                | 
