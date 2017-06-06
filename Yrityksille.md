@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yrityksille
-permalink: /yrityksille/
+permalink: /Yrityksille/
 weight: 2
 published: true
 ---
