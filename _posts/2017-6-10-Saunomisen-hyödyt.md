@@ -22,10 +22,10 @@ kipuihin. Saunan jälkeinen rento fiilis parantaa myös monella unenlaatua.
 Pitkäaikaisia vaikutuksia saadaan aikaan, kun käydään saunassa säännöllisesti. Saunassa saisi mielellään käydä useamman
 kerran viikossa. Aktiivisesti saunovilla ihmisillä on tutkimuksen mukaan pienempi riski sairastua sydän- ja verisuonitauteihin.
 isäksi riski sairastu Alzheimerin tautiin ja dementiaan on pienempi. Saunominen ennaltaehkäisee myös flunssaa. Tätä on
-tutkittu seuraamalla 25 hengen ryhmää 6kk. Saunojilla oli vähemmän flunssaa, kun ei saunojilla.
-http://www.tandfonline.com/doi/abs/10.3109/07853899009148930 Saunominen saattaa auttaa painonhallinnan kanssa.
-Tutkimuksen mukaan toistuvasti saunassa käyneiden rasvaprosentti laski huomattavasti.
-http://journals.sagepub.com/doi/abs/10.1177/153537020322801023 
+tutkittu [seuraamalla 25 hengen ryhmää 6kk.](http://www.tandfonline.com/doi/abs/10.3109/07853899009148930) Saunojilla oli vähemmän flunssaa, kun ei saunojilla.
+ Saunominen saattaa auttaa painonhallinnan kanssa.
+[Tutkimuksen mukaan,](http://journals.sagepub.com/doi/abs/10.1177/153537020322801023) toistuvasti saunassa käyneiden rasvaprosentti laski huomattavasti.
+
 
 #### Sauna ja treenaaminen
 
