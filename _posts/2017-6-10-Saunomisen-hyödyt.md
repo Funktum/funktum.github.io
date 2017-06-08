@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Saunomisen hyödyt
 ---
 ![sauna-1093235_1920.jpg]({{site.baseurl}}/media/sauna-1093235_1920.jpg)
