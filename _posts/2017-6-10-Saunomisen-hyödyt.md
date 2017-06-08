@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Saunomisen hyödyt
 ---
-
+![sauna-1093235_1920.jpg]({{site.baseurl}}/media/sauna-1093235_1920.jpg)
 
 Oletko saunan ystävä? No hyvä, koska saunominen tuo hyvää oloa ja rentouttaa kehoa, mutta saunomisella saadaan aikaan myös
 paljon muita terveysvaikutuksia. 
@@ -38,4 +38,4 @@ kasvuhormoneihin positiivisesti. Tällöin sauna olisi hyvä lisä tehostamaan h
 Vaikka saunominen on hyvä juttu kannattaa muistaa kohtuus tässäkin hommassa. Liialliselle kuumudelle, 
 pitkäaikainen altistuminen saattaa olla hyvinkin vaarallista. Joten kuuntele kroppaa ja muista että saunassa kuuluu
 rentoutua, ei heittää löylyä niin, että istuu lauteella pää punaisena polvien välissä. Saunaa kannattaa käyttää hieman 
-lyhyempiä aikoja useasti viikossa jolloin siitä saa terveysvaikutukset revittyä irti.  
+lyhyempiä aikoja useasti viikossa jolloin siitä saa terveysvaikutukset revittyä irti.
