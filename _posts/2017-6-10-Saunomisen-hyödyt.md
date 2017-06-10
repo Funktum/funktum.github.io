@@ -17,7 +17,7 @@ Korkea lämpötila ja pään tyhjentäminen saattavat alentaa verenpainetta. Ver
 Lisäksi korkea lämpötila hellittää lihasten jännitystiloja, parantaa ääreisverenkiertoa ja saattaa auttaa reumapotilaiden
 kipuihin. Saunan jälkeinen rento fiilis parantaa myös monella unenlaatua.
 
-#### Pitkäaikaisia vaikutuksia
+#### Pitkäaikaiset vaikutukset
 
 Pitkäaikaisia vaikutuksia saadaan aikaan, kun käydään saunassa säännöllisesti. Saunassa saisi mielellään käydä useamman
 kerran viikossa. Aktiivisesti saunovilla ihmisillä on tutkimuksen mukaan pienempi riski sairastua sydän- ja verisuonitauteihin.
