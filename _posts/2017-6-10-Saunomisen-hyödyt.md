@@ -5,12 +5,12 @@ title: Saunomisen hyödyt
 ---
 ![sauna-1093235_1920.jpg]({{site.baseurl}}/media/sauna-1093235_1920.jpg)
 
-Oletko saunan ystävä? No hyvä, koska saunominen tuo hyvää oloa ja rentouttaa kehoa, mutta saunomisella saadaan aikaan myös
+Oletko saunan ystävä? Hyvä, koska saunominen tuo hyvää oloa ja rentouttaa kehoa, mutta saunomisella saadaan aikaan myös
 paljon muita terveysvaikutuksia. 
 
 #### Välittömät vaikutukset
 
-Saunassa istuskelu auttaa väliaikaisesti moneen kremppaan. Suurimpana terveysvaikutuksena pidän stressin lievenemistä.
+Saunassa istuskelu auttaa väliaikaisesti moneen vaivaan. Suurimpana terveysvaikutuksena on stressin lieveneminen.
 Stressi on sopivissa määrin todella hyvä asia, mutta kun stressikuorma kasvaa liian isoksi, on sillä monia haittavaikutuksia.
 Säännöllisellä saunomisella saa hetkellistä helpotusta tähän vaivaan. Rentoutuminen tuo muitakin terveysvaikutuksia.
 Korkea lämpötila ja pään tyhjentäminen saattavat alentaa verenpainetta. Verenpaineen aleneminen on kuitenkin vain hetkellistä.
