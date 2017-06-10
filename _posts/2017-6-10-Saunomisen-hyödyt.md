@@ -23,7 +23,7 @@ Pitkäaikaisia vaikutuksia saadaan aikaan, kun käydään saunassa säännöllis
 kerran viikossa. Aktiivisesti saunovilla ihmisillä on tutkimuksen mukaan pienempi riski sairastua sydän- ja verisuonitauteihin.
 Lisäksi riski sairastu Alzheimerin tautiin ja dementiaan on pienempi. Saunominen ennaltaehkäisee myös flunssaa. Tätä on
 tutkittu [seuraamalla 25 hengen ryhmää 6kk.](http://www.tandfonline.com/doi/abs/10.3109/07853899009148930) Saunojilla oli vähemmän flunssaa, kun ei saunojilla.
- Saunominen saattaa auttaa painonhallinnan kanssa.
+ Saunominen saattaa myös auttaa painonhallinnan kanssa.
 [Tutkimuksen mukaan,](http://journals.sagepub.com/doi/abs/10.1177/153537020322801023) toistuvasti saunassa käyneiden rasvaprosentti laski huomattavasti.
 
 
