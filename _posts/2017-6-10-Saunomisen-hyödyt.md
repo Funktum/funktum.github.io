@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Saunomisen hyödyt
 ---
 ![sauna-1093235_1920.jpg]({{site.baseurl}}/media/sauna-1093235_1920.jpg)
@@ -21,7 +21,7 @@ kipuihin. Saunan jälkeinen rento fiilis parantaa myös monella unenlaatua.
 
 Pitkäaikaisia vaikutuksia saadaan aikaan, kun käydään saunassa säännöllisesti. Saunassa saisi mielellään käydä useamman
 kerran viikossa. Aktiivisesti saunovilla ihmisillä on tutkimuksen mukaan pienempi riski sairastua sydän- ja verisuonitauteihin.
-isäksi riski sairastu Alzheimerin tautiin ja dementiaan on pienempi. Saunominen ennaltaehkäisee myös flunssaa. Tätä on
+Lisäksi riski sairastu Alzheimerin tautiin ja dementiaan on pienempi. Saunominen ennaltaehkäisee myös flunssaa. Tätä on
 tutkittu [seuraamalla 25 hengen ryhmää 6kk.](http://www.tandfonline.com/doi/abs/10.3109/07853899009148930) Saunojilla oli vähemmän flunssaa, kun ei saunojilla.
  Saunominen saattaa auttaa painonhallinnan kanssa.
 [Tutkimuksen mukaan,](http://journals.sagepub.com/doi/abs/10.1177/153537020322801023) toistuvasti saunassa käyneiden rasvaprosentti laski huomattavasti.
@@ -38,4 +38,4 @@ kasvuhormoneihin positiivisesti. Tällöin sauna olisi hyvä lisä tehostamaan h
 Vaikka saunominen on hyvä juttu kannattaa muistaa kohtuus tässäkin hommassa. Liialliselle kuumudelle, 
 pitkäaikainen altistuminen saattaa olla hyvinkin vaarallista. Joten kuuntele kroppaa ja muista että saunassa kuuluu
 rentoutua, ei heittää löylyä niin, että istuu lauteella pää punaisena polvien välissä. Saunaa kannattaa käyttää hieman 
-lyhyempiä aikoja useasti viikossa jolloin siitä saa terveysvaikutukset revittyä irti.
+lyhyempiä aikoja useasti viikossa jolloin siitä saa terveysvaikutukset irti. 
