@@ -25,7 +25,7 @@ Functional personal training eli toiminnallinen henkilökohtainen valmennus on t
 | 30 tapaamista, á 55min    | 1950,00 €           |
 | 50 tapaamista, á 55min    | 3000,00 €           |
 
-_Kaikkiin 5-15 tapaamisen paketteihin sisältyy treeniohjelma(t), jaksotus, ravintoneuvonta ja treenin seuranta._
+_Kaikkiin 5-50 tapaamisen paketteihin sisältyy treeniohjelma(t), jaksotus, ravintoneuvonta ja treenin seuranta._
 
 [Ota yhteyttä](mailto:{{ site.email }}) niin sovitaan ilmainen alkukartoitus.
 
