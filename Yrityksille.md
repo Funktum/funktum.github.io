@@ -17,9 +17,10 @@ täten erilaista harjoittelua tai ruokavaliota. Pysyviä muutoksia ja uusia tapo
 
 | Tuote                     | Hinta                | 
 | ------------------------- | -------------------- | 
-| 10 tapaamista, á 55min    | 600,00 € + alv / hlö | 
-| 20 tapaamista, á 55min    | 1160,00 € + alv / hlö|
-| 30 tapaamista, á 55min    | 1650,00 € + alv / hlö|
+| 10 tapaamista, á 55min    | 550,00 € + alv / hlö | 
+| 20 tapaamista, á 55min    | 1050,00 € + alv / hlö|
+| 30 tapaamista, á 55min    | 1515,00 € + alv / hlö|
+| 50 tapaamista, á 55min    | 2420,00 € + alv / hlö|
 
 [Ota yhteyttä](mailto:{{ site.email }})
 
