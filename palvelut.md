@@ -12,7 +12,7 @@ published: true
 
 ## Functional personal training 
 
-Functional personal training eli toiminnallinen henkilökohtainen valmennus on tarkoitettu sinulle, joka haluat päästä harjoittelussa seuraavalle tasolle. Laadimme tavoitteenmukaiset treeniohjelmat, tarkistamme ruokatottumuksesi ja seuraamme palautumistasi. Olipa tavoitteesi sitten painonpudotus, terveenä pysyminen tai tekniikoiden oppiminen, me autamme mielellämme!
+Functional personal training eli toiminnallinen henkilökohtainen valmennus on tarkoitettu sinulle, joka haluat päästä harjoittelussa seuraavalle tasolle. Laadimme tavoitteenmukaiset treeniohjelmat, tarkistamme ruokatottumuksesi ja seuraamme palautumistasi. Olipa tavoitteesi sitten painonpudotus, kunnon kohotus tai liikkuvuuden lisääminen, me autamme mielellämme. Kannustamme sitoutumaan pidemmäksi aikaa jolloin tekemisistä saadan tapoja. Lue lisää: [Tapjen muuttaminen](http://www.funktum.fi/blog/2017/06/06/Tapojen-muuttaminen/)
 
 ### Hinnasto
 
