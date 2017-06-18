@@ -39,7 +39,7 @@ tekemisessä tukipilarina. Epävakaa alusta kuten slackline pistää keskivartal
   
 #### Next step
 
-Kun liinalla kävely alkaa sujumaan, voit jatkaa itsesi haastamista esim. hypyillä. Slacklinella voi tehdä paljon muutakin, 
+Kun liinalla kävely alkaa sujumaan, voit jatkaa itsesi haastamista. Slacklinella voi tehdä paljon muutakin 
 kun kävellä. Voit kokeilla kyykkyä, vaakaa, käännöstä, hyppyä tai vaikka kärrynpyörää. Uusia haasteita riittää kyllä! Tässä 
 taidonnäyte siitä mitä kaikkea liinalla voi kovan harjoittelun tuloksena tehdä: [BEST OF SLACKLINE - 2015](https://www.youtube.com/watch?v=9w2W8ndLOlE) 
 
