@@ -7,7 +7,7 @@ title: Juhannushaaste, Slackline Tasapainoliina
 
 Juhannuksena kuuluu syödä hyvin, saunoa, saunoa ja ennen kaikkea pitää hauskaa ystävien kanssa. 
 Aikaa vietetään monesti mökillä luonnon keskellä. Mökillä on oivat puitteet kiristää slackline ja haastaa kaverit 
-slackline- juhannus-skabaan!
+slackline juhannus-skabaan!
 
 
 #### Mikä on Slackline?
