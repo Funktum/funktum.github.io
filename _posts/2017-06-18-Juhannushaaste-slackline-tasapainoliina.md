@@ -18,7 +18,7 @@ kävelemisen. Slackline kannattaa kiinnittää aluksi melko lähelle maata ja pi
 
 #### Miten?
 
-Kun aluksi aloitat harjoittelemaan kannattaa valita melko lyhyt välimatka. Etsi kaksi puuta jotka ovat noin viiden metrin 
+Kun aluksi aloitat harjoittelun kannattaa valita melko lyhyt välimatka. Etsi kaksi puuta jotka ovat noin viiden metrin 
 etäisyydeltä toisistaan. Kiinnitä liina puihin melko kireälle. Astu liinalle, ota kiintopiste joko katsomalla suoraan eteen 
 tai katsomalla viistosti alas parin metrin päähän. Omiin jalkoihin ei kannata katsetta tähdätä. Aseta jalat suoraan eteenpäin 
 liinaa pitkin. Poikittain jalan asettaminen johtaa helposti tasapainon menettämiseen. Ota rauhassa askelia eteenpäin ja astu 
