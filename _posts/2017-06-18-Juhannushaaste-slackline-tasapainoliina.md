@@ -6,7 +6,7 @@ title: 'Juhannushaaste, Slackline Tasapainoliina'
 
 ![slackline-283223_1920.jpg]({{site.baseurl}}/media/slackline-283223_1920.jpg)
 
-Juhannuksena kuuluu syödä hyvin, saunoa, saunoa ja ennen kaikkea pitää hauskaa ystävien kanssa. 
+Juhannuksena kuuluu syödä hyvin, saunoa, ja ennen kaikkea pitää hauskaa ystävien kanssa. 
 Aikaa vietetään monesti mökillä luonnon keskellä. Mökillä on oivat puitteet kiristää slackline ja haastaa kaverit 
 slackline juhannus-skabaan!
 
