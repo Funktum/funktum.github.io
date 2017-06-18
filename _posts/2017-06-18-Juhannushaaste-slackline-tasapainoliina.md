@@ -31,10 +31,10 @@ työtä tasapainon ylläpitämiseksi. Heti ei tule ajatelleeksi, että arkisetki
 kengännauhojen sitominen ja autoon istuminen vaativat kaikki lihasvoimaa, tasapainoa ja kontrollia. Tasapainoharjoittelu 
 vahvistaa mm seuraavia osia kehossa:
 
-	Keskivartaloa, keskivartalo on voimantuotannon keskipiste. Se yhdistää ylä- ja alakropan sekä toimii lähes kaikessa 
-  tekemisessä tukipilarina. Epävakaa alusta kuten slackline pistää keskivartalon tekemään kovaa työtä. 
-	Nilkkojen, polvien ja lantion alueen lihakset voimistuvat. 
-	Kädet tukevat tasapainoilua.
+* Keskivartaloa, keskivartalo on voimantuotannon keskipiste. Se yhdistää ylä- ja alakropan sekä toimii lähes kaikessa 
+tekemisessä tukipilarina. Epävakaa alusta kuten slackline pistää keskivartalon tekemään kovaa työtä. 
+* Nilkkojen, polvien ja lantion alueen lihakset voimistuvat. 
+* Kädet tukevat tasapainoilua.
   
 #### Next step
 
