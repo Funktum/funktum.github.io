@@ -43,7 +43,7 @@ Kun liinalla kävely alkaa sujumaan, voit jatkaa itsesi haastamista. Slacklinell
 kun kävellä. Voit kokeilla kyykkyä, vaakaa, käännöstä, hyppyä tai vaikka kärrynpyörää. Uusia haasteita riittää kyllä! Tässä 
 taidonnäyte siitä mitä kaikkea liinalla voi kovan harjoittelun tuloksena tehdä: [BEST OF SLACKLINE - 2015](https://www.youtube.com/watch?v=9w2W8ndLOlE) 
 
-[Tutustu aiheesta lisää](http://www.slacklineindustries.com/) 
+[Tutustu aiheeseen lisää](http://www.slacklineindustries.com/) 
  
 
 Kuka pääsee päästä päähän putoamatta? Hyvää alkavaa juhannusviikkoa!
