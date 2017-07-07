@@ -8,7 +8,7 @@ title: Miksi polkujuoksu on tehokasta?
 
 Lenkkeily on hyvä ja tehokas treenimenetelmä. Varsinkin metsäpolulla lenkkeily. Poikkea normaalilta lenkkipolultasi 
 metsäpolulle ja hyödy enemmän! Metsässä juokseminen on hauskaa ja kunnon kohottamisen lisäksi, se myös eheyttää mieltäsi. 
-Tässä vasta pari syytä miksi polkujuoksu on tehokasta.
+Tässä vasta muutama syy miksi polkujuoksu on tehokasta.
 
 #### Miten polkujuoksu edistää minua enemmän, kun normaali asfalttilenkki?
 
