@@ -18,7 +18,7 @@ Asfaltti on kova ja tasainen. Kova alusta kuluttaa niveliä eikä rasita kehoa k
 juuria, kiviä ja polun pohja koostuu usein neulasista. Polku on pääsääntöisesti pehmeämpi ja haastaa epätasaisuutensa takia 
 jatkuvasti koordinaatiota, nilkkojen, polvien ja lantion tukilihaksia, keskivartaloa unohtamatta. Tämä tarkoittaa siis sitä,
 että ärsykkeet asfalttijuoksuun verrattuna on ihan eri tasoa. Metsässä juostessa kehoon kohdistuvien ärsykkeiden takia, kroppa 
-outuu sopeutumaan jatkuvasti muuttuvaan rasitukseen. Tämä tuottaa vahvempia nilkkoja, tukevampia polvia ja parempaa
+joutuu sopeutumaan jatkuvasti muuttuvaan rasitukseen. Tämä tuottaa vahvempia nilkkoja, tukevampia polvia ja parempaa
 lantion- ja keskivartalonhallintaa. Loukkaantumisen riski on aina olemassa, joten valitse sopivan haastava metsäpolku!
 
 
