@@ -18,6 +18,7 @@ Personal Trainer muistuttaa sinua tavoitteistasi. Tavoitteiden saavuttaminen saa
 myötä, on suuri. Personal Trainer auttaa menemään määrätietoisesti eteenpäin kohti tavoitetta, hän tuo myös vaihtelua treeniin
 joka lisää mielekkyyttä ja takaa kehittymistä pitkällä aikavälillä. 
 
+
 #### 2.	Pitää huolta pitkäjänteisyydestä
 
 Monet tavoitteet saavutetaan pikkuhiljaa, pitkäaikaisen työn tuloksena. Varsinkin jos kyseessä on suurempi elämäntapamuutos.
@@ -25,12 +26,14 @@ Personal Trainer auttaa jaksamaan ja huolehtii treenin jatkuvuudesta. Jatkuvuus 
 lipsahduksen jälkeen treeni repsahtaa? Jos treenit jää kahtena viikkona väliin, lähdetkö kolmantena viikkona taas jatkamaan? 
 Usein lipsahdus johtaa repsahdukseen eli treenin loppumiseen. Tämän vältät helposti Personal Trainerin avulla. 
 
+
 #### 3.	Korkeampi kynnys jättää treenit väliin
 
 Tulet kotiin työpäivän jälkeen ja kalenterissasi lukee isolla KUNTOSALI. Ehdit kuitenkin istahtaa hetkeksi sohvalle, 
 ja laitat television päälle. Sohvassa istuessa iskee väsymys ja ajattelet että: ”no, menen huomenna treenaamaan”. 
 Jos sinulla on sovittu tapaaminen Personal Trainerin kanssa, et jää kotiin istumaan sohvalle vaan sen takia, että alkoi hieman
 väsyttää. Kynnys peruuttaa ennalta sovittu tapaaminen on paljon korkeampi. 
+
 
 #### 4.	Tekniikat haltuun
 
@@ -42,11 +45,14 @@ uudentyyppisiä liikkeitä. Peili on hyvä apuväline. Peilistä et kuitenkaan n
 varsinkin frontaalitason liikkeissä, ei ole hyvä idea. Personal Trainerin kanssa voit keskittyä täysin tekemiseen samalla kun 
 saat neuvoja. 
 
+
 #### 5.	Oppiminen
 
 Personal Trainerin kanssa työskennellessä oppii paljon treenaamisesta ja hyvinvoinnista. Varsinkin pitkien treenisuhteiden 
 aikana ehtii oppimaan paljon. Opit tuntemaan kuinka oma kehosi toimii ja miten yleisesti kannattaa lähestyä treenaamista ja 
 hyvinvointia kokonaisvaltaisesta näkökulmasta. 
+
+
 
 
 Personal Trainereita on monenlaisia. Kaikilla on omat filosofiat ja menetelmät. Kannattaa tutustua Traineriin huolella ja 
