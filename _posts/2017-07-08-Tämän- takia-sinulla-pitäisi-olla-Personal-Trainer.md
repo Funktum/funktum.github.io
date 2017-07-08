@@ -11,7 +11,7 @@ title: Tämän takia sinulla pitäisi olla Personal Trainer
 
 Oletko ajatellut Personal Trainerin kanssa työskentelyä? Ehkä et ole vielä aloittanut yhteistyötä koska olet epävarma siitä,
 miten Personal Trainer voi auttaa? Tai ehkä et halua koska pelkäät että PT laittaa sinut tekemään liian haastavia liikkeitä? 
-Ei kannata huolehtia. Personal Trainer tekee henkilön tason mukaisen ohjelman, jossa on sopivan haastavia liikkeitä. 
+Ei kannata huolestua. Personal Trainer tekee henkilön tason mukaisen ohjelman, jossa on sopivan haastavia liikkeitä. 
 Ei tarvitse myöskään pelätä, että heti joutuisit muuttamaan kaikkia tapojasi. Kaikkien tapojen muuttaminen kerralla on 
 muutenkin väärä tapa. Näin hyödyt Personal Trainerista:
 
