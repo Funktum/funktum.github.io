@@ -8,7 +8,6 @@ published: true
 
 ![Kuva](/media/gruppmotion-4.jpg)
 ![Kuva](/media/pt-2.jpg)
-![Kuva](/media/pt-6.jpg)
 
 ## Functional personal training 
 
