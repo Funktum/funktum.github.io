@@ -1,9 +1,10 @@
 ---
 layout: post
 published: true
-title: "Tämän takia sinulla pitäisi olla Personal Trainer"
+title: Tämän takia sinulla pitäisi olla Personal Trainer
 ---
 
+![pt-6.jpg]({{site.baseurl}}/media/pt-6.jpg)
 
 Oletko ajatellut Personal Trainerin kanssa työskentelyä? Ehkä et ole vielä aloittanut yhteistyötä koska olet epävarma siitä,
 miten Personal Trainer voi auttaa? Tai ehkä et halua koska pelkäät että PT laittaa sinut tekemään liian haastavia liikkeitä? 
@@ -58,5 +59,3 @@ hyvinvointia kokonaisvaltaisesta näkökulmasta.
 Personal Trainereita on monenlaisia. Kaikilla on omat filosofiat ja menetelmät. Kannattaa tutustua Traineriin huolella ja 
 varmistaa että olette Trainerin kanssa samalla aaltopituudella. Kartoita ensin missä haluat kehittyä ja valitse tämän jälkeen 
 sinulle sopiva Personal Trainer.
-
-
