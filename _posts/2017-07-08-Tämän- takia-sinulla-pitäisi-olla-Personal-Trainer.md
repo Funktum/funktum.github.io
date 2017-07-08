@@ -46,7 +46,7 @@ tule kuuloonkaan. Pelko siitä, että nolaa tai loukkaa itsensä estää toiminn
 Tähän vaivaan saat PT:ltä apua. Personal Trainer tarkistaa ja valvoo tekniikkaasi. Oppiminen on erittäin tehokasta silloin, 
 kun saat välittömästi palautetta tekemisistäsi. Kun treenaa itsekseen on hankala hahmottaa kehon asentoa, varsinkin jos tekee
 uudentyyppisiä liikkeitä. Peili on hyvä apuväline. Peilistä et kuitenkaan näe kaikkea. Esimerkiksi pään kääntäminen sivulle, 
-varsinkin frontaalitason liikkeissä, ei ole hyvä idea. Personal Trainerin kanssa voit keskittyä täysin tekemiseen samalla kun 
+varsinkin frontaalitason liikkeissä, ei ole hyvä idea. Personal Trainerin kanssa voit keskittyä 100% tekemiseen samalla kun 
 saat neuvoja. 
 
 
