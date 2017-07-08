@@ -4,7 +4,7 @@ published: true
 title: Tämän takia sinulla pitäisi olla Personal Trainer
 ---
 
-![pt-6.jpg]({{site.baseurl}}/media/pt-6.jpg)
+
 
 
 Oletko ajatellut Personal Trainerin kanssa työskentelyä? Ehkä et ole vielä aloittanut yhteistyötä koska olet epävarma siitä,
