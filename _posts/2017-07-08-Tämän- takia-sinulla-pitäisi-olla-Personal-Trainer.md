@@ -53,7 +53,7 @@ saat neuvoja.
 #### 5.	Oppiminen
 
 Personal Trainerin kanssa työskennellessä oppii paljon treenaamisesta ja hyvinvoinnista. Varsinkin pitkien treenisuhteiden 
-aikana ehtii oppimaan paljon. Opit tuntemaan kuinka oma kehosi toimii ja miten yleisesti kannattaa lähestyä treenaamista ja 
+aikana ehtii oppia paljon. Opit tuntemaan kuinka oma kehosi toimii ja miten yleisesti kannattaa lähestyä treenaamista ja 
 hyvinvointia kokonaisvaltaisesta näkökulmasta. 
 
 
