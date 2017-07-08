@@ -26,7 +26,7 @@ joka lisää mielekkyyttä ja takaa kehittymisen pitkällä aikavälillä.
 #### 2.	Pitää huolta pitkäjänteisyydestä
 
 Monet tavoitteet saavutetaan pikkuhiljaa, pitkäaikaisen työn tuloksena. Varsinkin jos kyseessä on suurempi elämäntapamuutos.
-Personal Trainer auttaa jaksamaan ja huolehtii treenin jatkuvuudesta. Jatkuvuus on kaikista tärkeintä. Kuulutko niihin joilla
+Personal Trainer auttaa jaksamaan ja huolehtii treenin jatkuvuudesta. Kuulutko niihin joilla
 lipsahduksen jälkeen treeni repsahtaa? Jos treenit jää kahtena viikkona väliin, lähdetkö kolmantena viikkona taas jatkamaan? 
 Usein lipsahdus johtaa repsahdukseen eli treenin loppumiseen. Tämän vältät helposti Personal Trainerin avulla. 
 
