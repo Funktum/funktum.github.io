@@ -20,7 +20,7 @@ muutenkin väärä tapa. Näin hyödyt Personal Trainerista:
 
 Personal Trainer muistuttaa sinua tavoitteistasi. Tavoitteiden saavuttaminen saattaa kestää kauan ja riski sortua kyllästymisen
 myötä, on suuri. Personal Trainer auttaa menemään määrätietoisesti eteenpäin kohti tavoitetta, hän tuo myös vaihtelua treeniin
-joka lisää mielekkyyttä ja takaa kehittymistä pitkällä aikavälillä. 
+joka lisää mielekkyyttä ja takaa kehittymisen pitkällä aikavälillä. 
 
 
 #### 2.	Pitää huolta pitkäjänteisyydestä
