@@ -34,7 +34,7 @@ Usein lipsahdus johtaa repsahdukseen eli treenin loppumiseen. Tämän vältät h
 #### 3.	Korkeampi kynnys jättää treenit väliin
 
 Tulet kotiin työpäivän jälkeen ja kalenterissasi lukee isolla KUNTOSALI. Ehdit kuitenkin istahtaa hetkeksi sohvalle 
-ja laitat television päälle. Sohvassa istuessa iskee väsymys ja ajattelet että: ”no, menen huomenna treenaamaan”. 
+ja laitat television päälle. Sohvassa istuessa iskee väsymys ja ajattelet että: ”no, menen jonain toisena päivänä treenaamaan”. 
 Jos sinulla on sovittu tapaaminen Personal Trainerin kanssa, et jää kotiin istumaan sohvalle vain sen takia, että alkoi hieman
 väsyttää. Kynnys peruuttaa ennalta sovittu tapaaminen on paljon korkeampi. 
 
