@@ -41,9 +41,9 @@ Pitää muistaa, että myös henkinen rasitus vaatii palautumista, eli unta.
 
 
 Unettomuus voi johtua monesta asiasta. Selvitä itsellesi miksi nukut huonosti ja puutu ongelmaan. 
-Yleisiä ongelmia ovat: stressi, älypuhelimet ja tabletit, ylipaino ja huonot elintavat. 
+Yleisiä ongelmia ovat: stressi, älypuhelimet ja tabletit, ylipaino sekä huonot elintavat. 
 Jos et itse saa korjattua untasi, hanki apua. Älä heti siirry unilääkkeisiin vaan pyri korjaamaan juurisyyt.
-Stressi  pääntyhjennys ja rauhoitus tekniikat, ylipaino  liikunta ja ruokavalio, älypuhelin  hanki erillinen herätyskello 
+Stressi: pääntyhjennys ja rauhoitus tekniikat, ylipaino: liikunta ja ruokavalio, älypuhelin: hanki erillinen herätyskello 
 ja jätä puhelin pois makuuhuoneesta. 
 
 Hyviä unia!
