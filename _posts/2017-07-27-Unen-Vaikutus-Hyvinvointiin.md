@@ -21,8 +21,7 @@ Listaa voisi vielä jatkaa pidempään.
 
  Unella on merkitys painonhallinassa. Jos kiloista haluaa päästä eroon, on syytä kiinnittää huomiota uneen. 
  Liian vähäinen uni vaikuttaa näläntunnetta sääteleviin greliini- ja leptiinihormoneihin. 
- Univaje lisää greliinihormonin eritystä ja taannuttaa leptiinihormonin eritystä. Tämä lisää nälän tunnetta. Lisäksi väsyneenä ei välttämättä
-  jaksa laittaa ruokaa itse, vaan tilaa esim. Pizzan. Vähäinen uni hidastaa myös aineenvaihduntaa. 
+ Univaje lisää greliinihormonin eritystä ja taannuttaa leptiinihormonia. Tämä lisää nälän tunnetta. Väsyneenä turvautuu sitäpaitsi useammin valmisruokaan. Vähäinen uni hidastaa myös aineenvaihduntaa. 
  Lihavuus lisää vuorostaan univaikeuksia. 
 
 Jos teet fyysistä työtä tai liikut runsaasti, tarvitset paljon unta. Unessa keho ja mieli palautuvat.
@@ -35,8 +34,8 @@ Pitää muistaa, että myös henkinen rasitus vaatii palautumista, eli unta.
 *	Liikunta ja fyysinen rasitus parantavat unenlaatua ja helpottaa nukahtamista. Voit pari tuntia ennen nukkumaan menoa käydä kävelyllä metsässä tai tehdä vähän aikaa puutarhatöitä.
 *	Älä rasita itseäsi voimakkaasti ennen juuri ennen nukkumaan menoa. Tunti ennen nukkumaanmenoaikaa on hyvä rauhoittua. Tätä aikaa ei kannata käyttää tv:n katseluun tai älypuhelimen selailuun. Sininen valo ei auta nukkumaanmenoa! 
 *	Mene nukkumaan ja herää samoihin aikoihin. Keho oppii nukkumaanmenoajan ja heräämisajan, kunhan se sille opetetaan. 
-*	Viileä huone on parempi, kun lämmin. Viileässä huoneessa (18°-20°) unenlaatu on parempi.
-*	Pimennysverhot varmistavat, ettei huoneeseen pääse valoa. Valo häiritsee nukkumista. Varsinkin jos tekee vuorotyötä ja välillä joutuu nukkumaan päiväsaikaan. 
+*	Viileä huone on parempi kun lämmin. Viileässä huoneessa (18°-20°) unenlaatu on parempi.
+*	Pimennysverhot varmistavat ettei huoneeseen pääse valoa. Valo häiritsee nukkumista. Varsinkin jos tekee vuorotyötä ja välillä joutuu nukkumaan päiväsaikaan. 
 *	Tyhjennä pää ennen nukkumaanmenoa. Pääntyhjennyskeinoihin voi tutustua mindfulness- ja meditaatiokirjoista/videoista. Tähän on myös kehitetty puhelimeen ladattavia applikaatioita. [Täältä saat apua!](http://www.mielenterveysseura.fi/fi/mielenterveys/harjoitukset)
 *	Jos et saa unenpäästä kiinni, nouse sängystä ja tee jotain muuta (älä tuijota ruutua), kunnes alat väsyä. Sängyssä kieriminen ei edesauta asiaa.
 
