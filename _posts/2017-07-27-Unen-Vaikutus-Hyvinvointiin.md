@@ -4,14 +4,14 @@ published: false
 title: Unen vaikutus hyvinvointiin
 ---
 
-Unen vaikutus hyvinvointiin
+#### Unen vaikutus hyvinvointiin
 
 Miten nukut? Heräätkö aamulla pirteänä ja valmiina ottamaan päivän haasteet vastaan? Vai torkutatko viimeiseen asti? 
 Uni on iso osa hyvinvointikokonaisuutta. Jos uni jää vähälle, kärsii siitä muutkin terveyttä edistävät tavat. 
 Normaali yöuni on 7-9 tunnin välillä, riippuen henkilöstä ja hetken palautumistarpeesta. Jos kärsit liian lyhyistä yöunista,
 saat varmasti apua tästä kirjoituksesta.
 
-Miten vajaat yöunet vaikuttavat minuun?
+#### Miten vajaat yöunet vaikuttavat minuun?
 
 Nykyaikana meitä ympäröi jatkuvasti erilaiset ärsykkeet. Älypuhelimet, hälytykset, liikenteen melu, sosiaalinen media etc. 
 Kaiken tämän jatkuvan ärsykkeen takia aivoillemme on annettava aikaa prosessoida tapahtunutta ja huoltaa itseään.
@@ -30,7 +30,7 @@ Nukkuessa keho korjaa päivänaikana tapahtuneet kudosvauriot, ja tuottaa protei
 Univaje vaikuttaa palautumiseen negatiivisesti, ja saattaa pitkällä aikavälillä johtaa ylikuntoon. 
 Pitää muistaa, että myös henkinen rasitus vaatii palautumista, eli unta. 
 
-Miten voin parantaa unenlaatua?
+#### Miten voin parantaa unenlaatua?
 
 *	Liikunta ja fyysinen rasitus parantavat unenlaatua ja helpottaa nukahtamista. Voit pari tuntia ennen nukkumaan menoa käydä kävelyllä metsässä tai tehdä vähän aikaa puutarhatöitä.
 *	Älä rasita itseäsi voimakkaasti ennen juuri ennen nukkumaan menoa. Tunti ennen nukkumaanmenoaikaa on hyvä rauhoittua. Tätä aikaa ei kannata käyttää tv:n katseluun tai älypuhelimen selailuun. Sininen valo ei auta nukkumaanmenoa! 
