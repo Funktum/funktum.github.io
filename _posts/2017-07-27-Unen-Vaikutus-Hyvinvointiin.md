@@ -37,7 +37,7 @@ Pitää muistaa, että myös henkinen rasitus vaatii palautumista, eli unta.
 *	Mene nukkumaan ja herää samoihin aikoihin. Keho oppii nukkumaanmenoajan ja heräämisajan, kunhan se sille opetetaan. 
 *	Viileä huone on parempi, kun lämmin. Viileässä huoneessa (18°-20°) unenlaatu on parempi.
 *	Pimennysverhot varmistavat, ettei huoneeseen pääse valoa. Valo häiritsee nukkumista. Varsinkin jos tekee vuorotyötä ja välillä joutuu nukkumaan päiväsaikaan. 
-*	Tyhjennä pää ennen nukkumaanmenoa. Pääntyhjennyskeinoihin voi tutustua mindfulness- ja meditaatiokirjoista/videoista. Tähän on myös kehitetty puhelimeen ladattavia applikaatioita. http://www.mielenterveysseura.fi/fi/mielenterveys/harjoitukset
+*	Tyhjennä pää ennen nukkumaanmenoa. Pääntyhjennyskeinoihin voi tutustua mindfulness- ja meditaatiokirjoista/videoista. Tähän on myös kehitetty puhelimeen ladattavia applikaatioita. [Täältä saat apua!](http://www.mielenterveysseura.fi/fi/mielenterveys/harjoitukset)
 *	Jos et saa unenpäästä kiinni, nouse sängystä ja tee jotain muuta (älä tuijota ruutua), kunnes alat väsyä. Sängyssä kieriminen ei edesauta asiaa.
 
 
