@@ -7,22 +7,22 @@ title: Unen vaikutus hyvinvointiin
 ![the-stones-263661_1920.jpg]({{site.baseurl}}/media/the-stones-263661_1920.jpg)
 
 Miten nukut? Heräätkö aamulla pirteänä ja valmiina ottamaan päivän haasteet vastaan? Vai torkutatko viimeiseen asti? 
-Uni on iso osa hyvinvointikokonaisuutta. Jos uni jää vähälle, kärsii siitä muutkin terveyttä edistävät tavat. 
-Normaali yöuni on 7-9 tunnin välillä, riippuen henkilöstä ja hetken palautumistarpeesta. Jos kärsit liian lyhyistä yöunista,
+Uni on iso osa hyvinvointikokonaisuutta. Jos uni jää vähäiseksi, kärsii siitä muutkin terveyttä edistävät tavat. 
+Normaali yöuni vaihtelee 7-9 tunnin välillä riippuen henkilöstä ja hetken palautumistarpeesta. Jos kärsit liian lyhyistä yöunista,
 saat varmasti apua tästä kirjoituksesta.
 
 #### Miten vajaat yöunet vaikuttavat minuun?
 
-Nykyaikana meitä ympäröi jatkuvasti erilaiset ärsykkeet. Älypuhelimet, hälytykset, liikenteen melu, sosiaalinen media etc. 
+Meitä ympäröi jatkuvasti erilaiset ärsykkeet kuten älypuhelimet, hälytykset, liikenteen melu ja sosiaalinen media. 
 Kaiken tämän jatkuvan ärsykkeen takia aivoillemme on annettava aikaa prosessoida tapahtunutta ja huoltaa itseään.
-Tämä tapahtuu nukkuessa.  Jos uni jää vähäiseksi, vaikuttaa tämä: aivotoimintaan, suorituskykyyn, keskittymiskykyyn,
+Tämä tapahtuu nukkuessa.  Jos uni jää vähäiseksi, vaikuttaa tämä aivotoimintaan, suorituskykyyn, keskittymiskykyyn,
 stressiin, vastustuskykyyn, hormonitoimintaan, aineenvaihduntaan, tunteidenkäsittelyyn ja fyysiseen suorituskykyyn. 
 Listaa voisi vielä jatkaa pidempään.
 
- Sanotaan vaikka että yrität pitää painoasi hallussa. Silloin on syytä kiinnittää huomiota uneen. 
- Liian vähäinen uni vaikuttaa näläntunnetta sääteleviin hormoneihin, gerliini- ja leptiinihormoneihin. 
- Gerliinin eritys kiihtyy, kun taas leptiinin eritys taantuu. Tämä lisää nälän tunnetta. Lisäksi väsyneenä ei välttämättä
- aina jaksa laittaa ruokaa itse, vaan tilaa esim. Pizzan. Vähäinen uni hidastaa myös aineenvaihduntaa. 
+ Unella on merkitys painonhallinassa. Jos kiloista haluaa päästä eroon, on syytä kiinnittää huomiota uneen. 
+ Liian vähäinen uni vaikuttaa näläntunnetta sääteleviin greliini- ja leptiinihormoneihin. 
+ Univaje lisää greliinihormonin eritystä ja taannuttaa leptiinihormonin eritystä. Tämä lisää nälän tunnetta. Lisäksi väsyneenä ei välttämättä
+  jaksa laittaa ruokaa itse, vaan tilaa esim. Pizzan. Vähäinen uni hidastaa myös aineenvaihduntaa. 
  Lihavuus lisää vuorostaan univaikeuksia. 
 
 Jos teet fyysistä työtä tai liikut runsaasti, tarvitset paljon unta. Unessa keho ja mieli palautuvat.
