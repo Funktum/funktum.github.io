@@ -32,7 +32,7 @@ Pitää muistaa, että myös henkinen rasitus vaatii palautumista, eli unta.
 #### Miten voin parantaa unenlaatua?
 
 *	Liikunta ja fyysinen rasitus parantavat unenlaatua ja helpottaa nukahtamista. Voit pari tuntia ennen nukkumaan menoa käydä kävelyllä metsässä tai tehdä vähän aikaa puutarhatöitä.
-*	Älä rasita itseäsi voimakkaasti ennen juuri ennen nukkumaan menoa. Tunti ennen nukkumaanmenoaikaa on hyvä rauhoittua. Tätä aikaa ei kannata käyttää tv:n katseluun tai älypuhelimen selailuun. Sininen valo ei auta nukkumaanmenoa! 
+*	Älä rasita itseäsi voimakkaasti juuri ennen nukkumaan menoa. Tunti ennen nukkumaanmenoaikaa on hyvä rauhoittua. Tätä aikaa ei kannata käyttää tv:n katseluun tai älypuhelimen selailuun. Sininen valo ei auta nukkumaanmenoa! 
 *	Mene nukkumaan ja herää samoihin aikoihin. Keho oppii nukkumaanmenoajan ja heräämisajan, kunhan se sille opetetaan. 
 *	Viileä huone on parempi kun lämmin. Viileässä huoneessa (18°-20°) unenlaatu on parempi.
 *	Pimennysverhot varmistavat ettei huoneeseen pääse valoa. Valo häiritsee nukkumista. Varsinkin jos tekee vuorotyötä ja välillä joutuu nukkumaan päiväsaikaan. 
