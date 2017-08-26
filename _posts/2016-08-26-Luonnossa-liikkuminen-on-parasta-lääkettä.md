@@ -3,6 +3,7 @@ layout: post
 published: true
 title: Luonnossa liikkuminen on parasta lääkettä
 ---
+![landscape-2634267_1920.jpg]({{site.baseurl}}/media/landscape-2634267_1920.jpg)
 
 Hektisessä arjessa tapahtuu paljon ja asiat pitää saada madollisimman tehokkaasti tehtyä. Kiireen keskellä on hyvä päästä pois
 kaupunkien melusta, liikenteestä ja ihmisjoukoista. Tähän luonto tarjoaa oivat puitteet. Luonto eheyttää mieltä ja huoltaa 
@@ -96,4 +97,4 @@ ekstraa ja nautin hyvästä ruuasta. Pitkän vaelluspäivän jälkeen hyvää ra
 
 [Täältä](http://www.luontoon.fi/retkikohteet) voit tutustua suomen retkeilypaikkoihin.  
 
-Hyvää suomen luonnon päivää! 
+Hyvää suomen luonnon päivää!
