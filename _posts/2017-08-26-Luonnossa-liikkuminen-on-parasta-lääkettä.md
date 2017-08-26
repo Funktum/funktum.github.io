@@ -23,7 +23,7 @@ huonokuntoisemmatkin voivat liikkua jne. Tällä kaikella mukavuudella on kuiten
 toiseen vaikuttaa liikunnan määrään, tuolit jäykistävät kehomme ja tukkivat verisuonemme sekä sileät tiet 
 heikentävät nilkkamme. 
 
-Tästä syystä meidän pitää tietoisesti tuoda, ehkä joidenkin mielestä, niitä epämukavia asioita elämäämme.
+Tästä syystä meidän pitää tietoisesti tuoda, ehkä joidenkin mielestä niitä epämukavia asioita elämäämme.
 Monipuolisesti rasittavaa liikuntaa, katsoa mitä suuhun laitamme ja vaikka välillä kävellä kauppaan. 
 
 Toinen mahtava tapa edistää hyvinvointiamme on lähteä metsään. Sinne minne kehomme edelleen kuuluu. 
