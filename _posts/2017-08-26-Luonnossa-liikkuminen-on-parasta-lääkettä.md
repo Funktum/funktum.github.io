@@ -87,7 +87,7 @@ vaikka hiihto- tai lumikenkävaellukselle!
 
    
 
-#### Kuinka varaudun metsä retkeä/kävelyä varten
+#### Kuinka varaudun metsäretkeä/kävelyä varten
 
 Metsäretkeä varten kannattaa varautua mukavan kokemuksen takaamiseksi. Valitse itsellesi sopivan haastava reitti ja käytä 
 mukavia kevyitä varusteita. Ruokakin kannattaa miettiä. Itse en lähtisi nuudelilinjalle vaan kannan ilomielin pari kiloa 
