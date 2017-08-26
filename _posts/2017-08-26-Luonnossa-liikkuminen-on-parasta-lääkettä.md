@@ -53,7 +53,7 @@ huonossa kunnossa kannattaa valita tukevampi vaihtoehto.
 
 #### Hapenottokyky paranee
 
-Luonnossa tulee usein käveltyä pidempiä matkoja. Sykkeen tempo vaihtelee paljon maastosta riippuen. Metsässä liikumme usein kuitenkin aerobisella peruskestävyys alueella. Tällöin hapenottokyky paranee ja leposyke laskee. Pitää myös muistaa, että peruskestävyysluo kunnollemme pohjan. Jos tornia lähtee rakentamaan liian pienelle pohjalle, ei tornista saa kauhean korkeaa. Sama koskee kuntoa. 
+Luonnossa tulee usein käveltyä pidempiä matkoja. Sykkeen tempo vaihtelee paljon maastosta riippuen. Metsässä liikumme usein kuitenkin aerobisella peruskestävyys alueella. Tällöin hapenottokyky paranee ja leposyke laskee. Pitää myös muistaa, että peruskestävyys luo kunnollemme pohjan. Jos tornia lähtee rakentamaan liian pienelle pohjalle, ei tornista saa kauhean korkeaa. Sama koskee kuntoa. 
 
 
 #### Metsästä liikuntaa kaupanpäälle
