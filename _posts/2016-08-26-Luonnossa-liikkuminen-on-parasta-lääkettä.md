@@ -70,7 +70,8 @@ kantarelli-suonen!
 ##### Marjastaminen
 Käy poimimassa mustikkaa ja puolukkaa. Marjat ovat hyvin terveellisiä ja hyvän makuisia. Poimi syksyn aikana vuoden aamupala
 marjat!
-Metsästys
+
+##### Metsästys
 Oman lihan voi myös käydä hakemassa metsästä. Villinä elänyt riistaeläin on varmasti terveellisempää, kun tehotuotettu karja.
 Sitä paitsi maku on aivan loistava. Metsästäessä tulee liikuttua paljonkin huomaamatta. 
 
