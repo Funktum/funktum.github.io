@@ -60,28 +60,28 @@ Luonnossa tulee usein käveltyä pidempiä matkoja. Sykkeen tempo vaihtelee palj
 
 Metsäliikunta muotoja on paljon. Jos pelkkä metsässä kävely ei kiinnosta voi kokeile jotain seuraavista:
 
-##### Sienestäminen
+#### Sienestäminen
 Lähde metsään etsimään ruokasieniä. Tässä harrastuksessa on jotain kiehtovaa. Mikään ei voita sitä tunnetta, kun löytää hyvän
 kantarelli-suonen!
 
-##### Marjastaminen
+#### Marjastaminen
 Käy poimimassa mustikkaa ja puolukkaa. Marjat ovat hyvin terveellisiä ja hyvän makuisia. Poimi syksyn aikana vuoden aamupala
 marjat!
 
-##### Metsästys
+#### Metsästys
 Oman lihan voi myös käydä hakemassa metsästä. Villinä elänyt riistaeläin on varmasti terveellisempää, kun tehotuotettu karja.
 Sitä paitsi maku on aivan loistava. Metsästäessä tulee liikuttua paljonkin huomaamatta. 
 
-##### Geokätköily
+#### Geokätköily 
 Geokätköily on koordinaattien avulla kätköjen etsimistä. Kätköjä löytyy toki kaupungeistakin mutta kyllä niitä metsissäkin
 riittää. Joillekin tämä voi olla se juttu jonka takia viitsii lähteä metsään.
 
-##### Suunnistus/maastojuoksu
+#### Suunnistus/maastojuoksu
 Nämä lajit soveltuvat hyvin haasteita etsiville ihmisille. Suunnistuskisoja järjestetään ympäri maat. Erilaisia maastojuoksu 
 tapahtumia ja kisoja on myös yllin kyllin. Jos ei kisoihin osallistuminen ole juttusi, voit lähteä suorittamaan omia haasteita.
 [Solvalla Swimrun](https://solvallaswimrun.com/) on yksi hyvä esimerkki tällaisesta maastojuoksu- ja uinti tapahtumasta.
 
-##### Talvella metsään
+#### Talvella metsään
 Talvella metsä on erilainen. Lumi vaimentaa äänet ja pääsee nauttimaan täydellisestä hiljaisuudesta. Talvella voit lähteä 
 vaikka hiihto- tai lumikenkävaellukselle!
 
