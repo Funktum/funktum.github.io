@@ -58,7 +58,7 @@ Luonnossa tulee usein käveltyä pidempiä matkoja. Sykkeen tempo vaihtelee palj
 
 #### Metsästä liikuntaa kaupanpäälle
 
-Metsäliikunta muotoja on paljon. Jos pelkkä metsässä kävely ei kiinnosta voi kokeile jotain seuraavista:
+Metsäliikunta muotoja on paljon. Jos pelkkä metsässä kävely ei kiinnosta voi kokeilla jotain seuraavista:
 
 #### Sienestäminen
 Lähde metsään etsimään ruokasieniä. Tässä harrastuksessa on jotain kiehtovaa. Mikään ei voita sitä tunnetta, kun löytää hyvän
