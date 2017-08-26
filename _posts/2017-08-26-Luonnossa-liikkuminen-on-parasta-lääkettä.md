@@ -14,7 +14,7 @@ kehoa. Perehdytään hieman miksi näin on.
 
 Nykyihminen on noin 300 000 vuotta vanha. Vasta noin 10 000 vuotta sitten alkoi viljelyskulttuuri ja aloimme hankkia ruokaa 
 muualta kuin metsästä keräillen ja metsästäen. Ihminen käveli keskimäärin kymmenen kilometriä päivässä keräillen ruokaa. 
-Kaikki ylimääräinen ravinto mitä sattui löytymään syötiin ja tämän ylimääräisen energian keho säilöi rasvan muodossa. 
+Kaikki ylimääräinen ravinto mitä sattui löytymään syötiin ja tämän energian keho säilöi rasvan muodossa myöhempää käyttöä varten. 
 Tämän 10 000 vuoden aikana kehomme eivät ole kauheasti muuttuneet. Kroppa on edelleen suunniteltu selviytymään. 
 Nykyään hyppäämme autoon, ajamme kauppaan, ostamme mitä haluamme ja ajetaan takaisin kotiin. 
 
