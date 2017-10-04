@@ -6,6 +6,7 @@ url: http://www.funktum.fi
 ga: UA-66809541-1
 baseurl: ""
 share_image: /img/opengraph_share.png
+github: [metadata]
 
 # Build settings
 markdown: kramdown
