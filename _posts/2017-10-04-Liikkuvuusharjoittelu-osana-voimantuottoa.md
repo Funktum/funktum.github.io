@@ -1,8 +1,9 @@
 ---
 layout: post
 published: true
-title: "Liikkuvuus osana voimantuottoa"
+title: Liikkuvuus osana voimantuottoa
 ---
+![stretching-2307890_1920.jpg]({{site.baseurl}}/media/stretching-2307890_1920.jpg)
 
 
 
@@ -16,6 +17,8 @@ katsotaan jotain toiminnallisempaa, kuten esimerkiksi nostoliikkeitä tai kyykky
 Jos otetaan esimerkiksi kyykky. Jos liikkuvuutta ei ole tarpeeksi yläselässä, jää painopiste helposti liian eteen 
 jolloin liikkeestä tulee epäedullinen. Kun liikkuvuus on kunnossa, saadaan painopiste siirrettyä taaemmaksi jalan 
 keskiosan kohdalle, jolloin liike on voimantuoton näkökulmasta parempi. 
+
+![]({{site.baseurl}}/media/kyykky%20liikkuvuus.jpg)
 
 #### Miten pitäisi venytellä?
 
