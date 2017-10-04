@@ -28,7 +28,7 @@ jQuery(document).ready(function($) {
 
   //Click anywhere on the page to get rid of lightbox window
   $('#lightbox').on('click', function() {
-    $('#lightbox').fadeOut(100);
+    $('#lightbox').fadeOut(200);
   });
 
 });

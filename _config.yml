@@ -5,7 +5,7 @@ description: Funktum on erikoistunut toiminnalliseen henkilökohtaiseen valmennu
 url: http://www.funktum.fi
 ga: UA-66809541-1
 baseurl: ""
-share_image: /img/opengraph_share.png
+share_image: /assets/img/opengraph_share.png
 github: [metadata]
 
 # Build settings
@@ -34,9 +34,7 @@ prose:
     - /_layouts
     - /_includes
     - /blog
-    - /js
-    - /fonts
-    - /css
+    - /assets
     - _config*
     - .git*
     - Gem*

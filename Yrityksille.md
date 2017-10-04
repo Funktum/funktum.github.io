@@ -6,7 +6,7 @@ weight: 2
 published: true
 ---
 
-![Pt 3.jpg]({{site.baseurl}}/media/Pt%203.jpg)![5D3_7238.jpg]({{site.baseurl}}/media/5D3_7238.jpg)
+![pt-3.jpg]({{site.baseurl}}/media/pt-3.jpg)![forelasning-1.jpg]({{site.baseurl}}/media/forelasning-1.jpg)
 
 ### Työhyvinvointi PT- palvelu
 
