@@ -8,9 +8,7 @@ hero_buttons: true
 weight: 0
 ---
 
-## Toiminnallinen harjoittelu
-
-Toiminnallinen harjoittelu on käytännöllistä harjoittelua joka tukee henkilön arkipäiväisiä toimia, harrastuksia ja ennaltaehkäisee loukkaantumisia. Toiminnallinen harjoittelu sisältää usein liikkeitä joita tehdään omalla kehonpainolla tai vapailla painoilla ja vältetään kuntosalilaitteen penkkiin eristäytymistä. Kuin harjoitellaan vapailla painoilla tai omalla kehonpainolla, kehittyy kehon tukevat ja avustavat lihakset paljon tehokkaammin koska kroppa joutuu tekemään työtä hyvän ryhdin ja tasapainon säilyttämiseksi.
+<p class="lead">Yrityksemme on sitoutunut auttamaan ihmisiä voimaan paremmin liikunnan ja hyvinvoinnin avulla. Tämän toteutamme tarjoamalla monipuolisia liikuntapalveluita. Pyrimme aina auttamaan asiakkaitamme parhaalla mahdollisella tavalla.</p>
 
 ![Kuva](/media/pt-3.jpg)
 ![kuva](/media/parmbild-1.jpg)
@@ -20,13 +18,19 @@ Toiminnallinen harjoittelu on käytännöllistä harjoittelua joka tukee henkil�
 
 ## Palvelut
 
-**Functional personal training**  
-Toiminnallista henkilökohtaista valmennusta tavoitteesi saavuttamiseksi.
+#### Body Control, HIIT IT ja Weight Control -tunnit
 
-**Liikunnanohjaus**  
-Ryhmäliikuntaa yrityksille, seuroille, kouluille tai muille ryhmille.
+Tunteja ja pienryhmävalmennusta sinulle joka haluaa parantaa kehonhallintataitojasi, treenata korkealla intensiteetillä tai päästä lisäkiloista eroon.
 
-[Lue lisää palvelut -sivulta](/palvelut/)
+#### Personal Training -palvelut
+
+Persona Training palvelu on tarkoitettu sinulle, joka haluat päästä harjoittelussa seuraavalle tasolle.
+
+#### Koululiikunta kerhot
+
+Kerhotoiminnallamme pyrimme antamaan lapsille positiivisen kokemuksen liikunnasta, tarjoamme parkour- ja pallokerhoja.
+
+{% include button.html link="./palvelut/" text="Tutstu palveluihimme" %}
 
 ---
 
