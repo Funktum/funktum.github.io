@@ -74,7 +74,7 @@ li {
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
-  font-family: 'nexa_boldregular', $base-font-family;
+  font-family: $heading-font-family;
 }
 
 h1 {
@@ -209,7 +209,7 @@ article {
   border: 0;
   border-radius: $radius;
   color: white;
-  font-family: 'nexa_boldregular', $base-font-family;
+  font-family: $heading-font-family;
   font-size: $base-font-size;
   line-height: 1;
   padding: 12px 20px;
