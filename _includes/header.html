@@ -12,18 +12,18 @@
     </div>
   </div>
 
-  {% if page.is_index %}
-    <div class="hero">
-      <div class="wrapper">
-        <h1>{{ site.description }}</h1>
-          <a href="{{ site.baseurl }}/palvelut/" class="btn btn-light">Tutustu palveluihin</a>
-          <a href="#yhteystiedot" class="btn btn-light">Ota yhteyttä</a>
-      </div>
-    </div>
-  {% endif %}
-
   {% if page.hero_image %}
-    <div class="hero" style="background-image: url({{ page.hero_image | prepend: site.baseurl }})"></div>
+    <div class="hero" style="background-image: url({{ page.hero_image | prepend: site.baseurl }})">
+      {% if page.hero_text %}
+        <div class="wrapper">
+          <h1>{{ page.hero_text }}</h1>
+          {% if page.hero_buttons %}
+            <a href="./palvelut/" class="btn btn-light">Tutustu palveluihin</a>
+            <a href="./#yhteystiedot" class="btn btn-light">Ota yhteyttä</a>
+          {% endif %}
+        </div>
+      {% endif %}
+    </div>
   {% endif %}
 
 </header>

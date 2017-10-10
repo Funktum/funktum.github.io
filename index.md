@@ -2,6 +2,9 @@
 is_index: true
 layout: default
 title: Etusivu
+hero_text: Funktum on liikunta-alan yritys ja ihmisten auttaminen on meille erittäin tärkeää. Liikunnan ja hyvinvoinnin avulla parannemme elämänlaatuasi.
+hero_image: /assets/img/hero.jpg
+hero_buttons: true
 weight: 0
 ---
 
