@@ -8,7 +8,7 @@ published: true
 
 ## Osta lahjaksi liikuntaa!
 
-Jätä turha krääsä hyllyyn ja osta ystävälle liikuntalahjakortti. Lahjakortti on käytettävissä kaikkiin funktumin palveluihin.
+<p class="lead">Jätä turha krääsä hyllyyn ja osta ystävälle liikuntalahjakortti. Lahjakortti on käytettävissä kaikkiin funktumin palveluihin.</p>
 
 {% include button.html link="#" text="Osta tästä" %}
 

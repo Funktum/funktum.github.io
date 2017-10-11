@@ -188,21 +188,6 @@ article {
   }
 }
 
-
-// Wrapper
-
-.wrapper {
-  max-width: $content-width + ($spacing-unit * 8);
-  margin: 0 auto;
-  padding: 0 ($spacing-unit * 4);
-  @include clearfix;
-
-  @include media-query($on-desktop) {
-    max-width: $content-width + ($spacing-unit * 1.5);
-    padding: 0 ($spacing-unit * 2);
-  }
-}
-
 // Buttons
 
 .btn {

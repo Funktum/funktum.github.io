@@ -19,7 +19,7 @@
 }
 
 @mixin transition($setting) {
-  transition: $setting 0.15s ease-in-out;
+  transition: $setting 0.15s ease-out;
 }
 
 @mixin clearfix {
