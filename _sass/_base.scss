@@ -197,11 +197,11 @@ article {
   color: white;
   font-family: $heading-font-family;
   font-size: $base-font-size;
-  line-height: 1;
+  line-height: 16px;
   padding: 12px 20px;
   text-decoration: none;
   display: inline-block;
-  margin: 4px 4px 4px 0;
+  margin: 4px 0;
 
   &:hover, &:focus {
     color: white;
