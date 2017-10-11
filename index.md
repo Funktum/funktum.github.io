@@ -2,18 +2,11 @@
 is_index: true
 layout: default
 title: Etusivu
-hero_text: Funktum on liikunta-alan yritys ja ihmisten auttaminen on meille erittäin tärkeää. Liikunnan ja hyvinvoinnin avulla parannemme elämänlaatuasi.
 hero_image: /assets/img/hero.jpg
+hero_title: Funktum on liikunta-alan yritys ja ihmisten auttaminen on meille erittäin tärkeää
+hero_text: Yrityksemme on sitoutunut auttamaan ihmisiä voimaan paremmin liikunnan ja hyvinvoinnin avulla. Tämän toteutamme tarjoamalla monipuolisia liikuntapalveluita. Pyrimme aina auttamaan asiakkaitamme parhaalla mahdollisella tavalla.
 hero_buttons: true
 weight: 0
----
-
-<p class="lead">Yrityksemme on sitoutunut auttamaan ihmisiä voimaan paremmin liikunnan ja hyvinvoinnin avulla. Tämän toteutamme tarjoamalla monipuolisia liikuntapalveluita. Pyrimme aina auttamaan asiakkaitamme parhaalla mahdollisella tavalla.</p>
-
-![Kuva](/media/pt-3.jpg)
-![kuva](/media/parmbild-1.jpg)
-![Kuva](/media/gruppmotion-4.jpg)
-
 ---
 
 ## Palvelut

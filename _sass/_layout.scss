@@ -91,30 +91,39 @@
   background-position: center;
   background-size: cover;
   background-color: $brand-color;
-  color: white;
-  height: 480px;
   text-align: center;
-
-  .wrapper {
-    @include vertical-align;
+  @include media-query-ns {
+    height: 480px;
   }
 
-  h1 {
+  .wrapper {
+    padding-top: $spacing-unit * 6;
+    padding-bottom: $spacing-unit * 6;
+    @include media-query-ns {
+      @include vertical-align;
+    }
+  }
+
+  .hero-title {
     font-family: $heading-font-family;
-    font-weight: 400;
-    font-size: 1.8rem;
+    font-size: 2rem;
+    color: white;
     line-height: 1.4;
     margin-top: 0;
-    margin-bottom: $spacing-unit * 6;
+    margin-bottom: 1rem;
 
     @include media-query($on-tablet) {
-      font-size: 1.6rem;
-      margin-bottom: $spacing-unit * 4;
+      font-size: 1.5rem;
     }
+  }
 
-    @include media-query($on-phone) {
-      font-size: 1.4rem;
-    }
+  .hero-text {
+    color: white;
+    font-size: 1.125rem;
+  }
+
+  .hero-buttons {
+    margin-top: 2rem;
   }
 
   .btn {

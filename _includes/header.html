@@ -13,17 +13,22 @@
   </div>
 
   {% if page.hero_image %}
-    <div class="hero" style="background-image: url({{ page.hero_image | prepend: site.baseurl }})">
+  <div class="hero" style="background-image: url({{ page.hero_image | prepend: site.baseurl }})">
+    <div class="wrapper">
+      {% if page.hero_title %}
+      <h1 class="hero-title">{{ page.hero_title }}</h1>
+      {% endif %}
       {% if page.hero_text %}
-        <div class="wrapper">
-          <h1>{{ page.hero_text }}</h1>
-          {% if page.hero_buttons %}
-            <a href="./palvelut/" class="btn btn-light">Tutustu palveluihin</a>
-            <a href="./#yhteystiedot" class="btn btn-light">Ota yhteyttä</a>
-          {% endif %}
-        </div>
+      <p class="hero-text">{{ page.hero_text }}</p>
+      {% endif %}
+      {% if page.hero_buttons %}
+      <div class="hero-buttons">
+        <a href="./palvelut/" class="btn btn-light">Tutustu palveluihin</a>
+        <a href="./#yhteystiedot" class="btn btn-light">Ota yhteyttä</a>
+      </div>
       {% endif %}
     </div>
+  </div>
   {% endif %}
 
 </header>
