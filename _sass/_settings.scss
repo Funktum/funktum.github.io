@@ -5,7 +5,8 @@ $small-font-size: $base-font-size * 0.875;
 $base-line-height: 1.5;
 $spacing-unit: 8px;
 
-$text-color: #222;
+$text-color: #333;
+$heading-color: #222;
 $background-color: #fff;
 $brand-color: #0072ce;
 $border-color: #e0e0e0;
@@ -15,6 +16,7 @@ $grey-color-dark: darken($grey-color, 20%);
 $radius: 2px;
 
 $content-width: 720px;
+
 $on-phone: 480px;
 $on-tablet: 768px;
 $on-desktop: 992px;
