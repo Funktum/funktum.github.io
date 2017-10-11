@@ -1,0 +1,9 @@
+<div class="recent-posts">
+  {% for post in site.posts | limit: 2 %}
+    <a href="{{ post.url }}" class="post-card">
+      <h4 class="post-title">{{ post.title }}</h4>
+      <p class="post-content">{{ post.content | markdownify | remove: '<img>' | strip_html | truncate: 160 }}</p>
+      <p class="post-meta">{% include month_locales.html %}</p>
+    </a>
+  {% endfor %}
+</div>

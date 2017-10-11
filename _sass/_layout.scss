@@ -297,3 +297,51 @@
     margin-bottom: $spacing-unit / 2;
   }
 }
+
+.recent-posts {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: $spacing-unit;
+
+  @include media-query($on-tablet) {
+    display: inline-block;
+  }
+
+  .post-card {
+    border-radius: $radius;
+    border: 1px solid $border-color;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-between;
+    margin-bottom: $spacing-unit * 2;
+    padding: $spacing-unit * 2;
+    text-decoration: none;
+    width: 48%;
+
+    @include media-query($on-tablet) {
+      width: 100%;
+    }
+
+    &:hover {
+      border-color: darken($border-color, 5%);
+      box-shadow: 0 0 8px rgba(0,0,0,.1);
+    }
+
+    .post-title {
+      margin-top: 0;
+      color: $brand-color;
+    }
+
+    .post-content {
+      color: $text-color;
+    }
+
+    .post-meta {
+      color: $grey-color;
+      font-size: $small-font-size;
+      margin-top: auto;
+      margin-bottom: 0;
+    }
+
+  }
+}

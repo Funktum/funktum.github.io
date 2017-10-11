@@ -4,7 +4,7 @@ layout: default
 title: Etusivu
 hero_image: /assets/img/hero.jpg
 hero_title: Funktum on liikunta-alan yritys ja ihmisten auttaminen on meille erittäin tärkeää
-hero_text: Yrityksemme on sitoutunut auttamaan ihmisiä voimaan paremmin liikunnan ja hyvinvoinnin avulla. Tämän toteutamme tarjoamalla monipuolisia liikuntapalveluita. Pyrimme aina auttamaan asiakkaitamme parhaalla mahdollisella tavalla.
+hero_text: Parannamme elämänlaatuasi liikunnan ja hyvinvoinnin avulla
 hero_buttons: true
 weight: 0
 ---
@@ -24,6 +24,14 @@ Persona Training palvelu on tarkoitettu sinulle, joka haluat päästä harjoitte
 Kerhotoiminnallamme pyrimme antamaan lapsille positiivisen kokemuksen liikunnasta, tarjoamme parkour- ja pallokerhoja.
 
 {% include button.html link="./palvelut/" text="Tutustu palveluihimme" %}
+
+---
+
+## Uusimmat blogikirjoitukset
+
+{% include latest_blog_posts.html %}
+
+{% include button.html link="./blog/" text="Kaikki blogikirjoitukset" %}
 
 ---
 
