@@ -78,7 +78,7 @@ prose:
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-    style: :compressed
+  style: :compressed
 
 # Exclude these files from your production _site
 exclude:
