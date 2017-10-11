@@ -210,36 +210,35 @@
 }
 
 .post-list {
-  .post {
+  .post-item {
     border-top: 1px solid $border-color;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: baseline;
+    -ms-flex-align: baseline;
+    align-items: baseline;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding-top: $spacing-unit * 1.5;
+    padding-bottom: $spacing-unit * 1.5;
 
-    a {
-      display: -webkit-flex;
-      display: -ms-flexbox;
-      display: flex;
-      -webkit-align-items: baseline;
-          -ms-flex-align: baseline;
-              align-items: baseline;
-      -webkit-justify-content: space-between;
-          -ms-flex-pack: justify;
-              justify-content: space-between;
-      padding-top: $spacing-unit * 1.5;
-      padding-bottom: $spacing-unit * 1.5;
+    @include media-query($on-tablet) {
+      display: block;
+    }
 
-      @include media-query($on-tablet) {
-        display: block;
-      }
-
-      &:hover {
-        text-decoration: none;
-      }
+    &:hover {
+      text-decoration: none;
     }
 
     .post-title {
+      color: inherit;
       margin: 0;
     }
 
     .post-meta {
+      color: $grey-color;
       font-size: $small-font-size;
     }
   }

@@ -24,24 +24,17 @@ weight: 10
 <div class="post-list">
   <h3>Vanhemmat kirjoitukset</h3>
   {% if paginator.page == 1 %}
-    {% for post in paginator.posts | offset: 1 %}
-    <div class="post" id="{{ post.id | remove: '/blog/' }}">
-      <a href="{{ post.url | prepend: site.baseurl }}">
-        <h5 class="post-title">{{ post.title }}</h5>
-        <span class="post-meta">{% include month_locales.html %}</span>
-      </a>
-    </div>
-    {% endfor %}
+    {% assign paginator_posts = paginator.posts | offset: 1 %}
   {% else %}
-    {% for post in paginator.posts %}
-    <div class="post" id="{{ post.id | remove: '/blog/' }}">
-      <a href="{{ post.url | prepend: site.baseurl }}">
-        <h5 class="post-title">{{ post.title }}</h5>
-        <span class="post-meta">{% include month_locales.html %}</span>
-      </a>
-    </div>
-    {% endfor %}
+    {% assign paginator_posts = paginator.posts %}
   {% endif %}
+
+  {% for post in paginator_posts %}
+  <a class="post-item" href="{{ post.url | prepend: site.baseurl }}">
+    <span class="post-title">{{ post.title }}</span>
+    <span class="post-meta">{% include month_locales.html %}</span>
+  </a>
+  {% endfor %}
 </div>
 
 <!-- Pagination links -->
