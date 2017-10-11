@@ -1,15 +1,15 @@
 <header class="site-header">
 
   <div class="top-bar">
-    <div class="wrapper">
-      <a class="site-title" href="{{ site.baseurl }}/">
+    <nav class="site-nav">
+      <a class="logo" href="{{ site.baseurl }}/">
         <img class="desktop" src="{{ site.baseurl }}/assets/img/funktum-logo.svg" alt="{{ site.name }}" height="24">
         <img class="mobile" src="{{ site.baseurl }}/assets/img/funktum-logo-f.svg" alt="{{ site.name }}" height="72">
       </a>
-      <nav class="site-nav">
+      <div class="nav-links">
         {% include navigation.html context="/" %}
-      </nav>
-    </div>
+      </div>
+    </nav>
   </div>
 
   {% if page.hero_image %}
