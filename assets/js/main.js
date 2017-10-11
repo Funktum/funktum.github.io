@@ -16,15 +16,15 @@ jQuery(document).ready(function($) {
     e.preventDefault();
     $('body').toggleClass('no-scroll');
     var image_href = $(this).attr("src");
-    if ($('#lightbox').length > 0) { // #lightbox exists
-      $('#lightbox').fadeIn(100);
-      $('#content').html('<img src="' + image_href + '" />').delay(100).fadeIn(100);
+    if ($('#lightbox-wrapper').length > 0) { // #lightbox-wrapper exists
+      $('#lightbox-wrapper').fadeIn(100);
+      $('#lightbox-content').html('<img src="' + image_href + '" />').delay(100).fadeIn(100);
     }
   });
 
-  $('#lightbox').on('click', function() {
+  $('#lightbox-wrapper').on('click', function() {
     $('body').toggleClass('no-scroll');
-    $('#content').fadeOut(100)
-    $('#lightbox').delay(100).fadeOut(100);
+    $('#lightbox-content').fadeOut(100)
+    $('#lightbox-wrapper').delay(100).fadeOut(100);
   });
 });
