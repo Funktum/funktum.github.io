@@ -20,7 +20,12 @@ published: true
 
 Nosta kehonhallintataitosi seuraavalle tasolle! Body control tunneilla harjoittelemme kehonhallintaa. Oman kehon kontrolloiminen ja hahmottaminen on tärkeää kokonaisvaltaisen hyvinvoinnin kannalta. Tunneilla haastamme kehoa uusilla liikeradoilla ja liikuntaa voi harjoittaa omalla tasolla. Haasteita riittää varmasti kaikille, tule mukaan kokeilemaan.
 
-{% include button.html link="#" text="Lue lisää" style="outline" %}
+Osoite: [Keskipäivänkuja 4, Espoo](https://goo.gl/maps/4rMrioinh292)  
+Aloitus: 15.01.2018 klo 18.00  
+Kesto: 8 kertaa, kerran viikossa  
+Hinta: 75 €
+
+{% include button.html link="https://holvi.com/shop/funktum" text="Ilmoittaudu" %}
 
 ---
 
@@ -30,7 +35,12 @@ Nosta kehonhallintataitosi seuraavalle tasolle! Body control tunneilla harjoitte
 
 Erittäin tehokas treeni tuo sinulle voimaa ja kestävyyttä. HIIT IT tunneilla harjoittelemme korkealla intensiteetillä, välineinä toimivat mm. oma keho ja kahvakuulat. Tule mukaan haastamaan itseäsi rankalla ja intensiivisellä treenillä.
 
-{% include button.html link="#" text="Lue lisää" style="outline" %}
+Osoite: [Keskipäivänkuja 4, Espoo](https://goo.gl/maps/4rMrioinh292)  
+Aloitus: 20.01.2018 klo 18.00  
+Kesto: 8 kertaa, kerran viikossa  
+Hinta: 75 €
+
+{% include button.html link="https://holvi.com/shop/funktum" text="Ilmoittaudu" %}
 
 ---
 
@@ -40,7 +50,12 @@ Erittäin tehokas treeni tuo sinulle voimaa ja kestävyyttä. HIIT IT tunneilla 
 
 Varma ja toimiva keino päästä lisäkiloista eroon. Weight control pienryhmävalmennukseen olemme yhdistäneet yhdessä tekemisen ja yksilöllisyyden. Haastattelemme kaikkia erikseen ja laadimme kaikille omantyylisen harjoittelusuunnitelman. Treenit suoritetaan ryhmässä ja pienen ryhmäkoon ansiosta voimme auttaa kaikkia henkilökohtaisesti samalla kun treenaamme yhdessä. Tule mukaan ja onnistu muuttamaan elämäsi parempaan suuntaan. 
 
-{% include button.html link="#" text="Lue lisää" style="outline" %}
+Osoite: [Keskipäivänkuja 4, Espoo](https://goo.gl/maps/4rMrioinh292)  
+Aloitus: 20.04.2018 klo 18.00  
+Kesto: Kerran viikossa  
+Hinta: 100 € / kuukausi
+
+{% include button.html link="https://holvi.com/shop/funktum" text="Ilmoittaudu" %}
 
 ---
 
@@ -76,3 +91,9 @@ Parkour on hyvä ja monipuolinen laji. Parkourkerho tuo lapselle uusia motorisia
 Pallokerhossa lapset pääsevät kokeilemaan erilaisia pelejä. Haluamme antaa osallistujille mahdollisuuden kokeilla erilaisia, epätavallisempia maila- ja pallopelejä. Parina esimerkkinä voimme ottaa kin-ballin, speedmintonin ja kaupunkitaistelun.  
 
 {% include button.html email=site.email style="outline" %}
+
+---
+
+## Yhteystiedot
+
+{% include contact_details.html %}
