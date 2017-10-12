@@ -117,7 +117,6 @@
     font-family: $heading-font-family;
     font-size: 2rem;
     color: white;
-    line-height: 1.4;
     margin-top: 0;
     margin-bottom: 1rem;
 
@@ -175,12 +174,10 @@
 // Page content
 
 .page-content {
-  margin-top: $spacing-unit * 6;
-  margin-bottom: $spacing-unit * 8;
+  margin: $spacing-unit * 8 0;
 
   @include media-query($on-tablet) {
-    margin-top: $spacing-unit * 4;
-    margin-bottom: $spacing-unit * 6;
+    margin: $spacing-unit * 5 0;
   }
 }
 
@@ -207,13 +204,35 @@
 
 // Blog
 
-.post-featured {
-  .post {
-    padding-bottom: $spacing-unit * 4;
+.post {
+  .post-header {
+    margin-bottom: $spacing-unit * 4;
   }
 
   .post-title {
-    margin-bottom: $spacing-unit;
+    a:hover {
+      text-decoration: none;
+    }
+  }
+
+  .post-meta {
+    color: $grey-color;
+  }
+
+  .fb-like-wrapper {
+    max-width: 100%;
+    overflow: hidden;
+
+    .fb-like {
+      float: none;
+      margin-top: $spacing-unit * 4;
+    }
+  }
+}
+
+.post-featured {
+  .post {
+    padding-bottom: $spacing-unit * 4;
   }
 }
 
@@ -253,38 +272,13 @@
   }
 }
 
-.post {
-  .post-header {
-    margin-bottom: $spacing-unit * 4;
-  }
-
-  .post-title {
-    margin-bottom: $spacing-unit * 2;
-
-    a:hover {
-      text-decoration: none;
-    }
-  }
-
-  .post-meta {
-    color: $grey-color;
-  }
-
-  .fb-like-wrapper {
-    max-width: 100%;
-    overflow: hidden;
-
-    .fb-like {
-      float: none;
-      margin-top: $spacing-unit * 4;
-    }
-  }
-}
-
 .pagination {
-  margin-top: $spacing-unit;
-  margin-bottom: $spacing-unit;
+  margin-top: $spacing-unit * 3;
   text-align: center;
+
+  a {
+    margin: $spacing-unit / 2;
+  }
 }
 
 .recommended-articles {

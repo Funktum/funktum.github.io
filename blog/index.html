@@ -37,7 +37,7 @@ weight: 10
   {% endfor %}
 </div>
 
-<!-- Pagination links -->
+{% if paginator.previous_page or paginator.next_page %}
 <div class="pagination">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="btn">&lsaquo; Uudemmat</a>
@@ -46,3 +46,4 @@ weight: 10
     <a href="{{ paginator.next_page_path }}" class="btn">Vanhemmat &rsaquo;</a>
   {% endif %}
 </div>
+{% endif %}
