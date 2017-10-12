@@ -1,0 +1,11 @@
+<div class="holvi-container">
+  <div class="holvi-wrapper">
+    {% if include.list %}
+      {% for item in include.list %}
+      <iframe src="{{ item | append: 'embedded/'}}" frameborder="0"></iframe>
+      {% endfor %}
+    {% else %}
+    <iframe src="{{ include.url | append: 'embedded/'}}" frameborder="0"></iframe>
+    {% endif %}
+  </div>
+</div>

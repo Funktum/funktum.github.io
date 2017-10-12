@@ -4,13 +4,20 @@ title: Palvelut
 permalink: /palvelut/
 weight: 1
 published: true
+holvi:
+  - https://holvi.com/shop/funktum/product/c5ccb50c285defcaae5587ede459d72d/
+  - https://holvi.com/shop/funktum/product/8ef9940ee78fb2ca624343fd1327d4eb/
+  - https://holvi.com/shop/funktum/product/6a465cfde124081e547c65d7bfd3f950/
+  - https://holvi.com/shop/funktum/product/65392d09ed3179bb5e62731eab980c1a/
+  - https://holvi.com/shop/funktum/product/ea5f9fc8412127dd4881657d62fc0afe/
+  - https://holvi.com/shop/funktum/product/67571d0b33e093ca4f949ad27a7b89a4/
 ---
 
-## Osta lahjaksi liikuntaa!
+## Lahjakortit ja kurssit helposti verkkokaupastamme
 
-<p class="lead">Jätä turha krääsä hyllyyn ja osta ystävälle liikuntalahjakortti. Lahjakortti on käytettävissä kaikkiin funktumin palveluihin.</p>
+Jätä turha krääsä hyllyyn ja osta ystävälle liikuntalahjakortti tai ilmoittaudu meidän kursseille. Lahjakortit ja kurssien ilmoittautumiset voit helposti ostaa [verkkokaupastamme](https://holvi.com/shop/funktum/).
 
-{% include button.html link="#" text="Osta tästä" %}
+{% include holvi_iframe.html list=page.holvi %}
 
 ---
 
@@ -25,7 +32,7 @@ Aloitus: 15.01.2018 klo 18.00
 Kesto: 8 kertaa, kerran viikossa  
 Hinta: 75 €
 
-{% include button.html link="https://holvi.com/shop/funktum" text="Ilmoittaudu" %}
+{% include button.html link="https://holvi.com/shop/funktum/product/c5ccb50c285defcaae5587ede459d72d/" text="Ilmoittaudu" %}
 
 ---
 
@@ -40,7 +47,7 @@ Aloitus: 20.01.2018 klo 18.00
 Kesto: 8 kertaa, kerran viikossa  
 Hinta: 75 €
 
-{% include button.html link="https://holvi.com/shop/funktum" text="Ilmoittaudu" %}
+{% include button.html link="https://holvi.com/shop/funktum/product/8ef9940ee78fb2ca624343fd1327d4eb/" text="Ilmoittaudu" %}
 
 ---
 
@@ -55,7 +62,7 @@ Aloitus: 20.04.2018 klo 18.00
 Kesto: Kerran viikossa  
 Hinta: 100 € / kuukausi
 
-{% include button.html link="https://holvi.com/shop/funktum" text="Ilmoittaudu" %}
+{% include button.html link="https://holvi.com/shop/funktum/product/6a465cfde124081e547c65d7bfd3f950/" text="Ilmoittaudu" %}
 
 ---
 

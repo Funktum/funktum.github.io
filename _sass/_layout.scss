@@ -344,3 +344,22 @@
 
   }
 }
+
+// Holvi
+
+.holvi-container {
+  margin-bottom: $spacing-unit * 2;
+
+  .holvi-wrapper {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    overflow-x: auto;
+  }
+
+  iframe {
+    width: 100%;
+    min-width: 224px;
+    height: 360px;
+  }
+}
