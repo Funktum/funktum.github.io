@@ -358,6 +358,9 @@
   }
 
   iframe {
+    background-image: url(../img/loader.svg);
+    background-position: center;
+    background-repeat: no-repeat;
     width: 100%;
     min-width: 224px;
     height: 360px;
