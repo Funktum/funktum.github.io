@@ -1,8 +1,7 @@
 ---
-title: Etusivu
-position: 0
 is_index: true
 layout: default
+title: Etusivu
 weight: 0
 ---
 

@@ -1,8 +1,9 @@
 ---
-title: Tapojen muuttaminen
-date: 2017-06-06 00:00:00 Z
 layout: post
+published: true
+title: Tapojen muuttaminen
 ---
+
 
 ![update-1672351_1920.png]({{site.baseurl}}/media/update-1672351_1920.png)
 

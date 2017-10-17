@@ -1,9 +1,8 @@
 ---
-title: Saunomisen hyödyt
-date: 2017-06-10 00:00:00 Z
 layout: post
+published: true
+title: Saunomisen hyödyt
 ---
-
 ![sauna-1093235_1920.jpg]({{site.baseurl}}/media/sauna-1093235_1920.jpg)
 
 Oletko saunan ystävä? Hyvä, koska saunominen tuo hyvää oloa ja rentouttaa kehoa, mutta saunomisella saadaan aikaan myös

@@ -1,7 +1,7 @@
 ---
-title: Miksi vanhalla iällä pitäisi liikkua?
-date: 2016-11-14 00:00:00 Z
 layout: post
+published: true
+title: Miksi vanhalla iällä pitäisi liikkua?
 ---
 
 ## Miksi vanhalla iällä pitäisi liikkua?

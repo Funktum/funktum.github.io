@@ -1,7 +1,6 @@
 ---
-permalink: "/styleguide/"
-position: 3
 layout: page
+permalink: /styleguide/
 noindex: true
 ---
 

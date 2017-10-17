@@ -1,17 +1,92 @@
----
-title: Funktum.Github.Io
-timezone: UTC
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
+# Site settings
+name: Funktum
+email: sampsa@funktum.fi
+description: Funktum on erikoistunut toiminnalliseen henkilökohtaiseen valmennukseen ja ryhmäliikuntaan. Tarjoamme myös luentoja esimerkiksi yrityksille. Toimialueemme on pääkaupunkiseutu.
+url: http://www.funktum.fi
+ga: UA-66809541-1
+baseurl: ""
+share_image: /img/opengraph_share.png
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Blog settings
+paginate: 20
+paginate_path: "/blog/page/:num/"
 defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    category: blog
-    is_post: true
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      category: blog
+      is_post: true
+
+# Prose.io settings
+prose:
+  siteurl: http://www.funktum.fi/
+  relativeLinks: http://www.funktum.fi/links.jsonp
+  media: media
+  ignore:
+    - /_sass
+    - /_site
+    - /_layouts
+    - /_includes
+    - /blog
+    - /js
+    - /fonts
+    - /css
+    - _config*
+    - .git*
+    - Gem*
+    - CNAME
+    - links.jsonp
+    - favicon.ico
+  metadata:
+    "":
+      - name: layout
+        field:
+          element: hidden
+          value: page
+      - name: published
+        field:
+          element: checkbox
+          label: Publish
+          help: Uncheck if you don't want to publish the page right now
+          value: true
+      - name: title
+        field:
+          element: text
+          label: Title
+    _posts:
+      - name: layout
+        field:
+          element: hidden
+          value: post
+      - name: published
+        field:
+          element: checkbox
+          label: Publish
+          help: Uncheck if you don't want to publish the post right now
+          value: true
+      - name: title
+        field:
+          element: text
+          label: Title
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+    style: :compressed
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - TODO
+  - vendor
+
+# Gems to use
+gems:
+  - jekyll-paginate
