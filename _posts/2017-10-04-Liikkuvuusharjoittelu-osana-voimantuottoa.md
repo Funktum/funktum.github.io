@@ -1,8 +1,9 @@
 ---
-layout: post
-published: true
 title: Liikkuvuus osana voimantuottoa
+date: 2017-10-04 00:00:00 Z
+layout: post
 ---
+
 ![stretching-2307890_1920.jpg]({{site.baseurl}}/media/stretching-2307890_1920.jpg)
 
 

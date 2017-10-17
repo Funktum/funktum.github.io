@@ -1,7 +1,7 @@
 ---
+title: Palautuminen, ainoa tie tuloksiin
+date: 2016-01-27 00:00:00 Z
 layout: post
-published: true
-title: "Palautuminen, ainoa tie tuloksiin"
 ---
 
 Kaikessa harjoittelussa, oli sitten kyse lihaskestävyydestä, maksimivoimasta tai koordinaatioharjoittelusta, pitää kropan palautua jotta kehittyy. Ei lepoa, ei kehitystä. Niin yksinkertaista se on. 

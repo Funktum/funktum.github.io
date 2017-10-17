@@ -1,7 +1,7 @@
 ---
+title: Juhannushaaste, Slackline Tasapainoliina
+date: 2017-06-18 00:00:00 Z
 layout: post
-published: true
-title: 'Juhannushaaste, Slackline Tasapainoliina'
 ---
 
 ![slackline-283223_1920.jpg]({{site.baseurl}}/media/slackline-283223_1920.jpg)
