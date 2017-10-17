@@ -5,31 +5,23 @@ description: Blogautuksia tominallisen harjoittelun ja henkilökohtaisen valmenn
 weight: 10
 ---
 
-{% if paginator.page == 1 %}
-  <div class="post-featured">
-    {% for post in paginator.posts | limit: 1 %}
-    <div class="post" id="{{ post.id | remove: '/blog/' }}">
-      <h2 class="post-title">
-        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h2>
-      <p class="post-meta">{% include month_locales.html %}</p>
-      <article class="post-content">
-          {{ post.content }}
-        </article>
-    </div>
-    {% endfor %}
+<div class="post-featured">
+  {% for post in paginator.posts | limit: 1 %}
+  <div class="post" id="{{ post.id | remove: '/blog/' }}">
+    <h2 class="post-title">
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </h2>
+    <p class="post-meta">{% include month_locales.html %}</p>
+    <article class="post-content">
+        {{ post.content }}
+      </article>
   </div>
-{% endif %}
+  {% endfor %}
+</div>
 
 <div class="post-list">
   <h3>Vanhemmat kirjoitukset</h3>
-  {% if paginator.page == 1 %}
-    {% assign paginator_posts = paginator.posts | offset: 1 %}
-  {% else %}
-    {% assign paginator_posts = paginator.posts %}
-  {% endif %}
-
-  {% for post in paginator_posts %}
+  {% for post in paginator.posts | offset: 1%}
   <a class="post-item" href="{{ post.url | prepend: site.baseurl }}">
     <span class="post-title">{{ post.title }}</span>
     <span class="post-meta">{% include month_locales.html %}</span>
