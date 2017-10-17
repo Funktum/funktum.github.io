@@ -1,9 +1,22 @@
 <div class="recent-posts">
   {% for post in site.posts | limit: 2 %}
+    {% assign images = post.content | split: '<img' %}
+    {% for image in images %}
+      {% if image contains 'src=' %}
+        {% assign post_image_src = image | split: 'src="' %}
+        {% assign post_image_src = post_image_src[1] | split: '"' | first %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
     <a href="{{ post.url }}" class="post-card">
-      <h4 class="post-title">{{ post.title }}</h4>
+      <div class="post-image" style="background-image: url({{ post_image_src }})">
+        <div class="post-image-container">
+          <h3 class="post-title">{{ post.title }}</h3>
+          <p class="post-meta">{% include month_locales.html %}</p>
+        </div>
+      </div>
       <p class="post-content">{{ post.content | markdownify | remove: '<img>' | strip_html | truncate: 160 }}</p>
-      <p class="post-meta">{% include month_locales.html %}</p>
+      <p class="post-link">Lue lisää ›</p>
     </a>
   {% endfor %}
 </div>
