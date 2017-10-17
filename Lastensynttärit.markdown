@@ -1,5 +1,6 @@
 ---
 permalink: "/synttärit/"
+position: 1
 layout: page
 ---
 

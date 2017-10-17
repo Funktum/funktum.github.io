@@ -1,6 +1,7 @@
 ---
 title: Palvelut
 permalink: "/palvelut/"
+position: 2
 layout: page
 weight: 1
 ---

@@ -1,5 +1,6 @@
 ---
 permalink: "/styleguide/"
+position: 3
 layout: page
 noindex: true
 ---
