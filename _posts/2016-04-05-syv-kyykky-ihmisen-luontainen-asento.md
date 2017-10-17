@@ -1,9 +1,8 @@
 ---
+title: Syväkyykky, ihmisen luontainen asento
+date: 2016-04-05 00:00:00 Z
 layout: post
-published: true
-title: "Syväkyykky, ihmisen luontainen asento"
 ---
-
 
 Tuolit olivat suomessa harvinaisia ennen 1700-lukua. Ennen tuolien ilmaantumista syväkyykyssä luontaisesti levättiin ja tehtiin askareita. Jopa isoäidit ja isoisät saattoivat työskennellä kyseisessä asennossa.  Syväkyykky oli ja on yhä ihmiselle luontainen asento. Jos tarkkailet pienen lapsen leikkejä lattialla, saatat huomata että tämä viihtyy usein syväkyykyssä. Nykyään monella vanhemmalla lapsella ja aikuisella on vaikeuksia päästä syväkyykkyyn ja jos pääsee, ei siellä kauaa viihdy. 
 

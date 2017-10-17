@@ -1,9 +1,8 @@
 ---
-layout: post
-published: true
 title: Tämän takia sinulla pitäisi olla Personal Trainer
+date: 2017-07-08 00:00:00 Z
+layout: post
 ---
-
 
 ![(Pt4) .jpg]({{site.baseurl}}/media/(Pt4) .jpg)
 
