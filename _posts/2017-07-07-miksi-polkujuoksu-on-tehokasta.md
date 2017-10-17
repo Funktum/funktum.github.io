@@ -1,9 +1,8 @@
 ---
-title: Miksi polkujuoksu on tehokasta?
-date: 2017-07-07 00:00:00 Z
 layout: post
+published: true
+title: Miksi polkujuoksu on tehokasta?
 ---
-
 ![forest-1836654_1920.jpg]({{site.baseurl}}/media/forest-1836654_1920.jpg)
 
 

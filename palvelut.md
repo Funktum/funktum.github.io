@@ -1,8 +1,9 @@
 ---
-title: Palvelut
-permalink: "/palvelut/"
 layout: page
+title: Palvelut
+permalink: /palvelut/
 weight: 1
+published: true
 ---
 
 ![Kuva](/media/gruppmotion-4.jpg)

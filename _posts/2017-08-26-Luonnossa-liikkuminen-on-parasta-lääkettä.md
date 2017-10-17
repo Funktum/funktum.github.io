@@ -1,9 +1,8 @@
 ---
-title: Luonnossa liikkuminen on parasta lääkettä
-date: 2017-08-26 00:00:00 Z
 layout: post
+published: true
+title: Luonnossa liikkuminen on parasta lääkettä
 ---
-
 ![landscape-2634267_1920.jpg]({{site.baseurl}}/media/landscape-2634267_1920.jpg)
 
 Hektisessä arjessa tapahtuu paljon ja asiat pitää saada madollisimman tehokkaasti tehtyä. Kiireen keskellä on hyvä päästä pois

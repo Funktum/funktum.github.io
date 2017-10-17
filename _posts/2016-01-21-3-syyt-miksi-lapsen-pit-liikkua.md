@@ -1,8 +1,9 @@
 ---
-title: 3 syytä miksi lapsen pitää liikkua
-date: 2016-01-21 00:00:00 Z
 layout: post
+published: true
+title: 3 syytä miksi lapsen pitää liikkua
 ---
+
 
 Liikuntakerhoja järjestettyäni on lasten kanssa tullut työskenneltyä aika paljon. Se on hienoa nähdä kuinka lapset lyhyessäkin ajassa kehittyy huimasti. Lapsuus määrittää usein sen, mitä vanhempana alkaa tekemään. Jos lapsena ei liiku voi vanhemmallakin iällä suhtautua liikuntaan negatiivisesti. Tämäkin on yksi syy siihen, miksi lasten pitäisi liikkua paljon.  
 
