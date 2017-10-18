@@ -5,14 +5,21 @@
 //         padding-left: $spacing-unit * 2;
 //     }
 // }
+
 @mixin media-query($device) {
   @media screen and (max-width: $device) {
     @content;
   }
 }
 
+@mixin media-query-ns {
+  @media screen and (min-width: $on-tablet) {
+    @content;
+  }
+}
+
 @mixin transition($setting) {
-  transition: $setting 0.15s ease-in-out;
+  transition: $setting 0.15s ease-out;
 }
 
 @mixin clearfix {

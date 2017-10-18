@@ -2,25 +2,18 @@
 layout: compress
 ---
 
-<!DOCTYPE html>
-<html>
-
+<!doctype html>
+<html class="no-js" lang="fi">
   {% include head.html %}
-
   <body>
-
     {% include lightbox.html %}
     {% include header.html %}
-
-    <section class="page-content" role="main">
+    <section class="page-container" role="main">
       <div class="wrapper">
         {{ content }}
       </div>
     </section>
-
     {% include footer.html %}
     {% include scripts.html %}
-
   </body>
-
 </html>

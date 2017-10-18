@@ -1,19 +1,62 @@
 ---
-layout: page
+layout: default
 title: Palvelut
 permalink: /palvelut/
 weight: 1
 published: true
+holvi:
+  - https://holvi.com/shop/funktum/product/65392d09ed3179bb5e62731eab980c1a/
+  - https://holvi.com/shop/funktum/product/ea5f9fc8412127dd4881657d62fc0afe/
+  - https://holvi.com/shop/funktum/product/67571d0b33e093ca4f949ad27a7b89a4/
 ---
 
-![Kuva](/media/gruppmotion-4.jpg)
-![Kuva](/media/pt-2.jpg)
+## Osta lahjaksi liikuntaa! 
 
-## Functional personal training 
+Jätä turha krääsä hyllyyn ja osta ystävälle liikuntalahjakortti. Lahjakortti on käytettävissä kaikkiin funktumin palveluihin. Lahjakortin voit helposti ostaa [verkkokaupastamme](https://holvi.com/shop/funktum/).
 
-Functional personal training eli toiminnallinen henkilökohtainen valmennus on tarkoitettu sinulle, joka haluat päästä harjoittelussa seuraavalle tasolle. Laadimme tavoitteenmukaiset treeniohjelmat, tarkistamme ruokatottumuksesi ja seuraamme palautumistasi. Olipa tavoitteesi sitten painonpudotus, kunnon kohotus tai liikkuvuuden lisääminen, me autamme mielellämme. Suosittelemme sitoutumaan pitkäksi aikaa, jolloin palvelusta saa kaiken hyödyn irti. Lue lisää: [Tapojen muuttaminen](http://www.funktum.fi/blog/2017/06/06/Tapojen-muuttaminen/)
+{% include holvi_iframe.html list=page.holvi %}
 
-### Hinnasto
+---
+
+## Body Control -tunnit
+
+![Body Control](/media/body-control.jpg)
+
+Nosta kehonhallintataitosi seuraavalle tasolle! Body control tunneilla harjoittelemme kehonhallintaa. Oman kehon kontrolloiminen ja hahmottaminen on tärkeää kokonaisvaltaisen hyvinvoinnin kannalta. Tunneilla haastamme kehoa uusilla liikeradoilla ja liikuntaa voi harjoittaa omalla tasolla. Haasteita riittää varmasti kaikille, tule mukaan kokeilemaan.
+
+_Tunnit alkavat 2018 alussa, lisää tietoa myöhemmin._
+
+{% include button.html email=site.email style="outline" %}
+
+---
+
+## HIIT IT -tunnit
+
+![HIIT IT](/media/hiit-it.jpg)
+
+Erittäin tehokas treeni tuo sinulle voimaa ja kestävyyttä. HIIT IT tunneilla harjoittelemme korkealla intensiteetillä, välineinä toimivat mm. oma keho ja kahvakuulat. Tule mukaan haastamaan itseäsi rankalla ja intensiivisellä treenillä.
+
+_Tunnit alkavat 2018 alussa, lisää tietoa myöhemmin._
+
+{% include button.html email=site.email style="outline" %}
+
+---
+
+## Weight Control -pienryhmävalmennus
+
+![Weight Control](/media/weight-control.jpg)
+
+Varma ja toimiva keino päästä lisäkiloista eroon. Weight control pienryhmävalmennukseen olemme yhdistäneet yhdessä tekemisen ja yksilöllisyyden. Haastattelemme kaikkia erikseen ja laadimme kaikille omantyylisen harjoittelusuunnitelman. Treenit suoritetaan ryhmässä ja pienen ryhmäkoon ansiosta voimme auttaa kaikkia henkilökohtaisesti samalla kun treenaamme yhdessä. Tule mukaan ja onnistu muuttamaan elämäsi parempaan suuntaan. 
+
+_Pienryhmävalennus alkaa 2018 alussa, lisää tietoa myöhemmin._
+
+{% include button.html email=site.email style="outline" %}
+
+---
+
+## Personal Training -palvelut
+
+Persona Training palvelu on tarkoitettu sinulle, joka haluat päästä harjoittelussa seuraavalle tasolle. Laadimme tavoitteenmukaiset treeniohjelmat, tarkistamme ruokatottumuksesi ja seuraamme palautumistasi. Olipa tavoitteesi sitten painonpudotus, kunnon kohotus tai liikkuvuuden lisääminen, me autamme mielellämme. Lue lisää: [Tapojen muuttaminen](http://www.funktum.fi/blog/2017/06/06/Tapojen-muuttaminen/)
 
 | Tuote                     | Hinta (sis. alv)    |
 | ------------------------- | ------------------- |
@@ -26,23 +69,26 @@ Functional personal training eli toiminnallinen henkilökohtainen valmennus on t
 
 _Kaikkiin 5-50 tapaamisen paketteihin sisältyy treeniohjelma(t), jaksotus, ravintoneuvonta ja treenin seuranta._
 
-[Ota yhteyttä](mailto:{{ site.email }}) niin sovitaan ilmainen alkukartoitus.
+{% include button.html email=site.email style="outline" %}
 
 ---
 
-## Liikunnanohjaus
+## Funktum koululiikunta kerhot
 
-Tarjoamme liikunnanohjusta yrityksille, seuroille, kouluille ja muille ryhmille.
+Kerhotoiminnallamme pyrimme antamaan lapsille positiivisen kokemuksen liikunnasta. Uskomme että voimme vaikuttaa lapsen suhtautumiseen liikuntaan. Parhaassa tapauksessa positiivinen asennoituminen kantaa aikuisikään asti. Haluamme myös luoda jokaiselle osallistujalle yhteenkuuluvuuden tunteen.
 
-Osaamisalueeseemme kuuluu:
+#### Parkour
 
-* Kehonhallinta
-* Parkour
-* Käsilläseisonta
-* Kehonhuolto
-* Kahvakuula
-* Päivävaellukset/kävelyt
+Parkour on hyvä ja monipuolinen laji. Parkourkerho tuo lapselle uusia motorisia taitoja, parantaa oman kehon hahmotusta ja edistää ketteryyttä. Laji toimii hyvänä oheisharrastuksena monelle muulle lajille monipuolisten liikeratojen ansiosta.
 
-[Pyydä tarjous](mailto:{{ site.email }}) niin räätälöidään juuri teille sopiva ryhmäliikuntatunti tai kurssi.
+#### Pallokerho
+
+Pallokerhossa lapset pääsevät kokeilemaan erilaisia pelejä. Haluamme antaa osallistujille mahdollisuuden kokeilla erilaisia, epätavallisempia maila- ja pallopelejä. Parina esimerkkinä voimme ottaa kin-ballin, speedmintonin ja kaupunkitaistelun.  
+
+{% include button.html email=site.email style="outline" %}
 
 ---
+
+## Yhteystiedot
+
+{% include contact_details.html %}

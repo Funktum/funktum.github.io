@@ -1,11 +1,15 @@
 # Site settings
 name: Funktum
+full_name: Sampsa Visuri
 email: sampsa@funktum.fi
-description: Funktum on erikoistunut toiminnalliseen henkilökohtaiseen valmennukseen ja ryhmäliikuntaan. Tarjoamme myös luentoja esimerkiksi yrityksille. Toimialueemme on pääkaupunkiseutu.
+phone: +358403513174
+phone_formatted: +358 40 351 3174
+description: Funktum on liikunta-alan yritys joka tarjoaa henkilökohtaista valmennusta ja ryhmäliikuntaa.
 url: http://www.funktum.fi
 ga: UA-66809541-1
 baseurl: ""
-share_image: /img/opengraph_share.png
+share_image: /assets/img/opengraph_share.png
+github: [metadata]
 
 # Build settings
 markdown: kramdown
@@ -33,9 +37,7 @@ prose:
     - /_layouts
     - /_includes
     - /blog
-    - /js
-    - /fonts
-    - /css
+    - /assets
     - _config*
     - .git*
     - Gem*
@@ -76,7 +78,7 @@ prose:
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-    style: :compressed
+  style: :compressed
 
 # Exclude these files from your production _site
 exclude:

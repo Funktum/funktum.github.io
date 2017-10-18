@@ -2,28 +2,36 @@
 is_index: true
 layout: default
 title: Etusivu
+hero_image: /assets/img/hero-3.jpg
+hero_title: Funktum on liikunta-alan yritys ja ihmisten auttaminen on meille erittäin tärkeää
+hero_text: Parannamme elämänlaatuasi liikunnan ja hyvinvoinnin avulla
+hero_buttons: true
 weight: 0
----
-
-## Toiminnallinen harjoittelu
-
-Toiminnallinen harjoittelu on käytännöllistä harjoittelua joka tukee henkilön arkipäiväisiä toimia, harrastuksia ja ennaltaehkäisee loukkaantumisia. Toiminnallinen harjoittelu sisältää usein liikkeitä joita tehdään omalla kehonpainolla tai vapailla painoilla ja vältetään kuntosalilaitteen penkkiin eristäytymistä. Kuin harjoitellaan vapailla painoilla tai omalla kehonpainolla, kehittyy kehon tukevat ja avustavat lihakset paljon tehokkaammin koska kroppa joutuu tekemään työtä hyvän ryhdin ja tasapainon säilyttämiseksi.
-
-![Kuva](/media/pt-3.jpg)
-![kuva](/media/parmbild-1.jpg)
-![Kuva](/media/gruppmotion-4.jpg)
-
 ---
 
 ## Palvelut
 
-**Functional personal training**  
-Toiminnallista henkilökohtaista valmennusta tavoitteesi saavuttamiseksi.
+#### Body Control, HIIT IT ja Weight Control -tunnit
 
-**Liikunnanohjaus**  
-Ryhmäliikuntaa yrityksille, seuroille, kouluille tai muille ryhmille.
+Tunteja ja pienryhmävalmennusta sinulle joka haluaa parantaa kehonhallintataitojasi, treenata korkealla intensiteetillä tai päästä lisäkiloista eroon.
 
-[Lue lisää palvelut -sivulta](/palvelut/)
+#### Personal Training -palvelut
+
+Persona Training palvelu on tarkoitettu sinulle, joka haluat päästä harjoittelussa seuraavalle tasolle.
+
+#### Koululiikunta kerhot
+
+Kerhotoiminnallamme pyrimme antamaan lapsille positiivisen kokemuksen liikunnasta, tarjoamme parkour- ja pallokerhoja.
+
+{% include button.html link="./palvelut/" text="Tutustu palveluihimme" %}
+
+---
+
+## Uusimmat blogikirjoitukset
+
+{% include latest_blog_posts.html %}
+
+{% include button.html link="./blog/" text="Kaikki blogikirjoitukset" %}
 
 ---
 
@@ -31,8 +39,4 @@ Ryhmäliikuntaa yrityksille, seuroille, kouluille tai muille ryhmille.
 
 Olen Sampsa Visuri, Funktumin perustaja. Toimin pääkaupunkiseudulla liikuntaneuvojana ja [FISAF](http://www.fisafinternational.com/en/) & [Europe Active](http://www.europeactive.eu/) lisensoimana personal trainerina. Olen pitkään ollut kiinnostunut kehonhallinnasta ja omalla kehon painolla harjoittelemisesta. Kokemusta löytyy myös kuntosalin puolelta.
 
-<img src="img/sampsa.jpg" alt="Sampsa Visuri" class="user-photo"/>
-
-**Sampsa Visuri **  
-[+358 40 351 3174 ](tel:+358403513174)  
-[{{ site.email }}](mailto:{{ site.email }})
+{% include contact_details.html %}

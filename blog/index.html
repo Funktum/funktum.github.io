@@ -5,45 +5,31 @@ description: Blogautuksia tominallisen harjoittelun ja henkilökohtaisen valmenn
 weight: 10
 ---
 
-{% if paginator.page == 1 %}
-  <div class="post-featured">
-    {% for post in paginator.posts | limit: 1 %}
-    <div class="post" id="{{ post.id | remove: '/blog/' }}">
-      <h2 class="post-title">
-        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h2>
-      <p class="post-meta">{% include month_locales.html %}</p>
-      <article class="post-content">
-          {{ post.content }}
-        </article>
-    </div>
-    {% endfor %}
+<div class="post-featured">
+  {% for post in paginator.posts | limit: 1 %}
+  <div class="post" id="{{ post.id | remove: '/blog/' }}">
+    <h2 class="post-title">
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </h2>
+    <p class="post-meta">{% include month_locales.html %}</p>
+    <article class="post-content">
+        {{ post.content }}
+      </article>
   </div>
-{% endif %}
-
-<div class="post-list">
-  {% if paginator.page == 1 %}
-    {% for post in paginator.posts | offset: 1 %}
-    <div class="post" id="{{ post.id | remove: '/blog/' }}">
-      <a href="{{ post.url | prepend: site.baseurl }}">
-        <h4 class="post-title">{{ post.title }}</h4>
-        <span class="post-meta">{% include month_locales.html %}</span>
-      </a>
-    </div>
-    {% endfor %}
-  {% else %}
-    {% for post in paginator.posts %}
-    <div class="post" id="{{ post.id | remove: '/blog/' }}">
-      <a href="{{ post.url | prepend: site.baseurl }}">
-        <h4 class="post-title">{{ post.title }}</h4>
-        <span class="post-meta">{% include month_locales.html %}</span>
-      </a>
-    </div>
-    {% endfor %}
-  {% endif %}
+  {% endfor %}
 </div>
 
-<!-- Pagination links -->
+<div class="post-list">
+  <h3>Vanhemmat kirjoitukset</h3>
+  {% for post in paginator.posts | offset: 1%}
+  <a class="post-item" href="{{ post.url | prepend: site.baseurl }}">
+    <span class="post-title">{{ post.title }}</span>
+    <span class="post-meta">{% include month_locales.html %}</span>
+  </a>
+  {% endfor %}
+</div>
+
+{% if paginator.previous_page or paginator.next_page %}
 <div class="pagination">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="btn">&lsaquo; Uudemmat</a>
@@ -52,3 +38,4 @@ weight: 10
     <a href="{{ paginator.next_page_path }}" class="btn">Vanhemmat &rsaquo;</a>
   {% endif %}
 </div>
+{% endif %}

@@ -1,29 +1,36 @@
 <header class="site-header">
 
   <div class="top-bar">
-    <div class="wrapper">
-      <a class="site-title" href="{{ site.baseurl }}/">
-        <img class="desktop" src="{{ site.baseurl }}/img/funktum-logo.svg" alt="{{ site.name }}" height="24">
-        <img class="mobile" src="{{ site.baseurl }}/img/funktum-logo-f.svg" alt="{{ site.name }}" height="72">
+    <nav class="site-nav">
+      <a class="logo" href="{{ site.baseurl }}/">
+        <img class="desktop" src="{{ site.baseurl }}/assets/img/funktum-logo.svg" alt="{{ site.name }}" height="24">
+        <img class="mobile" src="{{ site.baseurl }}/assets/img/funktum-logo-f.svg" alt="{{ site.name }}" height="72">
       </a>
-      <nav class="site-nav">
+      <div class="nav-links">
         {% include navigation.html context="/" %}
-      </nav>
-    </div>
+      </div>
+    </nav>
   </div>
 
-  {% if page.is_index %}
-    <div class="hero">
-      <div class="wrapper">
-        <h1>{{ site.description }}</h1>
-          <a href="{{ site.baseurl }}/palvelut/" class="btn btn-light">Tutustu palveluihin</a>
-          <a href="#yhteystiedot" class="btn btn-light">Ota yhteyttä</a>
+  {% if page.hero_image %}
+  <div class="hero" style="background-image: url({{ page.hero_image | prepend: site.baseurl }})">
+    <div class="hero-middle">
+      <div class="hero-content">
+        {% if page.hero_title %}
+        <h1 class="hero-title">{{ page.hero_title }}</h1>
+        {% endif %}
+        {% if page.hero_text %}
+        <p class="hero-text">{{ page.hero_text }}</p>
+        {% endif %}
+        {% if page.hero_buttons %}
+        <div class="hero-buttons">
+          <a href="./palvelut/" class="btn btn-light">Tutustu palveluihimme</a>
+          <a href="./#yhteystiedot" class="btn btn-light">Ota yhteyttä</a>
+        </div>
+        {% endif %}
       </div>
     </div>
-  {% endif %}
-
-  {% if page.hero_image %}
-    <div class="hero" style="background-image: url({{ page.hero_image | prepend: site.baseurl }})"></div>
+  </div>
   {% endif %}
 
 </header>
