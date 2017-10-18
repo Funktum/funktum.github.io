@@ -153,8 +153,13 @@
 .site-footer {
   background-color: $grey-color-light;
   color: $grey-color;
-  padding: ($spacing-unit * 4) 0;
+  padding: $spacing-unit * 4 0;
   font-size: $small-font-size;
+
+  .wrapper {
+    padding-top: $spacing-unit;
+    padding-bottom: $spacing-unit;
+  }
 
   a {
     color: $grey-color;
