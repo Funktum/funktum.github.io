@@ -23,7 +23,7 @@ Persona Training palvelu on tarkoitettu sinulle, joka haluat päästä harjoitte
 
 Kerhotoiminnallamme pyrimme antamaan lapsille positiivisen kokemuksen liikunnasta, tarjoamme parkour- ja pallokerhoja.
 
-{% include button.html link="./palvelut/" text="Tutustu palveluihimme" %}
+{% include button.html url="./palvelut/" text="Tutustu palveluihimme" %}
 
 ---
 
@@ -31,7 +31,7 @@ Kerhotoiminnallamme pyrimme antamaan lapsille positiivisen kokemuksen liikunnast
 
 {% include latest_blog_posts.html %}
 
-{% include button.html link="./blog/" text="Kaikki blogikirjoitukset" %}
+{% include button.html url="./blog/" text="Kaikki blogikirjoitukset" %}
 
 ---
 

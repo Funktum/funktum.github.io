@@ -6,6 +6,6 @@
 
 {% if include.email %}
   <a href="mailto:{{ include.email }}" class="{{ class }}">Ota yhteyttä</a>
-{% elsif include.link %}
-  <a href="{{ include.link }}" class="{{ class }}">{{ include.text }}</a>
+{% elsif include.url %}
+  <a href="{{ include.url }}" class="{{ class }}">{{ include.text }}</a>
 {% endif %}
