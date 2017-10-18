@@ -12,14 +12,12 @@
   <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.name }}</title>
   <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 
+  <meta property="og:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.name }}">
+  <meta property="og:image" content="{{ site.url }}{% if page.hero_image %}{{ page.hero_image }}{% elsif page_image_src %}{{ page_image_src }}{% else %}{{ site.share_image }}{% endif %}">
   {% if page.is_index %}
-    <meta property="og:title" content="Henkilökohtaista valmennusta, liikunnanohjausta ja luennointia">
     <meta property="og:description" content="{{ site.description }}">
-    <meta property="og:image" content="{{ site.share_image | prepend: site.url }}">
   {% else %}
-    <meta property="og:title" content="{{ page.title }}">
     <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.content | markdownify | remove: '<img>' | strip_html | truncate: 160 }}{% endif %}">
-    <meta property="og:image" content="{{ site.url }}{% if page.hero_image %}{{ page.hero_image }}{% elsif page_image_src %}{{ page_image_src }}{% else %}{{ site.share_image }}{% endif %}">
   {% endif %}
   <meta property="og:site_name" content="Funktum">
   <meta property="og:url" content="{{ site.url | append: page.url }}">
