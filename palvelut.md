@@ -5,17 +5,14 @@ permalink: /palvelut/
 weight: 1
 published: true
 holvi:
-  - https://holvi.com/shop/funktum/product/c5ccb50c285defcaae5587ede459d72d/
-  - https://holvi.com/shop/funktum/product/8ef9940ee78fb2ca624343fd1327d4eb/
-  - https://holvi.com/shop/funktum/product/6a465cfde124081e547c65d7bfd3f950/
   - https://holvi.com/shop/funktum/product/65392d09ed3179bb5e62731eab980c1a/
   - https://holvi.com/shop/funktum/product/ea5f9fc8412127dd4881657d62fc0afe/
   - https://holvi.com/shop/funktum/product/67571d0b33e093ca4f949ad27a7b89a4/
 ---
 
-## Lahjakortit ja kurssit helposti verkkokaupastamme
+## Osta lahjaksi liikuntaa! 
 
-Jätä turha krääsä hyllyyn ja osta ystävälle liikuntalahjakortti tai ilmoittaudu meidän kursseille. Lahjakortit ja kurssien ilmoittautumiset voit helposti ostaa [verkkokaupastamme](https://holvi.com/shop/funktum/).
+Jätä turha krääsä hyllyyn ja osta ystävälle liikuntalahjakortti. Lahjakortti on käytettävissä kaikkiin funktumin palveluihin. Lahjakortin voit helposti ostaa [verkkokaupastamme](https://holvi.com/shop/funktum/).
 
 {% include holvi_iframe.html list=page.holvi %}
 
@@ -23,46 +20,37 @@ Jätä turha krääsä hyllyyn ja osta ystävälle liikuntalahjakortti tai ilmoi
 
 ## Body Control -tunnit
 
-![Kuva](/media/pt-2.jpg)
+![Body Control](/media/body-control.jpg)
 
 Nosta kehonhallintataitosi seuraavalle tasolle! Body control tunneilla harjoittelemme kehonhallintaa. Oman kehon kontrolloiminen ja hahmottaminen on tärkeää kokonaisvaltaisen hyvinvoinnin kannalta. Tunneilla haastamme kehoa uusilla liikeradoilla ja liikuntaa voi harjoittaa omalla tasolla. Haasteita riittää varmasti kaikille, tule mukaan kokeilemaan.
 
-Osoite: [Keskipäivänkuja 4, Espoo](https://goo.gl/maps/4rMrioinh292)  
-Aloitus: 15.01.2018 klo 18.00  
-Kesto: 8 kertaa, kerran viikossa  
-Hinta: 75 €
+_Tunnit alkavat 2018 alussa, lisää tietoa myöhemmin._
 
-{% include button.html link="https://holvi.com/shop/funktum/product/c5ccb50c285defcaae5587ede459d72d/" text="Ilmoittaudu" %}
+{% include button.html email=site.email style="outline" %}
 
 ---
 
 ## HIIT IT -tunnit
 
-![Kuva](/media/pt-2.jpg)
+![HIIT IT](/media/hiit-it.jpg)
 
 Erittäin tehokas treeni tuo sinulle voimaa ja kestävyyttä. HIIT IT tunneilla harjoittelemme korkealla intensiteetillä, välineinä toimivat mm. oma keho ja kahvakuulat. Tule mukaan haastamaan itseäsi rankalla ja intensiivisellä treenillä.
 
-Osoite: [Keskipäivänkuja 4, Espoo](https://goo.gl/maps/4rMrioinh292)  
-Aloitus: 20.01.2018 klo 18.00  
-Kesto: 8 kertaa, kerran viikossa  
-Hinta: 75 €
+_Tunnit alkavat 2018 alussa, lisää tietoa myöhemmin._
 
-{% include button.html link="https://holvi.com/shop/funktum/product/8ef9940ee78fb2ca624343fd1327d4eb/" text="Ilmoittaudu" %}
+{% include button.html email=site.email style="outline" %}
 
 ---
 
 ## Weight Control -pienryhmävalmennus
 
-![Kuva](/media/pt-2.jpg)
+![Weight Control](/media/weight-control.jpg)
 
 Varma ja toimiva keino päästä lisäkiloista eroon. Weight control pienryhmävalmennukseen olemme yhdistäneet yhdessä tekemisen ja yksilöllisyyden. Haastattelemme kaikkia erikseen ja laadimme kaikille omantyylisen harjoittelusuunnitelman. Treenit suoritetaan ryhmässä ja pienen ryhmäkoon ansiosta voimme auttaa kaikkia henkilökohtaisesti samalla kun treenaamme yhdessä. Tule mukaan ja onnistu muuttamaan elämäsi parempaan suuntaan. 
 
-Osoite: [Keskipäivänkuja 4, Espoo](https://goo.gl/maps/4rMrioinh292)  
-Aloitus: 20.04.2018 klo 18.00  
-Kesto: Kerran viikossa  
-Hinta: 100 € / kuukausi
+_Pienryhmävalennus alkaa 2018 alussa, lisää tietoa myöhemmin._
 
-{% include button.html link="https://holvi.com/shop/funktum/product/6a465cfde124081e547c65d7bfd3f950/" text="Ilmoittaudu" %}
+{% include button.html email=site.email style="outline" %}
 
 ---
 
