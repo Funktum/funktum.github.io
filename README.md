@@ -59,7 +59,6 @@ Lägg till `hero_image` i början av filen, resten av `hero_` är valfria.
 ### Holvi
 
     ---
-    …
     holvi:
      - http://example.com
      - http://example.com
