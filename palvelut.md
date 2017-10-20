@@ -83,7 +83,7 @@ Parkour on hyvä ja monipuolinen laji. Parkourkerho tuo lapselle uusia motorisia
 
 #### Pallokerho
 
-Pallokerhossa lapset pääsevät kokeilemaan erilaisia pelejä. Haluamme antaa osallistujille mahdollisuuden kokeilla erilaisia, epätavallisempia maila- ja pallopelejä. Parina esimerkkinä: kin-ballin, speedmintonin ja kaupunkitaistelun.  
+Pallokerhossa lapset pääsevät kokeilemaan erilaisia pelejä. Haluamme antaa osallistujille mahdollisuuden kokeilla erilaisia, epätavallisempia maila- ja pallopelejä. Parina esimerkkinä: kin-ballin, speedmintonin ja kaupunkitaistelu.  
 
 {% include button.html email=site.email style="outline" %}
 
