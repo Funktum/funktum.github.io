@@ -4,7 +4,7 @@ permalink: /elamys/
 ---
 
 
-## Tunnelmallinen luonto- ja liikuntaelämys
+
 
 
 ## Talvireissu Espoon saaristossa
