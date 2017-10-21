@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /luontoelämys/
+permalink: /luontoelamys/
 ---
 
 
