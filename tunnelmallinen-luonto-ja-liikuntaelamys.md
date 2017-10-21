@@ -15,9 +15,7 @@ Luvassa hauskaa ohjelmaa ja kaunis ympäristö. Kävelyn aikana virkistyt ja saa
 Tervetuloa!
 
 Kokoontuminen: 	Nokkalan sataman parkkipaikalla
-
 Aika: 		su 4.2.2018 klo 07:45
-
 Mukaan: 		lämmin vaatetus
 
 
@@ -28,9 +26,7 @@ Rauhallinen ja tunnelmallinen kävely kestää 90 minuuttia ja ehdimme kävellä
 Vaelluksen päätteeksi istahdamme alas nuotion ääreen nauttimaan kuumaa juomaa. 
 
 Kokoontuminen:	Nuuksiontie 82, Espoo, Iso parkkipaikka luontokeskus Haltiaa vastapäätä
-
 Aika: 		la 16.6.2018 klo 22:45
-
 Mukaan:		Keliin sopiva vaatetus
 
 
@@ -43,7 +39,5 @@ kehonpainolla tehtäviä jumppaliikkeitä. Luvassa on reipas kävely, johon maht
 Lenkki kestää 90 minuuttia ja sopii kaikille reippailijoille. Matkan pituus on noin 5km. Tule mukaan!
 
 Kokoontuminen:	Seurasaarentie 15, parkkipaikka
-
 Aika:		su 16.9.2018
-
 Mukaan:		Kelin mukainen urheiluvaatetus, juomapullo
