@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Tunnelmallinen luonto- ja liikuntaelämys
 permalink: /elamys/
-weight: 0
+
 ---
 
 
