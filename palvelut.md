@@ -58,7 +58,7 @@ _Pienryhmävalennus alkaa 2018 alussa, lisää tietoa myöhemmin._
 
 ![funktum_yrityselamys.jpg]({{site.baseurl}}/media/funktum_yrityselamys.jpg)
 
-Tule mukaan nauttimaan ainutlaatuisista luonto- ja liikuntaelämyksiä. Elämyspakettiin kuuluu kolme retkeä pääkaupunkiseudun luontoalueilla. Helmikuussa on luvassa kävely Espoon talvisilla rannoilla, kesäkuussa menemme reippailemaan Seurasaareen, ja syksyllä järjestämme luontoretken Nuuksiossa. 
+Tule mukaan nauttimaan ainutlaatuisista luonto- ja liikuntaelämyksistä. Elämyspakettiin kuuluu kolme retkeä pääkaupunkiseudun luontoalueilla. Helmikuussa on luvassa kävely Espoon talvisilla rannoilla, kesäkuussa menemme reippailemaan Seurasaareen, ja syksyllä järjestämme luontoretken Nuuksiossa. 
 
 {% include button.html email=site.email style="outline" %}
 
