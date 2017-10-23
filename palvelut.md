@@ -5,9 +5,9 @@ permalink: /palvelut/
 weight: 1
 published: true
 holvi:
-  - https://holvi.com/shop/funktum/product/65392d09ed3179bb5e62731eab980c1a/
-  - https://holvi.com/shop/funktum/product/ea5f9fc8412127dd4881657d62fc0afe/
-  - https://holvi.com/shop/funktum/product/67571d0b33e093ca4f949ad27a7b89a4/
+  - 'https://holvi.com/shop/funktum/product/65392d09ed3179bb5e62731eab980c1a/'
+  - 'https://holvi.com/shop/funktum/product/ea5f9fc8412127dd4881657d62fc0afe/'
+  - 'https://holvi.com/shop/funktum/product/67571d0b33e093ca4f949ad27a7b89a4/'
 ---
 
 ## Osta lahjaksi liikuntaa! 
@@ -55,6 +55,8 @@ _Pienryhmävalennus alkaa 2018 alussa, lisää tietoa myöhemmin._
 ---
 
 ## Elämyspaketti
+
+![funktum_yrityselamys.jpg]({{site.baseurl}}/media/funktum_yrityselamys.jpg)
 
 Tule mukaan nauttimaan ainutlaatuisista luonto- ja liikuntaelämyksiä. Elämyspakettiin kuuluu kolme retkeä pääkaupunkiseudun luontoalueilla. Helmikuussa järjestetään kävely Espoon talvisilla rannoilla, kesäkuussa menemme reippailemaan Seurasaareen, ja syksyllä järjestetään luontoretki Nuuksiossa. 
 
