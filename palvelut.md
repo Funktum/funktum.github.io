@@ -46,7 +46,7 @@ _Tunnit alkavat 2018 alussa, lisää tietoa myöhemmin._
 
 ![Weight Control](/media/weight-control.jpg)
 
-Varma ja toimiva keino päästä lisäkiloista eroon. Weight control pienryhmävalmennukseen olemme yhdistäneet yhdessä tekemisen ja yksilöllisyyden. Haastattelemme kaikkia erikseen ja laadimme kaikille omantyylisen harjoittelusuunnitelman. Treenit suoritetaan ryhmässä ja pienen ryhmäkoon ansiosta voimme auttaa kaikkia henkilökohtaisesti samalla kun treenaamme yhdessä. Tule mukaan ja onnistu muuttamaan elämäsi parempaan suuntaan. 
+Varma ja toimiva keino päästä lisäkiloista eroon. Weight control pienryhmävalmennukseen olemme yhdistäneet yhdessä tekemisen ja yksilöllisyyden. Haastattelemme kaikkia erikseen ja laadimme kaikille omantyylisen harjoittelusuunnitelman. Ryhmän koko voi vaihdella yhdestä viiteen henkilöön. Treenit suoritetaan ryhmässä ja pienen ryhmäkoon ansiosta voimme auttaa kaikkia henkilökohtaisesti samalla kun treenaamme yhdessä. Tule mukaan ja onnistu muuttamaan elämäsi parempaan suuntaan. 
 
 _Pienryhmävalennus alkaa 2018 alussa, lisää tietoa myöhemmin._
 
