@@ -60,6 +60,8 @@ _Pienryhmävalennus alkaa 2018 alussa, lisää tietoa myöhemmin._
 
 Tule mukaan nauttimaan ainutlaatuisista luonto- ja liikuntaelämyksiä. Elämyspakettiin kuuluu kolme retkeä pääkaupunkiseudun luontoalueilla. Helmikuussa järjestetään kävely Espoon talvisilla rannoilla, kesäkuussa menemme reippailemaan Seurasaareen, ja syksyllä järjestetään luontoretki Nuuksiossa. 
 
+{% include button.html email=site.email style="outline" %}
+
 ---
 
 ## Personal Training -palvelut
