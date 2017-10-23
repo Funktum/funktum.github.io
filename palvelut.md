@@ -54,6 +54,12 @@ _Pienryhmävalennus alkaa 2018 alussa, lisää tietoa myöhemmin._
 
 ---
 
+## Elämyspaketti
+
+Tule mukaan nauttimaan ainutlaatuisista luonto- ja liikuntaelämyksiä. Elämyspakettiin kuuluu kolme retkeä pääkaupunkiseudun luontoalueilla. Helmikuussa järjestetään kävely Espoon talvisilla rannoilla, kesäkuussa menemme reippailemaan Seurasaareen, ja syksyllä järjestetään luontoretki Nuuksiossa. 
+
+---
+
 ## Personal Training -palvelut
 
 Persona Training palvelu on tarkoitettu sinulle, joka haluat päästä harjoittelussa seuraavalle tasolle. Laadimme tavoitteenmukaiset treeniohjelmat, tarkistamme ruokatottumuksesi ja seuraamme palautumistasi. Olipa tavoitteesi sitten painonpudotus, kunnon kohotus tai liikkuvuuden lisääminen, me autamme mielellämme. Lue lisää: [Tapojen muuttaminen](http://www.funktum.fi/blog/2017/06/06/Tapojen-muuttaminen/)
