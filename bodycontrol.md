@@ -5,6 +5,7 @@ permalink: /bodycontrol/
 
 ![Body Control](/media/body-control.jpg)
 
+---
 
 ### Body Control
 
