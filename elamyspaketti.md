@@ -12,9 +12,9 @@ Tervetuloa mukaan reippailemaan upeassa ympäristössä Espoon rantaraittia pitk
 ja hienoista maisemista. Kävelylenkin aikan on luvassa hauskaa tekemistä ja hyvää seuraa. Kävelemme 90 minuuttia rentoa vauhtia.
 
 
-Lähtö:  Sunnuntai 4.2.2018 klo. 07:45, Nokkalan sataman parkkipaikka
+_Lähtö:  Sunnuntai 4.2.2018 klo. 07:45, Nokkalan sataman parkkipaikka_
 
-Mukaan: Keliin sopiva vaatetus
+_Mukaan: Keliin sopiva vaatetus_
 
 
 ## Seurasaaren Sporttikävely
