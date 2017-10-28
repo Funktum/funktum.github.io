@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: /elamyspaketti/
-published: false
 ---
 
 ## Rantaraitin talviretki
