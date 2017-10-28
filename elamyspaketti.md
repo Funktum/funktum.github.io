@@ -42,5 +42,5 @@ Retken lopussa istahdamme nuotion äärelle nauttimaan lämmintä juomaa. Retki 
 
 ---
 
-Pääohjaajana toimii:
+###### Pääohjaajana toimii:
 {% include contact_details.html %}
