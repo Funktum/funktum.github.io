@@ -17,6 +17,12 @@ Tervetuloa mukaan!
 * Kurssin kesto: 8 kertaa
 * Hinta: 75€
 
+---
+
+#### Jos et ole tyytyväinen ensimmäisen kerran jälkeen saat rahasi takaisin!
+
+---
+
 Ota mukaan liikuntavaatteet ja juomapullo. Nähdään Body Control- tunneilla!
 
 ---
