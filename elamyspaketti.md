@@ -2,7 +2,7 @@
 layout: page
 permalink: /elamyspaketti/
 ---
-![Funktum yrityselamys 2.png]({{site.baseurl}}/media/Funktum yrityselamys 2.png)
+![funktum_yrityselamys.jpg]({{site.baseurl}}/media/funktum_yrityselamys.jpg)
 
 
 Tervetuloa mukaan reippailemaan upeassa ympäristössä Espoon rantaraittia pitkin. Pääset nauttimaan raikkaasta ulkoilmasta 
