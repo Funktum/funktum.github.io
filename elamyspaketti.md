@@ -6,17 +6,21 @@ permalink: /elamyspaketti/
 
 Tule mukaan nauttimaan ainutlaatuisista luonto- ja liikuntaelämyksistä. Elämyspakettiin kuuluu kolme retkeä pääkaupunkiseudun luontoalueilla. Helmikuussa on luvassa kävely Espoon talvisilla rannoilla, kesäkuussa menemme reippailemaan Seurasaareen, ja syyskuussa järjestämme luontoretken Nuuksiossa.
 
+---
+
+---
+
 ## Rantaraitin talviretki
 
 Tervetuloa mukaan reippailemaan upeassa ympäristössä Espoon rantaraittia pitkin. Pääset nauttimaan raikkaasta ulkoilmasta 
 ja hienoista maisemista. Kävelylenkin aikan on luvassa hauskaa tekemistä ja hyvää seuraa. Kävelemme 90 minuuttia rentoa vauhtia.
 
 
-**Lähtö: Sunnuntai 4.2.2018 klo. 07:45**
+*Lähtö: Sunnuntai 4.2.2018 klo. 07:45*
 
-**Paikka: Nokkalan sataman parkkipaikka**
+*Paikka: Nokkalan sataman parkkipaikka*
 
-**Mukaan: Keliin sopiva vaatetus**
+*Mukaan: Keliin sopiva vaatetus*
 
 ---
 
@@ -25,11 +29,11 @@ ja hienoista maisemista. Kävelylenkin aikan on luvassa hauskaa tekemistä ja hy
 Keskikesän aikaan lähdemme reippaalle kävelylle Helsingin Seurasaareen. Lenkin aikana pidämme jumppatuokion ja pääset
 kokeilemaan ponnistusvoimaasi Urho Kekkosen portailla. Kävelylenkki kestää 90 minuuttia johon kuuluu ohjattu kehonpainojumppa. 
 
-**Lähtö: Sunnuntai 16.9.2018 klo. 15:00**
+*Lähtö: Sunnuntai 16.9.2018 klo. 15:00*
 
-**Paikka: Seurasaarentie 15 parkkipaikka**
+*Paikka: Seurasaarentie 15 parkkipaikka*
 
-**Mukaan: Liikuntavaatetus ja vesipullo**
+*Mukaan: Liikuntavaatetus ja vesipullo*
 
 ---
 
@@ -39,10 +43,10 @@ Syyskuussa kun metsä on täynnä luonnonantimia, lähdemme luontoretkelle Espoo
 Kansallispuistossa pääset tutustumaan metsän antimiin ja ihailemaan upeita maisemia. 
 Retken lopussa istahdamme nuotion äärelle nauttimaan lämmintä juomaa. 
 
-**Lähtö: Sunnuntai 16.9.2018 klo. 12:00**
+*Lähtö: Sunnuntai 16.9.2018 klo. 12:00*
 
-**Paikka: Nuuksiontie 82 parkkipaikka**
+*Paikka: Nuuksiontie 82 parkkipaikka*
 
-**Mukaan: Keliin sopiva vaatetus**
+*Mukaan: Keliin sopiva vaatetus*
 
 ---
