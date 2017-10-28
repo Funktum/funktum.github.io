@@ -102,3 +102,7 @@ Pallokerhossa lapset pääsevät kokeilemaan erilaisia pelejä. Haluamme antaa o
 ## Yhteystiedot
 
 {% include contact_details.html %}
+
+---
+
+{% include button.html url="http://www.funktum.fi/sampsavisuri/" style="outline" text="Lue minusta lisää..." %}
