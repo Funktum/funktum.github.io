@@ -23,4 +23,4 @@ Weight control pienryhmävalmennukseen olemme yhdistäneet yksilöllisyyden ja y
 
 ---
 
-{% include button.html url="https://example.github.com" text="Osta nyt" %}
+{% include button.html url="https://holvi.com/shop/funktum/product/6a465cfde124081e547c65d7bfd3f950/" text="Osta nyt" %}
