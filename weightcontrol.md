@@ -23,4 +23,4 @@ Weight control pienryhmävalmennukseen olemme yhdistäneet yksilöllisyyden ja y
 
 ---
 
-{% include button.html url="https://example.github.com" text="ilmoittaudu" %}
+{% include button.html url="https://example.github.com" text="Osta nyt" %}
