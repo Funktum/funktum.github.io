@@ -28,4 +28,4 @@ joka tuo sinulle virtaa elämään.
 
 ---
 
-{% include button.html url="https://holvi.com/shop/funktum/product/8ef9940ee78fb2ca624343fd1327d4eb/" text="ilmoittaudu" %}
+{% include button.html url="https://holvi.com/shop/funktum/product/8ef9940ee78fb2ca624343fd1327d4eb/" text="Osta nyt" %}
