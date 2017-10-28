@@ -23,4 +23,8 @@ henkilökohtainen alkukartoitus ja pistetään homma käyntiin!
 
 ---
 
+#### Jos et ole tyytyväinen ensimmäisen yhteisen treenin jälkeen, saat rahasi takaisin!
+
+---
+
 {% include button.html url="https://holvi.com/shop/funktum/product/8ef9940ee78fb2ca624343fd1327d4eb/" text="Osta nyt!" %}
