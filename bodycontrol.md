@@ -23,4 +23,4 @@ Body Control tunneilla lähdemme liikkeeseen perusasioista: jalkojen, polvien, s
 
 ---
 
-{% include button.html url="https://holvi.com/shop/funktum/product/c5ccb50c285defcaae5587ede459d72d/" text="ilmoittaudu" %}
+{% include button.html url="https://holvi.com/shop/funktum/product/c5ccb50c285defcaae5587ede459d72d/" text="Osta nyt" %}
