@@ -3,7 +3,6 @@ layout: page
 permalink: /elamyspaketti/
 ---
 
-## Rantaraitin talviretki
 
 Tervetuloa mukaan reippailemaan upeassa ympäristössä Espoon rantaraittia pitkin. Pääset nauttimaan raikkaasta ulkoilmasta 
 ja hienoista maisemista. Kävelylenkin aikan on luvassa hauskaa tekemistä ja hyvää seuraa. Kävelemme 90 minuuttia rentoa vauhtia.
