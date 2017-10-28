@@ -16,9 +16,9 @@ haluat päästä lisäkiloista eroon tai keskittyä painonhallintaan. Ilmoita it
 henkilökohtainen alkukartoitus ja pistetään homma käyntiin!
 
 
-* Paikka: Alkukartoitus sovitussa paikassa (pääkaupunkiseutu)
-* Aika: Sovittu aika, yhteiset treenit kerran viikossa
-* Kurssin kesto: Toistaiseksi jatkuva
+* Paikka: [Tapiolan Urheiluhalli](https://goo.gl/maps/b9bpRYsN9BB2) urheilupuistontie 2, Espoo
+* Aika: Keskiviikkoisin 17.01.2018 alkaen kello 18:00-19:00
+* Kurssin kesto: Jatkuva, ei sitoutumista
 * Hinta: 100€/kk
 
 ---
