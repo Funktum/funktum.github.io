@@ -5,6 +5,9 @@ permalink: /hiitit/
 
 ![HIIT IT](/media/hiit-it.jpg)
 
+---
+
+### HIIT IT
 
 HIIT tulee lyhenteestä high intensity interval training. Tarkoituksena on suorittaa treeni korkealla intensiteetillä ja 
 lyhyemmässä ajassa kun normaalisti. HIIT treeni saattaa kestää vain 20-30 minuuttia mutta tehoja on saman verran kun 1,5h 
