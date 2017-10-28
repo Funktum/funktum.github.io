@@ -19,7 +19,9 @@ joka tuo sinulle virtaa elämään.
 * Kurssin kesto: 8 kertaa
 * Hinta: 75€
 
-Ota mukaan liikuntavaatteet ja juomapullo. Nähdään HIIT IT- tunneilla!
+---
+
+#### Jos et ole tyytyväinen ensimmäisen kerran jälkeen saat rahasi takaisin!
 
 ---
 
