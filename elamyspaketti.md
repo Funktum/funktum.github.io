@@ -42,7 +42,7 @@ Retken lopussa istahdamme nuotion äärelle nauttimaan lämmintä juomaa. Retki 
 
 ---
 
-{% include button.html osta url="http//example.com" %}
+{% include button.html url="https://holvi.com/shop/funktum/" %} 
 {% include button.html url="http//example.com" style="outline" %}
 
 ---
