@@ -4,6 +4,8 @@ permalink: /elamyspaketti/
 ---
 ![funktum_yrityselamys.jpg]({{site.baseurl}}/media/funktum_yrityselamys.jpg)
 
+Tule mukaan nauttimaan ainutlaatuisista luonto- ja liikuntaelämyksistä. Elämyspakettiin kuuluu kolme retkeä pääkaupunkiseudun luontoalueilla. Helmikuussa on luvassa kävely Espoon talvisilla rannoilla, kesäkuussa menemme reippailemaan Seurasaareen, ja syyskuussa järjestämme luontoretken Nuuksiossa.
+
 ## Rantaraitin talviretki
 
 Tervetuloa mukaan reippailemaan upeassa ympäristössä Espoon rantaraittia pitkin. Pääset nauttimaan raikkaasta ulkoilmasta 
