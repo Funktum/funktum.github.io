@@ -10,7 +10,8 @@ Tervetuloa mukaan reippailemaan upeassa ympäristössä Espoon rantaraittia pitk
 ja hienoista maisemista. Kävelylenkin aikan on luvassa hauskaa tekemistä ja hyvää seuraa. Kävelemme 90 minuuttia rentoa vauhtia.
 
 
-Lähtö:     Sunnuntai 4.2.2018 klo. 07:45, Nokkalan sataman parkkipaikka
+Lähtö:  Sunnuntai 4.2.2018 klo. 07:45, Nokkalan sataman parkkipaikka
+
 Mukaan: Keliin sopiva vaatetus
 
 
@@ -20,6 +21,7 @@ Keskikesän aikaan lähdemme reippaalle kävelylle Helsingin Seurasaareen. Lenki
 kokeilemaan ponnistusvoimaasi Urho Kekkosen portailla. Kävelylenkki kestää 90 minuuttia johon kuuluu ohjattu kehonpainojumppa. 
 
 Lähtö:     Sunnuntai 16.9.2018 klo. 15:00, Seurasaarentie 15 parkkipaikka
+
 Mukaan:  Liikuntavaatetus ja vesipullo
 
 
@@ -29,5 +31,6 @@ Syyskuussa kun metsä on täynnä luonnonantimia, lähdemme luontoretkelle Espoo
 Kansallispuistossa pääset tutustumaan metsän antimiin ja ihailemaan upeita maisemia. 
 Retken lopussa istahdamme nuotion äärelle nauttimaan lämmintä juomaa. 
 
-Lähtö:     Sunnuntai 16.9.2018 klo. 12:00, Nuuksiontie 82 parkkipaikka 
+Lähtö:     Sunnuntai 16.9.2018 klo. 12:00, Nuuksiontie 82 parkkipaikka
+
 Mukaan: Keliin sopiva vaatetus
