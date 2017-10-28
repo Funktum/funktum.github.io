@@ -7,13 +7,9 @@ permalink: /weightcontrol/
 
 
 Weight control pienryhmävalmennuksesta lähdemme liikkeelle yksilöllisestä alkukartoituksesta, jossa tutustumme asiakkaan
-henkilökohtaisiin tarpeisiin. Siitä lähdemme laatimaan treeniohjelmaa. Alusta lähdemme myös miettimää kokonaisvaltaista
-hyvinvointia. Etenemme pikkuhiljaa, jolloin saavutetaan pysyviä tuloksia. Yhteiset treenit suoritetaan pienessä ryhmässä.
-Ryhmän koko voi vaihdella 1-5 henkilöä. Pienen ryhmäkoon ansiosta voimme auttaa asiakkaitamme yksilötasolla samalla kun 
+tarpeisiin. Etenemme yhdessä pikkuhiljaa, jolloin saavutetaan pysyviä tuloksia. Yhteiset treenit suoritetaan pienessä ryhmässä ja ryhmän koko voi vaihdella 1-5 henkilöä. Pienen ryhmäkoon ansiosta voimme auttaa asiakkaitamme yksilötasolla samalla kun 
 treenaamme yhdessä. Treeneissä käytämme paljon omaa kehoa vastuksena jolloin oman treenin voi suorittaa missä vaan. 
-Kokoonnumme kerran viikossa treenaamaan joko ulko- tai sisätiloissa. Weight control pienryhmävalmennus sopii sinulle, joka 
-haluat päästä lisäkiloista eroon tai keskittyä painonhallintaan. Ilmoita itsesi rohkeasti mukaan niin sovitaan 
-henkilökohtainen alkukartoitus ja pistetään homma käyntiin!
+Kokoonnumme kerran viikossa treenaamaan yhdessä joko ulkona tai sisätiloissa. Weight control pienryhmävalmennus sopii sinulle, jos haluat päästä lisäkiloista eroon tai keskittyä painonhallintaan. Ilmoita itsesi rohkeasti mukaan ja ota ensimmäinen askel kohti liikunnallisempaa elämää!
 
 
 * Paikka: Tapiolan Urheiluhalli [urheilupuistontie 2, Espoo](https://goo.gl/maps/b9bpRYsN9BB2)
