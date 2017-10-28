@@ -29,4 +29,4 @@ Yritykseni nimen keksin selaillessani esperanto sanakirjaa. Yhdistin sanat: funk
 
 Olen vielä matkan alussa. Tavoitteenani on auttaa mahdollisimman montaa ihmistä voimaan paremmin liikunnan ja hyvinvoinnin avulla.  
 
-- Sampsa 
+
