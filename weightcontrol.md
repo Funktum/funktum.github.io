@@ -17,7 +17,7 @@ henkilökohtainen alkukartoitus ja pistetään homma käyntiin!
 
 
 * Paikka: Alkukartoitus sovitussa paikassa (pääkaupunkiseutu)
-* Aika: Sovittu aika
+* Aika: Sovittu aika, yhteiset treenit kerran viikossa
 * Kurssin kesto: Toistaiseksi jatkuva
 * Hinta: 100€/kk
 
