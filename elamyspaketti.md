@@ -1,8 +1,6 @@
 ---
 layout: page
 permalink: /elamyspaketti/
-published: true
-title: Untitled
 ---
 ![Funktum yrityselamys 2.png]({{site.baseurl}}/media/Funktum yrityselamys 2.png)
 
