@@ -51,4 +51,4 @@ Retken lopussa istahdamme nuotion äärelle nauttimaan lämmintä juomaa. Retki 
 
 ---
 
-{% include button.html url="http//example.com" style="outline" text="Lue minusta lisää!" %}
+{% include button.html url="http//example.com" style="outline" text="Lue minusta lisää..." %}
