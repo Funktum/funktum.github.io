@@ -17,7 +17,7 @@ Treenillä pyrimme rasittamaan koko kroppaa. Tunti soveltuu sinulle joka et pelk
 joka tuo sinulle virtaa elämään.
 
 
-* Paikka: Mattlidens Gymnasium, Matinsyrjä 1, Espoo
+* Paikka: Mattlidens Gymnasium [Matinsyrjä 1, Espoo](https://goo.gl/maps/kjdYntyYS4y)
 * Aika: lauantaisin 20.1.2018 alkaen, klo 12:00-12:45
 * Kurssin kesto: 8 kertaa
 * Hinta: 75€
