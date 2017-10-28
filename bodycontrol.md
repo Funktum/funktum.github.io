@@ -16,7 +16,8 @@ Tervetuloa mukaan!
 * Aika: lauantaisin 13.1.2018 alkaen, klo 11:00-11:45
 * Kurssin kesto: 8 kertaa
 * Hinta: 75€
-* Mukaan: liikuntavaatteet ja juomapullo 
+
+Ota mukaan liikuntavaatteet ja juomapullo. Nähdään Body Control- tunneilla!
 
 ---
 
