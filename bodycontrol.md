@@ -13,7 +13,7 @@ tietoisuutta, tasapainoa, kordinaatiota ja lihasvoimaa. Haasteita löytyy kaiken
 Tervetuloa mukaan!
 
 * Paikka: Mattlidens Gymnasium, Matinsyrjä 1, Espoo
-* Aika: lauantaisin 13.1.2018 alkaen, klo 11:00-11:45
+* Aika: lauantaisin 20.1.2018 alkaen, klo 11:00-11:45
 * Kurssin kesto: 8 kertaa
 * Hinta: 75€
 
