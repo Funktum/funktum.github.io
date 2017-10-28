@@ -8,12 +8,6 @@ Tule mukaan nauttimaan ainutlaatuisista luonto- ja liikuntaelämyksistä. Elämy
 
 ---
 
----
-
----
-
----
-
 ## Rantaraitin talviretki
 
 Tervetuloa mukaan reippailemaan upeassa ympäristössä Espoon rantaraittia pitkin. Pääset nauttimaan raikkaasta ulkoilmasta 
@@ -40,7 +34,7 @@ kokeilemaan ponnistusvoimaasi Urho Kekkosen portailla. Kävelylenkki kestää 90
 
 Syyskuussa kun metsä on täynnä luonnonantimia, lähdemme luontoretkelle Espoon Nuuksioon. 
 Kansallispuistossa pääset tutustumaan metsän antimiin ja ihailemaan upeita maisemia. 
-Retken lopussa istahdamme nuotion äärelle nauttimaan lämmintä juomaa. 
+Retken lopussa istahdamme nuotion äärelle nauttimaan lämmintä juomaa. Retki kestää 90 minuuttia.
 
 * Lähtö: Sunnuntai 16.9.2018 klo. 12:00
 * Paikka: Nuuksiontie 82, parkkipaikka
