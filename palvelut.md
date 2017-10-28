@@ -66,7 +66,7 @@ Tule mukaan nauttimaan ainutlaatuisista luonto- ja liikuntaelämyksistä. Elämy
 
 ## Personal Training -palvelut
 
-Persona Training palvelu on tarkoitettu sinulle, joka haluat päästä harjoittelussa seuraavalle tasolle. Laadimme tavoitteenmukaiset treeniohjelmat, tarkistamme ruokatottumuksesi ja seuraamme palautumistasi. Olipa tavoitteesi sitten painonpudotus, kunnon kohotus tai liikkuvuuden lisääminen, me autamme mielellämme. Lue lisää: [Tapojen muuttaminen](http://www.funktum.fi/blog/2017/06/06/Tapojen-muuttaminen/)
+Personal Training palvelu on tarkoitettu sinulle, joka haluat päästä harjoittelussa seuraavalle tasolle. Laadimme tavoitteenmukaiset treeniohjelmat, tarkistamme ruokatottumuksesi ja seuraamme palautumistasi. Olipa tavoitteesi sitten painonpudotus, kunnon kohotus tai liikkuvuuden lisääminen, me autamme mielellämme. Lue lisää: [Tapojen muuttaminen](http://www.funktum.fi/blog/2017/06/06/Tapojen-muuttaminen/)
 
 | Tuote                     | Hinta (sis. alv)    |
 | ------------------------- | ------------------- |
