@@ -2,6 +2,7 @@
 layout: page
 permalink: /bodycontrol/
 ---
+#### Body Control
 
 ![Body Control](/media/body-control.jpg)
 
