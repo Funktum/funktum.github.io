@@ -23,7 +23,7 @@ henkilökohtainen alkukartoitus ja pistetään homma käyntiin!
 
 ---
 
-#### Jos et ole tyytyväinen ensimmäisen yhteisen treenin jälkeen, saat rahasi takaisin!
+#### Jos et ole tyytyväinen ensimmäisen kerran jälkeen saat rahasi takaisin!
 
 ---
 
