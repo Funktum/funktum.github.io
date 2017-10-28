@@ -26,7 +26,8 @@ Nosta kehonhallintataitosi seuraavalle tasolle! Body control tunneilla harjoitte
 
 _Tunnit alkavat 2018 alussa, lisää tietoa myöhemmin._
 
-{% include button.html email=site.email style="outline" %}
+{% include button.html url="https://holvi.com/shop/funktum/product/c5ccb50c285defcaae5587ede459d72d/" text="osta" %}
+{% include button.html url="http://www.funktum.fi/bodycontrol/" text="lue lisää..." style="outline" %}
 
 ---
 
