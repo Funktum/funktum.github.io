@@ -10,6 +10,10 @@ Tule mukaan nauttimaan ainutlaatuisista luonto- ja liikuntaelämyksistä. Elämy
 
 ---
 
+---
+
+---
+
 ## Rantaraitin talviretki
 
 Tervetuloa mukaan reippailemaan upeassa ympäristössä Espoon rantaraittia pitkin. Pääset nauttimaan raikkaasta ulkoilmasta 
@@ -27,7 +31,7 @@ Keskikesän aikaan lähdemme reippaalle kävelylle Helsingin Seurasaareen. Lenki
 kokeilemaan ponnistusvoimaasi Urho Kekkosen portailla. Kävelylenkki kestää 90 minuuttia johon kuuluu ohjattu kehonpainojumppa. 
 
 * Lähtö: Sunnuntai 16.9.2018 klo. 15:00
-* Paikka: Seurasaarentie 15 parkkipaikka
+* Paikka: Seurasaarentie 15, parkkipaikka
 * Mukaan: Liikuntavaatetus ja vesipullo
 
 ---
@@ -39,7 +43,7 @@ Kansallispuistossa pääset tutustumaan metsän antimiin ja ihailemaan upeita ma
 Retken lopussa istahdamme nuotion äärelle nauttimaan lämmintä juomaa. 
 
 * Lähtö: Sunnuntai 16.9.2018 klo. 12:00
-* Paikka: Nuuksiontie 82 parkkipaikka
+* Paikka: Nuuksiontie 82, parkkipaikka
 * Mukaan: Keliin sopiva vaatetus
 
 ---
