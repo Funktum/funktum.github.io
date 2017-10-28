@@ -41,3 +41,5 @@ Retken lopussa istahdamme nuotion äärelle nauttimaan lämmintä juomaa. Retki 
 * Mukaan: Keliin sopiva vaatetus
 
 ---
+
+{% include contact_details.html %}
