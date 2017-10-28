@@ -24,9 +24,6 @@ Jätä turha krääsä hyllyyn ja osta ystävälle liikuntalahjakortti. Lahjakor
 
 Nosta kehonhallintataitosi seuraavalle tasolle! Body control tunneilla harjoittelemme kehonhallintaa. Oman kehon kontrolloiminen ja hahmottaminen on tärkeää kokonaisvaltaisen hyvinvoinnin kannalta. Tunneilla haastamme kehoa uusilla liikeradoilla ja liikuntaa voi harjoittaa omalla tasolla. Haasteita riittää varmasti kaikille, tule mukaan kokeilemaan.
 
-_Tunnit alkavat 2018 alussa, lisää tietoa myöhemmin._
-
-{% include button.html url="https://holvi.com/shop/funktum/product/c5ccb50c285defcaae5587ede459d72d/" text="osta" %}
 {% include button.html url="http://www.funktum.fi/bodycontrol/" text="lue lisää..." style="outline" %}
 
 ---
@@ -37,9 +34,8 @@ _Tunnit alkavat 2018 alussa, lisää tietoa myöhemmin._
 
 Erittäin tehokas treeni tuo sinulle voimaa ja kestävyyttä. HIIT IT tunneilla harjoittelemme korkealla intensiteetillä, välineinä toimivat mm. oma keho ja kahvakuulat. Tule mukaan haastamaan itseäsi rankalla ja intensiivisellä treenillä.
 
-_Tunnit alkavat 2018 alussa, lisää tietoa myöhemmin._
+{% include button.html url="http://www.funktum.fi/hiitit/" text="lue lisää..." style="outline" %}
 
-{% include button.html email=site.email style="outline" %}
 
 ---
 
@@ -49,9 +45,7 @@ _Tunnit alkavat 2018 alussa, lisää tietoa myöhemmin._
 
 Varma ja toimiva keino päästä lisäkiloista eroon. Weight control pienryhmävalmennukseen olemme yhdistäneet yhdessä tekemisen ja yksilöllisyyden. Haastattelemme kaikkia erikseen ja otamme yksilölliset tarpeet huomioon. Ryhmän koko voi vaihdella yhdestä viiteen henkilöön. Treenit suoritetaan ryhmässä ja pienen ryhmäkoon ansiosta voimme auttaa kaikkia henkilökohtaisesti samalla kun treenaamme yhdessä. Tule mukaan ja onnistu muuttamaan elämäsi parempaan suuntaan. 
 
-_Pienryhmävalennus alkaa 2018 alussa, lisää tietoa myöhemmin._
-
-{% include button.html email=site.email style="outline" %}
+{% include button.html url="http://www.funktum.fi/weightcontrol/" text="lue lisää..." style="outline" %}
 
 ---
 
