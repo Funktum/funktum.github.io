@@ -9,7 +9,7 @@ permalink: /bodycontrol/
 
 ### Body Control
 
-Body Control tunneilla lähdemme liikkeeseen perusasioista: jalkojen, polvien, selän ja lapojen hallinnasta ihmisen perusliikkeissä. Siitä lähdemme vähitellen haastamaan kehoa enemmän. Tunti on saanut vaikutteita voimistelusta, parkourista ja akrobatiasta. Tunti soveltuu sinulle, joka haluat lisätä oman kehon tietoisuutta, tasapainoa, koordinaatiota ja lihasvoimaa. Haasteita löytyy kaiken tasoisille liikkujille. Tervetuloa mukaan!
+Body Control tunneilla lähdemme liikkeelle perusasioista: jalkojen, polvien, selän ja lapojen hallinnasta ihmisen perusliikkeissä. Siitä lähdemme vähitellen haastamaan kehoa enemmän. Tunti on saanut vaikutteita voimistelusta, parkourista ja akrobatiasta. Tunti soveltuu sinulle, joka haluat lisätä oman kehon tietoisuutta, tasapainoa, koordinaatiota ja lihasvoimaa. Haasteita löytyy kaiken tasoisille liikkujille. Tervetuloa mukaan!
 
 
 * Paikka: Mattlidens Gymnasium [Matinsyrjä 1, Espoo](https://goo.gl/maps/kjdYntyYS4y)
