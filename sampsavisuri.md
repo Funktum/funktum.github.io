@@ -30,7 +30,7 @@ Ensimmäinen oma keikkani oli parkourkerhon ohjaaminen ala-asteella. Otin homman
 
 Vuoden 2017 tammikuussa aloitin PT:nä Evo (nykyinen Fressi) nimisellä kuntosaliketjulla. Minulla on mukavasti asiakkaita ja nautin ihmisten kanssa työskentelystä. 
 
-Funktum on yritys, joka on sitoutunut auttamaan ihmisiä voimaan paremmin. Haluamme vaikutta ihmisten suhtautumiseen liikuntaan. Voimme omalla työllä ohjata lapsia liikunnallisempaan tulevaisuuteen, auttaa aikuisia löytämään liikunnan uudestaan ja pitää vanhusten toimintakykyä mahdollisimman korkealla. Koen oman työni erittäin antoisaksi ja merkitykselliseksi.
+Funktum on yritys, joka on sitoutunut auttamaan ihmisiä voimaan paremmin ja suhtautumaan liikuntaan uudella tavalla. Voimme omalla työllä ohjata lapsia liikunnallisempaan tulevaisuuteen, auttaa aikuisia löytämään liikunnan uudestaan ja pitää vanhusten toimintakykyä mahdollisimman korkealla. Koen oman työni erittäin antoisaksi ja merkitykselliseksi.
 
 
 Olen vielä matkan alussa ja tavoitteenani on auttaa mahdollisimman monia voimaan paremmin liikunnan ja hyvinvoinnin avulla.  
