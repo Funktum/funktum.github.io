@@ -22,7 +22,7 @@ Jätä turha krääsä hyllyyn ja osta ystävälle liikuntalahjakortti. Lahjakor
 
 ![Body Control](/media/body-control.jpg)
 
-Nosta kehonhallintataitosi seuraavalle tasolle! Body control tunneilla harjoittelemme kehonhallintaa. Oman kehon kontrolloiminen ja hahmottaminen on tärkeää kokonaisvaltaisen hyvinvoinnin kannalta. Tunneilla haastamme kehoa uusilla liikeradoilla ja liikuntaa voi harjoittaa omalla tasolla. Haasteita riittää varmasti kaikille, tule mukaan kokeilemaan.
+Nosta kehonhallintataitosi seuraavalle tasolle! Body control tunneilla harjoittelemme kehonhallintaa. Oman kehon kontrolloiminen ja hahmottaminen on tärkeää kokonaisvaltaisen hyvinvoinnin kannalta. Tunneilla haastamme kehoa uusilla liikeradoilla ja liikuntaa voi harjoittaa omalla tasolla. Haasteita riittää varmasti kaikille - tule mukaan kokeilemaan.
 
 {% include button.html url="http://www.funktum.fi/bodycontrol/" text="Lue lisää..." style="outline" %}
 {% include button.html url="https://holvi.com/shop/funktum/product/c5ccb50c285defcaae5587ede459d72d/" text="Osta nyt"  %}
