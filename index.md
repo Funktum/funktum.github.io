@@ -13,7 +13,7 @@ weight: 0
 
 #### Body Control, HIIT IT ja Weight Control -tunnit
 
-Tunteja ja pienryhmävalmennusta sinulle joka haluaa parantaa kehonhallintataitojasi, treenata korkealla intensiteetillä tai päästä lisäkiloista eroon.
+Tunteja ja pienryhmävalmennusta sinulle, joka haluat parantaa kehonhallintataitojasi, treenata korkealla intensiteetillä tai päästä lisäkiloista eroon.
 
 #### Personal Training -palvelut
 
@@ -21,7 +21,7 @@ Personal Training -palvelu on tarkoitettu sinulle, joka haluat päästä harjoit
 
 #### Koululiikuntakerhot
 
-Kerhotoiminnallamme pyrimme antamaan lapsille positiivisen kokemuksen liikunnasta, tarjoamme parkour- ja pallokerhoja.
+Kerhotoiminnallamme pyrimme antamaan lapselle positiivisen kokemuksen liikunnasta. Tarjoamme parkour- ja pallokerhoja.
 
 {% include button.html url="./palvelut/" text="Tutustu palveluihimme" %}
 
@@ -37,7 +37,7 @@ Kerhotoiminnallamme pyrimme antamaan lapsille positiivisen kokemuksen liikunnast
 
 ## Yhteystiedot
 
-Olen Sampsa Visuri, Funktumin perustaja. Toimin pääkaupunkiseudulla liikuntaneuvojana ja [FISAF](http://www.fisafinternational.com/en/) & [Europe Active](http://www.europeactive.eu/) lisensoimana personal trainerina. Olen pitkään ollut kiinnostunut kehonhallinnasta ja omalla kehon painolla harjoittelemisesta. Kokemusta löytyy myös kuntosalin puolelta. Tavoitteenani on auttaa mahdollisimman montaa ihmistä voimaan paremmin. 
+Olen Sampsa Visuri, Funktumin perustaja. Toimin pääkaupunkiseudulla liikuntaneuvojana ja [FISAF](http://www.fisafinternational.com/en/) & [Europe Active](http://www.europeactive.eu/) lisensoimana personal trainerina. Olen pitkään ollut kiinnostunut kehonhallinnasta ja omalla kehon painolla harjoittelemisesta. Kokemusta löytyy myös kuntosalin puolelta. Tavoitteeni on auttaa mahdollisimman montaa ihmistä voimaan paremmin. 
 
 ---
 
