@@ -17,7 +17,7 @@ Tunteja ja pienryhmävalmennusta sinulle joka haluaa parantaa kehonhallintataito
 
 #### Personal Training -palvelut
 
-Personal Training palvelu on tarkoitettu sinulle, joka haluat päästä harjoittelussa seuraavalle tasolle.
+Personal Training -palvelu on tarkoitettu sinulle, joka haluat päästä harjoittelussa seuraavalle tasolle.
 
 #### Koululiikunta kerhot
 
