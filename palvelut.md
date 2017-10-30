@@ -45,7 +45,7 @@ Erittäin tehokas treeni tuo sinulle voimaa ja kestävyyttä. HIIT IT tunneilla 
 
 ![Weight Control](/media/weight-control.jpg)
 
-Varma ja toimiva keino päästä lisäkiloista eroon. Weight control pienryhmävalmennukseen olemme yhdistäneet yhdessä tekemisen ja yksilöllisyyden. Haastattelemme kaikkia erikseen ja otamme yksilölliset tarpeet huomioon. Ryhmän koko voi vaihdella yhdestä viiteen henkilöön. Treenit suoritetaan ryhmässä ja pienen ryhmäkoon ansiosta voimme auttaa kaikkia henkilökohtaisesti samalla kun treenaamme yhdessä. Tule mukaan ja onnistu muuttamaan elämäsi parempaan suuntaan. 
+Varma ja toimiva keino päästä lisäkiloista eroon. Weight control pienryhmävalmennukseen olemme yhdistäneet yhdessä tekemisen ja yksilöllisyyden. Haastattelemme kaikkia erikseen ja otamme yksilölliset tarpeet huomioon. Ryhmän koko voi vaihdella yhdestä viiteen henkilöön. Pienen ryhmäkoon ansiosta voimme auttaa kaikkia henkilökohtaisesti samalla kun treenaamme yhdessä. Tule mukaan ja onnistu muuttamaan elämääsi liikunnallisempaan suuntaan. 
 
 {% include button.html url="http://www.funktum.fi/weightcontrol/" text="Lue lisää..." style="outline" %}
 {% include button.html url="https://holvi.com/shop/funktum/product/6a465cfde124081e547c65d7bfd3f950/" text="Osta nyt"  %}
