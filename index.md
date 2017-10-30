@@ -24,6 +24,7 @@ Personal Training -palvelu on tarkoitettu sinulle, joka haluat päästä harjoit
 Kerhotoiminnallamme pyrimme antamaan lapsille positiivisen kokemuksen liikunnasta, tarjoamme parkour- ja pallokerhoja.
 
 {% include button.html url="./palvelut/" text="Tutustu palveluihimme" %}
+{% include button.html url="https://holvi.com/shop/funktum/" text="Siirry verkkokauppaan" %}
 
 ---
 
