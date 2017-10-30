@@ -19,7 +19,7 @@ Tunteja ja pienryhmävalmennusta sinulle joka haluaa parantaa kehonhallintataito
 
 Personal Training -palvelu on tarkoitettu sinulle, joka haluat päästä harjoittelussa seuraavalle tasolle.
 
-#### Koululiikunta kerhot
+#### Koululiikuntakerhot
 
 Kerhotoiminnallamme pyrimme antamaan lapsille positiivisen kokemuksen liikunnasta, tarjoamme parkour- ja pallokerhoja.
 
