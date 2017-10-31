@@ -24,7 +24,7 @@ ja hienoista maisemista. Kävelylenkin aikan on luvassa hauskaa tekemistä ja hy
 Keskikesän aikaan lähdemme reippaalle kävelylle Helsingin Seurasaareen. Lenkin aikana pidämme jumppatuokion ja pääset
 kokeilemaan ponnistusvoimaasi Urho Kekkosen portailla. Kävelylenkki kestää 90 minuuttia johon kuuluu ohjattu kehonpainojumppa. 
 
-* Lähtö: Sunnuntai 16.9.2018 klo. 15:00
+* Lähtö: Lauantai 16.6.2018 klo. 15:00
 * Paikka: Seurasaarentie 15, parkkipaikka
 * Mukaan: Liikuntavaatetus ja vesipullo
 
@@ -32,7 +32,7 @@ kokeilemaan ponnistusvoimaasi Urho Kekkosen portailla. Kävelylenkki kestää 90
 
 ## Nuuksion syksy
 
-Syyskuussa kun metsä on täynnä luonnonantimia, lähdemme luontoretkelle Espoon Nuuksioon. 
+Syyskuussa, kun metsä on täynnä luonnonantimia, lähdemme luontoretkelle Espoon Nuuksioon. 
 Kansallispuistossa pääset tutustumaan metsän antimiin ja ihailemaan upeita maisemia. 
 Retken lopussa istahdamme nuotion äärelle nauttimaan lämmintä juomaa. Retki kestää 90 minuuttia.
 
