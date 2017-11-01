@@ -1,8 +1,6 @@
 ---
 layout: page
 permalink: /asiakaskokemukset/
-published: true
-title: Untitled
 ---
 
 ![]({{site.baseurl}}/media/mari%20nurmi.jpg)
