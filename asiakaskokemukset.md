@@ -1,9 +1,11 @@
 ---
 layout: page
 permalink: /asiakaskokemukset/
+published: true
+title: Untitled
 ---
 
-![]({{site.baseurl}}/media/mari%20nurmi%201200.png)
+![]({{site.baseurl}}/media/mari%20nurmi%203.png)
 
 ### Mari N
 
