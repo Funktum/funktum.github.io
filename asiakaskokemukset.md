@@ -1,11 +1,16 @@
 ---
 layout: page
 permalink: /asiakaskokemukset/
+published: true
+title: Untitled
 ---
 
-### Mari
+![]({{site.baseurl}}/media/mari%20nurmi.jpg)
 
-"Halusin itselleni salikaveriksi Personal Trainerin, koska olin kärsinyt selkäkivuista sekä niska-hartiaseudun kivuista pitkään.
+### Mari N
+
+"Halusin itselleni salikaveriksi Personal Trainerin, koska olin kärsinyt selkäkivuista sekä niska-hartiaseud![mari nurmi.jpg]({{site.baseurl}}/media/mari nurmi.jpg)
+un kivuista pitkään.
 Kävin kyllä kuntosalilla ja liikuin muutenkin, mutta epäilin, että teen jotain väärin, kun vaivat eivät lähde ja tuntui, että
 harjoittelu ei etene. Enkä oikeastaan tiennyt miten minun olisi pitänyt harjoitella.
 
