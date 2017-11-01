@@ -42,6 +42,10 @@ Retken lopussa istahdamme nuotion äärelle nauttimaan lämmintä juomaa. Retki 
 
 ---
 
+**Hinta: 75€**
+
+---
+
 {% include button.html url="https://holvi.com/shop/funktum/" text="Osta nyt!" %} 
 
 ---
