@@ -42,7 +42,7 @@ Retken lopussa istahdamme nuotion äärelle nauttimaan lämmintä juomaa. Retki 
 
 ---
 
-**Hinta: 75€**
+**Hinta: 75€**(kaikki retket kuuluvat hintaan)
 
 ---
 
