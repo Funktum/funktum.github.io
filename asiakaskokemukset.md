@@ -7,10 +7,7 @@ permalink: /asiakaskokemukset/
 
 ### Mari N
 
-"Halusin itselleni salikaveriksi Personal Trainerin, koska olin kärsinyt selkäkivuista sekä niska-hartiaseud![mari nurmi.jpg]({{site.baseurl}}/media/mari nurmi.jpg)
-un kivuista pitkään.
-Kävin kyllä kuntosalilla ja liikuin muutenkin, mutta epäilin, että teen jotain väärin, kun vaivat eivät lähde ja tuntui, että
-harjoittelu ei etene. Enkä oikeastaan tiennyt miten minun olisi pitänyt harjoitella.
+"Halusin itselleni salikaveriksi Personal Trainerin, koska olin kärsinyt selkäkivuista sekä niska-hartiaseudun kivuista pitkään.Kävin kyllä kuntosalilla ja liikuin muutenkin, mutta epäilin, että teen jotain väärin, kun vaivat eivät lähde ja tuntui, että harjoittelu ei etene. Enkä oikeastaan tiennyt miten minun olisi pitänyt harjoitella.
 
 Sampsan kanssa harjoittelu aloitettiin keskustelemalla arjesta, treenaamisesta ja tavoitteista. Isoin tavoitteeni oli 
 saada selkä kuntoon. Toki halusin myös oppia tekemään kuntosalilla monipuolisempaa treeniä. Ensimmäinen treeni PT:n kanssa
