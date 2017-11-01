@@ -55,4 +55,4 @@ Retken lopussa istahdamme nuotion äärelle nauttimaan lämmintä juomaa. Retki 
 
 ---
 
-{% include button.html url="http://www.funktum.fi/sampsavisuri/" style="outline" text="Lue minusta lisää..." %}
+{% include button.html url="http://www.funktum.fi/sampsavisuri/" style="outline" text="Lue minun tarinani" %}
