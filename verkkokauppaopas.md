@@ -5,6 +5,8 @@ permalink: /verkkokauppaopas
 
 **Näin ostat tuotteita verkkokaupastamme (esimerkkinä lahjakortti 75€):**
 
+_Saat kuvaa hieman suurennettua, jos painat sitä_
+
 
 ---
 
