@@ -76,7 +76,7 @@ Kun olet maksanut, saat kuitin sähköpostiisi. Voit ladata lahjakortin ”lataa
 ![liikuntalahjakortti.jpg]({{site.baseurl}}/media/liikuntalahjakortti.jpg)
 
 
-Tämän näköinen lahjakortti on. Holvi alennuskoodia (tätä kuvaa varten sumennettu) voi käyttää kaikkiin, verkkokaupasta saataviin palveluihin. Koodi ei käy toisen lahjakortin ostamiseen. 
+Tämän näköinen lahjakortti on. Holvi alennuskoodia (tätä kuvaa varten sumennettu) voi käyttää kaikkiin verkkokaupasta saataviin palveluihin. Koodi ei käy toisen lahjakortin ostamiseen. 
 
 
 ---
