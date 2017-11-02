@@ -81,7 +81,7 @@ Tämän näköinen lahjakortti on. Holvi alennuskoodia (tätä kuvaa varten sume
 
 ---
 
-### Näin käytät lahjakorttia Funktumin verkkokaupassa:
+### Näin käytät lahjakortin Funktumin verkkokaupassa:
 
 
 ---
