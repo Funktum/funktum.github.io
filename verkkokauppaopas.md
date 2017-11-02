@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /verkkokauppaopas/
-published: true
-title: Untitled
+permalink: /verkkokauppaopas
 ---
+
+
 ![palvelut_sivu_liikun_CXTET.jpg]({{site.baseurl}}/media/palvelut_sivu_liikun_CXTET.jpg)
 
 
