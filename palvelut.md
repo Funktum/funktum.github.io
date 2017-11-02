@@ -14,7 +14,7 @@ holvi:
 
 Jätä turha krääsä hyllyyn ja osta ystävälle liikuntalahjakortti. Lahjakortti on käytettävissä kaikkiin funktumin palveluihin. Lahjakortin voit helposti ostaa [verkkokaupastamme](https://holvi.com/shop/funktum/).
 
-Etkö tiedä kuinka käytät verkkokauppaamme tai lahjakorttia? Lue [verkkokauppa-opas](http://www.funktum.fi/verkkokauppaopas). 
+Etkö tiedä kuinka käyttää verkkokauppaamme tai lahjakorttia? Lue [verkkokauppa-opas](http://www.funktum.fi/verkkokauppaopas). 
 
 {% include holvi_iframe.html list=page.holvi %}
 
