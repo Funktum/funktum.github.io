@@ -24,7 +24,7 @@ Valitse haluamasi lahjakortti ja paina ”osta” painiketta. Valinnaisesti voit
 ![lisaa_ostoskoriin_la_QFPoI.jpg]({{site.baseurl}}/media/lisaa_ostoskoriin_la_QFPoI.jpg)
 
 
-Valitse tuotteiden (lahjakorttien) määrä, jonka jälkeen lisää tuotteet ostoskoriin. 
+Valitse tuotteiden, tässä tapauksessa lahjakorttien määrä, jonka jälkeen lisää tuote tai tuotteet ostoskoriin. 
 
 
 ---
@@ -34,7 +34,7 @@ Valitse tuotteiden (lahjakorttien) määrä, jonka jälkeen lisää tuotteet ost
 ![siirry_maksamaan_lis_esuBo.jpg]({{site.baseurl}}/media/siirry_maksamaan_lis_esuBo.jpg)
 
 
-Tällä sivulla voit vielä vaihtaa tuotteen kappalemäärää tai lisätä muita tuotteita. Näet tuotteiden erilliset summat ja yhteisen summan. Kun olet valinnut haluamasi tuotteet, paina ”siirry maksamaan” painiketta. 
+Tällä sivulla voit vielä vaihtaa tuotteiden kappalemäärää tai lisätä uusia tuotteita. Näet tuotteiden erilliset summat ja yhteisen summan. Kun olet valinnut haluamasi tuotteen/tuotteet, paina ”siirry maksamaan” painiketta. 
 
 
 ---
@@ -66,7 +66,7 @@ Valitse haluamasi maksutapa painamalla kuvaketta. Oikealla puolella näet vielä
 
 
 
-Kun olet maksanut, saat kuitin sähköpostiisi. Voit ladata lahjakortin ”lataa tiedosto” painiketta painamalla. Lahjakortti lähetetään myös sähköpostiisi. Lahjakortti tulee .pdf tiedostona. Voit joko tulostaa lahjakortin tai lähettää sen sähköpostitse haluamallesi henkilölle. 
+Kun olet maksanut, saat kuitin sähköpostiisi. Voit ladata lahjakortin ”lataa tiedosto” painiketta painamalla. Lahjakortti lähetetään myös sähköpostiisi. Lahjakortti tulee .pdf tiedostona ja voit joko tulostaa lahjakortin tai lähettää sen sähköpostitse haluamallesi henkilölle. 
 
 
 ---
@@ -76,7 +76,7 @@ Kun olet maksanut, saat kuitin sähköpostiisi. Voit ladata lahjakortin ”lataa
 ![liikuntalahjakortti.jpg]({{site.baseurl}}/media/liikuntalahjakortti.jpg)
 
 
-Tämän näköinen lahjakortti on. Holvi alennuskoodia (tätä kuvaa varten sumennettu) voi käyttää kaikkiin verkkokaupasta saataviin palveluihin. Koodi ei käy toisen lahjakortin ostamiseen. 
+Tämän näköinen lahjakortti on. Holvi alennuskoodia (tätä kuvaa varten sumennettu) voi käyttää kaikkiin, verkkokaupasta saataviin palveluihin. Koodi ei käy toisen lahjakortin ostamiseen. 
 
 
 ---
