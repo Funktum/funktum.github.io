@@ -87,7 +87,7 @@ Tämän näköinen lahjakortti on. Holvi alennuskoodia (tätä kuvaa varten sume
 ![nain_kaytat_lahjakor_eIDsq.jpg]({{site.baseurl}}/media/nain_kaytat_lahjakor_eIDsq.jpg)
 
 
-Valitse haluamasi palvelu ja pain ”Osta nyt” painiketta. 
+Valitse haluamasi palvelu ja paina ”Osta nyt” painiketta. 
 
 
 ---
