@@ -60,7 +60,8 @@ Varma ja toimiva keino päästä lisäkiloista eroon. Weight control pienryhmäv
 
 Tule mukaan nauttimaan ainutlaatuisista luonto- ja liikuntaelämyksistä. Elämyspakettiin kuuluu kolme retkeä pääkaupunkiseudun luontoalueilla. Helmikuussa on luvassa kävely Espoon talvisilla rannoilla, kesäkuussa menemme reippailemaan Seurasaareen, ja syyskuussa järjestämme luontoretken Nuuksiossa. 
 
-{% include button.html email=site.email style="outline" %}
+{% include button.html url="http://www.funktum.fi/elamyspaketti/" text="Lue lisää..." style="outline" %}
+{% include button.html url="https://holvi.com/shop/funktum/product/8b19deb966779f94fc36deefaf6b6fb1/" text="Osta nyt"  %}
 
 ---
 
