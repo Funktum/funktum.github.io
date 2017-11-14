@@ -1,7 +1,8 @@
 ---
 layout: page
 permalink: /asiakaskokemukset/
-
+published: true
+title: Untitled
 ---
 
 ![]({{site.baseurl}}/media/mari%20nurmi%203.png)
@@ -27,7 +28,8 @@ Olen ollut valintaani erittäin tyytyväinen!"
 
 ---
 
-![IMG_0029.jpg]({{site.baseurl}}/media/IMG_0029.jpg)
+![]({{site.baseurl}}/media/Webp.net-compress-image.jpg)
+
 
 
 ### Jaana H
