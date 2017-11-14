@@ -22,3 +22,16 @@ selkäkivutkin on vähentyneet. Pystyn nimittäin hyödyntämään oppimaani my�
 seison tai kävelen.
 
 Olen ollut valintaani erittäin tyytyväinen!"
+
+
+---
+
+### Jaana H
+
+"Funktumin Sampsan kanssa treeni Aviapoliksen Fressissä on joka kerta sekä piristävää, motivoivaa, haasteellista että hauskaa. Sampsan ohjeiden mukaan olen pitkälti päässyt "irti laitteista". Olemme keskittyneet käsilläseisontaan, leuanvetoihin ja  erilaisiin oman kehon painoa ja vastusta hyödyntäviin - ja kehon kuuntelua edellyttäviin - harjoituksiin. 
+
+Sampsalla on taito tunnistaa heti treenaajan fiilis. Joskus kun olin treenien alussa vielä ihan jossain Excel-taulukkotilassa, niin aloitimme pienellä meditaatiolla. Tunti tuntuu joka kerta kuluvan hujauksessa. En voi sanoa, että tunnin aikana tulisi hyvälle tuulelle, sillä oikeastaan lähden harjoitukseen aina jo valmiiksi hyvällä fiiliksellä. 
+
+Alunperin halusin lähinnä apuja käsilläseisonnan oppimiseen. Treenikertojen aikana olen oppinut kuitenkin paljon muutakin, mitä voin soveltaa salitreenissä, joogassa ja ihan kaikessa jokapäiväisessä liikkumisessa. Käsilläseisonnan lisäksi olen saanut muitakin tavoitteita, joita kohti edetä. Käsillä pysyn jo melko stabiilisti.
+
+Sampsalle lämmin kiitos!"
