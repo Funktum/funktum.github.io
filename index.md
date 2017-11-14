@@ -38,7 +38,7 @@ Kerhotoiminnallamme pyrimme antamaan lapselle positiivisen kokemuksen liikunnast
 
 #### Mari N
 
-“Halusin itselleni salikaveriksi Personal Trainerin, koska olin kärsinyt selkäkivuista sekä niska-hartiaseudun kivuista pitkään.Kävin kyllä kuntosalilla ja liikuin muutenkin, mutta epäilin, että teen jotain väärin, kun vaivat eivät lähde ja tuntui, että harjoittelu ei etene." Jatka lukemista...
+“Halusin itselleni salikaveriksi Personal Trainerin, koska olin kärsinyt selkäkivuista sekä niska-hartiaseudun kivuista pitkään. Kävin kyllä kuntosalilla ja liikuin muutenkin, mutta epäilin, että teen jotain väärin, kun vaivat eivät lähde ja tuntui, että harjoittelu ei etene." Jatka lukemista...
 
 #### Jaana H
 
