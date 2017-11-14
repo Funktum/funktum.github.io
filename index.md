@@ -38,11 +38,11 @@ Kerhotoiminnallamme pyrimme antamaan lapselle positiivisen kokemuksen liikunnast
 
 #### Mari N
 
-“Halusin itselleni salikaveriksi Personal Trainerin, koska olin kärsinyt selkäkivuista sekä niska-hartiaseudun kivuista pitkään. Kävin kyllä kuntosalilla ja liikuin muutenkin, mutta epäilin, että teen jotain väärin, kun vaivat eivät lähde ja tuntui, että harjoittelu ei etene." Jatka lukemista...
+“Halusin itselleni salikaveriksi Personal Trainerin, koska olin kärsinyt selkäkivuista sekä niska-hartiaseudun kivuista pitkään. Kävin kyllä kuntosalilla ja liikuin muutenkin, mutta epäilin, että teen jotain väärin, kun vaivat eivät lähde ja tuntui, että harjoittelu ei etene." [Jatka lukemista...](http://www.funktum.fi/asiakaskokemukset/)
 
 #### Jaana H
 
-"Funktumin Sampsan kanssa treeni Aviapoliksen Fressissä on joka kerta sekä piristävää, motivoivaa, haasteellista että hauskaa. Sampsan ohjeiden mukaan olen pitkälti päässyt “irti laitteista”. Olemme keskittyneet käsilläseisontaan, leuanvetoihin ja erilaisiin oman kehon painoa ja vastusta hyödyntäviin - ja kehon kuuntelua edellyttäviin - harjoituksiin." Jatka lukemista...
+"Funktumin Sampsan kanssa treeni Aviapoliksen Fressissä on joka kerta sekä piristävää, motivoivaa, haasteellista että hauskaa. Sampsan ohjeiden mukaan olen pitkälti päässyt “irti laitteista”. Olemme keskittyneet käsilläseisontaan, leuanvetoihin ja erilaisiin oman kehon painoa ja vastusta hyödyntäviin - ja kehon kuuntelua edellyttäviin - harjoituksiin." [Jatka lukemista...](http://www.funktum.fi/asiakaskokemukset/)
 
 {% include button.html url="http://www.funktum.fi/asiakaskokemukset/" text="Kaikki asiakaskokemukset" %}
 
