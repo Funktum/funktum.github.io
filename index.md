@@ -42,7 +42,7 @@ Kerhotoiminnallamme pyrimme antamaan lapselle positiivisen kokemuksen liikunnast
 
 #### Jaana H
 
-"Funktumin Sampsan kanssa treeni Aviapoliksen Fressissä on joka kerta sekä piristävää, motivoivaa, haasteellista että hauskaa. Sampsan ohjeiden mukaan olen pitkälti päässyt “irti laitteista”. Olemme keskittyneet käsilläseisontaan, leuanvetoihin ja erilaisiin oman kehon painoa ja vastusta hyödyntäviin - ja kehon kuuntelua edellyttäviin - harjoituksiin." [Jatka lukemista...](http://www.funktum.fi/asiakaskokemukset/"Jaana H")
+"Funktumin Sampsan kanssa treeni Aviapoliksen Fressissä on joka kerta sekä piristävää, motivoivaa, haasteellista että hauskaa. Sampsan ohjeiden mukaan olen pitkälti päässyt “irti laitteista”. Olemme keskittyneet käsilläseisontaan, leuanvetoihin ja erilaisiin oman kehon painoa ja vastusta hyödyntäviin - ja kehon kuuntelua edellyttäviin - harjoituksiin." [Jatka lukemista...](http://www.funktum.fi/asiakaskokemukset/"Jaana")
 
 {% include button.html url="http://www.funktum.fi/asiakaskokemukset/" text="Kaikki asiakaskokemukset" %}
 
