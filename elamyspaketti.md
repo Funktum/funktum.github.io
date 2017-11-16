@@ -11,7 +11,7 @@ Tule mukaan nauttimaan ainutlaatuisista luonto- ja liikuntaelämyksistä. Elämy
 ## Rantaraitin talviretki
 
 Tervetuloa mukaan reippailemaan upeassa ympäristössä Espoon rantaraittia pitkin. Pääset nauttimaan raikkaasta ulkoilmasta 
-ja hienoista maisemista. Kävelylenkin aikan on luvassa hauskaa tekemistä ja hyvää seuraa. Kävelemme 90 minuuttia rentoa vauhtia.
+ja hienoista maisemista. Kävelylenkin aikan on luvassa hauskaa tekemistä ja hyvää seuraa. Retki kestää 90 minuuttia ja kävelemme rentoa vauhtia.
 
 * Lähtö: Sunnuntai 4.2.2018 klo. 10:00
 * Paikka: Nokkalan sataman parkkipaikka 
