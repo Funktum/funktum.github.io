@@ -75,8 +75,8 @@ Två knappar brevid varan
 
 ### Kontakt info
 
-{% include contact_details.html button="true" %}
+    {% include contact_details.html button="true" %}
 
 Med gömd knapp
 
-{% include contact_details.html %}
+    {% include contact_details.html %}
