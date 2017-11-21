@@ -1,9 +1,8 @@
 ---
 layout: page
 permalink: /elamyspaketti/
+title: Elämyspaketti
 ---
-
-# Elämyspaketti
 
 ![funktum_yrityselamys.jpg]({{site.baseurl}}/media/funktum_yrityselamys.jpg)
 

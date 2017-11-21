@@ -1,9 +1,8 @@
 ---
 layout: page
 permalink: /weightcontrol/
+title: Weight Control
 ---
-
-# Weight Control
 
 ![Weight Control](/media/weight-control.jpg)
 

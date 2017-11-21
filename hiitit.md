@@ -1,9 +1,8 @@
 ---
 layout: page
 permalink: /hiitit/
+title: HIIT IT
 ---
-
-# HIIT IT
 
 ![HIIT IT](/media/hiit-it.jpg)
 
