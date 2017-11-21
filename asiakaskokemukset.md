@@ -4,7 +4,7 @@ permalink: /asiakaskokemukset/
 
 ---
 
-![]({{site.baseurl}}/media/mari%20nurmi%203.png)
+![]({{site.baseurl}}/media/mari%20nurmi%203.jpg)
 
 ### Mari N
 

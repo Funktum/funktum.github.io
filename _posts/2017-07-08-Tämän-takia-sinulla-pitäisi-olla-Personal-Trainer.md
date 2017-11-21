@@ -5,7 +5,7 @@ title: Tämän takia sinulla pitäisi olla Personal Trainer
 ---
 
 
-![(Pt4) .jpg]({{site.baseurl}}/media/(Pt4) .jpg)
+![pt-4.jpg]({{site.baseurl}}/media/pt-4.jpg)
 
 
 
