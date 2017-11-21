@@ -53,10 +53,4 @@ Kerhotoiminnallamme pyrimme antamaan lapselle positiivisen kokemuksen liikunnast
 
 Olen Sampsa Visuri, Funktumin perustaja. Toimin pääkaupunkiseudulla liikuntaneuvojana ja [FISAF](http://www.fisafinternational.com/en/) & [Europe Active](http://www.europeactive.eu/) lisensoimana personal trainerina. Olen pitkään ollut kiinnostunut kehonhallinnasta ja omalla kehon painolla harjoittelemisesta. Kokemusta löytyy myös kuntosalin puolelta. Tavoitteeni on auttaa mahdollisimman montaa ihmistä voimaan paremmin. 
 
----
-
-{% include contact_details.html %}
-
----
-
-{% include button.html url="http://www.funktum.fi/sampsavisuri/" style="outline" text="Lue minun tarinani" %}
+{% include contact_details.html button="true" %}

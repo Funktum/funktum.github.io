@@ -5,4 +5,7 @@
     <a href="tel:{{ site.phone }}">{{ site.phone_formatted }}</a>
     <a href="mailto:{{ site.email }}">{{ site.email }}</a>
   </div>
+  {% if include.button %}
+  <a href="{{ site.baseurl }}/sampsavisuri/" class="btn btn-outline">Lue minun tarinani</a>
+  {% endif %}
 </div>

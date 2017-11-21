@@ -52,9 +52,6 @@ _Kaikki retket kuuluvat hintaan._
 
 ---
 
-#### Vastaava ohjaaja:
-{% include contact_details.html %}
+### Vastaava ohjaaja
 
----
-
-{% include button.html url="http://www.funktum.fi/sampsavisuri/" style="outline" text="Lue minun tarinani" %}
+{% include contact_details.html button="true" %}
