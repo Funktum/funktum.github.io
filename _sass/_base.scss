@@ -33,7 +33,7 @@ body {
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure {
-  margin-bottom: 1rem;
+  margin-bottom: 1.25rem;
 }
 
 
@@ -76,7 +76,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: $heading-font-family;
   font-weight: normal;
   line-height: 1.334;
-  margin-bottom: .5em;
+  margin-bottom: .625em;
   margin-top: 1.25em;
 }
 
@@ -244,7 +244,7 @@ hr {
 table {
   border-collapse: collapse;
   border-spacing: 0;
-  margin-bottom: $spacing-unit * 4;
+  margin-bottom: $spacing-unit * 3;
   width: 100%;
 
   th, td {
