@@ -183,13 +183,13 @@ article {
 
 .btn {
   background-color: $brand-color;
-  border: 0;
+  border: 1px solid transparent;
   border-radius: $radius;
   color: white;
   font-family: $heading-font-family;
   font-size: $base-font-size;
   line-height: 16px;
-  padding: 12px 20px;
+  padding: 11px 19px;
   text-decoration: none;
   display: inline-block;
   margin: 4px 0;
@@ -214,7 +214,7 @@ article {
 
 .btn-outline {
   background-color: white;
-  border: 1px solid $brand-color;
+  border-color: $brand-color;
   color: $brand-color;
 
   &:hover, &:focus {

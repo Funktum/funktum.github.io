@@ -55,6 +55,14 @@ Lägg till `hero_image` i början av filen, resten av `hero_` är valfria.
     {% include button.html url="http//example.com" style="outline" %}
     {% include button.html url="http//example.com" %}
 
+Två knappar brevid varan
+
+    <div>
+    {% include button.html url="http//example.com" %}
+    {% include button.html url="http//example.com" %}
+    </div>
+
+
 
 ### Holvi
 

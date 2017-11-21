@@ -26,8 +26,10 @@ Opi käyttämään verkkokauppaamme/lahjakorttiasi. Lue [verkkokauppa-opas](http
 
 Nosta kehonhallintataitosi seuraavalle tasolle! Body control tunneilla harjoittelemme kehonhallintaa. Oman kehon kontrolloiminen ja hahmottaminen on tärkeää kokonaisvaltaisen hyvinvoinnin kannalta. Tunneilla haastamme kehoa uusilla liikeradoilla ja liikuntaa voi harjoittaa omalla tasolla. Haasteita riittää varmasti kaikille - tule mukaan kokeilemaan.
 
-{% include button.html url="http://www.funktum.fi/bodycontrol/" text="Lue lisää..." style="outline" %}
+<div>
+{% include button.html url="http://www.funktum.fi/bodycontrol/" text="Lue lisää" style="outline" %}
 {% include button.html url="https://holvi.com/shop/funktum/product/c5ccb50c285defcaae5587ede459d72d/" text="Osta nyt"  %}
+</div>
 
 ---
 
@@ -37,8 +39,10 @@ Nosta kehonhallintataitosi seuraavalle tasolle! Body control tunneilla harjoitte
 
 Erittäin tehokas treeni tuo sinulle voimaa ja kestävyyttä. HIIT IT tunneilla harjoittelemme korkealla intensiteetillä, välineinä toimivat mm. oma keho ja kahvakuulat. Tule mukaan haastamaan itseäsi rankalla ja intensiivisellä treenillä.
 
-{% include button.html url="http://www.funktum.fi/hiitit/" text="Lue lisää..." style="outline" %}
+<div>
+{% include button.html url="http://www.funktum.fi/hiitit/" text="Lue lisää" style="outline" %}
 {% include button.html url="https://holvi.com/shop/funktum/product/8ef9940ee78fb2ca624343fd1327d4eb/" text="Osta nyt"  %}
+</div>
 
 
 ---
@@ -49,8 +53,10 @@ Erittäin tehokas treeni tuo sinulle voimaa ja kestävyyttä. HIIT IT tunneilla 
 
 Varma ja toimiva keino päästä lisäkiloista eroon. Weight control pienryhmävalmennukseen olemme yhdistäneet yhdessä tekemisen ja yksilöllisyyden. Haastattelemme kaikkia erikseen ja otamme yksilölliset tarpeet huomioon. Ryhmän koko voi vaihdella yhdestä viiteen henkilöön. Pienen ryhmäkoon ansiosta voimme auttaa kaikkia henkilökohtaisesti samalla kun treenaamme yhdessä. Tule mukaan ja onnistu muuttamaan elämääsi liikunnallisempaan suuntaan. 
 
-{% include button.html url="http://www.funktum.fi/weightcontrol/" text="Lue lisää..." style="outline" %}
+<div>
+{% include button.html url="http://www.funktum.fi/weightcontrol/" text="Lue lisää" style="outline" %}
 {% include button.html url="https://holvi.com/shop/funktum/product/6a465cfde124081e547c65d7bfd3f950/" text="Osta nyt"  %}
+</div>
 
 ---
 
@@ -60,8 +66,10 @@ Varma ja toimiva keino päästä lisäkiloista eroon. Weight control pienryhmäv
 
 Tule mukaan nauttimaan ainutlaatuisista luonto- ja liikuntaelämyksistä. Elämyspakettiin kuuluu kolme retkeä pääkaupunkiseudun luontoalueilla. Helmikuussa on luvassa kävely Espoon talvisilla rannoilla, kesäkuussa menemme reippailemaan Seurasaareen, ja syyskuussa järjestämme luontoretken Nuuksiossa. 
 
-{% include button.html url="http://www.funktum.fi/elamyspaketti/" text="Lue lisää..." style="outline" %}
+<div>
+{% include button.html url="http://www.funktum.fi/elamyspaketti/" text="Lue lisää" style="outline" %}
 {% include button.html url="https://holvi.com/shop/funktum/product/8b19deb966779f94fc36deefaf6b6fb1/" text="Osta nyt"  %}
+</div>
 
 ---
 
