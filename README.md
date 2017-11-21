@@ -63,8 +63,6 @@ Två knappar brevid varan
     {% include button.html url="http//example.com" %}
     </div>
 
-
-
 ### Holvi
 
     ---
@@ -74,3 +72,11 @@ Två knappar brevid varan
     ---
 
     {% include holvi_iframe.html list=page.holvi %}
+
+### Kontakt info
+
+{% include contact_details.html button="true" %}
+
+Med gömd knapp
+
+{% include contact_details.html %}
