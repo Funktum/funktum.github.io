@@ -26,11 +26,12 @@ Lägg koden nedan i början av filen, `weight` betyder var i navigationen sidan 
 
 ### Gömd sida
 
-Skapa en sida utan `title` så synns sidan inte i navigationen.
+Skapa en sida utan `weight` så synns sidan inte i navigationen.
 
     ---
     layout: page
     permalink: /example/
+    title: Example Page
     ---
 
 ### Hero

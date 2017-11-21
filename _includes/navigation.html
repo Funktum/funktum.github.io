@@ -10,7 +10,7 @@
     {% capture slug    %}{{ entry.url | split: "/"   | last                       }}{% endcapture %}
     {% capture current %}{{ entry.url | remove: slug | remove: "//" | append: "/" }}{% endcapture %}
 
-    {% if current == include.context and entry.title %}
+    {% if current == include.context and entry.weight < 10 %}
       <a class="{% if page.url contains entry.url %}active{% endif %}" href="{{ entry.url | prepend: site.baseurl }}">{{ entry.title }}</a>
       {% include navigation.html context=entry.url %}
     {% endif %}
