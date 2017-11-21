@@ -135,6 +135,8 @@ blockquote {
   border-left: 3px solid $grey-color-light;
   padding-left: $spacing-unit * 2;
   font-style: italic;
+  margin-top: 16px;
+  margin-bottom: 24px;
 
   > :last-child {
     margin-bottom: 0;
