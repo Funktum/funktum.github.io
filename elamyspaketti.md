@@ -2,13 +2,14 @@
 layout: page
 permalink: /elamyspaketti/
 ---
+
+# Elämyspaketti
+
 ![funktum_yrityselamys.jpg]({{site.baseurl}}/media/funktum_yrityselamys.jpg)
 
 Tule mukaan nauttimaan ainutlaatuisista luonto- ja liikuntaelämyksistä. Elämyspakettiin kuuluu kolme retkeä pääkaupunkiseudun luontoalueilla. Helmikuussa on luvassa kävely Espoon talvisilla rannoilla, kesäkuussa menemme reippailemaan Seurasaareen, ja syyskuussa järjestämme luontoretken Nuuksiossa.
 
----
-
-## Rantaraitin talviretki
+### Rantaraitin talviretki
 
 Tervetuloa mukaan reippailemaan upeassa ympäristössä Espoon rantaraittia pitkin. Pääset nauttimaan raikkaasta ulkoilmasta 
 ja hienoista maisemista. Kävelylenkin aikan on luvassa hauskaa tekemistä ja hyvää seuraa. Retki kestää 90 minuuttia ja kävelemme rentoa vauhtia.
@@ -17,9 +18,7 @@ ja hienoista maisemista. Kävelylenkin aikan on luvassa hauskaa tekemistä ja hy
 * Paikka: Nokkalan sataman parkkipaikka 
 * Mukaan: Keliin sopiva vaatetus 
 
----
-
-## Seurasaaren Sporttikävely
+### Seurasaaren Sporttikävely
 
 Keskikesän aikaan lähdemme reippaalle kävelylle Helsingin Seurasaareen. Lenkin aikana pidämme jumppatuokion ja pääset
 kokeilemaan ponnistusvoimaasi Urho Kekkosen portailla. Kävelylenkki kestää 90 minuuttia johon kuuluu ohjattu kehonpainojumppa. 
@@ -28,9 +27,7 @@ kokeilemaan ponnistusvoimaasi Urho Kekkosen portailla. Kävelylenkki kestää 90
 * Paikka: Seurasaarentie 15, parkkipaikka
 * Mukaan: Liikuntavaatetus ja vesipullo
 
----
-
-## Nuuksion syksy
+### Nuuksion syksy
 
 Syyskuussa, kun metsä on täynnä luonnonantimia, lähdemme luontoretkelle Espoon Nuuksioon. 
 Kansallispuistossa pääset tutustumaan metsän antimiin ja ihailemaan upeita maisemia. 
@@ -40,13 +37,9 @@ Retken lopussa istahdamme nuotion äärelle nauttimaan lämmintä juomaa. Retki 
 * Paikka: Nuuksiontie 82, parkkipaikka
 * Mukaan: Keliin sopiva vaatetus
 
----
-
 **Hinta: 68€** 
 
 _Kaikki retket kuuluvat hintaan._
-
----
 
 {% include button.html url="https://holvi.com/shop/funktum/product/8b19deb966779f94fc36deefaf6b6fb1/" text="Osta nyt!" %} 
 

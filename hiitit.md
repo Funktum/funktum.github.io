@@ -3,11 +3,9 @@ layout: page
 permalink: /hiitit/
 ---
 
+# HIIT IT
+
 ![HIIT IT](/media/hiit-it.jpg)
-
----
-
-### HIIT IT
 
 HIIT tulee lyhenteestä high intensity interval training. Tarkoituksena on suorittaa treeni korkealla intensiteetillä ja 
 lyhyemmässä ajassa kun normaalisti. HIIT treeni saattaa kestää vain 20-30 minuuttia mutta tehoja on saman verran kun 1,5h 
@@ -15,7 +13,7 @@ juoksulenkissä. Treeni koostuu monipuolisesta alkulämmittelystä, HIIT osuudes
 Treenillä pyrimme rasittamaan koko kroppaa. Tunti soveltuu sinulle joka et pelkää hengästymistä. Tämä treeni tuo virtaa elämääsi!
 
 
-* Paikka: Mattlidens Gymnasium [Matinsyrjä 1, Espoo](https://goo.gl/maps/kjdYntyYS4y)
+* Paikka: Mattlidens Gymnasium, [Matinsyrjä 1, Espoo](https://goo.gl/maps/kjdYntyYS4y)
 * Aika: lauantaisin 20.1.2018 alkaen, klo 12:00-12:45
 * Kurssin kesto: 8 kertaa
 * Hinta: 75€
