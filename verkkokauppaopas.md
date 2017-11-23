@@ -9,7 +9,7 @@ title: Näin ostat tuotteita verkkokaupastamme
 _Oppaassa on käytetty esimerkkinä 75€:n lahjakorttia. Voit suurentaa kuvia painamalla niitä._
 
 [Lahjakortin ostaminen](#lahjakortin-ostaminen)  
-[Lahjakortin käyttäminen](#lahjakortin-kyttminen)
+[Lahjakortin käyttäminen](http://www.funktum.fi/verkkokauppaopas#lahjakortin-käyttäminen)
 
 ---
 
