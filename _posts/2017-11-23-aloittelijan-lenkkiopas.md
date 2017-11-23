@@ -78,6 +78,7 @@ kun keho on ”levossa”. Tarkan maksimisykkeen voi mitata ylämäkijuoksulla. 
 Mittaa korkein syke ja lisää siihen muutama lyönti jolloin pääset aika lähelle totuutta. Jos maksimisykkeen testaaminen ei 
 innosta, voit selvittää laskennallisen maksimisykkeen seuraavalla kaavalla: 
 -	220 – ikä (esim. 220 - 25 –vuotta = 195)
+
 Muista että tulos on suuntaa antava.
 
 Kun leposyke ja maksimisyke ovat tiedossa voit katsoa sinulle sopivat syke-alueet [täältä](https://www.laskurini.fi/urheilu/sykerajat/ ).
