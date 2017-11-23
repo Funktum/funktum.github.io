@@ -3,6 +3,7 @@ layout: post
 published: true
 title: Aloittelijan lenkkiopas
 ---
+![athlete-2031242_1280.png]({{site.baseurl}}/media/athlete-2031242_1280.png)
 
 Juokseminen on mahtava harrastusmuoto. Ihminen on aina juossut ja tulee luultavasti aina juoksemaan.
 Ennen juostiin ruuan perässä ja nyt juoksemme, jotta kunto pysyy yllä ja mieli virkeänä. Juoksuharjoittelu kannattaa 
@@ -12,6 +13,8 @@ Alla oleva pyramidi kuvastaa hyvin missä suhteessa eri sykealueilla kannattaa h
 eniten, vauhtikestävyyttä keskinkertaisesti ja maksimikestävyyttä vain vähän, jos ollenkaan. 
 Peruskestävyys luo kuntosi perustan. Jos perusta on vakaa, voit rakentaa kuntosi korkeammalle tasolle. 
 Jos peruskestävyysharjoittelua tekee liian vähän, on loukkaantumisen, rasitusvammojen tai ylikunnon riskit suuremmat. 
+
+![PK-VK-MK.png]({{site.baseurl}}/media/PK-VK-MK.png)
 
 
 #### Aloita kevyellä harjoittelulla 
@@ -86,4 +89,4 @@ Kun leposyke ja maksimisyke ovat tiedossa voit katsoa sinulle sopivat syke-aluee
 
 
 
-Tsemppiä juoksuharjoitteluun! 
+Tsemppiä juoksuharjoitteluun!
