@@ -75,7 +75,7 @@ Helposti käy myös niin, että jää vellomaan mukavuusalueelle. Muista siis ha
 kohtuullisina tasoosi verrattuna.  
 
 
-Näin lasket omat sykealueesi:
+#### Näin lasket omat sykealueesi
 
 Jotta voisit laske oman sykealueesi pitäisi sinun tietää oma lepo- ja maksimisyke. Leposykkeen voit mitata heti herättyäsi,
 kun keho on ”levossa”. Tarkan maksimisykkeen voi mitata ylämäkijuoksulla. Juokset kunnes et enää pysty juosta. 
