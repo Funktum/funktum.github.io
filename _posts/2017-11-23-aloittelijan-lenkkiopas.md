@@ -63,11 +63,11 @@ harjoittelussa.
 
 Aloita näin (8 kk ohjelma aloittelijalle): 
 
-* 2 kk reipasta kävelyä mielellään 2-3 kertaa viikossa, n. 5 km, syke 60%/maksimista.
-* 2 kk hyvin rentoa hölkkää. Älä juokse liian pitkiä lenkkejä vielä, 2-4 km, syke 70%/maksimista.
-* 2 kk rentoa hölkkää. Nyt voit pidentää juoksulenkkiäsi hieman, 4-6 km, syke 75%/ maksimista.
-* 1 kk ensimmäinen vauhtikestävyys-jakso. Lisää vauhtia hieman, 3-5 km, 75-80%/ maksimista.
-* 1 kk pidennä vauhtikestävyys lenkkiä hieman. Vauhti pysyy samana, 5 km tai enemmän, 80-85%/ maksimista.
+* 2 kk reipasta kävelyä mielellään 2-3 kertaa viikossa, n. 5 km, syke 60%/max.
+* 2 kk hyvin rentoa hölkkää. Älä juokse liian pitkiä lenkkejä vielä, 2-4 km, syke 70%/max.
+* 2 kk rentoa hölkkää. Nyt voit pidentää juoksulenkkiäsi hieman, 4-6 km, syke 75%/ max.
+* 1 kk ensimmäinen vauhtikestävyys-jakso. Lisää vauhtia hieman, 3-5 km, 75-80%/ max.
+* 1 kk pidennä vauhtikestävyys lenkkiä hieman. Vauhti pysyy samana, 5 km tai enemmän, 80-85%/ max.
 
 Jatka haastamalla itseäsi pidentämällä lenkkiä vähitellen. Muista antaa kehon palautua kunnolla ja lisätä haastetta vähitellen.
 Helposti käy myös niin, että jää vellomaan mukavuusalueelle. Muista siis haastaa itseäsi, kunhan haasteet pysyvät 
