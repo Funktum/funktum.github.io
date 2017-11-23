@@ -3,7 +3,8 @@ layout: post
 published: true
 title: Aloittelijan lenkkiopas
 ---
-![athlete-2031242_1280.png]({{site.baseurl}}/media/athlete-2031242_1280.png)
+![Webp.net-resizeimage.jpg]({{site.baseurl}}/media/Webp.net-resizeimage.jpg)
+
 
 Juokseminen on mahtava harrastusmuoto. Ihminen on aina juossut ja tulee luultavasti aina juoksemaan.
 Ennen juostiin ruuan perässä ja nyt juoksemme, jotta kunto pysyy yllä ja mieli virkeänä. Juoksuharjoittelu kannattaa 
@@ -14,7 +15,7 @@ eniten, vauhtikestävyyttä keskinkertaisesti ja maksimikestävyyttä vain väh�
 Peruskestävyys luo kuntosi perustan. Jos perusta on vakaa, voit rakentaa kuntosi korkeammalle tasolle. 
 Jos peruskestävyysharjoittelua tekee liian vähän, on loukkaantumisen, rasitusvammojen tai ylikunnon riskit suuremmat. 
 
-![PK-VK-MK.png]({{site.baseurl}}/media/PK-VK-MK.png)
+![pk_vk_mk.jpg]({{site.baseurl}}/media/pk_vk_mk.jpg)
 
 
 #### Aloita kevyellä harjoittelulla 
