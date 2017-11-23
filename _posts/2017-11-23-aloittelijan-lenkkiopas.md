@@ -59,7 +59,7 @@ voit tehdä jotain ihan muuta, kuin juoksua. Juoksua tukeva kuntosaliharjoittelu
 Monipuolinen keho ennaltaehkäisee loukkaantumisia ja rasitusvammoja, joihin usein törmää rankassa lajikohtaisessa 
 harjoittelussa.
 
-Esimerkki juoksuharjoittelun jaksottamisesta
+#### Esimerkki juoksuharjoittelun jaksottamisesta
 
 Aloita näin (8 kk ohjelma aloittelijalle): 
 
