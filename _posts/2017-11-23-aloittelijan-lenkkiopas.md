@@ -77,7 +77,7 @@ kohtuullisina tasoosi verrattuna.
 
 #### Näin lasket omat sykealueesi
 
-Jotta voisit laske oman sykealueesi pitäisi sinun tietää oma lepo- ja maksimisyke. Leposykkeen voit mitata heti herättyäsi,
+Jotta voisit laskea oman sykealueesi pitäisi sinun tietää oma lepo- ja maksimisyke. Leposykkeen voit mitata heti herättyäsi,
 kun keho on ”levossa”. Tarkan maksimisykkeen voi mitata ylämäkijuoksulla. Juokset kunnes et enää pysty juosta. 
 Mittaa korkein syke ja lisää siihen muutama lyönti jolloin pääset aika lähelle totuutta. Jos maksimisykkeen testaaminen ei 
 innosta, voit selvittää laskennallisen maksimisykkeen seuraavalla kaavalla: 
