@@ -77,14 +77,14 @@ Tule mukaan nauttimaan ainutlaatuisista luonto- ja liikuntaelämyksistä. Elämy
 
 Personal Training palvelu on tarkoitettu sinulle, joka haluat päästä harjoittelussa seuraavalle tasolle. Laadimme tavoitteenmukaiset treeniohjelmat, tarkistamme ruokatottumuksesi ja seuraamme palautumistasi. Olipa tavoitteesi sitten painonpudotus, kunnon kohotus tai liikkuvuuden lisääminen, me autamme mielellämme. Lue lisää: [Tapojen muuttaminen](http://www.funktum.fi/blog/2017/06/06/Tapojen-muuttaminen/)
 
-| Tuote                     | Hinta (sis. alv)    |
+| Tuote                     | Hinta               |
 | ------------------------- | ------------------- |
-| 1 tapaaminen, á 55min     | 90,00 €             |
-| 5 tapaamista, á 55min     | 400,00 €            |
-| 10 tapaamista, á 55min    | 700,00 €            |
-| 20 tapaamista, á 55min    | 1350,00 €           |
-| 30 tapaamista, á 55min    | 1950,00 €           |
-| 50 tapaamista, á 55min    | 3000,00 €           |
+| 1 tapaaminen              | 90,00 €             |
+| 5 tapaamista              | 400,00 €            |
+| 10 tapaamista             | 700,00 €            |
+| 20 tapaamista             | 1350,00 €           |
+| 30 tapaamista             | 1950,00 €           |
+| 50 tapaamista             | 3000,00 €           |
 
 _Kaikkiin 5-50 tapaamisen paketteihin sisältyy treeniohjelma(t), jaksotus, ravintoneuvonta ja treenin seuranta._
 
