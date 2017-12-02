@@ -15,6 +15,10 @@ weight: 0
 
 Tunteja ja pienryhmävalmennusta sinulle, joka haluat parantaa kehonhallintataitojasi, treenata korkealla intensiteetillä tai päästä lisäkiloista eroon.
 
+#### Elämyspaketti
+
+Tule mukaan nauttimaan ainutlaatuisista luonto- ja liikuntaelämyksistä. Elämyspakettiin kuuluu kolme retkeä pääkaupunkiseudun luontoalueilla. Tutustu [tästä](http://www.funktum.fi/elamyspaketti/)
+
 #### Personal Training -palvelut
 
 Personal Training -palvelu on tarkoitettu sinulle, joka haluat päästä harjoittelussa seuraavalle tasolle.
