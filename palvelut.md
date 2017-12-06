@@ -12,9 +12,9 @@ holvi:
   - 'https://holvi.com/shop/funktum/product/67571d0b33e093ca4f949ad27a7b89a4/'
 ---
 
-## Osta lahjaksi liikuntaa! 
+## Osta lahjaksi lahjakortti! 
 
-Jätä turha krääsä hyllyyn ja osta ystävälle liikuntalahjakortti. Lahjakortti on käytettävissä kaikkiin funktumin palveluihin. Lahjakortin voit helposti ostaa [verkkokaupastamme](https://holvi.com/shop/funktum/).
+Jätä turha krääsä hyllyyn ja osta ystävälle liikunta- tai elämyslahjakortti. Lahjakortti on käytettävissä kaikkiin Funktumin palveluihin (lukuunottamatta elämyslahjakorttia). Lahjakortin voit helposti ostaa [verkkokaupastamme](https://holvi.com/shop/funktum/).
 
 Opi käyttämään verkkokauppaamme/lahjakorttiasi, lue [verkkokauppaoppaamme](http://www.funktum.fi/verkkokauppaopas). 
 
