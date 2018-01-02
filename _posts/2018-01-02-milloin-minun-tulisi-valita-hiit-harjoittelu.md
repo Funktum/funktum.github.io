@@ -3,6 +3,9 @@ layout: post
 published: true
 title: Milloin minun tulisi valita HIIT -harjoittelu?
 ---
+
+![Webp.net-compress-image (2).jpg]({{site.baseurl}}/media/Webp.net-compress-image (2).jpg)
+
 HIIT eli high intensity interval training tarkoittaa intensiteetiltään kovatempoista harjoittelua. Nykyisessä kiireyhteiskunnassamme HIIT-treeni vaikuttaa muoti-ilmiöltä, joka on tullut jäädäkseen. Treenaamalla täysillä vain 15-30 minuuttia voi hyötyä saman verran kun 1-1,5 tunnin kestoharjoittelusta. Onko asia oikeasti näin? Riittääkö puoli tuntia korkeaintensiivistä harjoittelua päivässä? Miksi ja milloin minun tulisi valita HIIT? Näihin kysymyksiin saat vastauksen tässä blogikirjoituksessa.
 
 #### Miten HIIT toimii?
@@ -60,4 +63,4 @@ monelle. Suosittelisin kuitenkin välttämään HIIT-treeniä ainoana liikuntamu
 treenijaksoja: HIIT-jakso ja peruskuntojakso (PK) erikseen. Tai voit yhdistää molemmat. Jos olet kiireinen, on HIIT varmasti
 hyvä ratkaisu sinulle! 
 
-Tutustu Funktumin HIIT IT - [ryhmäliikuntatunteihin](http://www.funktum.fi/hiitit/) 
+Tutustu Funktumin HIIT IT - [ryhmäliikuntatunteihin](http://www.funktum.fi/hiitit/)
