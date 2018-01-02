@@ -6,7 +6,7 @@ permalink: /asiakaskokemukset/
 
 ![]({{site.baseurl}}/media/mari%20nurmi%203.jpg)
 
-### Mari N
+### Mari N.
 
 "Halusin itselleni salikaveriksi Personal Trainerin, koska olin kärsinyt selkäkivuista sekä niska-hartiaseudun kivuista pitkään.Kävin kyllä kuntosalilla ja liikuin muutenkin, mutta epäilin, että teen jotain väärin, kun vaivat eivät lähde ja tuntui, että harjoittelu ei etene. Enkä oikeastaan tiennyt miten minun olisi pitänyt harjoitella.
 
@@ -31,7 +31,7 @@ Olen ollut valintaani erittäin tyytyväinen!"
 
 
 
-### Jaana H
+### Jaana H.
 
 "Funktumin Sampsan kanssa treeni Aviapoliksen Fressissä on joka kerta sekä piristävää, motivoivaa, haasteellista että hauskaa. Sampsan ohjeiden mukaan olen pitkälti päässyt "irti laitteista". Olemme keskittyneet käsilläseisontaan, leuanvetoihin ja  erilaisiin oman kehon painoa ja vastusta hyödyntäviin - ja kehon kuuntelua edellyttäviin - harjoituksiin. 
 
@@ -40,3 +40,11 @@ Sampsalla on taito tunnistaa heti treenaajan fiilis. Joskus kun olin treenien al
 Alunperin halusin lähinnä apuja käsilläseisonnan oppimiseen. Treenikertojen aikana olen oppinut kuitenkin paljon muutakin, mitä voin soveltaa salitreenissä, joogassa ja ihan kaikessa jokapäiväisessä liikkumisessa. Käsilläseisonnan lisäksi olen saanut muitakin tavoitteita, joita kohti edetä. Käsillä pysyn jo melko stabiilisti.
 
 Sampsalle lämmin kiitos!"
+
+---
+
+### Virpi V.
+
+"Sampsan kanssa työskentely on ollut mukavaa. Sampsa on tarjonnut valmennuksessa erilaisia vaihtoehtoja ja osannut heti hienovaraisesti huomioida minun tarpeeni. Harjoittelu on keskittynyt paljolti oman kehonhallintaan keskittyviin liikkeisiin ja se on, mitä hainkin. Haastavaa ja hauskaa".
+
+"Virpi, 45 v. Vantaa"
