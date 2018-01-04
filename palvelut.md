@@ -30,7 +30,6 @@ Nosta kehonhallintataitosi seuraavalle tasolle! Body control tunneilla harjoitte
 
 <div>
 {% include button.html url="http://www.funktum.fi/bodycontrol/" text="Lue lisää" style="outline" %}
-{% include button.html url="https://holvi.com/shop/funktum/product/c5ccb50c285defcaae5587ede459d72d/" text="Osta nyt"  %}
 </div>
 
 ---
@@ -43,7 +42,6 @@ Erittäin tehokas treeni tuo sinulle voimaa ja kestävyyttä. HIIT IT tunneilla 
 
 <div>
 {% include button.html url="http://www.funktum.fi/hiitit/" text="Lue lisää" style="outline" %}
-{% include button.html url="https://holvi.com/shop/funktum/product/8ef9940ee78fb2ca624343fd1327d4eb/" text="Osta nyt"  %}
 </div>
 
 
@@ -57,7 +55,6 @@ Varma ja toimiva keino päästä lisäkiloista eroon. Weight control pienryhmäv
 
 <div>
 {% include button.html url="http://www.funktum.fi/weightcontrol/" text="Lue lisää" style="outline" %}
-{% include button.html url="https://holvi.com/shop/funktum/product/6a465cfde124081e547c65d7bfd3f950/" text="Osta nyt"  %}
 </div>
 
 ---
