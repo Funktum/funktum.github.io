@@ -12,10 +12,7 @@ juoksulenkissä. Treeni koostuu monipuolisesta alkulämmittelystä, HIIT osuudes
 Treenillä pyrimme rasittamaan koko kroppaa. Tunti soveltuu sinulle joka et pelkää hengästymistä. Tämä treeni tuo virtaa elämääsi!
 
 
-* Paikka: Mattlidens Gymnasium, [Matinsyrjä 1, Espoo](https://goo.gl/maps/kjdYntyYS4y)
-* Aika: lauantaisin 20.1.2018 alkaen, klo 12:00-12:45
-* Kurssin kesto: 8 kertaa
-* Hinta: 75€
+Tunteja ei saatavilla tällä hetkellä.
 
 ---
 
@@ -23,4 +20,4 @@ Treenillä pyrimme rasittamaan koko kroppaa. Tunti soveltuu sinulle joka et pelk
 
 ---
 
-{% include button.html url="https://holvi.com/shop/funktum/product/8ef9940ee78fb2ca624343fd1327d4eb/" text="Osta nyt" %}
+
