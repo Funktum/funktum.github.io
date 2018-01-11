@@ -13,7 +13,7 @@ Treeneissä käytämme paljon omaa kehoa vastuksena, jolloin oman treenin voi su
 
 #### Seuraava valmennus alkaa:
 
-- Keskiviikkona 21.2.2018 klo 18-19:30 ja jatkuu siitä joka keskiviikko
+- Keskiviikkona 21.2.2018 klo 18-19:30 ja jatkuu siitä joka keskiviikko samaan aikaan
 - Treenipaikkana toimii Myllypuron Liikuntamylly
 - Ennen yhteisen treenin alkua, suoritamme jokaiselle henkilökohtaisen alkukartoituksen. Otamme teihin yhteyttä ilmoittautumisen jälkeen.
 
