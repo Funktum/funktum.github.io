@@ -1,11 +1,5 @@
 ---
 layout: post
-published: true
-title: Untitled
----
-
----
-layout: post
 published: true 
 title: Kolme askelta onnistuneeseen painonpudotukseen
 ---
