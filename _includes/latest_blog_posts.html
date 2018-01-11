@@ -9,13 +9,13 @@
       {% endif %}
     {% endfor %}
     <a href="{{ post.url }}" class="post-card">
-      <div class="post-image" style="background-image: url({{ post_image_src }})">
+      <div class="post-image" style="background-image: url('{{ post_image_src }}')">
         <div class="post-image-container">
           <h3 class="post-title">{{ post.title }}</h3>
           <p class="post-meta">{% include month_locales.html %}</p>
         </div>
       </div>
-      <p class="post-content">{{ post.content | markdownify | remove: '<img>' | strip_html | truncate: 160 }}</p>
+      <p class="post-content">{{ post.content | markdownify | remove: '<img>' | strip_html | truncatewords: 16 }}</p>
       <p class="post-link">Lue lisää ›</p>
     </a>
   {% endfor %}
