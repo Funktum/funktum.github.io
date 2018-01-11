@@ -1,3 +1,8 @@
+---
+layout: post
+published: true
+title: Untitled
+---
 
 ---
 layout: post
@@ -5,8 +10,7 @@ published: true
 title: Kolme askelta onnistuneeseen painonpudotukseen
 ---
 
-#### Unohda dieetit – Kolme askelta onnistuneeseen painonpudotukseen
-
+![Webp.net-compress-image (3).jpg]({{site.baseurl}}/media/Webp.net-compress-image (3).jpg)
 
 
 Painonpudotus vaatii paljon työtä, eikä se rajoitus pelkästään laihtumiseen. Uusista, terveellisistä tekemisistä pitäisi 
