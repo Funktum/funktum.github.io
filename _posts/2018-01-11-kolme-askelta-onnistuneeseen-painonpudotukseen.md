@@ -51,7 +51,7 @@ epäonnistumisilla vaan tuuleta mieluummin silloin kun asiat onnistuvat. Keskity
 Anna muutokselle aikaa. Nämä asiat eivät tapahdu yön yli. Voi kulua vuosia ennen kuin on haluamallaan tasolla syömisen suhteen 
 ja se on erittäin ok. Huonommat jaksot eivät haittaa, kunhan pitkällä tähtäimellä edetään oikeaan suuntaan. Pitkäjänteinen 
 kehitys on parempi kuin painon jojoilu. Jojoilu tarkoittaa esimerkiksi superdieetin aiheuttamaa pikaista laihtumista,
-mutta heti dieetin jälkeen palaakin vanhoihin tapoihin, jolloin laihdutetut kilot palaavat ¬¬– usein korkojen kera.
+mutta heti dieetin jälkeen palaakin vanhoihin tapoihin, jolloin laihdutetut kilot palaavat usein korkojen kera.
 
 
 #### 3.	Tehosta muutosta liikunnalla
