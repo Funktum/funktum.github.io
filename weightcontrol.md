@@ -17,7 +17,7 @@ Treeneissä käytämme paljon omaa kehoa vastuksena, jolloin oman treenin voi su
 - Treenipaikkana toimii Myllypuron Liikuntamylly
 - Ennen yhteisen treenin alkua, suoritamme jokaiselle henkilökohtaisen alkukartoituksen. Otamme teihin yhteyttä ilmoittautumisen jälkeen.
 
-##### hinta: 100€/kk
+#### hinta: 100€/kk (Ei sitoutumista, kuukauden irtisanomisaika)
 
 
 ---
