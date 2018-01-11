@@ -11,7 +11,14 @@ Weight Control pienryhmävalmennukseen olemme yhdistäneet yksilöllisyyden ja y
 Treeneissä käytämme paljon omaa kehoa vastuksena, jolloin oman treenin voi suorittaa missä vaan. Kokoonnumme kerran viikossa treenaamaan yhdessä joko ulkona tai sisätiloissa. Autamme myös ravintoasioissa ja seuraamme palautumistasi. Weight control pienryhmävalmennus sopii sinulle, jos haluat päästä lisäkiloista eroon tai keskittyä painonhallintaan. Ilmoita itsesi rohkeasti mukaan ja ota ensimmäinen askel kohti liikunnallisempaa elämää!
 
 
-Pienryhmävalmennusta ei saatavilla tällä hetkellä.
+#### Seuraava valmennus alkaa:
+
+- Keskiviikkona 21.2.2018 klo 18-19:30 ja jatkuu siitä joka keskiviikko
+- Treenipaikkana toimii Myllypuron Liikuntamylly
+- Ennen yhteisen treenin alkua, suoritamme jokaiselle henkilökohtaisen alkukartoituksen. Otamme teihin yhteyttä ilmoittautumisen jälkeen.
+
+##### hinta: 100€/kk
+
 
 ---
 
