@@ -14,11 +14,12 @@ Treeneissä käytämme paljon omaa kehoa vastuksena, jolloin oman treenin voi su
 #### Seuraava valmennus alkaa:
 
 - Keskiviikkona 21.2.2018 klo 18-19:30 ja jatkuu siitä joka keskiviikko samaan aikaan
-- Treenipaikkana toimii Myllypuron Liikuntamylly
+- Treenipaikkana toimii Myllypuron Liikuntamylly, Helsinki
 - Ennen yhteisen treenin alkua, suoritamme jokaiselle henkilökohtaisen alkukartoituksen. Otamme teihin yhteyttä ilmoittautumisen jälkeen.
 
 #### hinta: 100€/kk (Ei sitoutumista, kuukauden irtisanomisaika)
 
+{% include button.html url="https://holvi.com/shop/funktum/product/6a465cfde124081e547c65d7bfd3f950/" text="Ilmoittaudu mukaan!" %} 
 
 ---
 
