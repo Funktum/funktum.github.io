@@ -55,6 +55,7 @@ Varma ja toimiva keino päästä lisäkiloista eroon. Weight control pienryhmäv
 
 <div>
 {% include button.html url="http://www.funktum.fi/weightcontrol/" text="Lue lisää" style="outline" %}
+{% include button.html url="https://holvi.com/shop/funktum/product/6a465cfde124081e547c65d7bfd3f950/" text="Osta nyt"  %}
 </div>
 
 ---
