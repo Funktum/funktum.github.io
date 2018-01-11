@@ -7,7 +7,7 @@ title: Kolme askelta onnistuneeseen painonpudotukseen
 ![Webp.net-compress-image (3).jpg]({{site.baseurl}}/media/Webp.net-compress-image (3).jpg)
 
 
-Painonpudotus vaatii paljon työtä, eikä se rajoitus pelkästään laihtumiseen. Uusista, terveellisistä tekemisistä pitäisi 
+Painonpudotus vaatii paljon työtä, eikä se rajoitu pelkästään laihtumiseen. Uusista, terveellisistä tekemisistä pitäisi 
 saada elämäntapa. Joten jos oikeasti haluat laihtua ja pysyä hyvässä kunnossa, pitää sinun sitoutua muutokseen loppuiäksi.
 Kuulostaako pelottavalta? Ei huolta. Etenemällä pikkuhiljaa opit tykkäämään uusista tavoista jopa niin paljon, ettet haluakaan
 enää luopua niistä ja muutokset jäävät pysyviksi. Jotta onnistuisit, tulee seuraavien asioiden olla hallinnassa:
