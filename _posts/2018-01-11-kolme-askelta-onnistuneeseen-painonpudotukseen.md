@@ -20,7 +20,7 @@ Uneen satsaaminen voi monelle olla ratkaiseva tekijä. Yksinkertaisesti sanottun
 huomattavasti kevyemmin.
 
 Levänneenä teet parempia valintoja ravinnon ja liikunnan suhteen, koska väsyneenä Woltin ruokalähetys houkuttelee enemmän kuin
-ruuan valmistaminen. Treenaaminenkaan ei nappaa, jos silmäluomissakin tuntuu raskaalta. Unella on ratkaisevaa myös palautumisen 
+ruuan valmistaminen. Treenaaminenkaan ei nappaa, jos silmäluomissakin tuntuu raskaalta. Uni on ratkaisevaa myös palautumisen 
 kannalta. Univaje (varsinkin krooninen univaje) vaikuttaa negatiivisesti kasvuhormonitoimintaan, testosteronin tuotantoon,
 näläntunnetta sääteleviin hormoneihin sekä nostaa kortisonin eli stressihormonin tasoa.
 
