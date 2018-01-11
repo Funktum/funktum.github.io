@@ -57,7 +57,7 @@ mutta heti dieetin jälkeen palaakin vanhoihin tapoihin, jolloin laihdutetut kil
 #### 3.	Tehosta muutosta liikunnalla
 
  
-Liikunta viimeistelee kokonaisuuden. Se tehostaa lisää energiankulutusta ja aineenvaihduntaa. Sitä paitsi liikunnalla on 
+Liikunta viimeistelee kokonaisuuden. Se tehostaa energiankulutusta ja aineenvaihduntaa. Sitä paitsi liikunnalla on 
 lukuisia positiivisia vaikutuksia terveyden ja hyvinvoinnin kannalta. Liikunta tukee myös unenlaatua ja syömistottumuksia
 säätelemällä näläntunnetta. Säännöllinen liikunta ennaltaehkäisee mm. sydän- ja verisuonitauteja, 2-tyypin diabetesta ja 
 erilaisia kipuja, kuten hartia- ja selkäkipuja. Tärkeintä olisi saada arkiliikunta kuntoon esimerkiksi pyöräilemällä töihin,
