@@ -26,7 +26,7 @@ nautitko rauhallisemmasta tekemisestä vai haluatko treenata läkähtymiseen saa
 ympäristössä tykkäät liikkua. Nautitko luonnossa olemisesta, kaupunkiympäristöstä vai ihan vain sisätiloista? Kaikki ovat
 hyviä vaihtoehtoja! Alla pari esimerkkiä eri persoonille sopivista harrastuksista: 
 
-*Hurjapäälle:*
+##### Hurjapäälle:
 
 	•	Kalliokiipeily (sisähallissa tai ulkokallioilla)
 	•	Voimistelu
@@ -35,7 +35,7 @@ hyviä vaihtoehtoja! Alla pari esimerkkiä eri persoonille sopivista harrastuksi
 	•	Maastopyöräily haastavassa maastossa
 	•	Laskettelu/temppuilu
 
-*Intervallisykkijälle:* 
+##### Intervallisykkijälle:  
 
 	•	Crossfit
 	•	Intervallijuoksu 
@@ -44,7 +44,7 @@ hyviä vaihtoehtoja! Alla pari esimerkkiä eri persoonille sopivista harrastuksi
 	•	Uppopallo
 	•	Kuntonyrkkeily (muut intensiiviset kamppailulajit)
 
-*Rauhalliselle liikkujalle:* 
+##### Rauhalliselle liikkujalle: 
 
 	•	Kävelyt tai hitaat lenkit
 	•	Vaellus
