@@ -3,6 +3,8 @@ layout: post
 published: true
 title: Näin lunastat liikunnalliset uudenvuodentavoitteet
 ---
+![Webp.net-compress-image (4).jpg]({{site.baseurl}}/media/Webp.net-compress-image (4).jpg)
+
 
 On uusi vuosi ja uusien lupauksien aika. Liikunnan lisääminen nollasta sataan kertaheitolla muuttuu kuitenkin haasteelliseksi 
 pitkällä aikavälillä. Ensimmäiset viikot tai kuukaudet saattavat sujua hyvin motivaation säilyessä korkealla tasolla.
@@ -84,4 +86,4 @@ mutta usein kuurin loputtua tulevat kilot takaisin korkojen kera.
 Suosi pitkäjänteistä tekemistä. Siihen päästään mukavan ja mieluisan harrastuksen saattelemana! Muista vielä että jos
 innostus loppuu, voi aina löytää uuden mieluisan harrastuksen. Pääasia on että liikkuu. Suurin riski on olla liikkumatta!
 
-Lupasitko pudottaa painoa? Lue vielä kolme askeltamme [onnistuneeseen painonpudotukseen](http://www.funktum.fi/blog/2018/01/11/kolme-askelta-onnistuneeseen-painonpudotukseen/)!  http://www.funktum.fi/blog/2018/01/11/kolme-askelta-onnistuneeseen-painonpudotukseen/
+Lupasitko pudottaa painoa? Lue vielä kolme askeltamme [onnistuneeseen painonpudotukseen](http://www.funktum.fi/blog/2018/01/11/kolme-askelta-onnistuneeseen-painonpudotukseen/)! 
