@@ -89,6 +89,6 @@ exclude:
   - TODO
   - vendor
 
-# Gems to use
-gems:
+# Plugins to use
+plugins:
   - jekyll-paginate

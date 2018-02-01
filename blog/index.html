@@ -6,7 +6,7 @@ weight: 2
 ---
 
 <div class="post-featured">
-  {% for post in paginator.posts | limit: 1 %}
+  {% for post in paginator.posts limit: 1 %}
   <div class="post" id="{{ post.id | remove: '/blog/' }}">
     <h2 class="post-title">
       <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
@@ -21,7 +21,7 @@ weight: 2
 
 <div class="post-list">
   <h3>Vanhemmat kirjoitukset</h3>
-  {% for post in paginator.posts | offset: 1%}
+  {% for post in paginator.posts offset: 1%}
   <a class="post-item" href="{{ post.url | prepend: site.baseurl }}">
     <span class="post-title">{{ post.title }}</span>
     <span class="post-meta">{% include month_locales.html %}</span>
