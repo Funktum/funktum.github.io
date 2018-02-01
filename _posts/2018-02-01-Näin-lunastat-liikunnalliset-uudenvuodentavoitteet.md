@@ -80,8 +80,8 @@ on enemmän kuin ok vaihdella tekemistä. Harrastuksen tulee olla miellyttävä�
 #### Jatka loppuun asti!
 
 Ota pikalaihdutuksen sijan tavoitteeksi liikunnan aloittaminen pitkällä aikavälillä. Tavoittele liikunnan jatkamista niin 
-kauan kuin pystyt. Tämä edistää sinua enemmän kuin pikaiset laihdutuskuurit. Laihdutuskuurilla saatat saada nopeita tuloksia,
-mutta usein kuurin loputtua tulevat kilot takaisin korkojen kera.
+kauan kuin pystyt. Tämä edistää sinua enemmän kuin pikaiset laihdutus- tai liikuntakuurit. 
+Kuurilla saatat saada nopeita tuloksia, mutta usein kuurin loputtua palaat vanhoihin tapoihin, ja takapakkia tulee korkojen kera.
 
 Suosi pitkäjänteistä tekemistä. Siihen päästään mukavan ja mieluisan harrastuksen saattelemana! Muista vielä että jos
 innostus loppuu, voi aina löytää uuden mieluisan harrastuksen. Pääasia on että liikkuu. Suurin riski on olla liikkumatta!
