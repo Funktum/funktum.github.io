@@ -28,29 +28,29 @@ hyviä vaihtoehtoja! Alla pari esimerkkiä eri persoonille sopivista harrastuksi
 
 ##### Hurjapäälle:
 
-	•	Kalliokiipeily (sisähallissa tai ulkokallioilla)
-	•	Voimistelu
-	•	Parkour (kaupunkiympäristö)
-	•	Uimahyppy
-	•	Maastopyöräily haastavassa maastossa
-	•	Laskettelu/temppuilu
+- Kalliokiipeily (sisähallissa tai ulkokallioilla)
+- Voimistelu
+- Parkour (kaupunkiympäristö)
+- Uimahyppy
+- Maastopyöräily haastavassa maastossa
+- Laskettelu/temppuilu
 
 ##### Intervallisykkijälle:  
 
-	•	Crossfit
-	•	Intervallijuoksu 
-	•	Kuntopiiriharjoittelu
-	•	Intensiiviset joukkuelajit, kuten jääkiekko, koripallo tai ultimate
-	•	Uppopallo
-	•	Kuntonyrkkeily (muut intensiiviset kamppailulajit)
+- Crossfit
+- Intervallijuoksu 
+- Kuntopiiriharjoittelu
+- Intensiiviset joukkuelajit, kuten jääkiekko, koripallo tai ultimate
+- Uppopallo
+- Kuntonyrkkeily (muut intensiiviset kamppailulajit)
 
 ##### Rauhalliselle liikkujalle: 
 
-	•	Kävelyt tai hitaat lenkit
-	•	Vaellus
-	•	Kuntouinti/vesijuoksu
-	•	Jooga tai pilates
-	•	Rento pyöräily
+- Kävelyt tai hitaat lenkit
+- Vaellus
+- Kuntouinti/vesijuoksu
+- Jooga tai pilates
+- Rento pyöräily
 
 
 Muista, että hurjapääkin voi löytää intervallitreenin tai rauhallisen liikunnan parista mieluisia lajeja. Kokeile uusia
