@@ -43,4 +43,6 @@ __Hinta: 159€ (sis. alv)__
 
 _hintaan sisältyy ohjattua liikuntaa, lounas, vakuutus ja tarvikkeet pelejä varten._ 
 
+---
+
 {% include contact_details.html button="true" %}
