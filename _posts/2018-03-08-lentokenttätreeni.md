@@ -73,6 +73,7 @@ syytä avata hieman lonkankoukistajia!
 - Ota askel eteen
 - Kippaa lantiota taakse
 - Paina takimmaisen jalan puolelta lonkkaa eteen
+
 Toista liike 1min/puol
 
 #### Rintakehän avaus
