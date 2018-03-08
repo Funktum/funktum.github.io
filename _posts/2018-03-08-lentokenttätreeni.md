@@ -1,8 +1,9 @@
 ---
 layout: post
-published: true 
+published: true
 title: Reissailijan treeniopas
 ---
+![Webp.net-compress-image (5).jpg]({{site.baseurl}}/media/Webp.net-compress-image (5).jpg)
 
 Reissailetko paljon? Tätä voisi ehkä pitää tekosyynä kunnon rapautumiseen, mutta ei enää! Lentokentillä tulee usein odoteltua
 pitkiäkin aikoja ja tämän ajan voisi hyvin hyödyntää kehon hyvinvointiin! Jos kentällä ei ehdi tehdä pientä taukojumppaa, 
@@ -15,6 +16,9 @@ Seuraava treeni kestää suunnilleen 15 min ja sen voi suorittaa missä vaan.
 jumppaamaan!
 
 #### Istumaannousu/kyykky
+
+![liike2.jpg]({{site.baseurl}}/media/liike2.jpg)
+
 
 Tämän liikkeen voi suorittaa joko tuolia käyttäen tai ihan pelkällä omalla kropalla.
 Asetu tuolin eteen seisomaan siten että tuoli on takanasi melkein jaloissa kiinni. Liikkeellä tavoitetaan iso pakaralihas,
@@ -29,6 +33,9 @@ Toista liike 20 kertaa hallitusti
 
 #### Käsien pyöritys
 
+![liike3.jpg]({{site.baseurl}}/media/liike3.jpg)
+
+
 Pyöritä yhtä kättä kerralla mahdollisimman laajalla liikeradalla. Muista, ettei kannata pyörittää kauhean nopeasti. 
 Saat liikkeestä enemmän irti jos pyörität kättä hitaasti ja hallitusti! Liikkeellä saadaan avattua olkanivel ja venytettyä
 hieman rintalihasta.
@@ -40,6 +47,9 @@ hieman rintalihasta.
 Toista liike 15 kertaa/käsi
 
 #### Seinäpunnerrus
+
+![liike4.jpg]({{site.baseurl}}/media/liike4.jpg)
+
 
 Seinäpunnerruksen voi suorittaa joko seinää tai kaidetta vasten. Tällä liikkeellä tavoitetaan iso rintalihas, ojentajat ja 
 olkapään etuosa.
@@ -53,6 +63,9 @@ Toista liike 15 kertaa
 
 #### Lonkankoukistajan venytys
 
+![liike5.jpg]({{site.baseurl}}/media/liike5.jpg)
+
+
 Venyttely on myös hyvin tärkeää, varsinkin jos istuu ja on paikoillaan paljon. Yleinen vaiva paljon istuvalla on juuri
 lonkankoukistajan kireys ja tämä johtaa lantion virheelliseen asentoon. Ennen kuin istahdat pitkälle lennolle olisi siis
 syytä avata hieman lonkankoukistajia!
@@ -64,6 +77,9 @@ Toista liike 1min/puol
 
 #### Rintakehän avaus
 
+![liike6.jpg]({{site.baseurl}}/media/liike6.jpg)
+
+
 Toinen yleinen vaiva paljon istuvilla on eteenpäin kääntyneet hartiat. Teemme paljon työtä tietokoneilla ja käytämme 
 päivittäin kännykkää. Nämä aktiviteetit kääntävät olkapäitä sisään ja rintaranka pyöristyy. Seuraava liike avaa rintakehää.
 
@@ -74,7 +90,7 @@ päivittäin kännykkää. Nämä aktiviteetit kääntävät olkapä
 
 Toista liike 15 kertaa/puoli ja pysy asennossa noin 3 sekuntia jokaisessa toistossa. 
 
-#### Veri kiertämään lentokoneessa
+### Veri kiertämään lentokoneessa
 
 Lentokoneessa ei paljoa liikkumavaraa ole. Pitkät lennot ovat juuri tästä syystä melko puuduttavia. Mutta avuttomana 
 paikoillaan sinun ei tarvitse istua, sillä näillä ohjeilla saat vauhtia verenkiertoosi!
