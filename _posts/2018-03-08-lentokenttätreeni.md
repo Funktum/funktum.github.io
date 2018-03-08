@@ -42,7 +42,7 @@ hieman rintalihasta.
 
 - Ota hartianlevyinen asento
 - Pyöritä kättä mahdollisimman laajalla liikeradalla
-- Pyri pitämään hartialinja suunnattuna suoraan eteen liikkeen aikana
+- Pyöritä rauhallisella tahdilla
 
 Toista liike 15 kertaa/käsi
 
