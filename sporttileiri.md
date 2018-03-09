@@ -14,7 +14,7 @@ Funktum järjestää Sporttileirn Kartanonkosken urheilupuistona. Leirillä harj
 ![Kartano comp.jpg]({{site.baseurl}}/media/Kartano comp.jpg)
 
 
-Metsän antimet ja arktiset suomalaiset herkut maistuvat ainutlaatuiselta, kun ymmärtää suomalaisen luonnon vaativat olosuhteet. Ravintola Backaksessa haluaa tarjota sinulle näitä ainutlaatuisia herkkuja ja elämyksiä pääkaupunkiseudulla. Sijainti on aivan Kehä kolmosen varressa, lentokentän tuntumassa ja vain kävelymatkan päässä kauppakeskus Jumbosta. Kartanon ravintola on auennut syyskuussa 2017 ja nyt keväällä 2018 aukeaa vanhaan juurruttamoon kaikkien oma Olohuone.
+Metsän antimet ja arktiset suomalaiset herkut maistuvat ainutlaatuiselta, kun ymmärtää suomalaisen luonnon vaativat olosuhteet. Ravintola Backaksessa haluaa tarjota asiakkailleen näitä ainutlaatuisia herkkuja ja elämyksiä pääkaupunkiseudulla. Sijainti on aivan Kehä kolmosen varressa, lentokentän tuntumassa ja vain kävelymatkan päässä kauppakeskus Jumbosta. Kartanon ravintola on auennut syyskuussa 2017 ja nyt keväällä 2018 aukeaa vanhaan juurruttamoon kaikkien oma Olohuone.
 
 _Leiriviikon menu:_
 
