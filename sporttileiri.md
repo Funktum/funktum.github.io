@@ -6,7 +6,7 @@ published: true
 ---
 
 
-Funktum järjestää Sporttileirn Kartanonkosken urheilupuistona. Leirillä harjoitamme monipuolista liikuntaa, pallopeleistä viesteihin ja slackline tasapainoiluun. Leiri järjestetään päiväsaikaan 11.6-15.6.18 klo 10:00-15:00. Ruokailun hoidamme yhteistyössä Ravintola Backaksen kanssa, joka tarjoaa osallistujille terveellisen ja puhtaan lounaan. Ravintola Backas sijaitsee urheilupuiston kupeessa Backaksen kartanoalueella. Järjestämme leirin kahdelle eri ikäryhmälle: 1-3lk ja 4-6lk.
+Funktum järjestää Sporttileirn Kartanonkosken urheilupuistona. Leirillä harjoitamme monipuolista liikuntaa, pallopeleistä viesteihin ja slackline tasapainoiluun. Leiri järjestetään päiväsaikaan 11.6-15.6.18 klo 10:00-15:00. Ruokailun hoidamme yhteistyössä Ravintola Backaksen kanssa, joka tarjoaa osallistujille terveellisen ja puhtaan lounaan. Ravintola Backas sijaitsee urheilupuiston kupeessa Backaksen kartanoalueella. Järjestämme leirin kahdelle eri ikäryhmälle: 6-9 vuotiaille ja 10-12 vuotiaille.
 
 
 #### Ravintola Backas ja luonas menu
@@ -43,9 +43,16 @@ Mainitse sähköpostissa:
 
 Huom! Jos haluat laskun paperitse, mainitse tämä sähköpostiviestissä erikseen. Paperilaskuksta peritään laskutuslisä 2€. Muuten lasku lähetetään sähköpostiisi.
 
-__Hinta: 159€ (sis. alv)__
+#### Yhteenveto
 
-_hintaan sisältyy ohjattua liikuntaa, lounas ja vakuutus._ 
+- __6-12 vuotiaille (nuormepi ja vanhempi ryhmä erikseen)__
+- __Ajankohta: 11.6 - 15.6.2018__
+- __Päiväleiri, klo 10:00 - 15:00__
+- __Lounas sisältyy hintaan__
+- __Lapset on vakuutettu__
+- __Korkealaatuinen ja ammattitaitoinen liikunnanohjaus__
+
+__Hinta: 159€ (sis. alv)__
 
 ---
 
