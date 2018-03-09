@@ -43,7 +43,7 @@ Mainitse sähköpostissa:
 
 Huom! Jos haluat laskun paperitse, mainitse tämä sähköpostiviestissä erikseen. Paperilaskuksta peritään laskutuslisä 2€. Muuten lasku lähetetään sähköpostiisi.
 
-#### Yhteenveto
+### Yhteenveto
 
 - __6-12 vuotiaille (nuormepi ja vanhempi ryhmä erikseen)__
 - __Ajankohta: 11.6 - 15.6.2018__
