@@ -49,4 +49,4 @@ _hintaan sisältyy ohjattua liikuntaa, lounas, vakuutus ja tarvikkeet pelejä va
 
 ---
 
-{% include contact_details.html button="true" %}
+{% include contact_details.html button="false" %}
