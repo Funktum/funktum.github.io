@@ -3,6 +3,8 @@ layout: post
 published: true
 title: Hallitsetko kehon 7 perusliikettä?
 ---
+![Perusliikkeet.jpg]({{site.baseurl}}/media/Perusliikkeet.jpg)
+
 
 Näen lähes joka päivä kuntosalilla työskennellessä ihmisiä, jotka harjoittavat tasoonsa nähden liian haastavia liikkeitä tai
 tekee liikkeitä aivan liian suurilla painoilla. Ihminen, joka ei hallitse kehon perusliikkeitä, ei myöskään hallitse 
