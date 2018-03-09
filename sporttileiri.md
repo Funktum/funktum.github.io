@@ -45,7 +45,7 @@ Huom! Jos haluat laskun paperitse, mainitse tämä sähköpostiviestissä erikse
 
 __Hinta: 159€ (sis. alv)__
 
-_hintaan sisältyy ohjattua liikuntaa, lounas, vakuutus ja tarvikkeet pelejä varten._ 
+_hintaan sisältyy ohjattua liikuntaa, lounas ja vakuutus._ 
 
 ---
 
