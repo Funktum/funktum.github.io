@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Reissailijan treeniopas
+title: Reissaajan treeniopas
 ---
 ![Webp.net-compress-image (5).jpg]({{site.baseurl}}/media/Webp.net-compress-image (5).jpg)
 
