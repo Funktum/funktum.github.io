@@ -8,7 +8,7 @@ Näen lähes joka päivä kuntosalilla työskennellessä ihmisiä, jotka 
 tekee liikkeitä aivan liian suurilla painoilla. Ihminen, joka ei hallitse kehon perusliikkeitä, ei myöskään hallitse 
 motorisesti haastavampia liikkeitä (jotka koostuvat yhdistetyistä perusliikkeistä).
 
-__Ihmisellä on 7 perusliikettä:__ kyykky, askelkyykky, työntö, veto, nosto, kierto ja kävely.
+__Ihmisellä on 7 perusliikettä:__ [kyykky](https://www.youtube.com/watch?v=XBzh3LpJkcs), [askelkyykky](https://www.youtube.com/watch?v=eeMGy8qiAcA), [työntö](https://www.youtube.com/watch?v=yJaBVi-fgQM), [veto](https://www.youtube.com/watch?v=_icRSXyisbA), [nosto](https://www.youtube.com/watch?v=qVuYxjpAavw), [kierto](https://www.youtube.com/watch?v=4zihFCn-SQc) ja kävely.
 
 Kun hallitset jokaisen liikkeen oikeaoppisesti, voit lähteä haastamaan itseäsi niillä haasteellisimmilla liikkeillä. Otetaan
 esimerkiksi rinnalleveto ja työntö. Rinnalleveto ja työntö on haastava liike, joka koostuu useammasta perusliikkeestä: 
