@@ -9,7 +9,7 @@ published: true
 Funktum järjestää Sporttileirn Kartanonkosken urheilupuistona. Leirillä harjoitamme monipuolista liikuntaa, pallopeleistä viesteihin ja slackline tasapainoiluun. Leiri järjestetään päiväsaikaan 11.6-15.6.18 klo 10:00-15:00. Ruokailun hoidamme yhteistyössä Ravintola Backaksen kanssa, joka tarjoaa osallistujille terveellisen ja puhtaan lounaan. Ravintola Backas sijaitsee urheilupuiston kupeessa Backaksen kartanoalueella. Järjestämme leirin kahdelle eri ikäryhmälle: 6-9 vuotiaille ja 10-12 vuotiaille.
 
 
-#### Ravintola Backas ja luonas menu
+### Ravintola Backas ja luonas menu
 
 ![Kartano comp.jpg]({{site.baseurl}}/media/Kartano comp.jpg)
 
@@ -24,11 +24,11 @@ _Leiriviikon menu:_
 - _Hirvilasagnea_
 - _Backaksen riistatortillat_
 
-#### Ohjaajat
+### Ohjaajat
 
 Ilkka Takkinen ja Sampsa Visuri
 
-#### Ilmoittautuminen
+### Ilmoittautuminen
 
 Ilmoita lapsesi mukaan leirille lähettämällä sähköpostia osoitteeseen sampsa@funktum.fi
 
