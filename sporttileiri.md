@@ -24,6 +24,8 @@ _Leiriviikon menu:_
 - _Hirvilasagnea_
 - _Backaksen riistatortillat_
 
+---
+
 ### Ohjaajat
 
 #### Ilkka Takkinen
