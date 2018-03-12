@@ -28,6 +28,15 @@ _Leiriviikon menu:_
 
 #### Ilkka Takkinen
 
+Liikunnanohjaaja, Kuntovalmentaja ja Personal Trainer.
+Monipuolinen liikunta on ollut osa elämääni pienestä pitäen.
+Rakkaimmat harrastukset ovat olleet jalkapallo, jääkiekko ja salibandy.
+Tällä hetkellä harrastan jääkiekkoa, tennistä ja kuntosalia.
+
+Olen työskennellyt liikunta-alalla opiskeluiden ohessa vuodesta 2006 alkaen.
+Lapsia olen ohjannut Lapin Urheiluopistolla liikunnnanohjaajan työtehtävissä ja WAU Ry:n iltapäiväkerhoissa.
+Lasten kanssa työskentely on välillä erittäin haastavaa, mutta sitäkin palkitsevampaa. 
+
 #### Sampsa Visuri
 Yrittäjä, liikuntaneuvoja sekä Personal Trainer. Ihmisten auttaminen on minulle tärkeää.  Olen harrastanut monipuolista liikuntaa niin kauan kuin muistan. Tärkeimpinä harrastuksina on ollut yleisurheilu, parkour, telinevoimistelu, rullalautailu, ultimate ja kalliokiipeily. Kalliokiipeilyä olen jatkunut tähän päivään asti. 
 
