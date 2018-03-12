@@ -26,6 +26,8 @@ _Leiriviikon menu:_
 
 ### Ohjaajat
 
+#### Ilkka Takkinen
+
 #### Sampsa Visuri
 Yrittäjä, liikuntaneuvoja sekä Personal Trainer. Ihmisten auttaminen on minulle tärkeää.  Olen harrastanut monipuolista liikuntaa niin kauan kuin muistan. Tärkeimpinä harrastuksina on ollut yleisurheilu, parkour, telinevoimistelu, rullalautailu, ultimate ja kalliokiipeily. Kalliokiipeilyä olen jatkunut tähän päivään asti. 
 
