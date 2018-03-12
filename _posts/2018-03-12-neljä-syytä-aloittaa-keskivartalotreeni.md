@@ -19,7 +19,7 @@ kohottaminen rantakaudeksi. Tässä on neljä tärkeintä syytä alkaa huo
 Lihaksia on kehossa useassa kerroksessa. Syvien lihasten tehtävä on tukea luurankoa ja pinnalliset lihakset pääsäännöllisesti
 tuottavat liikettä. Jos meiltä puuttuu syvien lihasten tuki eli niitä lihaksia ei saada aktivoitumaan kunnolla, joutuvat pinnalliset 
 lihakset puuttumaan tukemiseen, mikä häiritsee liikettä. Erityisen tärkeää on keskivartalon tuki.
-On hankalaa liikkua oikein, jos poikittainen vatsalihas (aka syvät vatsat) ei tee työtään ja vinot vatsat puuttuvat
+On hankalaa liikkua oikein, jos poikittainen vatsalihas (aka syvät vatsat) ei tee työtään ja vinot/suorat vatsat puuttuvat
 tukemiseen. Vinot vatsat ovat tärkeässä roolissa esimerkiksi kävely- tai juoksuaskelta ottaessa.
 Tutkimuksen mukaan keskivartalon syvät lihakset aktivoituvat 30 millisekuntia ennen käden liikettä ja 110 millisekuntia ennen 
 jalan liikettä. Voit kokeilla tätä laittamalla yhden käden vatsan päälle ja nosta nopeasti toista kättä suoraan eteen. Huomaat 
