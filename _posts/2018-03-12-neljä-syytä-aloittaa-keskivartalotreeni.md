@@ -40,5 +40,4 @@ hyvää ryhtiä. Muista huomioida myös kehon kireydet/heikkoudet, ettei ryh
 
 Kun keskivartalo on hyvässä kunnossa ja osaa toimia oikein ja monipuolisesti, kehityt nopeasti uusissa lajeissa. Tärkeintähän
 ei ole voitto vaan vastustajan täydellinen murskaaminen!
-Jos keskivartaloharjoituksesi ovat tähän asti oleet pelkkiä vatsarutistuksia, suosittelen lämpimästi vinojen ja syvien vatsalihasharjoitteiden
-lisäämistä. Otahan rohkeasti yhteyttä, niin löydetään yhdessä sinulle miellyttävä tapa treenata!
+Jos keskivartaloharjoituksesi ovat tähän asti rajoittuneet pelkkiin vatsarutistuksiin, suosittelen lämpimästi vinojen ja syvien vatsalihasharjoitteiden lisäämistä. Otahan rohkeasti yhteyttä, niin löydetään yhdessä sinulle miellyttävä tapa treenata!
