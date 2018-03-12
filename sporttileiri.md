@@ -6,7 +6,7 @@ published: true
 ---
 
 
-Funktum järjestää Sporttileirn Kartanonkosken urheilupuistossa. Leirillä harjoitamme monipuolista liikuntaa, pallopeleistä viesteihin ja slackline tasapainoiluun. Leiri järjestetään päiväsaikaan 11.6-15.6.18 klo 10:00-15:00. Ruokailun on järjestetty yhteistyössä Ravintola Backaksen kanssa, joka tarjoaa osallistujille terveellisen ja puhtaan lounaan. Ravintola Backas sijaitsee urheilupuiston kupeessa Backaksen kartanoalueella. Järjestämme leirin kahdelle eri ikäryhmälle: 6-9 vuotiaille ja 10-12 vuotiaille.
+Funktum järjestää Sporttileirin Kartanonkosken urheilupuistossa. Leirillä harjoitamme monipuolista liikuntaa, pallopeleistä viesteihin ja slackline tasapainoiluun. Leiri järjestetään päiväsaikaan 11.6-15.6.18 klo 10:00-15:00. Ruokailu on järjestetty yhteistyössä Ravintola Backaksen kanssa, joka tarjoaa osallistujille terveellisen ja puhtaan lounaan. Ravintola Backas sijaitsee urheilupuiston kupeessa Backaksen kartanoalueella. Järjestämme leirin kahdelle eri ikäryhmälle: 6-9 vuotiaille ja 10-12 vuotiaille.
 
 
 ### Ravintola Backas ja luonas menu
@@ -40,9 +40,9 @@ Lapsia olen ohjannut Lapin Urheiluopistolla liikunnnanohjaajan työtehtävissä 
 Lasten kanssa työskentely on välillä erittäin haastavaa, mutta sitäkin palkitsevampaa. 
 
 #### Sampsa Visuri
-Yrittäjä, liikuntaneuvoja sekä Personal Trainer. Ihmisten auttaminen on minulle tärkeää.  Olen harrastanut monipuolista liikuntaa niin kauan kuin muistan. Tärkeimpinä harrastuksina on ollut yleisurheilu, parkour, telinevoimistelu, rullalautailu, ultimate ja kalliokiipeily. Kalliokiipeilyä olen jatkunut tähän päivään asti. 
+Yrittäjä, liikuntaneuvoja sekä Personal Trainer. Ihmisten auttaminen on minulle tärkeää.  Olen harrastanut monipuolista liikuntaa niin kauan kuin muistan. Tärkeimpinä harrastuksina ovat olleet yleisurheilu, parkour, telinevoimistelu, rullalautailu, ultimate ja kalliokiipeily. Kalliokiipeilyä olen jatkunut tähän päivään asti. 
 
-Lasten kanssa olen työskennellyt aktiivisesti melko pitkään. Olen ohjannut kesäleirejä (vuodesta 2009) ja kerhoja (vuodesta 2015). Lasten kanssa työskentely on palkitsevaa ja onnistumisen riemua on hieno seurata sivusta.
+Lasten kanssa olen työskennellyt aktiivisesti melko pitkään. Olen ohjannut kesäleirejä (vuodesta 2009) ja kerhoja (vuodesta 2015). Lasten kanssa työskentely on mukavaa ja onnistumisen riemua on hieno seurata sivusta.
 
 ### Ilmoittautuminen
 
@@ -61,7 +61,7 @@ Huom! Jos haluat laskun paperitse, mainitse tämä sähköpostiviestissä erikse
 
 ### Yhteenveto
 
-- __6-12 vuotiaille (nuormepi ja vanhempi ryhmä erikseen)__
+- __6-12 vuotiaille (nuorempi ja vanhempi ryhmä erikseen)__
 - __Ajankohta: 11.6 - 15.6.2018__
 - __Päiväleiri, klo 10:00 - 15:00__
 - __Lounas sisältyy hintaan__
