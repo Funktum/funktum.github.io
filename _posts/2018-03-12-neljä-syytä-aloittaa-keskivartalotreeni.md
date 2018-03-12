@@ -1,9 +1,10 @@
 ---
 layout: post
-published: true 
+published: true
 title: 4 syytä aloittaa keskivartalotreeni
 ---
 
+![forward-3210935_1280.jpg]({{site.baseurl}}/media/forward-3210935_1280.jpg)
 
 
 Näkyvät vatsalihakset ja litteä vatsa ovat houkuttelevia tavoitteita eikä vatsalihasten harjoittamisen hyödyt rajoitu siihen.
