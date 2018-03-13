@@ -69,7 +69,7 @@ Pidä myös mielessäsi, että jossain vaiheessa tulee heikkoja hetkiä, jolloin
 Valmistaudu henkisesti tämän tyylisiin hetkiin valmiiksi niin pystyt pitämään itsekuria paremmin yllä heikon hetken iskiessä.
 Motivaatio tulee yleensä tekemisen kautta eikä päinvastoin. Älä jää odottamaan motivaatiota! 
 
-#### Alkuhuuma loppuessa…
+#### Alkuhuuman loppuessa…
 
 Näin se vaan on että uuden lajin into hiipuu, kun tekemiseen tottuu. Älä kuitenkaan heti luovuta. Voit hakea lajista uusia
 haasteita, hankkia treenikavereita tai pitää pienen tauon ja jatkaa sitten siitä. Älä anna tauon kuitenkaan venyä liikaa!
