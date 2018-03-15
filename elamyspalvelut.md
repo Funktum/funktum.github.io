@@ -5,7 +5,7 @@ title: Elämyspalvelut
 published: true
 ---
 
-Tule mukaan nauttimaan ainutlaatuisista luonto- ja liikuntaelämyksistä. Elämysvalikoimaamme kuuluu kaksi tapahtumaa pääkaupunkiseudun luontoalueilla. Kesäkuussa lähdemme reippailemaan Seurasaareen, ja syyskuussa järjestämme luontoretken Nuuksiossa.
+Tule mukaan nauttimaan ainutlaatuisista luonto- ja liikuntaelämyksistä. Elämysvalikoimaamme kuuluu kaksi tapahtumaa pääkaupunkiseudun luontoalueilla. Kesäkuussa lähdemme reippailemaan Seurasaareen, ja syyskuussa järjestämme luontoretken Nuuksiossa. Yrityksille, seuroille, kouluille ja muille ryhmille järjestämme räätälöidyt elämykset tilauksesta. 
 
 ---
 
