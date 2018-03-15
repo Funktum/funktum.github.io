@@ -7,6 +7,7 @@ published: true
 
 Tule mukaan nauttimaan ainutlaatuisista luonto- ja liikuntaelämyksistä. Elämysvalikoimaamme kuuluu kaksi tapahtumaa pääkaupunkiseudun luontoalueilla. Kesäkuussa lähdemme reippailemaan Seurasaareen, ja syyskuussa järjestämme luontoretken Nuuksiossa.
 
+---
 
 ### Seurasaaren Sporttikävely
 
@@ -22,6 +23,8 @@ kokeilemaan ponnistusvoimaasi Urho Kekkosen portailla. Lenkki kestää 90 minuut
 **Hinta: 19,90** 
 
 {% include button.html url="https://holvi.com/shop/funktum/product/e43ad96cd5cf96da0d58c81fbe1e1552/" text="Osta nyt!" %} 
+
+--- 
 
 
 ### Nuuksion syksy
