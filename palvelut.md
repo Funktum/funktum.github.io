@@ -65,7 +65,7 @@ Varma ja toimiva keino päästä lisäkiloista eroon. Weight control pienryhmäv
 Tule mukaan nauttimaan ainutlaatuisista luonto- ja liikuntaelämyksistä. Elämysvalikoimaamme kuuluu kaksi retkeä pääkaupunkiseudun luontoalueilla. Kesäkuussa lähdemme reippailemaan Seurasaareen ja syyskuussa järjestämme luontoretken Nuuksiossa. Yrityksille, seuroille, kouluille ja muille ryhmille järjestämme räätälöidyt elämykset tilauksesta.
 
 <div>
-{% include button.html url="http://www.funktum.fi/elamyspaketti/" text="Lue lisää" style="outline" %}
+{% include button.html url="http://www.funktum.fi/elamyspalvelut/" text="Lue lisää" style="outline" %}
 </div>
 
 ---
