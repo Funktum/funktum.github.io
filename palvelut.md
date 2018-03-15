@@ -6,7 +6,6 @@ weight: 1
 published: true
 holvi:
 
-  - 'https://holvi.com/shop/funktum/product/802b37b128eb0c771374d4b36ab13469/'
   - 'https://holvi.com/shop/funktum/product/65392d09ed3179bb5e62731eab980c1a/'
   - 'https://holvi.com/shop/funktum/product/ea5f9fc8412127dd4881657d62fc0afe/'
   - 'https://holvi.com/shop/funktum/product/67571d0b33e093ca4f949ad27a7b89a4/'
@@ -67,7 +66,6 @@ Tule mukaan nauttimaan ainutlaatuisista luonto- ja liikuntaelämyksistä. Elämy
 
 <div>
 {% include button.html url="http://www.funktum.fi/elamyspaketti/" text="Lue lisää" style="outline" %}
-{% include button.html url="https://holvi.com/shop/funktum/product/8b19deb966779f94fc36deefaf6b6fb1/" text="Osta nyt"  %}
 </div>
 
 ---
