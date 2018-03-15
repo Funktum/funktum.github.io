@@ -17,7 +17,7 @@ Tunteja ja pienryhmävalmennusta sinulle, joka haluat parantaa kehonhallintatait
 
 #### Elämyspalvelut
 
-Tule mukaan nauttimaan ainutlaatuisista luonto- ja liikuntaelämyksistä. Elämyspakettiin kuuluu kolme retkeä pääkaupunkiseudun luontoalueilla. Tutustu [tästä](http://www.funktum.fi/elamyspalvelut/).
+Tule mukaan nauttimaan ainutlaatuisista luonto- ja liikuntaelämyksistä. Tarjoamme kahta eri elämysretkeä pääkaupunkiseudun luontoalueilla. Tutustu [tästä](http://www.funktum.fi/elamyspalvelut/).
 
 #### Personal Training -palvelut
 
