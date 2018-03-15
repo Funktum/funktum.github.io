@@ -2,6 +2,7 @@
 layout: page
 permalink: /elamyspaketti/
 title: Elämyspalvelut
+published: true
 ---
 
 ![funktum_yrityselamys.jpg]({{site.baseurl}}/media/funktum_yrityselamys.jpg)
@@ -10,6 +11,8 @@ Tule mukaan nauttimaan ainutlaatuisista luonto- ja liikuntaelämyksistä. Elämy
 
 
 ### Seurasaaren Sporttikävely
+
+![Sportti.jpg]({{site.baseurl}}/media/Sportti.jpg)
 
 Keskikesän aikaan lähdemme reippaalle kävelylle Helsingin Seurasaareen. Lenkin aikana pidämme jumppatuokion ja pääset
 kokeilemaan ponnistusvoimaasi Urho Kekkosen portailla. Lenkki kestää 90 minuuttia johon kuuluu ohjattu kehonpainojumppa. 
@@ -22,6 +25,9 @@ kokeilemaan ponnistusvoimaasi Urho Kekkosen portailla. Lenkki kestää 90 minuut
 
 
 ### Nuuksion syksy
+
+![dsc01773.jpg]({{site.baseurl}}/media/dsc01773.jpg)
+
 
 Syyskuussa, kun metsä on täynnä luonnonantimia, lähdemme luontoretkelle Espoon Nuuksioon. 
 Kansallispuistossa pääset tutustumaan metsän antimiin ja ihailemaan upeita maisemia. 
