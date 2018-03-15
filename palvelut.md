@@ -59,11 +59,11 @@ Varma ja toimiva keino päästä lisäkiloista eroon. Weight control pienryhmäv
 
 ---
 
-## Elämyspaketti
+## Elämyspalvelut
 
 ![funktum_yrityselamys.jpg]({{site.baseurl}}/media/funktum_yrityselamys.jpg)
 
-Tule mukaan nauttimaan ainutlaatuisista luonto- ja liikuntaelämyksistä. Elämyspakettiin kuuluu kolme retkeä pääkaupunkiseudun luontoalueilla. Helmikuussa on luvassa kävely Espoon talvisilla rannoilla, kesäkuussa menemme reippailemaan Seurasaareen, ja syyskuussa järjestämme luontoretken Nuuksiossa. 
+Tule mukaan nauttimaan ainutlaatuisista luonto- ja liikuntaelämyksistä. Elämysvalikoimaamme kuuluu kaksi retkeä pääkaupunkiseudun luontoalueilla. Kesäkuussa lähdemme reippailemaan Seurasaareen ja syyskuussa järjestämme luontoretken Nuuksiossa. 
 
 <div>
 {% include button.html url="http://www.funktum.fi/elamyspaketti/" text="Lue lisää" style="outline" %}
