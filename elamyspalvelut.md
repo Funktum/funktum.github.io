@@ -21,6 +21,8 @@ kokeilemaan ponnistusvoimaasi Urho Kekkosen portailla. Lenkki kestää 90 minuut
 
 **Hinta: 19,90** 
 
+{% include button.html url="https://holvi.com/shop/funktum/product/e43ad96cd5cf96da0d58c81fbe1e1552/" text="Osta nyt!" %} 
+
 
 ### Nuuksion syksy
 
@@ -38,7 +40,7 @@ Retken lopussa istahdamme nuotion äärelle nauttimaan lämmintä juomaa. Retki 
 **Hinta: 19,90** 
 
 
-{% include button.html url="https://holvi.com/shop/funktum/product/8b19deb966779f94fc36deefaf6b6fb1/" text="Osta nyt!" %} 
+{% include button.html url="https://holvi.com/group/Tdt05h+funktum/store/product/6620ca2ab9c7ba3278e695750e1a7787/" text="Osta nyt!" %} 
 
 ---
 
