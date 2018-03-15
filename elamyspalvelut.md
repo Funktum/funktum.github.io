@@ -1,11 +1,9 @@
 ---
 layout: page
-permalink: /elamyspaketti/
+permalink: /elamyspalvelut/
 title: Elämyspalvelut
 published: true
 ---
-
-![funktum_yrityselamys.jpg]({{site.baseurl}}/media/funktum_yrityselamys.jpg)
 
 Tule mukaan nauttimaan ainutlaatuisista luonto- ja liikuntaelämyksistä. Elämysvalikoimaamme kuuluu kaksi tapahtumaa pääkaupunkiseudun luontoalueilla. Kesäkuussa lähdemme reippailemaan Seurasaareen, ja syyskuussa järjestämme luontoretken Nuuksiossa.
 
