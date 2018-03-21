@@ -4,7 +4,7 @@ permalink: /sporttileiri/
 title: Sporttileiri
 published: true
 ---
-
+![]({{site.baseurl}}/media/sporttileiri%20kopio.jpg)
 
 Funktum järjestää Sporttileirin Kartanonkosken urheilupuistossa. Leirillä harjoitamme monipuolista liikuntaa, pallopeleistä viesteihin ja slackline tasapainoiluun. Leiri järjestetään päiväsaikaan 11.6-15.6.18 klo 10:00-15:00. Ruokailu on järjestetty yhteistyössä Ravintola Backaksen kanssa, joka tarjoaa osallistujille terveellisen ja puhtaan lounaan. Ravintola Backas sijaitsee urheilupuiston kupeessa Backaksen kartanoalueella. Järjestämme leirin kahdelle eri ikäryhmälle: 6-9 vuotiaille ja 10-12 vuotiaille.
 
