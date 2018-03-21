@@ -28,6 +28,9 @@ _Leiriviikon menu:_
 
 ### Ohjaajat
 
+![img_20180321_164531 kopio.jpg]({{site.baseurl}}/media/img_20180321_164531 kopio.jpg)
+
+
 #### Ilkka Takkinen
 
 Liikunnanohjaaja, Kuntovalmentaja ja Personal Trainer.
