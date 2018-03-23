@@ -24,7 +24,7 @@ Opi käyttämään verkkokauppaamme/lahjakorttiasi, lue [verkkokauppaoppaamme](h
 
 ![]({{site.baseurl}}/media/sporttileiri%20kopio.jpg)
 
-Järjestämme kesäleirin kartanonkosken urheilupuistossa yhteistyössä Ravintola Backaksen kanssa. Leri on tarkoitettu 6-12 vuotiaille, nuorempi ja vanhempi ryhmä erikseen. Ajankohta on 11-15.6.18, klo 10-15. Tutustu leiriin tarkemmin.
+Järjestämme kesäleirin Kartanonkosken urheilupuistossa yhteistyössä Ravintola Backaksen kanssa. Leri on tarkoitettu 6-12 vuotiaille, nuorempi ja vanhempi ryhmä erikseen. Ajankohta on 11-15.6.18 klo 10-15. Tutustu leiriin tarkemmin!
 
 <div>
 {% include button.html url="http://www.funktum.fi/sporttileiri/" text="Lue lisää" style="outline" %}
