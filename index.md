@@ -11,6 +11,10 @@ weight: 0
 
 ## Palvelut
 
+#### Sporttileiri
+
+Funktum järjestää Sporttileirin Kartanonkosken urheilupuistossa 6-12 vuotiaille. Leirillä harjoitamme monipuolista liikuntaa, pallopeleistä viesteihin ja slackline tasapainoiluun. 
+
 #### Body Control, HIIT IT ja Weight Control -tunnit
 
 Tunteja ja pienryhmävalmennusta sinulle, joka haluat parantaa kehonhallintataitojasi, treenata korkealla intensiteetillä tai päästä lisäkiloista eroon.
