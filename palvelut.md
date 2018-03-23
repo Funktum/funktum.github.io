@@ -5,7 +5,6 @@ permalink: /palvelut/
 weight: 1
 published: true
 holvi:
-
   - 'https://holvi.com/shop/funktum/product/65392d09ed3179bb5e62731eab980c1a/'
   - 'https://holvi.com/shop/funktum/product/ea5f9fc8412127dd4881657d62fc0afe/'
   - 'https://holvi.com/shop/funktum/product/67571d0b33e093ca4f949ad27a7b89a4/'
@@ -22,6 +21,8 @@ Opi käyttämään verkkokauppaamme/lahjakorttiasi, lue [verkkokauppaoppaamme](h
 ---
 
 ## Sporttileiri
+
+![]({{site.baseurl}}/media/sporttileiri%20kopio.jpg)
 
 Järjestämme kesäleirin kartanonkosken urheilupuistossa yhteistyössä Ravintola Backaksen kanssa. Leri on tarkoitettu 6-12 vuotiaille, nuorempi ja vanhempi ryhmä erikseen. Ajankohta on 11-15.6.18, klo 10-15. Tutustu leiriin tarkemmin.
 
