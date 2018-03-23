@@ -21,6 +21,14 @@ Opi käyttämään verkkokauppaamme/lahjakorttiasi, lue [verkkokauppaoppaamme](h
 
 ---
 
+## Sporttileiri
+
+Järjestämme kesäleirin kartanonkosken urheilupuistossa yhteistyössä Ravintola Backaksen kanssa. Leri on tarkoitettu 6-12 vuotiaille, nuorempi ja vanhempi ryhmä erikseen. Ajankohta on 11-15.6.18, klo 10-15. Tutustu leiriin tarkemmin.
+
+<div>
+{% include button.html url="http://www.funktum.fi/bodycontrol/" text="Lue lisää" style="outline" %}
+</div>
+
 ## Body Control -tunnit
 
 ![Body Control](/media/body-control.jpg)
