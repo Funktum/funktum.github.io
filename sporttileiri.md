@@ -43,7 +43,7 @@ Lapsia olen ohjannut Lapin Urheiluopistolla liikunnnanohjaajan työtehtävissä 
 Lasten kanssa työskentely on välillä erittäin haastavaa, mutta sitäkin palkitsevampaa. 
 
 #### Sampsa Visuri
-Yrittäjä, liikuntaneuvoja sekä Personal Trainer. Ihmisten auttaminen on minulle tärkeää.  Olen harrastanut monipuolista liikuntaa niin kauan kuin muistan. Tärkeimpinä harrastuksina ovat olleet yleisurheilu, parkour, telinevoimistelu, rullalautailu, ultimate ja kalliokiipeily. Kalliokiipeilyä olen jatkunut tähän päivään asti. 
+Yrittäjä, liikuntaneuvoja sekä Personal Trainer. Ihmisten auttaminen on minulle tärkeää.  Olen harrastanut monipuolista liikuntaa niin kauan kuin muistan. Tärkeimpinä harrastuksina ovat olleet yleisurheilu, parkour, telinevoimistelu, rullalautailu, ultimate ja kalliokiipeily. Kalliokiipeilyä olen jatkaunut tähän päivään asti. 
 
 Lasten kanssa olen työskennellyt aktiivisesti melko pitkään. Olen ohjannut kesäleirejä (vuodesta 2009) ja kerhoja (vuodesta 2015). Lasten kanssa työskentely on mukavaa ja onnistumisen riemua on hieno seurata sivusta.
 
