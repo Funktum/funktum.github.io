@@ -30,6 +30,8 @@ Järjestämme kesäleirin Kartanonkosken urheilupuistossa yhteistyössä Ravinto
 {% include button.html url="http://www.funktum.fi/sporttileiri/" text="Lue lisää" style="outline" %}
 </div>
 
+---
+
 ## Body Control -tunnit
 
 ![Body Control](/media/body-control.jpg)
