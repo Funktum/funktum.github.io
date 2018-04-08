@@ -28,7 +28,7 @@ rakentuu heikolle pohjalle, keho ei kestä kovaa rasitusta ja ylikunnon riskit s
 
 #### Näin selvität peruskuntosi
 
-Voit kokeilla peruskunnon tasoasi selvittämällä ensin sykealueesi [linkki aloittelijan lenkkiopas].
+Voit kokeilla peruskunnon tasoasi selvittämällä ensin [sykealueesi](http://www.funktum.fi/blog/2017/11/23/aloittelijan-lenkkiopas/).
 Sanotaan vaikka, että peruskuntoalueesi on 113-137 sydämenlyöntiä minuutissa. Lähde
 lenkkipolulle kävelemään ja seuraa sykettäsi.
 
