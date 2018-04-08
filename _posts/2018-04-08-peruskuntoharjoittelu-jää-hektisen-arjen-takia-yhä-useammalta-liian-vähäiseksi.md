@@ -1,8 +1,9 @@
 ---
 layout: post
-published: true | false
+published: true
 title: Peruskuntoharjoittelu jää hektisen arjen takia yhä useammalta liian vähäiseksi
 ---
+![peruskunto blogi kuva.jpg]({{site.baseurl}}/media/peruskunto blogi kuva.jpg)
 
 
 Aamulla töihin, töistä kuntosalille, kuntosalilla 45 minuutin nopea treeni, autolla kauppaan,
