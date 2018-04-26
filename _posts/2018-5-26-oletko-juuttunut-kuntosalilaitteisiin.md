@@ -4,7 +4,7 @@ published: true
 title: Oletko juuttunut kuntosalilaitteisiin?
 ---
 
-![]({{site.baseurl}}/media/Kuntosalilaite.jpg)![Kuntosalilaite.jpg]({{site.baseurl}}/media/Kuntosalilaite.jpg)
+![Kuntosalilaite.jpg]({{site.baseurl}}/media/Kuntosalilaite.jpg)
 
 
 Kuntosalitreenaaminen on kehittynyt parempaan suuntaan vuosien varrella, mutta vielä on
