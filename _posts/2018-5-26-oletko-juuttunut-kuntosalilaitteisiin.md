@@ -1,9 +1,10 @@
 ---
 layout: post
-published: true 
+published: true
 title: Oletko juuttunut kuntosalilaitteisiin?
 ---
 
+![]({{site.baseurl}}/media/Webp.net-compress-image%20(5).jpg)
 
 Kuntosalitreenaaminen on kehittynyt parempaan suuntaan vuosien varrella, mutta vielä on
 parannettavaa. Salilla työskennellessä̈näen edelleen paljon ihmisiä, jotka kiertelevät lähes
@@ -72,4 +73,4 @@ suositukseni on lähteä liikkeelle perusliikkeistä. Tutustu ihmisen perusliikk
 
 Jos kaipaat neuvoa ja rohkaisua kokonaisvaltaisempaan liikkumiseen, ole yhteydessä
 meihin. Tarjoamme blogitekstin lukijoille ilmaisen konsultaatiotapaamisen, jossa
-perehdytään aiheisiin tarkemmin. [Ota yhteyttä!](mailto:sampsa@funktum.fi) 
+perehdytään aiheisiin tarkemmin. [Ota yhteyttä!](mailto:sampsa@funktum.fi)
