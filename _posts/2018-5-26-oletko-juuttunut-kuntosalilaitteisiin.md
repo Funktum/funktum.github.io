@@ -53,8 +53,8 @@ Kun uskallat irtautua tutuista kuntosalilaitteista, kehität:
 
 Kuntosalilaitteet auttavat sinua: 
 
-- helpompi eristää ja aktivoida tiettyjä lihasryhmiä
-- helpompi suorittaa liikkeet turvallisesti
+- eristämään ja aktivoimaan tiettyjä lihasryhmiä
+- suorittamaan liikkeet turvallisesti
 
 #### Miksi laitteissa sitten harjoitellaan niin paljon?
 
