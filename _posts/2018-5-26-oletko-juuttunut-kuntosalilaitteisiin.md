@@ -8,7 +8,7 @@ title: Oletko juuttunut kuntosalilaitteisiin?
 
 
 Kuntosalitreenaaminen on kehittynyt parempaan suuntaan vuosien varrella, mutta vielä on
-parannettavaa. Salilla työskennellessä̈näen edelleen paljon ihmisiä, jotka kiertelevät lähes
+parannettavaa. Salilla työskennellessä näen edelleen paljon ihmisiä, jotka kiertelevät lähes
 pelkästään eri laitteissa. Laitteet toimivat tiettyihin tarkoituksiin hyvin, mutta asiakkaiden
 kanssa jutellessani huomaan, että monet haluavat jotain ihan muuta kuin mitä laitteet
 tarjoavat. Kuulutko sinä tähän ryhmään?
