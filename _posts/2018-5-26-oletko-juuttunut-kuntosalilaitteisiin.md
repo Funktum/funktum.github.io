@@ -68,7 +68,7 @@ liikkeitä pitäisi oikeaoppisesti tehdä. Se ei ole aina helppoa, varsinkin jos
 liikunnallista taustaa.
 
 Netistä löydät paljon hyviä vinkkejä eri liikkeiden oikeaoppiseen tekemiseen. Minun
-suositukseni on lähteä liikkeelle perusliikkeistä. Tutustu ihmisen perusliikkeisiin [tästä].
+suositukseni on lähteä liikkeelle perusliikkeistä. Tutustu ihmisen perusliikkeisiin [tästä](http://www.funktum.fi/blog/2018/03/09/hallitsetko-kehon-seitsem%C3%A4n-perusliikett%C3%A4/).
 
 #### Tarvitsetko neuvoa?
 
