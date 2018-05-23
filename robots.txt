@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /media/
+Sitemap: http://www.funktum.fi/sitemap.xml

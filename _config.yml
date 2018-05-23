@@ -92,3 +92,4 @@ exclude:
 # Plugins to use
 plugins:
   - jekyll-paginate
+  - jekyll-sitemap
