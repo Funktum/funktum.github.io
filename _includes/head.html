@@ -1,4 +1,5 @@
 {% include page_image_src.html %}
+{% include page_description.html %}
 
 <head>
   <meta charset="utf-8">
@@ -10,15 +11,11 @@
   {% endif %}
 
   <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.name }}</title>
-  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="description" content="{{ page_description }}">
 
   <meta property="og:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.name }}">
   <meta property="og:image" content="{{ site.url }}{% if page.hero_image %}{{ page.hero_image }}{% elsif page_image_src %}{{ page_image_src }}{% else %}{{ site.share_image }}{% endif %}">
-  {% if page.is_index %}
-    <meta property="og:description" content="{{ site.description }}">
-  {% else %}
-    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.content | markdownify | remove: '<img>' | strip_html | truncate: 160 }}{% endif %}">
-  {% endif %}
+  <meta property="og:description" content="{{ page_description }}">
   <meta property="og:site_name" content="Funktum">
   <meta property="og:url" content="{{ site.url | append: page.url }}">
   <meta property="og:type" content="website">

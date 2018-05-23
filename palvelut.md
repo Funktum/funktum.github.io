@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Palvelut
+description: Tule nauttimaan liikkumisen ilosta. Tarjoamme henkilökohtaista valmennusta, ryhmäliikuntatunteja, elämyspalveluita ja paljon muuta.
 permalink: /palvelut/
 weight: 1
 published: true
@@ -10,11 +11,11 @@ holvi:
   - 'https://holvi.com/shop/funktum/product/67571d0b33e093ca4f949ad27a7b89a4/'
 ---
 
-## Osta lahjaksi lahjakortti! 
+## Osta lahjaksi lahjakortti!
 
 Jätä turha krääsä hyllyyn ja osta ystävälle liikunta- tai elämyslahjakortti. Lahjakortti on käytettävissä kaikkiin Funktumin palveluihin (lukuunottamatta elämyslahjakorttia). Lahjakortin voit helposti ostaa [verkkokaupastamme](https://holvi.com/shop/funktum/).
 
-Opi käyttämään verkkokauppaamme/lahjakorttiasi, lue [verkkokauppaoppaamme](http://www.funktum.fi/verkkokauppaopas). 
+Opi käyttämään verkkokauppaamme/lahjakorttiasi, lue [verkkokauppaoppaamme](http://www.funktum.fi/verkkokauppaopas).
 
 {% include holvi_iframe.html list=page.holvi %}
 
@@ -61,7 +62,7 @@ Erittäin tehokas treeni tuo sinulle voimaa ja kestävyyttä. HIIT IT tunneilla 
 
 ![Weight Control](/media/weight-control.jpg)
 
-Varma ja toimiva keino päästä lisäkiloista eroon. Weight control pienryhmävalmennukseen olemme yhdistäneet yhdessä tekemisen ja yksilöllisyyden. Haastattelemme kaikkia erikseen ja otamme yksilölliset tarpeet huomioon. Ryhmän koko voi vaihdella yhdestä viiteen henkilöön. Pienen ryhmäkoon ansiosta voimme auttaa kaikkia henkilökohtaisesti samalla kun treenaamme yhdessä. Tule mukaan ja onnistu muuttamaan elämääsi liikunnallisempaan suuntaan. 
+Varma ja toimiva keino päästä lisäkiloista eroon. Weight control pienryhmävalmennukseen olemme yhdistäneet yhdessä tekemisen ja yksilöllisyyden. Haastattelemme kaikkia erikseen ja otamme yksilölliset tarpeet huomioon. Ryhmän koko voi vaihdella yhdestä viiteen henkilöön. Pienen ryhmäkoon ansiosta voimme auttaa kaikkia henkilökohtaisesti samalla kun treenaamme yhdessä. Tule mukaan ja onnistu muuttamaan elämääsi liikunnallisempaan suuntaan.
 
 <div>
 {% include button.html url="http://www.funktum.fi/weightcontrol/" text="Lue lisää" style="outline" %}
@@ -110,7 +111,7 @@ Parkour on hyvä ja monipuolinen laji. Parkourkerho tuo lapselle uusia motorisia
 
 #### Pallokerho
 
-Pallokerhossa lapset pääsevät kokeilemaan erilaisia pelejä. Haluamme antaa osallistujille mahdollisuuden kokeilla erilaisia, epätavallisempia maila- ja pallopelejä. Parina esimerkkinä: kin-ballin, speedmintonin ja kaupunkitaistelu.  
+Pallokerhossa lapset pääsevät kokeilemaan erilaisia pelejä. Haluamme antaa osallistujille mahdollisuuden kokeilla erilaisia, epätavallisempia maila- ja pallopelejä. Parina esimerkkinä: kin-ballin, speedmintonin ja kaupunkitaistelu.
 
 {% include button.html email=site.email style="outline" %}
 

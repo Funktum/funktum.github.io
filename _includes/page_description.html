@@ -1,0 +1,9 @@
+{% if page.is_index %}
+  {% assign page_description = site.description %}
+{% else %}
+  {% if page.description %}
+    {% assign page_description = page.description %}
+  {% else %}
+    {% assign page_description = page.content | markdownify | remove: '<img>' | strip_html | truncate: 160 %}
+  {% endif %}
+{% endif %}
