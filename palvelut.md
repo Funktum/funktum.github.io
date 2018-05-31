@@ -5,33 +5,9 @@ description: Tule nauttimaan liikkumisen ilosta. Tarjoamme henkilökohtaista val
 permalink: /palvelut/
 weight: 1
 published: true
-holvi:
-  - 'https://holvi.com/shop/funktum/product/65392d09ed3179bb5e62731eab980c1a/'
-  - 'https://holvi.com/shop/funktum/product/ea5f9fc8412127dd4881657d62fc0afe/'
-  - 'https://holvi.com/shop/funktum/product/67571d0b33e093ca4f949ad27a7b89a4/'
----
-
-## Osta lahjaksi lahjakortti!
-
-Jätä turha krääsä hyllyyn ja osta ystävälle liikunta- tai elämyslahjakortti. Lahjakortti on käytettävissä kaikkiin Funktumin palveluihin (lukuunottamatta elämyslahjakorttia). Lahjakortin voit helposti ostaa [verkkokaupastamme](https://holvi.com/shop/funktum/).
-
-Opi käyttämään verkkokauppaamme/lahjakorttiasi, lue [verkkokauppaoppaamme](http://www.funktum.fi/verkkokauppaopas).
-
-{% include holvi_iframe.html list=page.holvi %}
 
 ---
 
-## Sporttileiri
-
-![]({{site.baseurl}}/media/sporttileiri%20kopio.jpg)
-
-Järjestämme kesäleirin Kartanonkosken urheilupuistossa yhteistyössä Ravintola Backaksen kanssa. Leiri on tarkoitettu 6-12 vuotiaille, nuorempi ja vanhempi ryhmä erikseen. Ajankohta on 11-15.6.18 klo 10-15. Tutustu leiriin tarkemmin!
-
-<div>
-{% include button.html url="http://www.funktum.fi/sporttileiri/" text="Lue lisää" style="outline" %}
-</div>
-
----
 
 ## Body Control -tunnit
 
@@ -70,17 +46,6 @@ Varma ja toimiva keino päästä lisäkiloista eroon. Weight control pienryhmäv
 
 ---
 
-## Elämyspalvelut
-
-![funktum_yrityselamys.jpg]({{site.baseurl}}/media/funktum_yrityselamys.jpg)
-
-Tule mukaan nauttimaan ainutlaatuisista luonto- ja liikuntaelämyksistä. Elämysvalikoimaamme kuuluu kaksi retkeä pääkaupunkiseudun luontoalueilla. Kesäkuussa lähdemme reippailemaan Seurasaareen ja syyskuussa järjestämme luontoretken Nuuksiossa. Yrityksille, seuroille, kouluille ja muille ryhmille järjestämme räätälöidyt elämykset tilauksesta.
-
-<div>
-{% include button.html url="http://www.funktum.fi/elamyspalvelut/" text="Lue lisää" style="outline" %}
-</div>
-
----
 
 ## Personal Training -palvelut
 
