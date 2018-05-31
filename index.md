@@ -16,9 +16,6 @@ weight: 0
 
 Tunteja ja pienryhmävalmennusta sinulle, joka haluat parantaa kehonhallintataitojasi, treenata korkealla intensiteetillä tai päästä lisäkiloista eroon.
 
-#### Elämyspalvelut
-
-Tule mukaan nauttimaan ainutlaatuisista luonto- ja liikuntaelämyksistä. Tarjoamme kahta eri elämysretkeä pääkaupunkiseudun luontoalueilla. Tutustu [tästä](http://www.funktum.fi/elamyspalvelut/).
 
 #### Personal Training -palvelut
 
