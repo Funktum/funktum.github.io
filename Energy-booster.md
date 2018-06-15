@@ -23,6 +23,8 @@ Paitsi että palvelun avulla säästyy mitä luultavammin sairaspoissaolorahaa, 
 
 Kun ihmiset pääsevät tekemääm konkreettisia toimia parempaa tulevaisuutta kohti, luo tämä paremman yhteenkuulumisen tunteen ja tiiviimpää tiimityöskentelyä. Pyrimme siis palvelulla nostamaan me - henkeä. Palvelu vaikuttaa työn ulkopuolella!
 
+---
+
 ### Miten Energy Booster nostaa tuottavuutta?
 
 Lähestymme tuottavuuden lisäämistä perusasioista - liikkeen, mielen ja ravinnon kautta. Näillä asioilla pystymme tehostamaan jaksamista, fokusta ja hyvää oloa pitkällä aikavälillä. Nämä eivät korvaa, usein työn ulkopuolella tapahtuvaa, liikuntaa, syömistä ja unta, mutta on hyvä lisä ja vaikuttaa usein myös siihen miten vapaa-ajalla panostaa hyvinvointiin.
