@@ -33,7 +33,7 @@ Lähestymme tuottavuuden lisäämistä perusasioista - liikkeen, mielen ja ravin
 
 Palvelu alkaa liikunnalla joka nostaa sykettä ja herättää kehon. Liikunta, varsinkin päivittäinen liikunta pitää energiatasoja 
 korkealla pitkällä aikavälillä. Liikunta ehkäisee monia sairauksia ja vaivoja. Energiatasot nousevat kun veri alkaa
-kiertämään kehossa, ja happea alkaa virrata verenkierron mukana aivoihin. Liikunta parantaa kognitiivisia kykyjä ja nostaa dopamiinitasoja.
+kiertämään kehossa, ja happea alkaa virrata verenkierron mukana aivoihin. Liikunta parantaa kognitiivisia kykyjä ja nostaa hyvän olon hormoonitasoja.
 
 - Nostaa energiatasoa
 - Pitää kehon kunnossa
