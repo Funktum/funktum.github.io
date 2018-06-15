@@ -9,13 +9,12 @@ liikunnasta, meditaatioharjoituksista ja ravinteikkaasta smoothiesta.
 
 ---
 
-Tulemme työpakallenne tai toimistoonne, teidän ei tarvitse lähteä minnekkään!
+_Tulemme työpakallenne tai toimistoonne, teidän ei tarvitse lähteä minnekkään!_
 
 ---
 
 ### Miten Energy Booster nostaa tuottavuutta?
 
----
 
 #### Liikunta
 
