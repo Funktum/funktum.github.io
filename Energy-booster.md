@@ -2,7 +2,10 @@
 layout: page
 title: Energy Booster -yrityksille
 permalink: /energybooster/
+published: true
 ---
+
+![]({{site.baseurl}}/media/Webp.net-compress-image%20(5).jpg)
 
 Energy Booster on kehitetty nostamaan työtiimin energiatasoja ja sitä kautta parantamaan tiimin tuottavuutta. Palvelu koostuu 
 liikunnasta, meditaatioharjoituksista ja ravinteikkaasta smoothiesta. 
