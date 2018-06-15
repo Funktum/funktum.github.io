@@ -9,11 +9,7 @@ published: true
 
 
 Energy Booster on kehitetty nostamaan työtiimin energiatasoja ja sitä kautta parantamaan tiimin tuottavuutta. Palvelu koostuu 
-liikunnasta, meditaatioharjoituksista ja ravinteikkaasta smoothiesta. 
-
----
-
-_Tulemme työpakallenne tai toimistoonne, teidän ei tarvitse lähteä minnekkään!_
+liikunnasta, meditaatioharjoituksista ja ravinteikkaasta smoothiesta. Tulemme työpaikallenne, joten teidän ei tarvitse lähteä minnekkään. Räätälöimme myös teille sopivan kokonaisuuden! 
 
 ---
 
@@ -59,8 +55,7 @@ Tarjoamme joka päivälle erilaisen, itsetehdyn smoothien. Pitää kuitenkin mui
 
 Monet vastaukset haasteisiin liittyvät usein perusasioihin: uneen, ravnitoon ja liikuntaan. Energy Booster -palvelulla voimme 
 vaikuttaa hieman kaikkiin. Se on sanomattakin selvää ettei lyhyt meditaatio korvaa liian vähäistä yöunta, tai smoothie kunnon 
-ateriaa, mutta tämä pieni lisä saattaa olla juuri se, mitä työtiimi tarvitsee, jotta voisitte nostaa tasoa. Palvelun pituus on 25 min
-ja olemme keskittyneet tekemään harjoitteet mahdollisimman tehokkaasti. 
+ateriaa, mutta tämä pieni lisä saattaa olla juuri se, mitä työtiimi tarvitsee, jotta voisitte nostaa tasoa. Palvelun pituus on 25 min ja olemme keskittyneet tekemään harjoitteet mahdollisimman tehokkaasti. 
 
 ---
 
@@ -69,13 +64,20 @@ ja olemme keskittyneet tekemään harjoitteet mahdollisimman tehokkaasti.
 ---
 
 
-Tarjoamme uusille asiakkaille mahdollisuuden kokeilla palvelua viikon ajan ilmaiseksi! Voitte ensimmäisen viikon jälkeen arvioida,
-että onko palvelu teille sopiva vai ei. Tulemme teidän luokse joka aamu nostamaan energiatasoanne. Uskomme että palvelusta on 
-hyötyä, ainoastaan jos toistaa yllä mainitut asiat tarpeeksi usein. 
+Tarjoamme uusille asiakkaille mahdollisuuden kokeilla palvelua viikon ajan ilmaiseksi! Voitte ensimmäisen viikon jälkeen arvioida, että onko palvelu teille sopiva vai ei. Tulemme teidän luokse joka aamu nostamaan energiatasoanne. Uskomme että palvelusta on hyötyä, ainoastaan jos yllä mainitut asiat toistetaan tarpeeksi usein. 
 
 ---
 
 #### _Ensimmäinen viikko veloituksetta_
+
+---
+
+Ne asiat jotka teet aamulla, määrittävät sen miten loppupäivä sujuu. Aamulla kannattaa siis panostaa juuri näihin asioihin! 
+Tiedämme että rutiineista kiinnipitäminen on haasteellista ja vaatii energiaa. Ulkoista tämä taakka siis meille - teidän ei tarvitse käyttää energiaa ohjelman suunnitteluun ja ylläpitämiseen!
+
+---
+
+#### _Ne asiat jotka teet aamulla, määrittävät sen miten loppupäivä sujuu_
 
 ---
 
