@@ -7,9 +7,15 @@ permalink: /energybooster/
 Energy Booster on kehitetty nostamaan työtiimin energiatasoja ja sitä kautta parantamaan tiimin tuottavuutta. Palvelu koostuu 
 liikunnasta, meditaatioharjoituksista ja ravinteikkaasta smoothiesta. 
 
+---
+
 Tulemme työpakallenne tai toimistoonne, teidän ei tarvitse lähteä minnekkään!
 
+---
+
 ### Miten Energy Booster nostaa tuottavuutta?
+
+---
 
 #### Liikunta
 
