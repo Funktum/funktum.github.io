@@ -81,3 +81,7 @@ Tilaa meidät nostamaan tiiminne energiatasoa, tuottavuutta ja sitämyötä para
 {% include button.html email=site.email %}
 </div>
 
+---
+
+
+{% include contact_details.html button="true" %}
