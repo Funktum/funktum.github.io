@@ -9,12 +9,23 @@ published: true
 
 
 Energy Booster on kehitetty nostamaan työtiimin energiatasoja ja sitä kautta parantamaan tiimin tuottavuutta. Palvelu koostuu 
-liikunnasta, meditaatioharjoituksista ja ravinteikkaasta smoothiesta. Tulemme työpaikallenne, joten teidän ei tarvitse lähteä minnekkään. Räätälöimme myös teille sopivan kokonaisuuden! 
+liikunnasta, meditaatioharjoituksista ja ravinteikkaasta smoothiesta. Tulemme työpaikallenne, joten teidän ei tarvitse lähteä minnekkään. Räätälöimme myös juuri teille sopivan kokonaisuuden! 
+
+Autamme intohimoisesti ihmisiä voimaan paremmin ja parantamaan heidän elämänlaatua. Tämä on pohja meidän työlle. Mietimme jatkuvasti; miten voimme tehdä asioita paremmin ja tehokkaammin, jotta asiakkaamme hyötyisi mahdollisimma paljon.  
 
 ---
 
+### Miten Energy Booster hyödyttää yritystä?
+
+Sairastelevat työntekijät tulevat yritykselle kalliiksi. Yksi poissaolopäivä maksaa keskimäärin 300 - 350€. Jos satsaa päivittäin terveyteen ja hyvinvointiin, vaikka vain 25 min/päivä, vähentää tämä mitä luultavammin sairastelua. Eli jos palvelun avulla saa vähennettyä sairaspoissaoloja 10% vuodessa, tarkoittaa tämä 20 hengen yrityksessä jonka työntekijöiden bruttopalkka on 3000€, noin 10 000€ säästöjä.
+
+Paitsi että palvelun avulla säästyy mitä luultavammin sairaspoissaolorahaa, tuo tämä lisää energiaa tiimiin joka johtaa tuottavampaan tekemiseen ja lopulta parempiin tuloksiin. 
+
+Kun ihmiset pääsevät tekemääm konkreettisia toimia parempaa tulevaisuutta kohti, luo tämä paremman yhteenkuulumisen tunteen ja tiiviimpää tiimityöskentelyä. Pyrimme siis palvelulla nostamaan me - henkeä. 
+
 ### Miten Energy Booster nostaa tuottavuutta?
 
+Lähestymme tuottavuuden lisäämistä perusasioista - liikkeen, mielen ja ravinnon kautta. Näillä asioilla pystymme tehostamaan jaksamista, fokusta ja hyvää oloa pitkällä aikavälillä. Nämä eivät korvaa, usein työn ulkopuolella tapahtuvaa liikuntaa, syömistä ja unta, mutta on hyvä lisä ja vaikuttaa usein myös siihem miten vapaa-ajalla panostaa hyvinvointiin.
 
 #### Liikunta
 
