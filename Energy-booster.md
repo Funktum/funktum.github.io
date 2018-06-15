@@ -17,11 +17,11 @@ Autamme intohimoisesti ihmisiä voimaan paremmin ja parantamaan heidän elämän
 
 ### Miten Energy Booster hyödyttää yritystä?
 
-Sairastelevat työntekijät tulevat yritykselle kalliiksi. Yksi poissaolopäivä maksaa keskimäärin 300 - 350€. Jos satsaa päivittäin terveyteen ja hyvinvointiin, vaikka vain 25 min/päivä, vähentää tämä mitä luultavammin sairastelua. Eli jos palvelun avulla saa vähennettyä sairaspoissaoloja 10% vuodessa, tarkoittaa tämä 20 hengen yrityksessä jonka työntekijöiden bruttopalkka on 3000€, noin 10 000€ säästöjä.
+Sairastelevat työntekijät tulevat yritykselle kalliiksi. Yksi poissaolopäivä maksaa keskimäärin 300 - 350€. Jos satsaa päivittäin terveyteen ja hyvinvointiin, vaikka vain 25 min/päivä (melkein 3h/viikko), vähentää tämä mitä luultavammin sairastelua. Eli jos palvelun avulla saa vähennettyä sairaspoissaoloja 10% vuodessa, tarkoittaa tämä 20 hengen yrityksessä jonka työntekijöiden bruttopalkka on 3000€, noin 10 000€ säästöjä.
 
 Paitsi että palvelun avulla säästyy mitä luultavammin sairaspoissaolorahaa, tuo tämä lisää energiaa tiimiin joka johtaa tuottavampaan tekemiseen ja lopulta parempiin tuloksiin. 
 
-Kun ihmiset pääsevät tekemääm konkreettisia toimia parempaa tulevaisuutta kohti, luo tämä paremman yhteenkuulumisen tunteen ja tiiviimpää tiimityöskentelyä. Pyrimme siis palvelulla nostamaan me - henkeä. 
+Kun ihmiset pääsevät tekemääm konkreettisia toimia parempaa tulevaisuutta kohti, luo tämä paremman yhteenkuulumisen tunteen ja tiiviimpää tiimityöskentelyä. Pyrimme siis palvelulla nostamaan me - henkeä. Palvelu vaikuttaa työn ulkopuolella!
 
 ### Miten Energy Booster nostaa tuottavuutta?
 
