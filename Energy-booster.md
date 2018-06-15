@@ -9,7 +9,7 @@ published: true
 
 
 Energy Booster on kehitetty nostamaan työtiimin energiatasoja ja sitä kautta parantamaan tiimin tuottavuutta. Palvelu koostuu 
-liikunnasta, meditaatioharjoituksista ja ravinteikkaasta smoothiesta. Tulemme työpaikallenne, joten teidän ei tarvitse lähteä minnekkään. Räätälöimme myös juuri teille sopivan kokonaisuuden! 
+liikunnasta, meditaatioharjoituksista ja ravinteikkaasta smoothiesta. Nämä asiat toistetaan aamuisin jokaisena työpäivänä. Tulemme työpaikallenne, joten teidän ei tarvitse lähteä minnekkään. Räätälöimme myös juuri teille sopivan kokonaisuuden! 
 
 Autamme intohimoisesti ihmisiä voimaan paremmin ja parantamaan heidän elämänlaatua. Tämä on pohja meidän työlle. Mietimme jatkuvasti; miten voimme tehdä asioita paremmin ja tehokkaammin, jotta asiakkaamme hyötyisivät mahdollisimma paljon.  
 
