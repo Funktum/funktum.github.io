@@ -94,7 +94,7 @@ Tiedämme että rutiineista kiinnipitäminen on haasteellista ja vaatii energiaa
 
 ---
 
-Tilaa meidät nostamaan tiiminne energiatasoa, tuottavuutta ja sitämyötä parantamaan tuloksianne!
+Tilaa meidät nostamaan tiiminne energiatasoa, tuottavuutta ja sitämyötä parantamaan tuloksianne! Palvelemme teitä pääkaupunkiseudulla ja palvelu kannattaa sijoittaa klo 06:00 - 10:00 välille. Ottakaa yhteyttä niin voimme keskustella palvelusta lisää teidän tarpeiden näkökulmasta.
 
 <div>
 {% include button.html email=site.email %}
