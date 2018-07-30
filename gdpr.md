@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: /gdpr/
-title: Rekisteri- ja tietosuojaseloste 
 ---
 
 Tämä on Tmi Funktum:in henkilötietolain (10 ja 24§) ja EU:n yleisen tietosuoja-asetuksen (GDPR) mukainen
