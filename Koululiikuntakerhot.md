@@ -12,6 +12,7 @@ paremman huomisen.
 
 Monipuolinen kerhovalikoimamme, osaavat liikunnanohjaajat ja jatkuva halu kehittyä takaa hyvän kerhokokonaisuuden. 
 
+---
 
 #### Parkour-kerho
 
@@ -21,6 +22,8 @@ edistää ketteryyttä. Laji toimii hyvänä oheisharrastuksena monelle muulle l
 <div>
 {% include button.html url="" text="Lue lisää" style="outline" %}
 </div>
+
+---
 
 #### Pallopeli-MIX 
 
@@ -32,6 +35,8 @@ monipuolisen kuvan pallopelimahdollisuuksista ja sopii hyvin kaikille joukkuepel
 {% include button.html url="" text="Lue lisää" style="outline" %}
 </div>
 
+---
+
 #### Tanssiklubi
 
 Tanssiklubissa tanssitaan hip-hopin, popin ja showtanssin tahdissa. 
@@ -39,6 +44,8 @@ Tanssiklubissa tanssitaan hip-hopin, popin ja showtanssin tahdissa.
 <div>
 {% include button.html url="" text="Lue lisää" style="outline" %}
 </div>
+
+---
 
 #### Kuntosalin perusteet -kurssi
 
