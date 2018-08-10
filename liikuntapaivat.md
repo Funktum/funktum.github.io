@@ -9,12 +9,11 @@ Toimimme pääsääntöisesti uudellamaalla. Tarjoamme monipuolisia liikunta-akt
 
 ---
 
-### Tuomme liikunnan luoksenne. Hoidamme kaiken varusteista ammattitaitoiseen liikunnanohjaukseen.
+## Tuomme liikunnan luoksenne. Hoidamme kaiken varusteista ammattitaitoiseen liikunnanohjaukseen.
 
 ---
 
-Voitte itse valita aktiviteetit laajasta valikoimastamme. Mikäli ette ole varmoja aktiviteettien sopivuudesta, tarjoamme neuvontaa
-puhelimitse tai sähköpostitse. Alla nopea esittely aktiviteeteista.
+Voitte itse valita aktiviteetit laajasta valikoimastamme. Mikäli ette ole varmoja aktiviteettien sopivuudesta, autamme teitä mielellämme puhelimitse tai sähköpostitse. Alla nopea esittely aktiviteeteista.
 
 ---
 
@@ -53,5 +52,5 @@ käytetään suurta, pehmeää sumopukua, joten kaatuminen ei satu!
 
 ---
 
-#### 
+
 
