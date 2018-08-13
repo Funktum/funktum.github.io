@@ -1,11 +1,9 @@
+{% assign person = include.person %}
 <div class="contact-details">
-  <img src="/assets/img/sampsa.jpg" alt="{{ site.full_name }}" class="photo"/>
+  <img src="/assets/img/{{ person }}.jpg" alt="{{ site.[person].full_name }}" class="photo"/>
   <div class="info">
-    <strong>{{ site.full_name }}</strong>
-    <a href="tel:{{ site.phone }}">{{ site.phone_formatted }}</a>
-    <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+    <strong>{{ site.[person].full_name }}</strong>
+    <a href="tel:{{ site.[person].phone }}">{{ site.[person].phone_formatted }}</a>
+    <a href="mailto:{{ site.[person].email }}">{{ site.[person].email }}</a>
   </div>
-  {% if include.button %}
-  <a href="{{ site.baseurl }}/sampsavisuri/" class="btn btn-outline">Lue minun tarinani</a>
-  {% endif %}
 </div>

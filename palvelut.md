@@ -3,7 +3,7 @@ layout: default
 title: Palvelut
 description: Tule nauttimaan liikkumisen ilosta. Tarjoamme henkilökohtaista valmennusta, ryhmäliikuntatunteja, elämyspalveluita ja paljon muuta.
 permalink: /palvelut/
-weight: 1
+weight: 2
 published: true
 
 ---
@@ -62,7 +62,7 @@ Personal Training palvelu on tarkoitettu sinulle, joka haluat päästä harjoitt
 
 _Kaikkiin 5-50 tapaamisen paketteihin sisältyy treeniohjelma(t), jaksotus, ravintoneuvonta ja treenin seuranta._
 
-{% include button.html email=site.email style="outline" %}
+{% include button.html email=site.sampsa.email style="outline" %}
 
 ---
 
@@ -78,7 +78,7 @@ Parkour on hyvä ja monipuolinen laji. Parkourkerho tuo lapselle uusia motorisia
 
 Pallokerhossa lapset pääsevät kokeilemaan erilaisia pelejä. Haluamme antaa osallistujille mahdollisuuden kokeilla erilaisia, epätavallisempia maila- ja pallopelejä. Parina esimerkkinä: kin-ballin, speedmintonin ja kaupunkitaistelu.
 
-{% include button.html email=site.email style="outline" %}
+{% include button.html email=site.sampsa.email style="outline" %}
 
 ---
 

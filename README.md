@@ -51,8 +51,8 @@ Lägg till `hero_image` i början av filen, resten av `hero_` är valfria.
 
 ### Knappar
 
-    {% include button.html email=site.email style="outline" %}
-    {% include button.html email=site.email %}
+    {% include button.html email=site.sampsa.email style="outline" %}
+    {% include button.html email=site.sampsa.email %}
     {% include button.html url="http//example.com" style="outline" %}
     {% include button.html url="http//example.com" %}
 

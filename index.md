@@ -16,7 +16,6 @@ weight: 0
 
 Tunteja ja pienryhmävalmennusta sinulle, joka haluat parantaa kehonhallintataitojasi, treenata korkealla intensiteetillä tai päästä lisäkiloista eroon.
 
-
 #### Personal Training -palvelut
 
 Personal Training -palvelu on tarkoitettu sinulle, joka haluat päästä harjoittelussa seuraavalle tasolle.
@@ -39,20 +38,26 @@ Kerhotoiminnallamme pyrimme antamaan lapselle positiivisen kokemuksen liikunnast
 
 ## Asiakaskokemuksia
 
-#### [Mari N](http://www.funktum.fi/asiakaskokemukset/)
+#### [Mari N](/asiakaskokemukset/)
 
 >Halusin itselleni salikaveriksi Personal Trainerin, koska olin kärsinyt selkäkivuista sekä niska-hartiaseudun kivuista pitkään. Kävin kyllä kuntosalilla ja liikuin muutenkin, mutta epäilin, että teen jotain väärin, kun vaivat eivät lähde ja tuntui, että harjoittelu ei etene.
 
-#### [Jaana H](http://www.funktum.fi/asiakaskokemukset/#jaana-h)
+#### [Jaana H](/asiakaskokemukset/#jaana-h)
 
 >Funktumin Sampsan kanssa treeni Aviapoliksen Fressissä on joka kerta sekä piristävää, motivoivaa, haasteellista että hauskaa. Sampsan ohjeiden mukaan olen pitkälti päässyt “irti laitteista”. Olemme keskittyneet käsilläseisontaan, leuanvetoihin ja erilaisiin oman kehon painoa ja vastusta hyödyntäviin - ja kehon kuuntelua edellyttäviin - harjoituksiin.
 
-{% include button.html url="http://www.funktum.fi/asiakaskokemukset/" text="Kaikki asiakaskokemukset" %}
+{% include button.html url="/asiakaskokemukset/" text="Kaikki asiakaskokemukset" %}
 
 ---
 
 ## Yhteystiedot
 
-Olen Sampsa Visuri, Funktumin perustaja. Toimin pääkaupunkiseudulla liikuntaneuvojana ja [FISAF](http://www.fisafinternational.com/en/) & [Europe Active](http://www.europeactive.eu/) lisensoimana personal trainerina. Olen pitkään ollut kiinnostunut kehonhallinnasta ja omalla kehon painolla harjoittelemisesta. Kokemusta löytyy myös kuntosalin puolelta. Tavoitteeni on auttaa mahdollisimman montaa ihmistä voimaan paremmin. 
+Funktum on pääkaupunkiseudulla toimiva liikunta-alan yritys joka keskittyy lasten ja nuorten liikuntapalveluihin sekä henkilökohtaiseen valmennukseen. Tavoitteemme on auttaa mahdollisimman montaa ihmistä voimaan paremmin.
 
-{% include contact_details.html button="true" %}
+{% include contact_details.html person="sampsa" %}
+{% include contact_details.html person="linnea" %}
+{% include contact_details.html person="tommy" %}
+
+---
+
+{% include button.html url="/meidan-tarina" text="Lue meidän tarina" style="outline" %}
