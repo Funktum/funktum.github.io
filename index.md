@@ -24,7 +24,7 @@ Personal Training -palvelu on tarkoitettu sinulle, joka haluat päästä harjoit
 
 Kerhotoiminnallamme pyrimme antamaan lapselle positiivisen kokemuksen liikunnasta. Tarjoamme parkour- ja pallokerhoja.
 
-{% include button.html url="./palvelut/" text="Tutustu palveluihimme" %}
+{% include button.html url="/palvelut" text="Tutustu palveluihimme" %}
 
 ---
 
@@ -32,7 +32,7 @@ Kerhotoiminnallamme pyrimme antamaan lapselle positiivisen kokemuksen liikunnast
 
 {% include latest_blog_posts.html %}
 
-{% include button.html url="./blog/" text="Kaikki blogikirjoitukset" %}
+{% include button.html url="/blog" text="Kaikki blogikirjoitukset" %}
 
 ---
 
