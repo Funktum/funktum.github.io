@@ -9,43 +9,21 @@ published: true
 ---
 
 
-## Body Control -tunnit
+## Funktum koululiikuntakerhot
 
-![Body Control](/media/body-control.jpg)
+Kerhotoiminnallamme pyrimme antamaan lapsille positiivisen kokemuksen liikunnasta. Uskomme että voimme vaikuttaa lapsen suhtautumiseen liikuntaan. Parhaassa tapauksessa positiivinen asennoituminen kantaa aikuisikään asti. Haluamme myös luoda jokaiselle osallistujalle yhteenkuuluvuuden tunteen.
 
-Nosta kehonhallintataitosi seuraavalle tasolle! Body control tunneilla harjoittelemme kehonhallintaa. Oman kehon kontrolloiminen ja hahmottaminen on tärkeää kokonaisvaltaisen hyvinvoinnin kannalta. Tunneilla haastamme kehoa uusilla liikeradoilla ja liikuntaa voi harjoittaa omalla tasolla. Haasteita riittää varmasti kaikille - tule mukaan kokeilemaan.
+#### Parkour
 
-<div>
-{% include button.html url="http://www.funktum.fi/bodycontrol/" text="Lue lisää" style="outline" %}
-</div>
+Parkour on hyvä ja monipuolinen laji. Parkourkerho tuo lapselle uusia motorisia taitoja, parantaa oman kehon hahmotusta ja edistää ketteryyttä. Laji toimii hyvänä oheisharrastuksena monelle muulle lajille monipuolisten liikeratojen ansiosta.
 
----
+#### Pallokerho
 
-## HIIT IT -tunnit
+Pallokerhossa lapset pääsevät kokeilemaan erilaisia pelejä. Haluamme antaa osallistujille mahdollisuuden kokeilla erilaisia, epätavallisempia maila- ja pallopelejä. Parina esimerkkinä: kin-ballin, speedmintonin ja kaupunkitaistelu.
 
-![HIIT IT](/media/hiit-it.jpg)
-
-Erittäin tehokas treeni tuo sinulle voimaa ja kestävyyttä. HIIT IT tunneilla harjoittelemme korkealla intensiteetillä, välineinä toimivat mm. oma keho ja kahvakuulat. Tule mukaan haastamaan itseäsi rankalla ja intensiivisellä treenillä.
-
-<div>
-{% include button.html url="http://www.funktum.fi/hiitit/" text="Lue lisää" style="outline" %}
-</div>
-
+{% include button.html email=site.sampsa.email style="outline" %}
 
 ---
-
-## Weight Control -pienryhmävalmennus
-
-![Weight Control](/media/weight-control.jpg)
-
-Varma ja toimiva keino päästä lisäkiloista eroon. Weight control pienryhmävalmennukseen olemme yhdistäneet yhdessä tekemisen ja yksilöllisyyden. Haastattelemme kaikkia erikseen ja otamme yksilölliset tarpeet huomioon. Ryhmän koko voi vaihdella yhdestä viiteen henkilöön. Pienen ryhmäkoon ansiosta voimme auttaa kaikkia henkilökohtaisesti samalla kun treenaamme yhdessä. Tule mukaan ja onnistu muuttamaan elämääsi liikunnallisempaan suuntaan.
-
-<div>
-{% include button.html url="http://www.funktum.fi/weightcontrol/" text="Lue lisää" style="outline" %}
-</div>
-
----
-
 
 ## Personal Training -palvelut
 
@@ -66,22 +44,6 @@ _Kaikkiin 5-50 tapaamisen paketteihin sisältyy treeniohjelma(t), jaksotus, ravi
 
 ---
 
-## Funktum koululiikuntakerhot
-
-Kerhotoiminnallamme pyrimme antamaan lapsille positiivisen kokemuksen liikunnasta. Uskomme että voimme vaikuttaa lapsen suhtautumiseen liikuntaan. Parhaassa tapauksessa positiivinen asennoituminen kantaa aikuisikään asti. Haluamme myös luoda jokaiselle osallistujalle yhteenkuuluvuuden tunteen.
-
-#### Parkour
-
-Parkour on hyvä ja monipuolinen laji. Parkourkerho tuo lapselle uusia motorisia taitoja, parantaa oman kehon hahmotusta ja edistää ketteryyttä. Laji toimii hyvänä oheisharrastuksena monelle muulle lajille monipuolisten liikeratojen ansiosta.
-
-#### Pallokerho
-
-Pallokerhossa lapset pääsevät kokeilemaan erilaisia pelejä. Haluamme antaa osallistujille mahdollisuuden kokeilla erilaisia, epätavallisempia maila- ja pallopelejä. Parina esimerkkinä: kin-ballin, speedmintonin ja kaupunkitaistelu.
-
-{% include button.html email=site.sampsa.email style="outline" %}
-
----
-
 ## Yhteystiedot
 
-{% include contact_details.html button="true" %}
+{% include contact_details.html person="sampsa" %}

@@ -8,10 +8,10 @@ published: true
 ![]({{site.baseurl}}/media/WorkEnergy.jpg)
 
 
-Energy Booster on kehitetty nostamaan työtiimin energiatasoja ja sitä kautta parantamaan tiimin tuottavuutta. Palvelu koostuu 
-liikunnasta, meditaatioharjoituksista ja ravinteikkaasta smoothiesta. Nämä asiat toistetaan aamuisin jokaisena työpäivänä. Tulemme työpaikallenne, joten teidän ei tarvitse lähteä minnekkään. Räätälöimme myös juuri teille sopivan kokonaisuuden! 
+Energy Booster on kehitetty nostamaan työtiimin energiatasoja ja sitä kautta parantamaan tiimin tuottavuutta. Palvelu koostuu
+liikunnasta, meditaatioharjoituksista ja ravinteikkaasta smoothiesta. Nämä asiat toistetaan aamuisin jokaisena työpäivänä. Tulemme työpaikallenne, joten teidän ei tarvitse lähteä minnekkään. Räätälöimme myös juuri teille sopivan kokonaisuuden!
 
-Autamme intohimoisesti ihmisiä voimaan paremmin ja parantamaan heidän elämänlaatua. Tämä on pohja meidän työlle. Mietimme jatkuvasti; miten voimme tehdä asioita paremmin ja tehokkaammin, jotta asiakkaamme hyötyisivät mahdollisimma paljon.  
+Autamme intohimoisesti ihmisiä voimaan paremmin ja parantamaan heidän elämänlaatua. Tämä on pohja meidän työlle. Mietimme jatkuvasti; miten voimme tehdä asioita paremmin ja tehokkaammin, jotta asiakkaamme hyötyisivät mahdollisimma paljon.
 
 ---
 
@@ -19,7 +19,7 @@ Autamme intohimoisesti ihmisiä voimaan paremmin ja parantamaan heidän elämän
 
 Sairastelevat työntekijät tulevat yritykselle kalliiksi. Yksi poissaolopäivä maksaa keskimäärin 300 - 350€. Jos satsaa päivittäin terveyteen ja hyvinvointiin, vaikka vain 25 min/päivä (melkein 3h/viikko), vähentää tämä mitä luultavammin sairastelua. Eli jos palvelun avulla saa vähennettyä sairaspoissaoloja viidestä prosentista neljään prosenttiin,  tarkoittaa tämä 20 hengen yrityksessä jonka työntekijöiden bruttopalkka on 3000€, noin 10 000€ säästöjä.
 
-Paitsi että palvelun avulla säästyy mitä luultavammin sairaspoissaolorahaa, tuo tämä lisää energiaa tiimiin joka johtaa tuottavampaan tekemiseen ja lopulta parempiin tuloksiin. 
+Paitsi että palvelun avulla säästyy mitä luultavammin sairaspoissaolorahaa, tuo tämä lisää energiaa tiimiin joka johtaa tuottavampaan tekemiseen ja lopulta parempiin tuloksiin.
 
 Kun ihmiset pääsevät tekemääm konkreettisia toimia parempaa tulevaisuutta kohti, luo tämä paremman yhteenkuulumisen tunteen ja tiiviimpää tiimityöskentelyä. Pyrimme siis palvelulla nostamaan me - henkeä. Palvelu vaikuttaa myös työn ulkopuolella!
 
@@ -31,7 +31,7 @@ Lähestymme tuottavuuden lisäämistä perusasioista - liikkeen, mielen ja ravin
 
 #### Liikunta
 
-Palvelu alkaa liikunnalla joka nostaa sykettä ja herättää kehon. Liikunta, varsinkin päivittäinen liikunta pitää energiatasoja 
+Palvelu alkaa liikunnalla joka nostaa sykettä ja herättää kehon. Liikunta, varsinkin päivittäinen liikunta pitää energiatasoja
 korkealla pitkällä aikavälillä. Liikunta ehkäisee monia sairauksia ja vaivoja. Energiatasot nousevat kun veri alkaa
 kiertämään kehossa, ja happea alkaa virrata verenkierron mukana aivoihin. Liikunta parantaa kognitiivisia kykyjä ja nostaa hyvän olon hormoonitasoja.
 
@@ -41,9 +41,9 @@ kiertämään kehossa, ja happea alkaa virrata verenkierron mukana aivoihin. Lii
 
 #### Meditaatio
 
-Meditaatio on oiva stressinhallinta keino. Usein toistettuna meditaatiolla saadaan lisättyä fokusta, parannettua tunteidenkäsittelyä 
-ja ennaltaehkäisemään loppuunpalamista. Meditaatiolla saadaan "siivottua" pääkoppa, ja voidaan keskittyä paremmin taklaamaan 
-työpäivän haasteita. 
+Meditaatio on oiva stressinhallinta keino. Usein toistettuna meditaatiolla saadaan lisättyä fokusta, parannettua tunteidenkäsittelyä
+ja ennaltaehkäisemään loppuunpalamista. Meditaatiolla saadaan "siivottua" pääkoppa, ja voidaan keskittyä paremmin taklaamaan
+työpäivän haasteita.
 
 - Ennaltaehkäisee loppuunpalamista
 - Lisää fokusta
@@ -66,9 +66,9 @@ Tarjoamme joka päivälle erilaisen, itsetehdyn smoothien. Pitää kuitenkin mui
 
 ---
 
-Monet vastaukset haasteisiin liittyvät usein perusasioihin: uneen, ravnitoon ja liikuntaan. Energy Booster -palvelulla voimme 
-vaikuttaa hieman kaikkiin. Se on sanomattakin selvää ettei lyhyt meditaatio korvaa liian vähäistä yöunta, tai smoothie kunnon 
-ateriaa, mutta tämä pieni lisä saattaa olla juuri se, mitä työtiimi tarvitsee, jotta voisitte nostaa tasoa. Palvelun pituus on 25 min ja olemme keskittyneet tekemään harjoitteet mahdollisimman tehokkaasti. 
+Monet vastaukset haasteisiin liittyvät usein perusasioihin: uneen, ravnitoon ja liikuntaan. Energy Booster -palvelulla voimme
+vaikuttaa hieman kaikkiin. Se on sanomattakin selvää ettei lyhyt meditaatio korvaa liian vähäistä yöunta, tai smoothie kunnon
+ateriaa, mutta tämä pieni lisä saattaa olla juuri se, mitä työtiimi tarvitsee, jotta voisitte nostaa tasoa. Palvelun pituus on 25 min ja olemme keskittyneet tekemään harjoitteet mahdollisimman tehokkaasti.
 
 ---
 
@@ -77,7 +77,7 @@ ateriaa, mutta tämä pieni lisä saattaa olla juuri se, mitä työtiimi tarvits
 ---
 
 
-Tarjoamme uusille asiakkaille mahdollisuuden kokeilla palvelua viikon ajan ilmaiseksi! Voitte ensimmäisen viikon jälkeen arvioida, että onko palvelu teille sopiva vai ei. Tulemme teidän luokse joka aamu nostamaan energiatasoanne. Uskomme että palvelusta on hyötyä, ainoastaan jos yllä mainitut asiat toistetaan tarpeeksi usein. 
+Tarjoamme uusille asiakkaille mahdollisuuden kokeilla palvelua viikon ajan ilmaiseksi! Voitte ensimmäisen viikon jälkeen arvioida, että onko palvelu teille sopiva vai ei. Tulemme teidän luokse joka aamu nostamaan energiatasoanne. Uskomme että palvelusta on hyötyä, ainoastaan jos yllä mainitut asiat toistetaan tarpeeksi usein.
 
 ---
 
@@ -85,7 +85,7 @@ Tarjoamme uusille asiakkaille mahdollisuuden kokeilla palvelua viikon ajan ilmai
 
 ---
 
-Ne asiat jotka teet aamulla, määrittävät sen miten loppupäivä sujuu. Aamulla kannattaa siis panostaa juuri näihin asioihin! 
+Ne asiat jotka teet aamulla, määrittävät sen miten loppupäivä sujuu. Aamulla kannattaa siis panostaa juuri näihin asioihin!
 Tiedämme että rutiineista kiinnipitäminen on haasteellista ja vaatii energiaa. Ulkoista tämä taakka siis meille - teidän ei tarvitse käyttää energiaa ohjelman suunnitteluun ja ylläpitämiseen!
 
 ---
@@ -97,7 +97,7 @@ Tiedämme että rutiineista kiinnipitäminen on haasteellista ja vaatii energiaa
 Tilaa meidät nostamaan tiiminne energiatasoa, tuottavuutta ja sitämyötä parantamaan tuloksianne! Palvelemme teitä pääkaupunkiseudulla ja palvelu kannattaa sijoittaa klo 06:00 - 10:00 välille. Ottakaa yhteyttä niin voimme keskustella palvelusta lisää teidän tarpeiden näkökulmasta.
 
 <div>
-{% include button.html email=site.email %}
+{% include button.html email=site.sampsa.email %}
 </div>
 
 ---
