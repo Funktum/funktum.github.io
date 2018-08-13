@@ -3,7 +3,7 @@ layout: page
 title: Funktum?
 description: Description
 permalink: /meidan-tarina/
-weight: 1
+weight: 2
 published: true
 ---
 
