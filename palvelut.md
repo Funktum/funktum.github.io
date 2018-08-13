@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Palvelut
-description: Tule nauttimaan liikkumisen ilosta. Tarjoamme henkilökohtaista valmennusta, ryhmäliikuntatunteja, elämyspalveluita ja paljon muuta.
+description: Tule nauttimaan liikkumisen ilosta, tarjoamme henkilökohtaista valmennusta ja ryhmäliikuntatunteja.
 permalink: /palvelut/
 weight: 1
 published: true
 hero_image: /media/weight-control.jpg
-hero_text: Keskitymme lasten ja nuorten liikuntapalveluihin sekä henkilökohtaiseen valmennukseen
+hero_text: Tule nauttimaan liikkumisen ilosta kanssamme!
 hero_title: Palvelut
 
 ---

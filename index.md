@@ -11,18 +11,15 @@ weight: 0
 
 ## Palvelut
 
-
-#### Body Control, HIIT IT ja Weight Control -tunnit
-
-Tunteja ja pienryhmävalmennusta sinulle, joka haluat parantaa kehonhallintataitojasi, treenata korkealla intensiteetillä tai päästä lisäkiloista eroon.
-
-#### Personal Training -palvelut
-
-Personal Training -palvelu on tarkoitettu sinulle, joka haluat päästä harjoittelussa seuraavalle tasolle.
+Tule nauttimaan liikkumisen ilosta, tarjoamme henkilökohtaista valmennusta ja ryhmäliikuntatunteja.
 
 #### Koululiikuntakerhot
 
 Kerhotoiminnallamme pyrimme antamaan lapselle positiivisen kokemuksen liikunnasta. Tarjoamme parkour- ja pallokerhoja.
+
+#### Personal Training -palvelut
+
+Personal Training -palvelu on tarkoitettu sinulle, joka haluat päästä harjoittelussa seuraavalle tasolle.
 
 {% include button.html url="/palvelut" text="Tutustu palveluihimme" %}
 
