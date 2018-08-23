@@ -62,7 +62,7 @@ Olen asunut koko elämäni aikana Helsingissä, ja vasta pari vuotta sitten muut
 
 Yläkoulun jälkeen halusin kokeilla jotain uutta, ja kun kuulin Solvallan urheiluopistosta, innostuin. Solvalla oli mahtava koulu, jossa ohjaamistaitoni kehittyivät ammattilaisen tasolle ja fyysiset sekä henkiset puoleni vahvistuivat.
 
-Pääsin nopeasti työelämään opintojeni kautta ja ohjasin LIIKUNTA?leirejä jo ensimmäisen kouluvuoden jälkeen. Vielä tänäkin päivänä toimin leiriohjaajana samassa paikassa. Valmistuin keväällä 2014, minkä jälkeen jatkoin heti Personal Trainer -koulutukseen. Talvella työskentelin sekä liikuntaneuvojana että personal trainerina.
+Pääsin nopeasti työelämään opintojeni kautta ja ohjasin liikuntaleirejä jo ensimmäisen kouluvuoden jälkeen. Vielä tänäkin päivänä toimin leiriohjaajana samassa paikassa. Valmistuin keväällä 2014, minkä jälkeen jatkoin heti Personal Trainer -koulutukseen. Talvella työskentelin sekä liikuntaneuvojana että personal trainerina.
 
 PT-koulutuksen aikana toimin assistenttina yläkoulussa. Opettajan sijaisuuksia teen silloin tällöin sekä ylä- että alakouluilla, koska nautin todella paljon lasten parissa työskentelystä.
 
@@ -82,14 +82,18 @@ Baletin ja thainyrkkeilyn kautta olen oppinut paljon kehonhallinnasta, liikkuvuu
 
 ![tommy.jpg]({{site.baseurl}}/media/tommy.jpg)
 
-Minun nimeni on Tommy Borg, olen 20 vuotias mies Kauniaisista. Kävin peruskoulun ja ylä-asteen Kauniaissa ja sen jälkeen opiskelin Solvallassa 3 vuotta liikuntaneuvojaksi.
+Moi! Minun nimeni on Tommy Borg.
 
-Olen aina ollut urheiluhullu, pienestä lähtien olen juossut pallojen perässä. Olin pienenä erittäin ujo, isä ajeli minua jääkiekko ja jalkapallo kentille mutta en uskaltanut mennä mukaan. Kunnes eräänä päivän isä vei minut salibandy kerhoon, hyppäsin kentälle ja siitä alkoi minun salibandy urani. Aloitin salibandy kerhon 5 vuotiaana ja pelaan edelleen salibandyä.
+Olen parikymppinen mies Kauniaisista. Kävin siellä peruskoulun, minkä jälkeen opiskelin liikuntaneuvojaksi Espoon Solvallassa kolme vuotta.
 
-Vapaa-ajallani tykkään urheilla, olla kavereitten kanssa ja pelata pleikkaria. Perheeni on minulle myös erittäin tärkeä.
+ 
 
-Olen työskennellyt eri ikäisten lapsien kanssa vuodesta 2013, Minulle on tärkeää että saan lapset nauramaan ja liikkumaan. Lajilla ei ole mitään väliä kunhan on hauskaa.
+Olen koko ikäni ollut urheiluhullu, joka on pienestä lähtien juossut pallojen perässä. Lapsena olin myös erittäin ujo. Isäni ajeli minua jääkiekkokaukaloille ja jalkapallokentille, mutta en uskaltanut mennä niihin mukaan. Eräänä päivänä hän vei minut salibandykerhoon. Hyppäsin kentälle ja siitä alkoi minun salibandyurani. Aloitin kerhossa 5-vuotiaana ja harrastan lajia edelleen. 
 
-Olen työskennellyt Funktumilla nyt muutaman vuoden ja odotan innolla mitä tulevaisuus tuo mukanaan.
+Vapaa-ajallani tykkään luonnollisesti urheilla sekä olla kavereideni kanssa ja pelata pleikkaria. Perheeni on minulle myös erittäin tärkeä.
+
+Olen työskennellyt eri-ikäisten lapsien kanssa vuodesta 2013. Minulle on tärkeää, että saan lapset nauramaan ja liikkumaan. Lajilla ei ole väliä, tärkeintä on hauskanpito! 
+
+Funktumilla olen työskennellyt jo muutaman vuoden ajan, enkä malta odottaa, mitä yhteinen tulevaisuus tuo mukanaan.
 
 {% include contact_details.html person="tommy"%}
