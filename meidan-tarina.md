@@ -5,7 +5,7 @@ description: Description
 permalink: /meidan-tarina/
 weight: 2
 published: true
-hero_image: /media/Team-Funktum3.png
+hero_image: /media/Team-Funktum-Dark.jpg
 hero_text: 
 hero_title: 
 ---
