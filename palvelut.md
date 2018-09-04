@@ -14,6 +14,8 @@ hero_title: Palvelut
 
 ## Funktum koululiikuntakerhot
 
+![Untitled.png]({{site.baseurl}}/media/Untitled.png)
+
 Kerhotoiminnallamme pyrimme antamaan lapsille positiivisen kokemuksen liikunnasta. Uskomme että voimme vaikuttaa lapsen suhtautumiseen liikuntaan. Parhaassa tapauksessa positiivinen asennoituminen kantaa aikuisikään asti. Haluamme myös luoda jokaiselle osallistujalle yhteenkuuluvuuden tunteen.
 
 #### Parkour
