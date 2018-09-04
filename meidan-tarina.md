@@ -5,10 +5,9 @@ description: Description
 permalink: /meidan-tarina/
 weight: 2
 published: true
-hero_image: /media/Team-Funktum-Dark.jpg
-hero_text: 
-hero_title: 
 ---
+
+![Team-Funktum-Dark.jpg]({{site.baseurl}}/media/sampsa.jpg)
 
 Funktum on pääkaupunkiseudulla toimiva liikunta-alan yritys joka keskittyy lasten ja nuorten liikuntapalveluihin sekä henkilökohtaiseen valmennukseen. Tavoitteemme on auttaa mahdollisimman montaa ihmistä voimaan paremmin.
 
