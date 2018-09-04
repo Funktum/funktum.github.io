@@ -14,7 +14,9 @@ hero_title: Palvelut
 
 ## Funktum koululiikuntakerhot
 
-![Koululiikuntapalvelut.png]({{site.baseurl}}/media/Koululiikuntapalvelut.png)
+![Koululiikuntapalvelut1.jpg]({{site.baseurl}}/media/Koululiikuntapalvelut1.jpg)
+![Koululiikuntapalvelut2.jpg]({{site.baseurl}}/media/Koululiikuntapalvelut2.jpg)
+![Koululiikuntapalvelut3.jpg]({{site.baseurl}}/media/Koululiikuntapalvelut3.jpg)
 
 Kerhotoiminnallamme pyrimme antamaan lapsille positiivisen kokemuksen liikunnasta. Uskomme että voimme vaikuttaa lapsen suhtautumiseen liikuntaan. Parhaassa tapauksessa positiivinen asennoituminen kantaa aikuisikään asti. Haluamme myös luoda jokaiselle osallistujalle yhteenkuuluvuuden tunteen.
 
