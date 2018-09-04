@@ -5,7 +5,7 @@ description: Tule nauttimaan liikkumisen ilosta, tarjoamme henkilökohtaista val
 permalink: /palvelut/
 weight: 1
 published: true
-hero_image: /media/Untitled.png
+hero_image: /media/weight-control.jpg
 hero_text: Tule nauttimaan liikkumisen ilosta kanssamme!
 hero_title: Palvelut
 
