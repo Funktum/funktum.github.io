@@ -7,7 +7,7 @@ weight: 2
 published: true
 ---
 
-![Team-Funktum-Dark.jpg]({{site.baseurl}}/media/sampsa.jpg)
+![Team-Funktum-Dark.jpg]({{site.baseurl}}/media/Team-Funktum-Dark.jpg)
 
 Funktum on pääkaupunkiseudulla toimiva liikunta-alan yritys joka keskittyy lasten ja nuorten liikuntapalveluihin sekä henkilökohtaiseen valmennukseen. Tavoitteemme on auttaa mahdollisimman montaa ihmistä voimaan paremmin.
 
