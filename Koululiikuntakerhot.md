@@ -15,7 +15,7 @@ Liikunnalla voimme vaikuttaa lasten keskittymiskykyyn, stressinsietoon ja muisti
 
 ---
 
-#### Parkour-kerho
+### Parkour-kerho
 
 ![parkour.jpg]({{site.baseurl}}/media/LapsetParkour.jpg)
 
@@ -25,7 +25,7 @@ edistää ketteryyttä. Laji toimii hyvänä oheisharrastuksena monelle muulle l
 
 ---
 
-#### Pallopeli-MIX 
+### Pallopeli-MIX 
 
 ![lötköpötkö.jpg]({{site.baseurl}}/media/LapsetLötköpötkö3.jpg)
 
@@ -36,7 +36,7 @@ monipuolisen kuvan pallopelimahdollisuuksista ja sopii hyvin kaikille joukkuepel
 
 ---
 
-#### Tanssikerho
+### Tanssikerho
 
 ![Tanssi.jpg]({{site.baseurl}}/media/LapsetLapsetJump1.jpg)
 
@@ -45,7 +45,7 @@ Tanssiklubissa tanssitaan hip-hopin, popin ja showtanssin tahdissa.
 
 ---
 
-#### Kuntosalin perusteet -kurssi
+### Kuntosalin perusteet -kurssi
 
 ![PT-6.jpg]({{site.baseurl}}/media/pt-6.jpg)
 
