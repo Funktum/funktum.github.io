@@ -22,7 +22,7 @@ Kehotarjontaamme kuuluu:
 
 [Sirkuskerho]()
 
-[Kuntosalin perusteet (15-18 vuotiaille)](#Kuntosalin perusteet -kurssi)
+[Kuntosalin perusteet 15-18 vuotiaille](#Kuntosalin perusteet -kurssi)
 
 
 ---
