@@ -14,15 +14,15 @@ Liikunnalla voimme vaikuttaa lasten keskittymiskykyyn, stressinsietoon ja muisti
 
 Kehotarjontaamme kuuluu:
 
-[Parkourkerho](###Parkourkerho)
+[Parkourkerho](#parkourkerho)
 
-[Pallopeli-MIX kerho](#Pallopeli-MIX)
+[Pallopeli-MIX kerho](#pallopeli-mix)
 
-[Tanssikerho](#Tanssikerho)
+[Tanssikerho](#tanssikerho)
 
 [Sirkuskerho]()
 
-[Kuntosalin perusteet 15-18 vuotiaille](#Tämä)
+[Kuntosalin perusteet 15-18 vuotiaille](#kuntosalin-perusteet)
 
 
 ---
@@ -68,7 +68,7 @@ Tanssikerhossa tanssitaan hip-hopin, popin ja showtanssin tahdissa. Tanssikerhos
 
 ![PT-6.jpg]({{site.baseurl}}/media/pt-6.jpg)
 
-(#Tämä) liikuntakurssi on tarkoitettu 9 luokkalaisille ja lukiolaisille/ammattikoululaisille. Kurssin aikana harjoittelemme kuntosaliharjoittelun perusliikkeitä ja treeniohjelman laatimista. Perehdymme myös ravintoon ja palautumiseen. Kurssia pitävät koulutetut Personal Trainerit, joilla on usean vuoden kokemus. Kuntosaliharrastus aloitetaan usein 15-18 vuotiaana, ja haluamme antaa parhaat mahdolliset työkalut nuorille osallistujille. Jos asioita lähtee tekemään alusta asti oikein, vältytään virheellisten liikeratojen aiheuttamista vaivoista, vahvistetaan oikeita liikeratoja arkisessa tekemisessä ja opitaan treenaamaan sopivasti omaan kuntoon nähden. 
+Tämä liikuntakurssi on tarkoitettu 9 luokkalaisille ja lukiolaisille/ammattikoululaisille. Kurssin aikana harjoittelemme kuntosaliharjoittelun perusliikkeitä ja treeniohjelman laatimista. Perehdymme myös ravintoon ja palautumiseen. Kurssia pitävät koulutetut Personal Trainerit, joilla on usean vuoden kokemus. Kuntosaliharrastus aloitetaan usein 15-18 vuotiaana, ja haluamme antaa parhaat mahdolliset työkalut nuorille osallistujille. Jos asioita lähtee tekemään alusta asti oikein, vältytään virheellisten liikeratojen aiheuttamista vaivoista, vahvistetaan oikeita liikeratoja arkisessa tekemisessä ja opitaan treenaamaan sopivasti omaan kuntoon nähden. 
 
 - Tarkoitettu nuorille, kunosaliharrastuksen aloittaville
 - Kurssilla opetellaan perusliikeradat ja treenin suunniittelua sekä jaksottamista
