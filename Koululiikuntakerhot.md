@@ -61,6 +61,18 @@ Tanssikerhossa tanssitaan hip-hopin, popin ja showtanssin tahdissa. Tanssikerhos
 - Haluamme kehittää lasten rytmitajua ja koordinaatiota
 - Pidämme musiikin avulla itsensä ilmaisua tärkeänä
 
+---
+
+### Sirkuskerho
+
+![käsilläseisonta.jpg]({{site.baseurl}}/media/LapsetJumpDark2.jpg)
+
+Sirkuskerhossa lapset pääsevät kokeilemaan yleisimpiä sirkustaiteilun muotoja kuten akrobatiaa, jonglörausta, yksipyöräisellä pyöräilemistä ja diabolon pyörittämistä. Sirkuskerho haastaa tasapainoa, kehonhallintaa ja motoriikkaa. Kerho sopii kaikille jotka tykkäävät temppuilla ja haastaa itseään uusilla asioilla. 
+
+- Kerhossa opetellaan sirkuksen perusteita
+- Sopii kaikille jotka haluavat haastaa itseään ja oppia uusia asioita
+- Kerho kehittää tasapainoa, kehonhallintaa ja motoriikkaa
+
 
 ---
 
