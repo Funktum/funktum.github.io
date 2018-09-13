@@ -15,9 +15,13 @@ Liikunnalla voimme vaikuttaa lasten keskittymiskykyyn, stressinsietoon ja muisti
 Kehotarjontaamme kuuluu:
 
 [Parkourkerho](#Parkourkerho)
+
 [Pallopeli-MIX kerho](#Pallopeli-MIX)
+
 [Tanssikerho](#Tanssikerho)
+
 [Sirkuskerho]()
+
 [Kuntosalin perusteet (15-18 vuotiaille)](#Kuntosalin perusteet -kurssi)
 
 
