@@ -88,7 +88,7 @@ Tämä liikuntakurssi on tarkoitettu 9 luokkalaisille ja lukiolaisille/ammattiko
 
 ---
 
-![sportclubs.jpg]({{site.baseurl}}/media/Funktum Sport Clubs_Black-01.jpg | width=48)
+![sportclubs.jpg]({{site.baseurl}}/media/Funktum Sport Clubs_Black-01.jpg)
 
 
 
