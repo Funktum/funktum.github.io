@@ -20,7 +20,7 @@ Kehotarjontaamme kuuluu:
 
 [Tanssikerho](#tanssikerho)
 
-[Sirkuskerho]()
+[Sirkuskerho](#sirkuskerho)
 
 [Kuntosalin perusteet 15-18 vuotiaille](#kuntosalin-perusteet)
 
