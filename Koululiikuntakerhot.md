@@ -22,7 +22,7 @@ Kehotarjontaamme kuuluu:
 
 [Sirkuskerho]()
 
-[Kuntosalin perusteet 15-18 vuotiaille](#Kuntosalin perusteet -kurssi)
+[Kuntosalin perusteet 15-18 vuotiaille](#Kuntosalin-perusteet)
 
 
 ---
@@ -64,7 +64,7 @@ Tanssikerhossa tanssitaan hip-hopin, popin ja showtanssin tahdissa. Tanssikerhos
 
 ---
 
-### Kuntosalin perusteet -kurssi
+### Kuntosalin perusteet 
 
 ![PT-6.jpg]({{site.baseurl}}/media/pt-6.jpg)
 
