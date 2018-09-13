@@ -12,10 +12,18 @@ positiivinen asennoituminen kantaa aikuisikään asti. Liikuntakerhomme sopivat 
 
 Liikunnalla voimme vaikuttaa lasten keskittymiskykyyn, stressinsietoon ja muistiin. Uskomme että hyvällä hengellä, kovalla työllä ja jatkuvalla halulla kehittyä, voimme luoda liikunnan avulla hieman paremman tulevaisuuden. 
 
+Kehotarjontaamme kuuluu:
+
+[Parkourkerho](#Parkourkerho)
+[Pallopeli-MIX kerho](#Pallopeli-MIX)
+[Tanssikerho](#Tanssikerho)
+[Sirkuskerho]()
+[Kuntosalin perusteet (15-18 vuotiaille)](#Kuntosalin perusteet -kurssi)
+
 
 ---
 
-### Parkour-kerho
+### Parkourkerho
 
 ![parkour.jpg]({{site.baseurl}}/media/LapsetParkour.jpg)
 
