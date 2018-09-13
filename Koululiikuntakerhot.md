@@ -88,5 +88,8 @@ Tämä liikuntakurssi on tarkoitettu 9 luokkalaisille ja lukiolaisille/ammattiko
 
 ---
 
+{% include contact_details.html person="sampsa" %}
+{% include contact_details.html person="linnea" %}
+{% include contact_details.html person="tommy" %}
 
 
