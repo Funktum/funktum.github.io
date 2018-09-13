@@ -16,7 +16,7 @@ Kehotarjontaamme kuuluu:
 
 [Parkourkerho](#parkourkerho)
 
-[Pallopeli-MIX kerho](#pallopeli-mix)
+[Pallopeli-MIX](#pallopeli-mix)
 
 [Tanssikerho](#tanssikerho)
 
