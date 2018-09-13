@@ -14,7 +14,7 @@ Liikunnalla voimme vaikuttaa lasten keskittymiskykyyn, stressinsietoon ja muisti
 
 Kehotarjontaamme kuuluu:
 
-[Parkourkerho](#Parkourkerho)
+[Parkourkerho](###Parkourkerho)
 
 [Pallopeli-MIX kerho](#Pallopeli-MIX)
 
