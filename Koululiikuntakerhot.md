@@ -86,7 +86,7 @@ Tämä liikuntakurssi on tarkoitettu 9 luokkalaisille ja lukiolaisille/ammattiko
 - Kurssilla opetellaan perusliikeradat ja treenin suunniittelua sekä jaksottamista
 - Tavoitteena on antaa nuorille parhaat mahdolliset työkalut kuntosaliharjoitteluun
 
-
+---
 
 ![sportclubs.jpg]({{site.baseurl}}/media/Funktum Sport Clubs_Black-01.jpg)
 
