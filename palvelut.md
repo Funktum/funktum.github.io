@@ -17,7 +17,7 @@ hero_title: Palvelut
 ![Hyppy.jpg]({{site.baseurl}}/media/LapsetJump2.jpg)
 
 
-Kerhotoiminnallamme pyrimme antamaan lapsille positiivisen kokemuksen liikunnasta. Uskomme että voimme vaikuttaa lapsen suhtautumiseen liikuntaan. Parhaassa tapauksessa positiivinen asennoituminen kantaa aikuisikään asti. Haluamme myös luoda jokaiselle osallistujalle yhteenkuuluvuuden tunteen.
+Kerhotoiminnallamme pyrimme antamaan lapsille positiivisen kokemuksen liikunnasta. Uskomme että voimme vaikuttaa lapsen suhtautumiseen liikuntaan ja parhaassa tapauksessa positiivinen asennoituminen kantaa aikuisikään asti. Haluamme myös luoda jokaiselle osallistujalle yhteenkuuluvuuden tunteen.
 
 #### Parkour
 
