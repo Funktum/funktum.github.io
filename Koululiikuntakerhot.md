@@ -10,7 +10,7 @@ Järjestämme liikuntakerhoja monessa koulussa ympäsi pääkaupunkiseutua. Kerh
 positiivisen kokemuksen liikunnasta. Uskomme että voimme vaikuttaa lapsen suhtautumiseen liikuntaan. Parhaassa tapauksessa
 positiivinen asennoituminen kantaa aikuisikään asti. Liikuntakerhomme sopivat kaiken tasoisille liikkujille. 
 
-Liikunnalla voimme vaikuttaa lasten keskittymiskykyyn, stressinsietoon ja muistiin. Uskomme että hyvällä hengellä, kovalla työllä ja jatkuvalla halulla kehittyä, voimme luoda liikunnan avulla hieman paremman tulevaisuuden. 
+Liikunnalla voimme vaikuttaa lasten kognitiivisiin taitoihin, motoriikkaan ja ryhmäkäyttäytymiseen. Teemme työtä hyvällä hengellä ja pyrimme jatkuvasti kehittymään alalla. 
 
 Kehotarjontaamme kuuluu:
 
