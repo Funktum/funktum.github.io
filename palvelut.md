@@ -38,8 +38,8 @@ Sirkuskerhossa lapset pääsevät kokeilemaan yleisimpiä sirkustaiteilun muotoj
 #### Kuntosalin perusteet
 
 Tämä liikuntakurssi on tarkoitettu 9-luokkalaisille ja lukiolaisille/ammattikoululaisille. Kurssin aikana harjoittelemme kuntosaliharjoittelun perusliikkeitä ja treeniohjelman laatimista.
-
-<div> {% include button.html email=site.sampsa.email style="outline" %} </div> <div> {% include button.html url="/koululiikuntakerhot/" text="Tutustu kerhoihin tarkemmin" %} </div>
+ <div> {% include button.html url="/koululiikuntakerhot/" text="Tutustu kerhoihin tarkemmin" %} </div>
+ <div> {% include button.html email=site.sampsa.email style="outline" %} </div>
 
 ---
 
