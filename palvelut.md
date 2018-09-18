@@ -39,7 +39,7 @@ Sirkuskerhossa lapset pääsevät kokeilemaan yleisimpiä sirkustaiteilun muotoj
 
 Tämä liikuntakurssi on tarkoitettu 9-luokkalaisille ja lukiolaisille/ammattikoululaisille. Kurssin aikana harjoittelemme kuntosaliharjoittelun perusliikkeitä ja treeniohjelman laatimista.
 
-{% include button.html email=site.sampsa.email style="outline" %} {% include button.html url="/koululiikuntakerhot/" text="Tutustu kerhoihin tarkemmin" %}
+<div> {% include button.html email=site.sampsa.email style="outline" %} </div> <div> {% include button.html url="/koululiikuntakerhot/" text="Tutustu kerhoihin tarkemmin" %} </div>
 
 ---
 
