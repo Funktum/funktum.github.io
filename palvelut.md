@@ -27,7 +27,20 @@ Parkour on hyvä ja monipuolinen laji. Parkourkerho tuo lapselle uusia motorisia
 
 Pallokerhossa lapset pääsevät kokeilemaan erilaisia pelejä. Haluamme antaa osallistujille mahdollisuuden kokeilla erilaisia, epätavallisempia maila- ja pallopelejä. Parina esimerkkinä: kin-ballin, speedmintonin ja kaupunkitaistelu.
 
+#### Tanssikerho
+
+Tanssikerhossa tanssitaan hip-hopin, popin ja showtanssin tahdissa. Tanssikerhossa pidetään hauskaa ja liikutaan monipuolisesti musiikin tahdissa.
+
+#### Sirkuskerho
+
+Sirkuskerhossa lapset pääsevät kokeilemaan yleisimpiä sirkustaiteilun muotoja, kuten akrobatiaa, jonglöörausta, yksipyöräisellä pyöräilemistä ja diabolon pyörittämistä.
+
+#### Kuntosalin perusteet
+
+Tämä liikuntakurssi on tarkoitettu 9-luokkalaisille ja lukiolaisille/ammattikoululaisille. Kurssin aikana harjoittelemme kuntosaliharjoittelun perusliikkeitä ja treeniohjelman laatimista.
+
 {% include button.html email=site.sampsa.email style="outline" %}
+{% include button.html url="/koululiikuntakerhot/" text="Tutustu kerhoihin tarkemmin" %}
 
 ---
 
