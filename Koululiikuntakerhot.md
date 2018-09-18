@@ -11,7 +11,7 @@ positiivisen kokemuksen liikunnasta. Parhaassa tapauksessa positiivinen asennoit
 
 Liikunnalla voimme vaikuttaa lasten kognitiivisiin taitoihin, motoriikkaan ja ryhmäkäyttäytymiseen. Teemme työtä hyvällä hengellä ja pyrimme jatkuvasti kehittämään toimintaamme. Kaikkia kerhoja ohjaavat Funktumin omat ohjaajat. 
 
-Kerhotarjontaamme kuuluu:
+**Kerhotarjontaamme kuuluu:**
 
 [Parkourkerho](#parkourkerho)
 
