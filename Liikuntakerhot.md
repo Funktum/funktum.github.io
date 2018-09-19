@@ -6,7 +6,7 @@ title: Liikuntakerhot
 
 ![hyppy.jpg]({{site.baseurl}}/media/LapsetJump2.jpg)
 
-Järjestämme liikuntakerhoja monessa koulussa ympäri pääkaupunkiseutua. Kerhotoiminnallamme pyrimme antamaan lapsille 
+Järjestämme liikuntakerhoja monessa koulussa uudellamaalla. Kerhotoiminnallamme pyrimme antamaan lapsille 
 positiivisen kokemuksen liikunnasta. Parhaassa tapauksessa positiivinen asennoituminen kantaa aikuisikään asti. Liikuntakerhomme sopivat kaiken tasoisille liikkujille. 
 
 Liikunnalla voimme vaikuttaa lasten kognitiivisiin taitoihin, motoriikkaan ja ryhmäkäyttäytymiseen. Teemme työtä hyvällä hengellä ja pyrimme jatkuvasti kehittämään toimintaamme. Kaikkia kerhoja ohjaavat Funktumin omat ohjaajat. 
