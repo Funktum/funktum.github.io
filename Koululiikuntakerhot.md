@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /koululiikuntakerhot/
-title: Koululiikuntakerhot
+permalink: /liikuntakerhot/
+title: Liikuntakerhot
 ---
 
 ![hyppy.jpg]({{site.baseurl}}/media/LapsetJump2.jpg)
