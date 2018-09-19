@@ -12,7 +12,7 @@ hero_title: Palvelut
 ---
 
 
-## Funktum koululiikuntakerhot
+## Funktum liikuntakerhot
 
 ![Hyppy.jpg]({{site.baseurl}}/media/LapsetJump2.jpg)
 
