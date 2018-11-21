@@ -42,7 +42,7 @@ Liikkumiseen ei ole sääntöjä, vaan jokainen liikkuu omalla tavallaan. Erilai
 
 ### Pallopeli-MIX 
 
-![lötköpötkö.jpg]({{site.baseurl}}/media/LapsetLötköpötkö3.jpg)
+![LapsetLotkopotko3.jpg]({{site.baseurl}}/media/LapsetLotkopotko3.jpg)
 
 Pallopeli-MIX on kerho, jossa lapset pääsevät kokeilemaan erilaisia, hieman epätavallisempia pallopelejä. Kerho tuo  vastaopainoa, joskus hieman yksipuolisiin harrastuksiin. Monipuolinen liikkuminen pitää kehon paremmassa ja terveemmässä kunnossa pidempään.
 
