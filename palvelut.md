@@ -17,7 +17,7 @@ hero_title: Palvelut
 
 Järjestämme monipuolisia liikuntakerhoja lapsille Uudellamaalla. Kerhomme toteutuvat koulujen liikuntatiloissa. Teemme myös yhteistyötä koulujen kanssa, jolloin järjestämme koulupäivän jälkeen liikuntakerhoja koulun oppilaille. 
 
-Liikuntakerhomme kulkevat nykyään nimellä WEEMOVE. Voit tutustua kerhoihin tarkemmin täältä: [weemove.fi](https://weemove.fi/)
+Liikuntakerhomme kulkevat nykyään nimellä WEEMOVE. Voit tutustua kerhoihin tarkemmin [weemove.fi](https://weemove.fi/)
 
 ---
 
