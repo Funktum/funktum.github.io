@@ -12,34 +12,12 @@ hero_title: Palvelut
 ---
 
 
-## Funktum liikuntakerhot
 
-![Hyppy.jpg]({{site.baseurl}}/media/LapsetJump2.jpg)
+## Liikuntakerhot
 
+Järjestämme monipuolisia liikuntakerhoja lapsille Uudellamaalla. Kerhomme toteutuvat koulujen liikuntatiloissa. Teemme myös yhteistyötä koulujen kanssa, jolloin järjestämme koulupäivän jälkeen liikuntakerhoja koulun oppilaille. 
 
-Kerhotoiminnallamme pyrimme antamaan lapsille positiivisen kokemuksen liikunnasta. Uskomme että voimme vaikuttaa lapsen suhtautumiseen liikuntaan ja parhaassa tapauksessa positiivinen asennoituminen kantaa aikuisikään asti. Haluamme myös luoda jokaiselle osallistujalle yhteenkuuluvuuden tunteen.
-
-#### Parkour
-
-Parkour on hyvä ja monipuolinen laji. Parkourkerho tuo lapselle uusia motorisia taitoja, parantaa oman kehon hahmotusta ja edistää ketteryyttä. Laji toimii hyvänä oheisharrastuksena monelle muulle lajille monipuolisten liikeratojen ansiosta.
-
-#### Pallokerho
-
-Pallokerhossa lapset pääsevät kokeilemaan erilaisia pelejä. Haluamme antaa osallistujille mahdollisuuden kokeilla erilaisia, epätavallisempia maila- ja pallopelejä. Parina esimerkkinä: kin-ballin, speedmintonin ja kaupunkitaistelu.
-
-#### Tanssikerho
-
-Tanssikerhossa tanssitaan hip-hopin, popin ja showtanssin tahdissa. Tanssikerhossa pidetään hauskaa ja liikutaan monipuolisesti musiikin tahdissa.
-
-#### Sirkuskerho
-
-Sirkuskerhossa lapset pääsevät kokeilemaan yleisimpiä sirkustaiteilun muotoja, kuten akrobatiaa, jonglöörausta, yksipyöräisellä pyöräilemistä ja diabolon pyörittämistä.
-
-#### Kuntosalin perusteet
-
-Tämä liikuntakurssi on tarkoitettu 9-luokkalaisille ja lukiolaisille/ammattikoululaisille. Kurssin aikana harjoittelemme kuntosaliharjoittelun perusliikkeitä ja treeniohjelman laatimista.
- <div> {% include button.html url="/liikuntakerhot/" text="Tutustu kerhoihin tarkemmin" %} 
- {% include button.html email=site.sampsa.email style="outline" %} </div>
+Liikuntakerhomme kulkevat nykyään nimellä WEEMOVE. Voit tutustua kerhoihin tarkemmin täältä: [weemove.fi](https://weemove.fi/)
 
 ---
 
