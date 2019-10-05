@@ -9,7 +9,7 @@ title: Aikuisten liikuntapalvelut
 
 Personal Training palvelu on tarkoitettu sinulle, joka haluat päästä harjoittelussa seuraavalle tasolle.
 
-{% include button.html url="http://www.funktum.fi/personaltraining/" text="Tutustu!" %}
+{% include button.html url="http://www.funktum.fi/personaltraining/" text="Lue lisää" %}
 
 ---
 
