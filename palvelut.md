@@ -11,7 +11,7 @@ hero_title: Palvelut
 
 ---
 
-## Lapsille
+## Lapset
 
 Järjestämme innostavia liikuntakerhoja 6-12-vuotiaille seikkailijoille. Kerhotoimintamme kulkee nimellä WEEMOVE. Tutustu kerhovalikoimaamme ja löydä lähin kerho!
 
@@ -19,7 +19,7 @@ Järjestämme innostavia liikuntakerhoja 6-12-vuotiaille seikkailijoille. Kerhot
 
 ---
 
-## Aikuisille 
+## Aikuiset
 
 Sinulle tarjoamme henkilökohtaista valmennusta ja liikunta-aiheisia kursseja. Tutustu palveluihin ja päivitä itsesi seuraavalle tasolle!
 
