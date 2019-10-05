@@ -21,7 +21,7 @@ Järjestämme innostavia liikuntakerhoja 6-12-vuotiaille seikkailijoille. Kerhot
 
 ## Aikuiset
 
-Sinulle tarjoamme henkilökohtaista valmennusta ja liikunta-aiheisia kursseja. Tutustu palveluihin ja päivitä itsesi seuraavalle tasolle!
+Tarjoamme sinulle henkilökohtaista valmennusta ja liikunta-aiheisia kursseja. Tutustu palveluihin ja päivitä itsesi seuraavalle tasolle!
 
 {% include button.html url="http://www.funktum.fi/aikuiset/" text="Tutustu!" %}
 
