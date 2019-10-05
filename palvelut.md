@@ -23,7 +23,7 @@ Liikuntakerhomme kulkevat nykyään nimellä WEEMOVE. Voit tutustua kerhoihin ta
 
 ## Personal Training -palvelut
 
-Personal Training palvelu on tarkoitettu sinulle, joka haluat päästä harjoittelussa seuraavalle tasolle. Laadimme tavoitteenmukaiset treeniohjelmat ja tarjoamme myös tukea ruokatottumuksiin ja palautumiseen. Teemme parhaamme jotta pääset tavoitteisiisi!
+Personal Training palvelu on tarkoitettu sinulle, joka haluat päästä harjoittelussa seuraavalle tasolle. Laadimme tavoitteenmukaiset treeniohjelmat ja tarjoamme myös tukea ruokatottumuksiin ja palautumiseen. Teemme parhaamme jotta saavuttaisit tavoitteesi!
 
 Emme myy suuria pakettaja joista ei pääse eroon jos palvelu ei ollutkaan sitä mitä kuvittelit. PT-palvelumme ovat toistaiseksi voimassa olevia, jolloin voit irtisanoa sopimuksen milloin vain kuukauden irtisanomisajalla. Tämä on mielestämme reilumpi diili. Jotta voisimme palvella vielä paremmin, tarjoamme ensimmäisen tapaamisen ilmaiseksi. 
 
