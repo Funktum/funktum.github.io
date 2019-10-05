@@ -47,4 +47,3 @@ Tule nauttimaan liikunnan ilosta kanssamme! Tarjoamme liikuntapalveluja lapsille
 
 ---
 
-{% include button.html url="/meidan-tarina" text="Lue meidän tarina" style="outline" %}
