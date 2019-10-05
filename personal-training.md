@@ -2,6 +2,9 @@
 layout: page
 permalink: /personaltraining/
 title: Personal Training
+hero_image: /media/Aikuisten liikuntapalvelut.jpg
+hero_text: Personal Training 
+hero_title: Personal Training
 ---
 
 Laadimme tavoitteenmukaiset treeniohjelmat ja tarjoamme myös tukea ruokatottumuksiin ja palautumiseen. 
