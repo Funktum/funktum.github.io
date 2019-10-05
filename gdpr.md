@@ -4,12 +4,12 @@ permalink: /gdpr/
 title: Rekisteri- ja tietosuojaseloste
 ---
 
-Tämä on Tmi Funktum:in henkilötietolain (10 ja 24§) ja EU:n yleisen tietosuoja-asetuksen (GDPR) mukainen
-rekisteri- ja tietosuojaseloste. Laadittu 15.5.2018. Viimeisin muutos 15.5.2018.
+Tämä on Funktum Oy:n henkilötietolain (10 ja 24§) ja EU:n yleisen tietosuoja-asetuksen (GDPR) mukainen
+rekisteri- ja tietosuojaseloste. Laadittu 15.5.2018. Viimeisin muutos 5.9.2019.
 
 #### 1. Rekisterinpitäjä
 
-Funktum, Unikkotie 3 E 76, 00720 Helsinki
+Funktum Oy, Unikkotie 3 E 76, 00720 Helsinki
 
 #### 2. Rekisteristä vastaava yhteyshenkilö
 
