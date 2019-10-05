@@ -41,8 +41,6 @@ Tule nauttimaan liikunnan ilosta kanssamme! Tarjoamme liikuntapalveluja lapsille
 
 ## Yhteystiedot
 
-Funktum on pääkaupunkiseudulla toimiva liikunta-alan yritys joka keskittyy lasten ja nuorten liikuntapalveluihin sekä henkilökohtaiseen valmennukseen. Tavoitteemme on auttaa mahdollisimman montaa ihmistä voimaan paremmin.
-
 {% include contact_details.html person="sampsa" %}
 {% include contact_details.html person="linnea" %}
 {% include contact_details.html person="tommy" %}
