@@ -17,6 +17,7 @@ Järjestämme innostavia liikuntakerhoja 6-12-vuotiaille seikkailijoille. Kerhot
 
 {% include button.html url="https://weemove.fi" text="Tutustu!" %}
 
+---
 
 ## Aikuisille 
 
@@ -24,6 +25,7 @@ Sinulle tarjoamme henkilökohtaista valmennusta ja liikunta-aiheisia kursseja. T
 
 {% include button.html url="http://www.funktum.fi/aikuiset/" text="Tutustu!" %}
 
+---
 
 ## Seniorit
 
