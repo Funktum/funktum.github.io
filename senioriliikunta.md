@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /seniorit/
-title: Seniortiliikunta
+title: Senioriliikunta
 ---
 
 _Kursseja ei tällä hetkellä saatavilla._
