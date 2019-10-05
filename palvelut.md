@@ -23,18 +23,19 @@ Liikuntakerhomme kulkevat nykyään nimellä WEEMOVE. Voit tutustua kerhoihin ta
 
 ## Personal Training -palvelut
 
-Personal Training palvelu on tarkoitettu sinulle, joka haluat päästä harjoittelussa seuraavalle tasolle. Laadimme tavoitteenmukaiset treeniohjelmat, tarkistamme ruokatottumuksesi ja seuraamme palautumistasi. Olipa tavoitteesi sitten painonpudotus, kunnon kohotus tai liikkuvuuden lisääminen, me autamme mielellämme. Lue lisää: [Tapojen muuttaminen](http://www.funktum.fi/blog/2017/06/06/Tapojen-muuttaminen/)
+Personal Training palvelu on tarkoitettu sinulle, joka haluat päästä harjoittelussa seuraavalle tasolle. Laadimme tavoitteenmukaiset treeniohjelmat ja tarjoamme myös tukea ruokatottumuksiin ja palautumiseen. Teemme parhaamme jotta pääset tavoitteisiisi!
+
+Emme myy suuria pakettaja joista ei pääse eroon jos palvelu ei ollutkaan sitä mitä kuvittelit. PT-palvelumme ovat toistaiseksi voimassa olevia, jolloin voit irtisanoa sopimuksen milloin vain kuukauden irtisanomisajalla. Tämä on mielestämme reilumpi diili. Jotta voisimme palvella vielä paremmin, tarjoamme ensimmäisen tapaamisen ilmaiseksi. 
 
 | Tuote                     | Hinta               |
 | ------------------------- | ------------------- |
-| 1 tapaaminen              | 90,00 €             |
-| 5 tapaamista              | 400,00 €            |
-| 10 tapaamista             | 700,00 €            |
-| 20 tapaamista             | 1350,00 €           |
-| 30 tapaamista             | 1950,00 €           |
-| 50 tapaamista             | 3000,00 €           |
+| 1 tapaaminen/viikko       | 198,00 €/kk         |
+| 2 tapaamista/viikko       | 391,00 €/kk         |
+| 3 tapaamista/viikko       | 584,00 €/kk         |
 
-_Kaikkiin 5-50 tapaamisen paketteihin sisältyy treeniohjelma(t), jaksotus, ravintoneuvonta ja treenin seuranta._
+
+
+Ota rohkeasti yhteyttä ja varaa ilmainen ensitapaamisen Personal Trainerin kanssa!
 
 {% include button.html email=site.sampsa.email style="outline" %}
 
