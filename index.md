@@ -24,19 +24,19 @@ Tule nauttimaan liikunnan ilosta kanssamme! Tarjoamme liikuntapalveluja lapsille
 {% include button.html url="/blog" text="Kaikki blogikirjoitukset" %}
 
 ---
-
+<!--
 ## Asiakaskokemuksia
-
+--
 #### [Mari N](/asiakaskokemukset/)
-
+--
 >Halusin itselleni salikaveriksi Personal Trainerin, koska olin kärsinyt selkäkivuista sekä niska-hartiaseudun kivuista pitkään. Kävin kyllä kuntosalilla ja liikuin muutenkin, mutta epäilin, että teen jotain väärin, kun vaivat eivät lähde ja tuntui, että harjoittelu ei etene.
-
+--
 #### [Jaana H](/asiakaskokemukset/#jaana-h)
-
+--
 >Funktumin Sampsan kanssa treeni Aviapoliksen Fressissä on joka kerta sekä piristävää, motivoivaa, haasteellista että hauskaa. Sampsan ohjeiden mukaan olen pitkälti päässyt “irti laitteista”. Olemme keskittyneet käsilläseisontaan, leuanvetoihin ja erilaisiin oman kehon painoa ja vastusta hyödyntäviin - ja kehon kuuntelua edellyttäviin - harjoituksiin.
-
-{% include button.html url="/asiakaskokemukset/" text="Kaikki asiakaskokemukset" %}
-
+--
+{% include button.html url="/asiakaskokemukset/" text="Kaikki asiakaskokemukset" %} 
+-->
 ---
 
 ## Yhteystiedot
