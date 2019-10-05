@@ -11,35 +11,26 @@ hero_title: Palvelut
 
 ---
 
+## Lapsille
+
+Järjestämme innostavia liikuntakerhoja 6-12-vuotiaille seikkailijoille. Kerhotoimintamme kulkee nimellä WEEMOVE. Tutustu kerhovalikoimaamme ja löydä lähin kerho!
+
+{% include button.html url="https://weemove.fi" text="Tutustu!" %}
 
 
-## Liikuntakerhot
+## Aikuisille 
 
-Järjestämme monipuolisia liikuntakerhoja lapsille Uudellamaalla. Kerhomme toteutuvat koulujen liikuntatiloissa. Teemme myös yhteistyötä koulujen kanssa, jolloin järjestämme koulupäivän jälkeen liikuntakerhoja koulun oppilaille. 
+Sinulle tarjoamme henkilökohtaista valmennusta ja liikunta-aiheisia kursseja. Tutustu palveluihin ja päivitä itsesi seuraavalle tasolle!
 
-Liikuntakerhomme kulkevat nykyään nimellä WEEMOVE. Voit tutustua kerhoihin tarkemmin [weemove.fi](https://weemove.fi/) -sivulta.
-
----
-
-## Personal Training -palvelut
-
-Personal Training palvelu on tarkoitettu sinulle, joka haluat päästä harjoittelussa seuraavalle tasolle. Laadimme tavoitteenmukaiset treeniohjelmat ja tarjoamme myös tukea ruokatottumuksiin ja palautumiseen. Teemme parhaamme jotta saavuttaisit tavoitteesi!
-
-Emme myy suuria pakettaja joista ei pääse eroon mikäli palvelu ei ollutkaan sitä mitä kuvittelit. PT-palvelumme ovat toistaiseksi voimassa olevia, jolloin voit irtisanoa sopimuksen milloin vain kuukauden irtisanomisajalla. Tarjoamme lisäksi ensimmäisen tapaamisen ilmaiseksi. Reilua eikö?
-
-| Tuote                     | Hinta               |
-| ------------------------- | ------------------- |
-| 1 tapaaminen/viikko       | 198,00 €/kk         |
-| 2 tapaamista/viikko       | 391,00 €/kk         |
-| 3 tapaamista/viikko       | 584,00 €/kk         |
+{% include button.html url="http://www.funktum.fi/aikuiset/" text="Tutustu!" %}
 
 
-Ota rohkeasti yhteyttä ja varaa ilmainen ensitapaamisen Personal Trainerin kanssa!
+## Seniorit
 
-{% include button.html email=site.sampsa.email style="outline" %}
+Haluamme olla mukana auttamassa sinua pysymään aktiivisena ja virkeänä. Tule mukaan valitsemaasi liikuntaryhmään reippailemaan ja samalla tutustumaan uusiin ihmisiin. 
+
+{% include button.html url="http://www.funktum.fi/seniorit/" text="Tutustu!" %}
 
 ---
 
-## Yhteystiedot
 
-{% include contact_details.html person="sampsa" %}
