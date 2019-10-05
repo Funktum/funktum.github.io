@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /personaltraining/
-title: Personal Training
+title: 
 hero_image: /media/Aikuisten liikuntapalvelut.jpg
-hero_text: Personal Training 
+hero_text: Saavuta tavoitteesi henkilökohtaisen valmennuksen avulla!
 hero_title: Personal Training
 ---
 
