@@ -16,7 +16,7 @@ Emme myy suuria pakettaja joista ei pääse eroon mikäli palvelu ei ollutkaan s
 toistaiseksi voimassa olevia, jolloin voit irtisanoa sopimuksen milloin vain kuukauden irtisanomisajalla. 
 Tarjoamme lisäksi ensimmäisen tapaamisen ilmaiseksi. 
 
-Toimimme (Töölön kisahallissa)[https://goo.gl/maps/Z91HcxF5YKUkpJZq7] sekä (Liikuntamyllyssä)[https://goo.gl/maps/LRiaWFMaah6RmTKG7].
+Toimimme [Töölön kisahallissa](https://goo.gl/maps/Z91HcxF5YKUkpJZq7) sekä [Liikuntamyllyssä](https://goo.gl/maps/LRiaWFMaah6RmTKG7).
 
 ---
 
