@@ -25,7 +25,7 @@ Toimimme Töölön kisahallissa sekä Liikuntamyllyssä.
 > Mikäli haluat:
 > - Sparrausta omaan treeniin
 > - Treenin säännöllisyydestä huolehtimista
-> - Simppelin ja toimivan treeniohjelman tehty sinulle
+> - Simppelin ja toimivan treeniohjelman suunniteltu sinulle
 
 | Tuote                     | Hinta               |
 | ------------------------- | ------------------- |
