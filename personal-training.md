@@ -51,7 +51,7 @@ Toimimme Töölön kisahallissa sekä Liikuntamyllyssä.
 ---
 
 Kiinnostuitko? Toimi näin:
-- Lähetä sähköposti osoitteeseen sampsa@funktum.fi
+- Lähetä sähköposti osoitteeseen <sampsa@funktum.fi>(sampsa@funktum.fi)
 - Kerro mistä palvelusta olet kiinnostuntu (Trainer tai Personal Trainer)
 - Lisää yhteystietosi ja mahdolliset lisätiedot
 - Me olemme sinuun yhteydessä!
