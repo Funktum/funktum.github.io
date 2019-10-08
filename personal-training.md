@@ -20,10 +20,10 @@ Tarjoamme lisäksi ensimmäisen tapaamisen ilmaiseksi.
 
 ### Trainer
 
-Mikäli haluat:
-- Sparrausta omaan treeniin
-- Treenin säännöllisyydestä huolehtimista
-- Simppelin ja toimivan treeniohjelman tehty sinulle
+> Mikäli haluat:
+> - Sparrausta omaan treeniin
+> - Treenin säännöllisyydestä huolehtimista
+> - Simppelin ja toimivan treeniohjelman tehty sinulle
 
 | Tuote                     | Hinta               |
 | ------------------------- | ------------------- |
