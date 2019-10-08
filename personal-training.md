@@ -29,9 +29,10 @@ Toimimme [Töölön kisahallissa](https://goo.gl/maps/Z91HcxF5YKUkpJZq7) sekä [
 
 | Tuote                     | Hinta               |
 | ------------------------- | ------------------- |
-| 1 tapaaminen/viikko       | 208,00 €/kk         |
-| 2 tapaamista/viikko       | 408,00 €/kk         |
-| 3 tapaamista/viikko       | 594,00 €/kk         |
+| 2 tapaamista/kk           | 108,00 €/kk         |
+| 4 tapaamista/kk           | 208,00 €/kk         |
+| 8 tapaamista/kk           | 408,00 €/kk         |
+| 12 tapaamista/kk          | 594,00 €/kk         |
 
 ---
 
@@ -44,9 +45,10 @@ Toimimme [Töölön kisahallissa](https://goo.gl/maps/Z91HcxF5YKUkpJZq7) sekä [
 
 | Tuote                     | Hinta               |
 | ------------------------- | ------------------- |
-| 1 tapaaminen/viikko       | 300,00 €/kk         |
-| 2 tapaamista/viikko       | 560,00 €/kk         |
-| 3 tapaamista/viikko       | 780,00 €/kk         |
+| 2 tapaamista/kk           | 157,00 €/kk         |
+| 4 tapaamista/kk           | 300,00 €/kk         |
+| 8 tapaamista/kk           | 560,00 €/kk         |
+| 12 tapaamista/kk          | 780,00 €/kk         |
 
 ---
 
