@@ -16,6 +16,8 @@ Emme myy suuria pakettaja joista ei pääse eroon mikäli palvelu ei ollutkaan s
 toistaiseksi voimassa olevia, jolloin voit irtisanoa sopimuksen milloin vain kuukauden irtisanomisajalla. 
 Tarjoamme lisäksi ensimmäisen tapaamisen ilmaiseksi. 
 
+Toimimme Töölön kisahallissa sekä Liikuntamyllyssä.
+
 ---
 
 ### Trainer
@@ -48,7 +50,11 @@ Tarjoamme lisäksi ensimmäisen tapaamisen ilmaiseksi.
 
 ---
 
+Kiinnostuitko? Toimi näin:
+- Lähetä sähköposti osoitteeseen sampsa@funktum.fi
+- Kerro mistä palvelusta olet kiinnostuntu (Trainer tai Personal Trainer)
+- Lisää yhteystietosi ja mahdolliset lisätiedot
+- Me olemme sinuun yhteydessä!
 
-Ota rohkeasti yhteyttä ja varaa ilmainen ensitapaamisen Trainerin tai Personal Trainerin kanssa!
 
-{% include button.html email=site.sampsa.email style="outline" %}
+
