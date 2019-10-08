@@ -16,6 +16,8 @@ Emme myy suuria pakettaja joista ei pääse eroon mikäli palvelu ei ollutkaan s
 toistaiseksi voimassa olevia, jolloin voit irtisanoa sopimuksen milloin vain kuukauden irtisanomisajalla. 
 Tarjoamme lisäksi ensimmäisen tapaamisen ilmaiseksi. 
 
+---
+
 ### Trainer
 
 Mikäli haluat:
@@ -43,6 +45,8 @@ Mikäli haluat:
 | 1 tapaaminen/viikko       | 300,00 €/kk         |
 | 2 tapaamista/viikko       | 560,00 €/kk         |
 | 3 tapaamista/viikko       | 780,00 €/kk         |
+
+---
 
 
 Ota rohkeasti yhteyttä ja varaa ilmainen ensitapaamisen Trainerin tai Personal Trainerin kanssa!
