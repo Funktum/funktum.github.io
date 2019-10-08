@@ -22,7 +22,7 @@ Tarjoamme lisäksi ensimmäisen tapaamisen ilmaiseksi.
 
 Mikäli haluat:
 - Sparrausta omaan treeniin
-- Treenin säännöllisyydestä huolehtiminen
+- Treenin säännöllisyydestä huolehtimista
 - Simppelin ja toimivan treeniohjelman tehty sinulle
 
 | Tuote                     | Hinta               |
