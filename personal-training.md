@@ -35,16 +35,16 @@ Tarjoamme lisäksi ensimmäisen tapaamisen ilmaiseksi.
 
 ### Personal Trainer
 
-Mikäli haluat:
-- Ravintoneuvontaa
-- Tukea tapojen muuttamiseen
-- Tarkasti suunnitellun treeniohjelman juuri sinua varten
+> Mikäli haluat:
+> - Ravintoneuvontaa
+> - Tukea tapojen muuttamiseen
+> - Tarkasti suunnitellun treeniohjelman juuri sinua varten
 
-> | Tuote                     | Hinta               |
-> | ------------------------- | ------------------- |
-> | 1 tapaaminen/viikko       | 300,00 €/kk         |
-> | 2 tapaamista/viikko       | 560,00 €/kk         |
-> | 3 tapaamista/viikko       | 780,00 €/kk         |
+| Tuote                     | Hinta               |
+| ------------------------- | ------------------- |
+| 1 tapaaminen/viikko       | 300,00 €/kk         |
+| 2 tapaamista/viikko       | 560,00 €/kk         |
+| 3 tapaamista/viikko       | 780,00 €/kk         |
 
 ---
 
