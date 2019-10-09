@@ -14,7 +14,7 @@ Järjestämme senioreille tarkoitettuja pienryhmä-jumppia Töölön kisahallill
 | Pienryhmä jumppa          | Torstai, 16.1.2020, klo 11-12  |
 
 
-_Ilmoittautuminen ei vielä ole auki._
+_Ilmoittautuminen ei ole vielä auki._
 
 
 
