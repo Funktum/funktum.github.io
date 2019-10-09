@@ -10,7 +10,7 @@ hero_title: Personal Training
 Laadimme tavoitteenmukaiset treeniohjelmat ja tarjoamme myös tukea ruokatottumuksiin ja palautumiseen. 
 Teemme parhaamme jotta saavuttaisit tavoitteesi!
 
-Meillä on kaksi eri hinnastoa: Trainer hinnasto sekä Personal Trainer hinnasto. Trainerina toimii koulutettu liikuntaohjaaja tai liikuntaneuvoja. Personal Trainerina toimii lisensoitu Personal Trainer jolla syvempi osaaminen henkilökohtaisesta valmentamisesta. 
+Meillä on kaksi eri hinnastoa: Trainer hinnasto sekä Personal Trainer hinnasto. Trainerina toimii koulutettu liikuntaohjaaja tai liikuntaneuvoja. Personal Trainerina toimii lisensoitu Personal Trainer jolla on syvempi osaaminen henkilökohtaisesta valmentamisesta. 
 
 Emme myy suuria pakettaja joista ei pääse eroon, mikäli palvelu ei ollutkaan sitä mitä kuvittelit. Palvelumme ovat 
 toistaiseksi voimassa olevia, jolloin voit irtisanoa sopimuksen milloin vain kuukauden irtisanomisajalla. 
