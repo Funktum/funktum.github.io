@@ -22,7 +22,7 @@ Palvelu koostuu 45 minuutin jumppa-osuudesta jonka jälkeen 15 minuuttia käytet
 
 #### Mitä jumpassa tehdään?
 
-Jumppa alkaa kevyellä alkulämmittelyllä. Tämän jälkeen tehdään turvallisia, oman kehonpainon harjoitteita jotka sopivat juuri sinulle. Kehonpainoharjoittelun lisäksi käytämme kuminauhoja jotka vahvistavat tukielimistöä. Lopuksi kevyt venyttely joka pitää kehon notkeana ja liikkuvana. Suunnittelemme jumpan aina tapauskohtaisesti. 
+Jumppa alkaa kevyellä alkulämmittelyllä. Tämän jälkeen tehdään turvallisia, oman kehonpainon harjoitteita jotka sopivat juuri sinulle. Kehonpainoharjoittelun lisäksi käytämme kuminauhoja jotka vahvistavat tukielimistöä. Lopuksi kevyt venyttely joka pitää kehon notkeana ja virkeänä. Suunnittelemme jumpan aina tapauskohtaisesti. 
 
 #### Miksi juuri meidän palvelu?
 
