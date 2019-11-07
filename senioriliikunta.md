@@ -17,8 +17,8 @@ Palvelu koostuu 45 minuutin jumppa-osuudesta jonka jälkeen 15 minuuttia käytet
 #### Palvelu sopii sinulle jos:
 
 - Haluat pitää huolta fyysisestä kunnostasi muttet ole varma siitä mikä on paras tapa
-- Jos haluaisit jumpata mutta olet epävarma ja tarvitset tukea
-- Tai jos haluat hyvää seuraa ja iloa viikkoon
+- Haluaisit jumpata mutta olet epävarma ja tarvitset tukea
+- Haluat hyvää seuraa ja iloa viikkoon
 
 #### Mitä jumpassa tehdään?
 
