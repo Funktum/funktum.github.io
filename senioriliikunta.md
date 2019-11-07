@@ -26,7 +26,7 @@ Jumppa alkaa kevyellä alkulämmittelyllä. Tämän jälkeen tehdään turvallis
 
 #### Miksi juuri meidän palvelu?
 
-Olemme luotettavia ja pyrimme aina antamaan kaikkemme asiakkaan auttamiseen. Ohjaajamme ovat koulutettuja liikunnan-alan ihmisiä joilla on runsaasti kokemusta ihmisten liikuttamisesta. Me olemme jotta sinä voisit paremmin!
+Olemme luotettavia ja pyrimme aina antamaan kaikkemme asiakkaan auttamiseen. Ohjaajamme ovat koulutettuja liikunnan-alan ihmisiä joilla on runsaasti kokemusta ihmisten liikuttamisesta. Me olemme jotta sinä voisit mahdollisimman hyvin!
 
 
 
