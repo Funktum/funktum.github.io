@@ -1,11 +1,11 @@
 ---
 layout: page
 permalink: /seniorit/
-title: Senioriliikunta
+title: Kotijumppa
 ---
 
 
-### Kotijumppa
+
 
 Tarvitsetko tukea liikunnallisempaan arkeen, fysioterapeutin antaman treeniohelman harjoitteiden kanssa tai seuraa ja hyvää mieltä? Funktumin kotijumppa tarjoaa tähän ratkaisun. Tulemme luoksesi jolloin sinun ei tarvitse lähteä erikseen kuntosalille ja pidämme huolen siitä, että jumppa on juuri sinulle sopiva. Samalla hoituuu kodin pikku jutut joissa saatat tarvita apua kuten raskaan esineen nostaminen hyllylle.
 
