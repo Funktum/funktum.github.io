@@ -3,27 +3,33 @@ is_index: true
 layout: default
 title: Etusivu
 hero_image: /assets/img/hero-3.jpg
-hero_title: Funktum on liikunta-alan yritys ja ihmisten auttaminen on meille tärkeää
-hero_text: Parannamme elämänlaatuasi liikunnan ja hyvinvoinnin avulla
+hero_title: Doing serious stuff in a nonserious way
+hero_text: There's enough serious things in life anyway...
 hero_buttons: true
 weight: 0
 ---
 
-## Palvelut
+## In a nutshell 
 
-Tule nauttimaan liikunnan ilosta kanssamme! Tarjoamme liikuntapalveluja lapsille, aikuisille ja senioreille. Tutustu monipuoliseen tarjontaamme.
+Funktum, you never heard of us? No? That's wierd. We are a Finnish company just trying to make it in the sports industry and we think there is a problem. The way social media promotes wellbeing is actually driving us further away from it. Paradoxal right? Our goal is to do serious stuff (take care of wellbeing) in a nonserious way (look past the expectations set by media).
 
-{% include button.html url="/palvelut" text="Tutustu palveluihimme" %}
+Because life is so much more than just looks and fat percentage, don't you think?
 
 ---
 
-## Uusimmat blogikirjoitukset
+## Our awesome product
+
+Our not so serious product for companies offers a fun and easy way to add some awesomness in your employees daily hassle. We understand that we cant make everyone love awesomness (meaning exercise BTW), but we will still challenge you (sorry!). By using a holistic approach, our product includes physical activity, teambuilding and brain exercises (BOOM!). We customise our products according to your company's needs and to make all this even better, we offer a free trial of our product for you and your team. It wont be a waste of time, we promise. 
+
+---
+
+## Fresh blog posts
 
 {% include latest_blog_posts.html %}
 
-{% include button.html url="/blog" text="Kaikki blogikirjoitukset" %}
+{% include button.html url="/blog" text="Blogi" %}
 
----
+
 <!--
 ## Asiakaskokemuksia
 --
@@ -39,7 +45,7 @@ Tule nauttimaan liikunnan ilosta kanssamme! Tarjoamme liikuntapalveluja lapsille
 -->
 ---
 
-## Yhteystiedot
+## Contact
 
 {% include contact_details.html person="sampsa" %}
 {% include contact_details.html person="linnea" %}
