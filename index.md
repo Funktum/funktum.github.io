@@ -52,7 +52,6 @@ There is many ways to contact us. You can try to find us somewhere in Helsinki (
 
 {% include contact_details.html person="sampsa" %}
 {% include contact_details.html person="linnea" %}
-{% include contact_details.html person="tommy" %}
 
 ---
 
