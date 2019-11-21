@@ -4,7 +4,7 @@ layout: default
 title: Home
 hero_image: /assets/img/hero-3.jpg
 hero_title: Doing serious stuff in a nonserious way
-hero_text: There's enough serious things in life anyway...
+hero_text: There are enough serious things in life anyway...
 hero_buttons: false
 weight: 0
 ---
