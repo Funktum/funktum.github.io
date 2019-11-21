@@ -1,7 +1,7 @@
 ---
 is_index: true
 layout: default
-title: Etusivu
+title: Home
 hero_image: /assets/img/hero-3.jpg
 hero_title: Doing serious stuff in a nonserious way
 hero_text: There's enough serious things in life anyway...
