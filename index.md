@@ -22,13 +22,14 @@ Because life is so much more than just looks and fat percentage, don't you think
 Our not so serious product for companies offers a fun and easy way to add some awesomness in your employees daily hassle. We understand that we cant make everyone love awesomness (meaning exercise BTW), but we will still challenge you (sorry!). By using a holistic approach, our product includes physical activity, teambuilding and brain exercises (BOOM!). We customise our products according to your company's needs and to make all this even better, we offer a free trial of our product for you and your team. It wont be a waste of time, we promise. 
 
 ---
-
+<!--
 ## Fresh blog posts
 
 {% include latest_blog_posts.html %}
 
 {% include button.html url="/blog" text="Blogi" %}
 
+--> 
 
 <!--
 ## Asiakaskokemuksia
