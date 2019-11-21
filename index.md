@@ -9,15 +9,15 @@ hero_buttons: false
 weight: 0
 ---
 
-## In a nutshell 
+# Funktum in a nutshell 
 
-Funktum, you never heard of us? No? That's wierd. We are a Finnish company just trying to make it in the sports industry and we think there is a problem. The way social media promotes wellbeing is actually driving us further away from it. Paradoxal right? Our goal is to do serious stuff (take care of wellbeing) in a nonserious way (look past the expectations set by media).
+We are a Finnish company just trying to make it in the sports industry and we think there is a problem. The way social media promotes wellbeing is actually driving us further away from it. Paradoxal right? Our goal is to do serious stuff (take care of wellbeing) in a nonserious way (look past the expectations set by media).
 
-Because life is so much more than just looks and fat percentage, don't you think?
+Because life is so much more than just looks and low fat percentage, don't you think?
 
 ---
 
-## Our awesome product
+# Our not so serious product for serious people
 
 Our not so serious product for companies offers a fun and easy way to add some awesomness in your employees daily hassle. We understand that we cant make everyone love awesomness (meaning exercise BTW), but we will still challenge you (sorry!). By using a holistic approach, our product includes physical activity, teambuilding and brain exercises (BOOM!). We customise our products according to your company's needs and to make all this even better, we offer a free trial of our product for you and your team. It wont be a waste of time, we promise. 
 
