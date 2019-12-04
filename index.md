@@ -8,7 +8,7 @@ hero_text: There are enough serious things in life anyway...
 hero_buttons: false
 weight: 0
 ---
-
+<!--
 # Funktum in a nutshell 
 
 We are a Finnish company just trying to make it in the sports industry and we think there is a problem. The way social media promotes wellbeing is actually driving us further away from it. Paradoxal right? Our goal is to do serious stuff (take care of wellbeing) in a nonserious way (look past the expectations set by media).
@@ -22,6 +22,8 @@ Because life is so much more than just looks and low fat percentage, don't you t
 Our not so serious product for companies offers a fun and easy way to add some awesomeness in your employees daily hassle. We understand that we can't make everyone love awesomeness (meaning exercise BTW), but we will do our best to make it fun...or at least tolerable. By using a holistic approach, our product includes physical activity, teambuilding and brain exercises (BOOM!). We customise our products according to your company's needs and to make all this even better, we offer a free trial of our product for you and your team. It wont be a waste of time, we promise. 
 
 There is many ways to contact us. You can try to find us somewhere in Helsinki (where we spend most of our time), or you can just call us. E-mail is one great alternative also! And don't worry we speak fluent Finnish (and Swedish for all you Finnish Swedish friends out there). You can find the contact information down below.
+
+-->
 
 ---
 <!--
