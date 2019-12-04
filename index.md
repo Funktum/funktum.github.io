@@ -3,8 +3,8 @@ is_index: true
 layout: default
 title: Home
 hero_image: /assets/img/hero-3.jpg
-hero_title: Doing serious stuff in a nonserious way
-hero_text: There are enough serious things in life anyway...
+hero_title: Site is under maintenance
+hero_text: We are working on it...
 hero_buttons: false
 weight: 0
 ---
