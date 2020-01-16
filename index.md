@@ -9,15 +9,13 @@ hero_buttons: false
 weight: 0
 ---
 
-# 
-
 {% include latest_blog_posts.html %}
 
 {% include button.html url="/blog" text="Blogi" %}
 
 
 
-## Contact
+## Yhteystiedot
 
 {% include contact_details.html person="sampsa" %}
 {% include contact_details.html person="linnea" %}
