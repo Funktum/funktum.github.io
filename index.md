@@ -14,6 +14,11 @@ Kehon hyvinvointi on työn mielekkyyden ja työtehokkuuden kannalta tärkeää. 
 
 <img src="../media/businesswomen.jpg" alt="women working">
 
+
+
+
+## Uusimmat blogikirjoitukset
+
 {% include latest_blog_posts.html %}
 
 {% include button.html url="/blog" text="Blogi" %}
