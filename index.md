@@ -16,7 +16,7 @@ Kehon hyvinvointi on työn mielekkyyden ja työtehokkuuden kannalta tärkeää. 
 
 
 
-
+---
 ## Uusimmat blogikirjoitukset
 
 {% include latest_blog_posts.html %}
