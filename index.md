@@ -2,7 +2,7 @@
 is_index: true
 layout: default
 title: Home
-hero_image: /assets/img/hero-3.jpg
+hero_image: /assets/img/barista-hero.jpg
 hero_title: Tee työtä jota rakastat
 hero_text: Autamme sinua ja työkavereitasi pysymään kunnossa työn rasituksista huolimatta
 hero_buttons: false
